@@ -1,0 +1,8 @@
+# raster_config.yaml
+
+input_pdf: ./ingestion_files/1500.pdf         # Path to the input PDF
+output_dir: ./raster_output           # Base folder to write images
+dpi: 400                             # Dots-per-inch resolution for rendering
+engines:                              # List of engines to use
+  - pymupdf
+  - pdf2image

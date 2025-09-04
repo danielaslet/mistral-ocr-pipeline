@@ -1,0 +1,3234 @@
+{
+  "id": "be5fbcc8-5722-415a-a87d-5613e3ff1488",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "prebuilt-documentAnalyzer",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-07-14T17:08:30Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "# asolved Benefit Services\n\n\n## The iFlex App\n\nYou have your phone with you all the time. Why not use the iFlex\nApp to review your account information, take a photo of the receipt\nand submit the claim right away?\n\n\n### The iFlex App connects you with the details\n\n\u00b7 Quickly check available balances 24/7\n\n\u00b7 Access account details\n\n\u00b7 View charts summarizing account (s)\n\n\u00b7 Click to call or email Customer Service\n\n\n### Provides additional time-saving options\n\n\u00b7 View claims requiring receipts\n\n\u00b7 Submit medical FSA and HRA claims\n\n\u00b7 Take a picture of a receipt to submit for a claim\n\n\u00b7 View HSA transaction details\n\n\u00b7 Using Expense Tracker, enter medical expense information\nand support documentation to store for later use in paying\nclaims via your health benefits website\n\n\u00b7 Report a lost or stolen debit card\n\n\n### The iFlex App is easy, convenient and secure\n\nSimply login to the app using your same health benefits website\nusername and password (or follow alternative instructions if\nprovided to you)\n\n\n#### Follow these steps to download the iFlex App\n\n1\\. Visit the iTunes App Store or the Android Market to\ndownload the isolved app on your iphone, ipad or Android.\n\n2\\. Once installed, enter the Username and Password to log\ninto your account at www.isolvedbenefitservices.com\n\n\n<figure>\n</figure>\n\n\nBack\nEligible Expense Scanner\n\n\n<figure>\n\n\u2612\nEligible Item.\n\nSCAN ANOTHER ITEM\n\nCOPYRIGHT SIGIS\n\n</figure>\n\n\n<figure>\n\n000\nMore\n\nHome\nMessages\n\nMe\n\nDownload on the\nApp Store\n\nGET IT ON\nGoogle Play\n\n</figure>\n\n\nThe iFlex mobile app is available for free on\nGoogle Play and the App Store.\n\nTransforming employee experience for a better today and a better tomorrow.\n\n<!-- PageFooter=\"copyright 2020 . www.isolvedhcm.com\" -->\n\n\n<figure>\n\nsolved\n\n</figure>",
+        "fields": {
+          "Summary": {
+            "type": "string",
+            "valueString": "The document provides information about the iFlex App, a mobile application designed to help users manage their health benefit accounts. It highlights features such as checking balances, submitting claims, and accessing account details. The app is available for download on the iTunes App Store and Android Market, offering convenience and security for users to manage their health benefits on the go."
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "inch",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": -0.0036,
+            "width": 8.5,
+            "height": 11,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 1757
+              }
+            ],
+            "words": [
+              {
+                "content": "asolved",
+                "span": {
+                  "offset": 2,
+                  "length": 7
+                },
+                "confidence": 0.78,
+                "source": "D(1,0.5279,0.5273,2.4086,0.519,2.4055,0.9854,0.5269,0.9771)"
+              },
+              {
+                "content": "Benefit",
+                "span": {
+                  "offset": 10,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.536,0.5194,4.0345,0.5325,4.0304,0.9845,2.5328,0.9854)"
+              },
+              {
+                "content": "Services",
+                "span": {
+                  "offset": 18,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.1244,0.5331,5.8438,0.5459,5.8438,0.9853,4.1203,0.983)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 32,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6094,1.824,1.2005,1.8238,1.1988,2.1827,0.609,2.1751)"
+              },
+              {
+                "content": "iFlex",
+                "span": {
+                  "offset": 36,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2715,1.824,2.0695,1.8351,2.0655,2.2021,1.2697,2.1841)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 42,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.1463,1.8363,2.778,1.8483,2.778,2.2199,2.142,2.205)"
+              },
+              {
+                "content": "You",
+                "span": {
+                  "offset": 47,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.6128,2.3188,0.8214,2.3182,0.8209,2.4857,0.6123,2.484)"
+              },
+              {
+                "content": "have",
+                "span": {
+                  "offset": 51,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8544,2.3181,1.1509,2.3179,1.1507,2.4857,0.8539,2.4857)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 56,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1838,2.3179,1.4583,2.3185,1.458,2.4857,1.1836,2.4857)"
+              },
+              {
+                "content": "phone",
+                "span": {
+                  "offset": 61,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.4913,2.3184,1.8976,2.3185,1.8969,2.4857,1.4909,2.4857)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 67,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.9305,2.3188,2.2078,2.319,2.2069,2.4857,1.9298,2.4857)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 72,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.2435,2.3189,2.4686,2.318,2.4677,2.4857,2.2426,2.4857)"
+              },
+              {
+                "content": "all",
+                "span": {
+                  "offset": 76,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.5043,2.3179,2.6305,2.3176,2.6297,2.4856,2.5034,2.4857)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 80,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.6635,2.3176,2.8639,2.3179,2.863,2.4857,2.6627,2.4857)"
+              },
+              {
+                "content": "time.",
+                "span": {
+                  "offset": 84,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.8968,2.3179,3.2125,2.3182,3.2116,2.4857,2.896,2.4857)"
+              },
+              {
+                "content": "Why",
+                "span": {
+                  "offset": 90,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.2455,2.3182,3.5008,2.318,3.4998,2.4857,3.2445,2.4857)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 94,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.5337,2.318,3.7698,2.318,3.7688,2.4851,3.5327,2.4857)"
+              },
+              {
+                "content": "use",
+                "span": {
+                  "offset": 98,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.8028,2.318,4.0169,2.3178,4.016,2.4844,3.8018,2.485)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 102,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.0498,2.3177,4.2722,2.3167,4.2716,2.4837,4.0489,2.4843)"
+              },
+              {
+                "content": "iFlex",
+                "span": {
+                  "offset": 106,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3106,2.3165,4.5986,2.3178,4.5986,2.4814,4.31,2.4836)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 112,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.6129,2.4888,0.8445,2.4894,0.8445,2.6572,0.6127,2.6573)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 116,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8776,2.4895,0.9989,2.4893,0.999,2.6566,0.8776,2.6572)"
+              },
+              {
+                "content": "review",
+                "span": {
+                  "offset": 119,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.032,2.4892,1.4263,2.4892,1.4264,2.6551,1.032,2.6564)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 126,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.4731,2.4893,1.7599,2.4885,1.7599,2.6543,1.4733,2.655)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 131,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.793,2.4884,2.2893,2.4879,2.289,2.6544,1.793,2.6543)"
+              },
+              {
+                "content": "information,",
+                "span": {
+                  "offset": 139,
+                  "length": 12
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.3224,2.4878,3.0944,2.4854,3.0936,2.654,2.3221,2.6544)"
+              },
+              {
+                "content": "take",
+                "span": {
+                  "offset": 152,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.1358,2.4854,3.4087,2.4849,3.4078,2.6543,3.1349,2.654)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 157,
+                  "length": 1
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.4446,2.4848,3.4915,2.4847,3.4905,2.6544,3.4437,2.6543)"
+              },
+              {
+                "content": "photo",
+                "span": {
+                  "offset": 159,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.5245,2.4846,3.9106,2.4843,3.9099,2.6549,3.5236,2.6544)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 165,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.9437,2.4844,4.065,2.4845,4.0641,2.6549,3.9429,2.6549)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 168,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.0981,2.4846,4.2966,2.4846,4.2957,2.6547,4.0972,2.6549)"
+              },
+              {
+                "content": "receipt",
+                "span": {
+                  "offset": 172,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.3297,2.4846,4.8089,2.4839,4.8089,2.6545,4.3288,2.6546)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 180,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.6095,2.6598,0.8537,2.6593,0.8538,2.822,0.6097,2.821)"
+              },
+              {
+                "content": "submit",
+                "span": {
+                  "offset": 184,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.8921,2.6591,1.3009,2.6562,1.3009,2.8237,0.8922,2.8215)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 191,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.3339,2.6562,1.5644,2.6557,1.5641,2.8246,1.3339,2.8239)"
+              },
+              {
+                "content": "claim",
+                "span": {
+                  "offset": 195,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.5973,2.6557,1.8799,2.6556,1.8792,2.825,1.5969,2.8246)"
+              },
+              {
+                "content": "right",
+                "span": {
+                  "offset": 201,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.9266,2.6556,2.2339,2.6573,2.233,2.8271,1.9259,2.8251)"
+              },
+              {
+                "content": "away?",
+                "span": {
+                  "offset": 207,
+                  "length": 5
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.2668,2.6573,2.6618,2.6585,2.6618,2.8286,2.266,2.8274)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 219,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.6079,3.041,0.8541,3.0403,0.8537,3.2125,0.6077,3.2105)"
+              },
+              {
+                "content": "iFlex",
+                "span": {
+                  "offset": 223,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8877,3.0405,1.2122,3.042,1.2116,3.2135,0.8873,3.2125)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 229,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.2458,3.0421,1.5172,3.0417,1.5169,3.2146,1.2451,3.2137)"
+              },
+              {
+                "content": "connects",
+                "span": {
+                  "offset": 233,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.5508,3.0416,2.1886,3.0417,2.1883,3.2123,1.5505,3.2148)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 242,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.2222,3.0416,2.4656,3.0414,2.4654,3.2122,2.2218,3.2121)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 246,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.502,3.0415,2.779,3.0403,2.7788,3.2114,2.5019,3.2123)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 251,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.8125,3.0403,3.0615,3.0407,3.0608,3.2097,2.8123,3.2111)"
+              },
+              {
+                "content": "details",
+                "span": {
+                  "offset": 255,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.0979,3.0408,3.5735,3.0412,3.573,3.2079,3.0971,3.2096)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 264,
+                  "length": 1
+                },
+                "confidence": 0.368,
+                "source": "D(1,0.8933,3.3347,0.9369,3.3354,0.937,3.4905,0.8934,3.4899)"
+              },
+              {
+                "content": "Quickly",
+                "span": {
+                  "offset": 266,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.1215,3.3371,1.5703,3.3356,1.5702,3.4929,1.1215,3.4926)"
+              },
+              {
+                "content": "check",
+                "span": {
+                  "offset": 274,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.6011,3.3356,1.9703,3.3341,1.9704,3.4915,1.601,3.4928)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 280,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.0011,3.3341,2.5345,3.3323,2.5345,3.49,2.0012,3.4913)"
+              },
+              {
+                "content": "balances",
+                "span": {
+                  "offset": 290,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.5653,3.3322,3.1526,3.3319,3.1521,3.4874,2.5653,3.4899)"
+              },
+              {
+                "content": "24/7",
+                "span": {
+                  "offset": 299,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.1859,3.3317,3.4642,3.3313,3.4642,3.4864,3.1855,3.4873)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 305,
+                  "length": 1
+                },
+                "confidence": 0.471,
+                "source": "D(1,0.8927,3.6388,0.9349,3.6391,0.9354,3.779,0.8931,3.7784)"
+              },
+              {
+                "content": "Access",
+                "span": {
+                  "offset": 307,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.1204,3.6392,1.578,3.6366,1.5783,3.7804,1.1207,3.7795)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 314,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.6109,3.6364,2.1296,3.6349,2.1297,3.7796,1.6112,3.7804)"
+              },
+              {
+                "content": "details",
+                "span": {
+                  "offset": 322,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.1601,3.6348,2.5954,3.6343,2.5954,3.7782,2.1602,3.7795)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 331,
+                  "length": 1
+                },
+                "confidence": 0.589,
+                "source": "D(1,0.8931,3.9258,0.9352,3.9261,0.9357,4.0784,0.8935,4.0778)"
+              },
+              {
+                "content": "View",
+                "span": {
+                  "offset": 333,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,1.1195,3.927,1.4144,3.9245,1.4146,4.0815,1.12,4.0805)"
+              },
+              {
+                "content": "charts",
+                "span": {
+                  "offset": 338,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.446,3.9243,1.8488,3.9236,1.8489,4.084,1.4461,4.0817)"
+              },
+              {
+                "content": "summarizing",
+                "span": {
+                  "offset": 345,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.883,3.9234,2.6781,3.9224,2.678,4.0856,1.8832,4.0841)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 357,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.7123,3.9223,3.1993,3.9214,3.1992,4.0856,2.7123,4.0856)"
+              },
+              {
+                "content": "(s)",
+                "span": {
+                  "offset": 365,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.2309,3.9212,3.4033,3.9195,3.4033,4.0856,3.2308,4.0856)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 370,
+                  "length": 1
+                },
+                "confidence": 0.342,
+                "source": "D(1,0.8932,4.2148,0.9354,4.2147,0.9359,4.36,0.8937,4.3596)"
+              },
+              {
+                "content": "Click",
+                "span": {
+                  "offset": 372,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.1215,4.214,1.4094,4.2118,1.4096,4.3616,1.1219,4.3616)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 378,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.4391,4.2117,1.5831,4.2108,1.5833,4.3621,1.4393,4.3616)"
+              },
+              {
+                "content": "call",
+                "span": {
+                  "offset": 381,
+                  "length": 4
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.6129,4.2106,1.8188,4.2105,1.8192,4.3624,1.6131,4.3622)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 386,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.856,4.2104,1.9801,4.2096,1.9804,4.3624,1.8564,4.3624)"
+              },
+              {
+                "content": "email",
+                "span": {
+                  "offset": 389,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0124,4.2095,2.3325,4.2091,2.3327,4.3624,2.0127,4.3624)"
+              },
+              {
+                "content": "Customer",
+                "span": {
+                  "offset": 395,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.3672,4.2089,2.9951,4.2092,2.995,4.362,2.3674,4.3624)"
+              },
+              {
+                "content": "Service",
+                "span": {
+                  "offset": 404,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.0249,4.2092,3.5029,4.21,3.5029,4.3618,3.0248,4.362)"
+              },
+              {
+                "content": "Provides",
+                "span": {
+                  "offset": 418,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6116,4.5881,1.217,4.5882,1.2163,4.7585,0.6114,4.7561)"
+              },
+              {
+                "content": "additional",
+                "span": {
+                  "offset": 427,
+                  "length": 10
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2508,4.5882,1.935,4.5894,1.9344,4.7612,1.2501,4.7586)"
+              },
+              {
+                "content": "time-saving",
+                "span": {
+                  "offset": 438,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.9716,4.5894,2.7854,4.5921,2.7844,4.7656,1.971,4.7612)"
+              },
+              {
+                "content": "options",
+                "span": {
+                  "offset": 450,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.8248,4.5923,3.359,4.5943,3.359,4.7665,2.8239,4.7657)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 459,
+                  "length": 1
+                },
+                "confidence": 0.359,
+                "source": "D(1,0.8929,4.896,0.9345,4.8961,0.9352,5.0488,0.8936,5.0483)"
+              },
+              {
+                "content": "View",
+                "span": {
+                  "offset": 461,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.1193,4.8956,1.4135,4.8942,1.4136,5.0512,1.1197,5.05)"
+              },
+              {
+                "content": "claims",
+                "span": {
+                  "offset": 466,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.4447,4.8946,1.8195,4.8933,1.8196,5.0534,1.4448,5.0515)"
+              },
+              {
+                "content": "requiring",
+                "span": {
+                  "offset": 473,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8508,4.8932,2.4234,4.8943,2.4232,5.0544,1.8508,5.0536)"
+              },
+              {
+                "content": "receipts",
+                "span": {
+                  "offset": 483,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.4651,4.8947,2.9883,4.8951,2.9883,5.0544,2.4648,5.0544)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 493,
+                  "length": 1
+                },
+                "confidence": 0.408,
+                "source": "D(1,0.8925,5.19,0.9364,5.1902,0.9368,5.335,0.893,5.3345)"
+              },
+              {
+                "content": "Submit",
+                "span": {
+                  "offset": 495,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.124,5.1905,1.5456,5.1876,1.5458,5.3363,1.1244,5.3364)"
+              },
+              {
+                "content": "medical",
+                "span": {
+                  "offset": 502,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5748,5.1874,2.0792,5.1866,2.0794,5.3365,1.575,5.3364)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 510,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.1182,5.1867,2.3521,5.1861,2.3521,5.3361,2.1184,5.3364)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 514,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3813,5.1861,2.5982,5.1858,2.5982,5.3363,2.3813,5.336)"
+              },
+              {
+                "content": "HRA",
+                "span": {
+                  "offset": 518,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6274,5.1857,2.9101,5.1861,2.9099,5.3359,2.6274,5.3364)"
+              },
+              {
+                "content": "claims",
+                "span": {
+                  "offset": 522,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.9418,5.186,3.348,5.1876,3.348,5.3353,2.9416,5.3359)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 530,
+                  "length": 1
+                },
+                "confidence": 0.582,
+                "source": "D(1,0.8931,5.4735,0.9352,5.4739,0.9355,5.6309,0.8934,5.6304)"
+              },
+              {
+                "content": "Take",
+                "span": {
+                  "offset": 532,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,1.1198,5.4753,1.415,5.474,1.4151,5.6338,1.12,5.633)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 537,
+                  "length": 1
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.4466,5.4739,1.5152,5.4739,1.5154,5.6341,1.4468,5.6339)"
+              },
+              {
+                "content": "picture",
+                "span": {
+                  "offset": 539,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.5573,5.4738,1.9975,5.4722,1.9977,5.6356,1.5576,5.6342)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 547,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0292,5.4721,2.1478,5.4721,2.1479,5.6356,2.0293,5.6356)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 550,
+                  "length": 1
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.1794,5.472,2.2322,5.472,2.2323,5.6352,2.1796,5.6355)"
+              },
+              {
+                "content": "receipt",
+                "span": {
+                  "offset": 552,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.2638,5.472,2.7172,5.4716,2.7172,5.6347,2.2639,5.6353)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 560,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.7488,5.4715,2.8938,5.471,2.8938,5.6347,2.7488,5.6347)"
+              },
+              {
+                "content": "submit",
+                "span": {
+                  "offset": 563,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.9281,5.471,3.3551,5.4711,3.3552,5.6304,2.9281,5.6345)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 570,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.3867,5.4711,3.5581,5.4712,3.5579,5.6307,3.3868,5.6304)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 574,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.5897,5.4712,3.6583,5.4711,3.6581,5.6306,3.5895,5.6307)"
+              },
+              {
+                "content": "claim",
+                "span": {
+                  "offset": 576,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.6925,5.471,4.0342,5.4717,4.0342,5.63,3.6923,5.6306)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 583,
+                  "length": 1
+                },
+                "confidence": 0.542,
+                "source": "D(1,0.892,5.7707,0.9357,5.7708,0.9369,5.9161,0.8933,5.9154)"
+              },
+              {
+                "content": "View",
+                "span": {
+                  "offset": 585,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1204,5.7703,1.3756,5.7682,1.376,5.9165,1.1211,5.9172)"
+              },
+              {
+                "content": "HSA",
+                "span": {
+                  "offset": 590,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.4266,5.7682,1.6964,5.768,1.6968,5.9173,1.427,5.9167)"
+              },
+              {
+                "content": "transaction",
+                "span": {
+                  "offset": 594,
+                  "length": 11
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.728,5.768,2.4571,5.7683,2.4573,5.9168,1.7284,5.9173)"
+              },
+              {
+                "content": "details",
+                "span": {
+                  "offset": 606,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4911,5.7684,2.9274,5.7676,2.9274,5.9159,2.4913,5.9167)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 615,
+                  "length": 1
+                },
+                "confidence": 0.382,
+                "source": "D(1,0.8957,6.0635,0.9351,6.0634,0.9352,6.2212,0.8958,6.2211)"
+              },
+              {
+                "content": "Using",
+                "span": {
+                  "offset": 617,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.1269,6.0631,1.4632,6.0638,1.4635,6.2224,1.127,6.2216)"
+              },
+              {
+                "content": "Expense",
+                "span": {
+                  "offset": 623,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.4947,6.0635,2.0491,6.061,2.0497,6.2219,1.495,6.2224)"
+              },
+              {
+                "content": "Tracker,",
+                "span": {
+                  "offset": 631,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0832,6.0611,2.5614,6.0601,2.5616,6.2207,2.0838,6.2219)"
+              },
+              {
+                "content": "enter",
+                "span": {
+                  "offset": 640,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.6034,6.0601,2.9397,6.06,2.94,6.2205,2.6037,6.2207)"
+              },
+              {
+                "content": "medical",
+                "span": {
+                  "offset": 646,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.9739,6.0601,3.4521,6.0595,3.4522,6.2205,2.9742,6.2205)"
+              },
+              {
+                "content": "expense",
+                "span": {
+                  "offset": 654,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.4888,6.0594,4.0064,6.0581,4.0065,6.2191,3.489,6.2203)"
+              },
+              {
+                "content": "information",
+                "span": {
+                  "offset": 662,
+                  "length": 11
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.038,6.0582,4.7868,6.0571,4.7868,6.2193,4.038,6.219)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 674,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.1072,6.227,1.3568,6.2284,1.3569,6.3921,1.107,6.3919)"
+              },
+              {
+                "content": "support",
+                "span": {
+                  "offset": 678,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.3921,6.2285,1.8859,6.2267,1.886,6.3912,1.3922,6.3921)"
+              },
+              {
+                "content": "documentation",
+                "span": {
+                  "offset": 686,
+                  "length": 13
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.9185,6.2265,2.8654,6.2249,2.8645,6.3888,1.9185,6.3911)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 700,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.8979,6.225,3.0445,6.2253,3.0436,6.3894,2.897,6.3889)"
+              },
+              {
+                "content": "store",
+                "span": {
+                  "offset": 703,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.077,6.2254,3.3863,6.2253,3.3858,6.3898,3.0762,6.3895)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 709,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.4189,6.2253,3.5817,6.2254,3.581,6.39,3.4184,6.3898)"
+              },
+              {
+                "content": "later",
+                "span": {
+                  "offset": 713,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.6143,6.2254,3.9236,6.2255,3.9221,6.3911,3.6135,6.3901)"
+              },
+              {
+                "content": "use",
+                "span": {
+                  "offset": 719,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.9561,6.2255,4.1569,6.2255,4.1551,6.3929,3.9546,6.3912)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 723,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.1895,6.2255,4.3224,6.226,4.3207,6.3946,4.1876,6.3932)"
+              },
+              {
+                "content": "paying",
+                "span": {
+                  "offset": 726,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.3577,6.2262,4.7757,6.2278,4.7757,6.3996,4.356,6.3951)"
+              },
+              {
+                "content": "claims",
+                "span": {
+                  "offset": 733,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.1104,6.3918,1.5033,6.3919,1.5034,6.5538,1.1107,6.5546)"
+              },
+              {
+                "content": "via",
+                "span": {
+                  "offset": 740,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.5351,6.3917,1.7209,6.3909,1.7212,6.5529,1.5353,6.5536)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 744,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.7528,6.3908,2.0129,6.3889,2.0131,6.5535,1.753,6.5529)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 749,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.0448,6.389,2.4377,6.3887,2.4377,6.5516,2.045,6.5534)"
+              },
+              {
+                "content": "benefits",
+                "span": {
+                  "offset": 756,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4695,6.3888,3.0004,6.3886,3,6.5498,2.4695,6.5516)"
+              },
+              {
+                "content": "website",
+                "span": {
+                  "offset": 765,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.0323,6.3887,3.5527,6.3888,3.5527,6.5487,3.0318,6.5497)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 774,
+                  "length": 1
+                },
+                "confidence": 0.354,
+                "source": "D(1,0.8915,6.6886,0.9368,6.6888,0.9369,6.841,0.8916,6.8403)"
+              },
+              {
+                "content": "Report",
+                "span": {
+                  "offset": 776,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1256,6.6887,1.5511,6.6878,1.5513,6.8424,1.1257,6.8425)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 783,
+                  "length": 1
+                },
+                "confidence": 0.98,
+                "source": "D(1,1.5813,6.6877,1.6267,6.6876,1.6269,6.8423,1.5815,6.8424)"
+              },
+              {
+                "content": "lost",
+                "span": {
+                  "offset": 785,
+                  "length": 4
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.6569,6.6875,1.9187,6.6876,1.9189,6.8417,1.6571,6.8423)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 790,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.9515,6.6874,2.0773,6.6866,2.0774,6.8412,1.9516,6.8417)"
+              },
+              {
+                "content": "stolen",
+                "span": {
+                  "offset": 793,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1076,6.6864,2.4953,6.6852,2.4953,6.8396,2.1076,6.841)"
+              },
+              {
+                "content": "debit",
+                "span": {
+                  "offset": 800,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5305,6.6851,2.8528,6.6865,2.8528,6.8384,2.5306,6.8395)"
+              },
+              {
+                "content": "card",
+                "span": {
+                  "offset": 806,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.8855,6.6862,3.1764,6.6861,3.1764,6.8367,2.8855,6.8383)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 817,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.6094,7.0662,0.8541,7.0663,0.854,7.2367,0.6094,7.2352)"
+              },
+              {
+                "content": "iFlex",
+                "span": {
+                  "offset": 821,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8875,7.0663,1.2101,7.0661,1.2098,7.2371,0.8873,7.2367)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 827,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.2434,7.066,1.4882,7.0662,1.4879,7.2378,1.2432,7.2372)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 831,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.5215,7.0662,1.6606,7.0664,1.6603,7.2388,1.5213,7.238)"
+              },
+              {
+                "content": "easy,",
+                "span": {
+                  "offset": 834,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.6967,7.0664,2.0277,7.0673,2.0274,7.2385,1.6965,7.239)"
+              },
+              {
+                "content": "convenient",
+                "span": {
+                  "offset": 840,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0721,7.0675,2.8397,7.0678,2.8394,7.2372,2.0718,7.2385)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 851,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.8758,7.0676,3.1205,7.0678,3.1201,7.2367,2.8755,7.2372)"
+              },
+              {
+                "content": "secure",
+                "span": {
+                  "offset": 855,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.1595,7.0679,3.635,7.0704,3.6346,7.2348,3.159,7.2365)"
+              },
+              {
+                "content": "Simply",
+                "span": {
+                  "offset": 863,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.6103,7.3532,1.0032,7.3549,1.0031,7.5289,0.6098,7.5289)"
+              },
+              {
+                "content": "login",
+                "span": {
+                  "offset": 870,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.0369,7.3549,1.34,7.3554,1.3395,7.5289,1.0368,7.5289)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 876,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.3736,7.3555,1.5083,7.3558,1.5077,7.5289,1.3731,7.5289)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 879,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.542,7.3558,1.7553,7.3558,1.755,7.5288,1.5414,7.5289)"
+              },
+              {
+                "content": "app",
+                "span": {
+                  "offset": 883,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.789,7.3558,2.0135,7.356,2.0132,7.5285,1.7887,7.5288)"
+              },
+              {
+                "content": "using",
+                "span": {
+                  "offset": 887,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.0471,7.356,2.3839,7.3545,2.3835,7.5278,2.0469,7.5285)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 893,
+                  "length": 4
+                },
+                "confidence": 0.986,
+                "source": "D(1,2.4176,7.3547,2.7094,7.3557,2.709,7.5255,2.4171,7.5274)"
+              },
+              {
+                "content": "same",
+                "span": {
+                  "offset": 898,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.7431,7.3557,3.0574,7.3557,3.0569,7.5238,2.7427,7.5255)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 903,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.0911,7.3557,3.4952,7.3546,3.4947,7.5216,3.0906,7.5234)"
+              },
+              {
+                "content": "benefits",
+                "span": {
+                  "offset": 910,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.5289,7.3544,4.0564,7.3519,4.0559,7.5212,3.5284,7.5216)"
+              },
+              {
+                "content": "website",
+                "span": {
+                  "offset": 919,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.0901,7.3519,4.6097,7.3531,4.6097,7.5193,4.0896,7.5212)"
+              },
+              {
+                "content": "username",
+                "span": {
+                  "offset": 927,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6139,7.53,1.2559,7.5281,1.2558,7.6883,0.6138,7.687)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 936,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.2875,7.5282,1.498,7.5274,1.4979,7.6878,1.2873,7.6882)"
+              },
+              {
+                "content": "password",
+                "span": {
+                  "offset": 940,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.5295,7.527,2.1531,7.5253,2.1531,7.6865,1.5295,7.6877)"
+              },
+              {
+                "content": "(or",
+                "span": {
+                  "offset": 949,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.2058,7.5251,2.3505,7.5252,2.3501,7.6859,2.2057,7.6862)"
+              },
+              {
+                "content": "follow",
+                "span": {
+                  "offset": 953,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.3821,7.5252,2.7268,7.5241,2.7261,7.6859,2.3816,7.6859)"
+              },
+              {
+                "content": "alternative",
+                "span": {
+                  "offset": 960,
+                  "length": 11
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.7925,7.5238,3.4451,7.5214,3.4448,7.6828,2.7919,7.6859)"
+              },
+              {
+                "content": "instructions",
+                "span": {
+                  "offset": 972,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.4767,7.5214,4.2345,7.5208,4.2341,7.6813,3.4764,7.6825)"
+              },
+              {
+                "content": "if",
+                "span": {
+                  "offset": 985,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.266,7.5209,4.3773,7.5213,4.3773,7.681,4.2657,7.6813)"
+              },
+              {
+                "content": "provided",
+                "span": {
+                  "offset": 988,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.6094,7.6955,1.1506,7.6929,1.1504,7.8649,0.6114,7.8666)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 997,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.1844,7.6926,1.3084,7.6919,1.3084,7.8638,1.1842,7.865)"
+              },
+              {
+                "content": "you)",
+                "span": {
+                  "offset": 1000,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3422,7.6918,1.6436,7.6907,1.6436,7.8632,1.3423,7.8636)"
+              },
+              {
+                "content": "Follow",
+                "span": {
+                  "offset": 1012,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6144,8.0389,1.026,8.0395,1.0258,8.2101,0.6141,8.209)"
+              },
+              {
+                "content": "these",
+                "span": {
+                  "offset": 1019,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.0736,8.0394,1.4797,8.0391,1.4789,8.2109,1.0733,8.2101)"
+              },
+              {
+                "content": "steps",
+                "span": {
+                  "offset": 1025,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.5161,8.0391,1.869,8.0391,1.8684,8.2115,1.5154,8.2111)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1031,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.9026,8.0391,2.0566,8.0399,2.0559,8.2118,1.902,8.2114)"
+              },
+              {
+                "content": "download",
+                "span": {
+                  "offset": 1034,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.093,8.0402,2.7427,8.0418,2.7418,8.2119,2.0923,8.2119)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1043,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.7763,8.0417,3.0171,8.042,3.0157,8.2128,2.7754,8.2119)"
+              },
+              {
+                "content": "iFlex",
+                "span": {
+                  "offset": 1047,
+                  "length": 5
+                },
+                "confidence": 0.983,
+                "source": "D(1,3.0535,8.0422,3.3475,8.044,3.3459,8.2148,3.0521,8.2129)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 1053,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3811,8.0443,3.6689,8.0457,3.6689,8.2154,3.3796,8.2152)"
+              },
+              {
+                "content": "1.",
+                "span": {
+                  "offset": 1058,
+                  "length": 3
+                },
+                "confidence": 0.991,
+                "source": "D(1,0.8755,8.3426,0.9452,8.3427,0.9459,8.4977,0.8763,8.4977)"
+              },
+              {
+                "content": "Visit",
+                "span": {
+                  "offset": 1062,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.1208,8.3431,1.3712,8.3382,1.3715,8.4956,1.1211,8.4977)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1068,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.4021,8.3384,1.6087,8.3397,1.609,8.497,1.4025,8.4958)"
+              },
+              {
+                "content": "iTunes",
+                "span": {
+                  "offset": 1072,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6396,8.3395,2.0759,8.3386,2.0761,8.4977,1.64,8.4969)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 1079,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1069,8.3387,2.3522,8.3392,2.3524,8.4977,2.1071,8.4977)"
+              },
+              {
+                "content": "Store",
+                "span": {
+                  "offset": 1083,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.3857,8.3393,2.7265,8.3387,2.7265,8.4974,2.3859,8.4977)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1089,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.7575,8.3385,2.8685,8.3382,2.8685,8.4962,2.7574,8.497)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1092,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.8995,8.3384,3.1266,8.3389,3.1267,8.4958,2.8994,8.4962)"
+              },
+              {
+                "content": "Android",
+                "span": {
+                  "offset": 1096,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.1576,8.3388,3.6223,8.3388,3.6221,8.4948,3.1577,8.4957)"
+              },
+              {
+                "content": "Market",
+                "span": {
+                  "offset": 1104,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.6533,8.3388,4.0973,8.3384,4.0972,8.4957,3.6531,8.4951)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1111,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.1283,8.3384,4.2777,8.3387,4.2777,8.4953,4.1282,8.4956)"
+              },
+              {
+                "content": "download",
+                "span": {
+                  "offset": 1114,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.1123,8.5052,1.7305,8.5058,1.731,8.6677,1.113,8.6655)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1123,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.7623,8.5059,1.9507,8.5062,1.9513,8.6688,1.7629,8.6679)"
+              },
+              {
+                "content": "isolved",
+                "span": {
+                  "offset": 1127,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.9825,8.5061,2.4415,8.5058,2.4417,8.6694,1.9832,8.6688)"
+              },
+              {
+                "content": "app",
+                "span": {
+                  "offset": 1135,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.4787,8.5058,2.7121,8.5056,2.7123,8.6694,2.4788,8.6694)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 1139,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.744,8.5055,2.9005,8.5051,2.9008,8.6694,2.7442,8.6694)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1142,
+                  "length": 4
+                },
+                "confidence": 0.988,
+                "source": "D(1,2.9323,8.5049,3.1817,8.5042,3.182,8.668,2.9326,8.6694)"
+              },
+              {
+                "content": "iphone,",
+                "span": {
+                  "offset": 1147,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.2136,8.5044,3.6805,8.5046,3.6806,8.666,3.2138,8.6678)"
+              },
+              {
+                "content": "ipad",
+                "span": {
+                  "offset": 1155,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.7123,8.5046,3.9962,8.5043,3.9964,8.6644,3.7124,8.6658)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1160,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.0307,8.5043,4.1474,8.5042,4.1475,8.6648,4.0308,8.6645)"
+              },
+              {
+                "content": "Android.",
+                "span": {
+                  "offset": 1163,
+                  "length": 8
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.1793,8.5042,4.7093,8.5033,4.7093,8.6631,4.1794,8.6649)"
+              },
+              {
+                "content": "2.",
+                "span": {
+                  "offset": 1173,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8685,8.7908,0.9763,8.7918,0.976,8.9536,0.8682,8.9534)"
+              },
+              {
+                "content": "Once",
+                "span": {
+                  "offset": 1177,
+                  "length": 4
+                },
+                "confidence": 0.987,
+                "source": "D(1,1.1209,8.793,1.4259,8.7923,1.4256,8.9542,1.1207,8.9539)"
+              },
+              {
+                "content": "installed,",
+                "span": {
+                  "offset": 1182,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.4574,8.7924,2.0411,8.7952,2.041,8.9562,1.4572,8.9544)"
+              },
+              {
+                "content": "enter",
+                "span": {
+                  "offset": 1193,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.0832,8.7954,2.4039,8.7968,2.4039,8.9569,2.0831,8.9564)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1199,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.4355,8.7968,2.6458,8.7974,2.6456,8.9565,2.4355,8.957)"
+              },
+              {
+                "content": "Username",
+                "span": {
+                  "offset": 1203,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.6774,8.7975,3.3425,8.7985,3.342,8.9565,2.6771,8.9564)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1212,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,3.3741,8.7986,3.6028,8.7989,3.6023,8.9572,3.3736,8.9566)"
+              },
+              {
+                "content": "Password",
+                "span": {
+                  "offset": 1216,
+                  "length": 8
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.6449,8.799,4.2417,8.7992,4.2407,8.9604,3.6444,8.9572)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1225,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.2733,8.7992,4.4047,8.7996,4.4038,8.9619,4.2722,8.9606)"
+              },
+              {
+                "content": "log",
+                "span": {
+                  "offset": 1228,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.4415,8.7997,4.6318,8.8007,4.6318,8.9658,4.4406,8.9625)"
+              },
+              {
+                "content": "into",
+                "span": {
+                  "offset": 1232,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1106,8.9668,1.3649,8.9679,1.3651,9.1261,1.1104,9.1255)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1237,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3952,8.9681,1.6722,8.9695,1.6724,9.1243,1.3953,9.1259)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 1242,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.7024,8.9695,2.2211,8.9682,2.2213,9.123,1.7026,9.1242)"
+              },
+              {
+                "content": "at",
+                "span": {
+                  "offset": 1250,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.2538,8.968,2.3596,8.9676,2.3597,9.1227,2.254,9.1229)"
+              },
+              {
+                "content": "www.isolvedbenefitservices.com",
+                "span": {
+                  "offset": 1253,
+                  "length": 30
+                },
+                "confidence": 0.977,
+                "source": "D(1,2.3898,8.9677,4.4824,8.9697,4.4824,9.1192,2.3899,9.1227)"
+              },
+              {
+                "content": "Back",
+                "span": {
+                  "offset": 1307,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.6679,3.9374,5.9102,3.9404,5.9102,4.0488,5.6679,4.0496)"
+              },
+              {
+                "content": "Eligible",
+                "span": {
+                  "offset": 1312,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.0182,3.935,6.3623,3.936,6.3621,4.0626,6.018,4.0634)"
+              },
+              {
+                "content": "Expense",
+                "span": {
+                  "offset": 1321,
+                  "length": 7
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.3936,3.9361,6.7815,3.935,6.7812,4.0624,6.3934,4.0628)"
+              },
+              {
+                "content": "Scanner",
+                "span": {
+                  "offset": 1329,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.8086,3.935,7.1995,3.9344,7.1995,4.0607,6.8084,4.0624)"
+              },
+              {
+                "content": "\u2612",
+                "span": {
+                  "offset": 1349,
+                  "length": 1
+                },
+                "confidence": 0.364,
+                "source": "D(1,6.363,4.8404,6.8488,4.847,6.8577,5.2877,6.3647,5.2871)"
+              },
+              {
+                "content": "Eligible",
+                "span": {
+                  "offset": 1351,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.2709,5.3756,6.6509,5.3774,6.6503,5.5083,6.2706,5.5083)"
+              },
+              {
+                "content": "Item.",
+                "span": {
+                  "offset": 1360,
+                  "length": 5
+                },
+                "confidence": 0.913,
+                "source": "D(1,6.6854,5.3777,6.9395,5.3783,6.9395,5.5083,6.685,5.5083)"
+              },
+              {
+                "content": "SCAN",
+                "span": {
+                  "offset": 1367,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.1062,6.3704,6.3744,6.3703,6.3743,6.4867,6.1063,6.4878)"
+              },
+              {
+                "content": "ANOTHER",
+                "span": {
+                  "offset": 1372,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.4011,6.3704,6.8577,6.3714,6.8573,6.4875,6.4009,6.4867)"
+              },
+              {
+                "content": "ITEM",
+                "span": {
+                  "offset": 1380,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.8882,6.3713,7.1165,6.3708,7.1165,6.4866,6.8878,6.4873)"
+              },
+              {
+                "content": "COPYRIGHT",
+                "span": {
+                  "offset": 1386,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.1965,6.7108,6.7517,6.7117,6.7513,6.8286,6.1966,6.8289)"
+              },
+              {
+                "content": "SIGIS",
+                "span": {
+                  "offset": 1396,
+                  "length": 5
+                },
+                "confidence": 0.99,
+                "source": "D(1,6.7825,6.7116,7.028,6.7105,7.028,6.8285,6.7821,6.8286)"
+              },
+              {
+                "content": "000",
+                "span": {
+                  "offset": 1425,
+                  "length": 3
+                },
+                "confidence": 0.369,
+                "source": "D(1,7.366,7.5305,7.4868,7.5309,7.4869,7.579,7.3662,7.579)"
+              },
+              {
+                "content": "More",
+                "span": {
+                  "offset": 1429,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.34,7.6481,7.5149,7.6507,7.5149,7.7187,7.3401,7.7158)"
+              },
+              {
+                "content": "Home",
+                "span": {
+                  "offset": 1435,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.6936,7.6476,5.8962,7.6503,5.8961,7.7187,5.6935,7.7159)"
+              },
+              {
+                "content": "Messages",
+                "span": {
+                  "offset": 1440,
+                  "length": 8
+                },
+                "confidence": 0.715,
+                "source": "D(1,6.169,7.6468,6.5131,7.6489,6.5131,7.7206,6.1688,7.7185)"
+              },
+              {
+                "content": "Me",
+                "span": {
+                  "offset": 1450,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.8267,7.6516,6.9395,7.6523,6.9395,7.7172,6.8267,7.7159)"
+              },
+              {
+                "content": "Download",
+                "span": {
+                  "offset": 1454,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.741,7.9051,6.0756,7.9066,6.0755,7.9973,5.7408,7.9953)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 1463,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.0935,7.9065,6.1767,7.907,6.1765,7.9976,6.0934,7.9974)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1466,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.1946,7.9072,6.3086,7.9063,6.3086,7.9978,6.1944,7.9978)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 1470,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.7567,7.9972,5.9795,7.9979,5.98,8.1231,5.757,8.1259)"
+              },
+              {
+                "content": "Store",
+                "span": {
+                  "offset": 1474,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.0102,7.9981,6.292,7.9978,6.292,8.1203,6.0106,8.1231)"
+              },
+              {
+                "content": "GET",
+                "span": {
+                  "offset": 1481,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.9369,7.887,7.0626,7.8873,7.0629,7.9742,6.937,7.9732)"
+              },
+              {
+                "content": "IT",
+                "span": {
+                  "offset": 1485,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.0798,7.8871,7.1426,7.8868,7.1428,7.9743,7.08,7.9741)"
+              },
+              {
+                "content": "ON",
+                "span": {
+                  "offset": 1488,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,7.1597,7.8867,7.2797,7.8854,7.2799,7.9742,7.1599,7.9741)"
+              },
+              {
+                "content": "Google",
+                "span": {
+                  "offset": 1491,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.9361,7.9728,7.3487,7.9726,7.3478,8.1379,6.936,8.1343)"
+              },
+              {
+                "content": "Play",
+                "span": {
+                  "offset": 1498,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.3812,7.9721,7.6478,7.9731,7.6478,8.1431,7.3802,8.1386)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 1516,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.4416,8.2672,5.6189,8.2678,5.6187,8.4038,5.4415,8.4033)"
+              },
+              {
+                "content": "iFlex",
+                "span": {
+                  "offset": 1520,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.6455,8.2681,5.8671,8.2699,5.8663,8.4043,5.6452,8.4039)"
+              },
+              {
+                "content": "mobile",
+                "span": {
+                  "offset": 1526,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.8937,8.2701,6.2395,8.2701,6.2384,8.4059,5.8928,8.4044)"
+              },
+              {
+                "content": "app",
+                "span": {
+                  "offset": 1533,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.2661,8.2701,6.4345,8.2703,6.4341,8.4065,6.2651,8.4061)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1537,
+                  "length": 2
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.4611,8.2704,6.5586,8.2702,6.5583,8.4064,6.4607,8.4064)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 1540,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.5852,8.2701,7.0108,8.2701,7.0096,8.4054,6.5848,8.4064)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 1550,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.0374,8.2701,7.1703,8.2701,7.1694,8.4052,7.0362,8.4054)"
+              },
+              {
+                "content": "free",
+                "span": {
+                  "offset": 1554,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.1969,8.2701,7.4008,8.2713,7.3997,8.405,7.1961,8.4051)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 1559,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,7.4274,8.2714,7.5758,8.2711,7.5758,8.4045,7.4263,8.405)"
+              },
+              {
+                "content": "Google",
+                "span": {
+                  "offset": 1562,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.7263,8.405,6.0811,8.4057,6.0815,8.5438,5.7266,8.543)"
+              },
+              {
+                "content": "Play",
+                "span": {
+                  "offset": 1569,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,6.1084,8.4054,6.3085,8.4058,6.3089,8.5443,6.1087,8.5437)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1574,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.3358,8.406,6.5178,8.4061,6.518,8.5434,6.3362,8.5443)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1578,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.5451,8.406,6.7179,8.4049,6.718,8.5443,6.5452,8.5436)"
+              },
+              {
+                "content": "App",
+                "span": {
+                  "offset": 1582,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.7452,8.4049,6.9453,8.4042,6.9454,8.5439,6.7453,8.5443)"
+              },
+              {
+                "content": "Store.",
+                "span": {
+                  "offset": 1586,
+                  "length": 6
+                },
+                "confidence": 0.991,
+                "source": "D(1,6.9726,8.4042,7.277,8.4042,7.277,8.5428,6.9727,8.5439)"
+              },
+              {
+                "content": "Transforming",
+                "span": {
+                  "offset": 1594,
+                  "length": 12
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.6324,9.8876,1.4863,9.8852,1.4858,10.0533,0.6318,10.0505)"
+              },
+              {
+                "content": "employee",
+                "span": {
+                  "offset": 1607,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.5211,9.8853,2.1581,9.8871,2.1576,10.0527,1.5205,10.0533)"
+              },
+              {
+                "content": "experience",
+                "span": {
+                  "offset": 1616,
+                  "length": 10
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1903,9.8872,2.9157,9.8885,2.9153,10.0522,2.1898,10.0528)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 1627,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.9478,9.8885,3.1164,9.8886,3.1157,10.0519,2.9473,10.0522)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1631,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.1485,9.8885,3.2128,9.8884,3.2121,10.0516,3.1478,10.0518)"
+              },
+              {
+                "content": "better",
+                "span": {
+                  "offset": 1633,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.2449,9.8884,3.6518,9.8882,3.6507,10.0507,3.2442,10.0515)"
+              },
+              {
+                "content": "today",
+                "span": {
+                  "offset": 1640,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.6839,9.8882,4.0587,9.8869,4.0572,10.0505,3.6828,10.0507)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1646,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.0908,9.8867,4.3263,9.8869,4.325,10.0497,4.0892,10.0505)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1650,
+                  "length": 1
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.3585,9.887,4.4227,9.8872,4.4215,10.0494,4.3571,10.0496)"
+              },
+              {
+                "content": "better",
+                "span": {
+                  "offset": 1652,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.4548,9.8873,4.8617,9.8877,4.8607,10.0486,4.4536,10.0493)"
+              },
+              {
+                "content": "tomorrow.",
+                "span": {
+                  "offset": 1659,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.8938,9.888,5.5615,9.8917,5.5615,10.0468,4.8928,10.0485)"
+              },
+              {
+                "content": "copyright",
+                "span": {
+                  "offset": 1687,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.6125,10.1761,1.1554,10.1719,1.156,10.3252,0.6126,10.3281)"
+              },
+              {
+                "content": "2020",
+                "span": {
+                  "offset": 1697,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.185,10.1719,1.4713,10.1721,1.4716,10.3229,1.1855,10.325)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1702,
+                  "length": 1
+                },
+                "confidence": 0.58,
+                "source": "D(1,1.5725,10.1712,1.6194,10.1708,1.6196,10.3222,1.5727,10.3224)"
+              },
+              {
+                "content": "www.isolvedhcm.com",
+                "span": {
+                  "offset": 1704,
+                  "length": 18
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.7156,10.1704,2.9938,10.1684,2.9938,10.3151,1.7158,10.3211)"
+              },
+              {
+                "content": "solved",
+                "span": {
+                  "offset": 1740,
+                  "length": 6
+                },
+                "confidence": 0.647,
+                "source": "D(1,6.2684,10.0664,7.7612,10.0418,7.7619,10.392,6.2689,10.4021)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "asolved Benefit Services",
+                "source": "D(1,0.5274,0.5169,5.8421,0.5228,5.8416,0.9854,0.5269,0.9797)",
+                "span": {
+                  "offset": 2,
+                  "length": 24
+                }
+              },
+              {
+                "content": "The iFlex App",
+                "source": "D(1,0.6097,1.8213,2.778,1.8481,2.7739,2.2148,0.6087,2.1721)",
+                "span": {
+                  "offset": 32,
+                  "length": 13
+                }
+              },
+              {
+                "content": "You have your phone with you all the time. Why not use the iFlex",
+                "source": "D(1,0.6122,2.3179,4.5965,2.3156,4.5966,2.4829,0.6123,2.4852)",
+                "span": {
+                  "offset": 47,
+                  "length": 64
+                }
+              },
+              {
+                "content": "App to review your account information, take a photo of the receipt",
+                "source": "D(1,0.6125,2.4869,4.806,2.4835,4.8062,2.6516,0.6127,2.655)",
+                "span": {
+                  "offset": 112,
+                  "length": 67
+                }
+              },
+              {
+                "content": "and submit the claim right away?",
+                "source": "D(1,0.6095,2.6517,2.6616,2.6578,2.6611,2.8261,0.609,2.8199)",
+                "span": {
+                  "offset": 180,
+                  "length": 32
+                }
+              },
+              {
+                "content": "The iFlex App connects you with the details",
+                "source": "D(1,0.6077,3.0401,3.5702,3.0403,3.5702,3.2128,0.6077,3.2125)",
+                "span": {
+                  "offset": 219,
+                  "length": 43
+                }
+              },
+              {
+                "content": "\u00b7 Quickly check available balances 24/7",
+                "source": "D(1,0.8931,3.3347,3.4637,3.3308,3.4639,3.4877,0.8934,3.4916)",
+                "span": {
+                  "offset": 264,
+                  "length": 39
+                }
+              },
+              {
+                "content": "\u00b7 Access account details",
+                "source": "D(1,0.8927,3.6383,2.5916,3.6328,2.5921,3.7762,0.8931,3.7811)",
+                "span": {
+                  "offset": 305,
+                  "length": 24
+                }
+              },
+              {
+                "content": "\u00b7 View charts summarizing account (s)",
+                "source": "D(1,0.8931,3.9254,3.4016,3.9195,3.402,4.0831,0.8935,4.0856)",
+                "span": {
+                  "offset": 331,
+                  "length": 37
+                }
+              },
+              {
+                "content": "\u00b7 Click to call or email Customer Service",
+                "source": "D(1,0.8932,4.209,3.4975,4.2086,3.4975,4.3602,0.8932,4.3606)",
+                "span": {
+                  "offset": 370,
+                  "length": 41
+                }
+              },
+              {
+                "content": "Provides additional time-saving options",
+                "source": "D(1,0.6116,4.5858,3.3565,4.5922,3.3561,4.7654,0.6112,4.759)",
+                "span": {
+                  "offset": 418,
+                  "length": 39
+                }
+              },
+              {
+                "content": "\u00b7 View claims requiring receipts",
+                "source": "D(1,0.8929,4.891,2.9877,4.8946,2.9874,5.0544,0.8926,5.0512)",
+                "span": {
+                  "offset": 459,
+                  "length": 32
+                }
+              },
+              {
+                "content": "\u00b7 Submit medical FSA and HRA claims",
+                "source": "D(1,0.8925,5.1872,3.3467,5.185,3.3468,5.3334,0.8927,5.3356)",
+                "span": {
+                  "offset": 493,
+                  "length": 35
+                }
+              },
+              {
+                "content": "\u00b7 Take a picture of a receipt to submit for a claim",
+                "source": "D(1,0.8931,5.473,4.0296,5.4698,4.0298,5.6317,0.8932,5.6349)",
+                "span": {
+                  "offset": 530,
+                  "length": 51
+                }
+              },
+              {
+                "content": "\u00b7 View HSA transaction details",
+                "source": "D(1,0.892,5.7687,2.9223,5.7662,2.9225,5.9139,0.8922,5.9165)",
+                "span": {
+                  "offset": 583,
+                  "length": 30
+                }
+              },
+              {
+                "content": "\u00b7 Using Expense Tracker, enter medical expense information",
+                "source": "D(1,0.8956,6.0621,4.7848,6.0569,4.785,6.2165,0.8958,6.2217)",
+                "span": {
+                  "offset": 615,
+                  "length": 58
+                }
+              },
+              {
+                "content": "and support documentation to store for later use in paying",
+                "source": "D(1,1.1072,6.2224,4.7755,6.2267,4.7751,6.3976,1.1068,6.3892)",
+                "span": {
+                  "offset": 674,
+                  "length": 58
+                }
+              },
+              {
+                "content": "claims via your health benefits website",
+                "source": "D(1,1.1104,6.3905,3.5512,6.3859,3.5515,6.5479,1.1107,6.5524)",
+                "span": {
+                  "offset": 733,
+                  "length": 39
+                }
+              },
+              {
+                "content": "\u00b7 Report a lost or stolen debit card",
+                "source": "D(1,0.8912,6.6884,3.1731,6.6837,3.1734,6.8373,0.8916,6.842)",
+                "span": {
+                  "offset": 774,
+                  "length": 36
+                }
+              },
+              {
+                "content": "The iFlex App is easy, convenient and secure",
+                "source": "D(1,0.6094,7.0656,3.6304,7.0672,3.6304,7.2371,0.6093,7.2356)",
+                "span": {
+                  "offset": 817,
+                  "length": 44
+                }
+              },
+              {
+                "content": "Simply login to the app using your same health benefits website",
+                "source": "D(1,0.6098,7.3532,4.6066,7.3518,4.6067,7.5268,0.6098,7.5284)",
+                "span": {
+                  "offset": 863,
+                  "length": 63
+                }
+              },
+              {
+                "content": "username and password (or follow alternative instructions if",
+                "source": "D(1,0.6135,7.5273,4.3769,7.5194,4.3772,7.6799,0.6138,7.6878)",
+                "span": {
+                  "offset": 927,
+                  "length": 60
+                }
+              },
+              {
+                "content": "provided to you)",
+                "source": "D(1,0.6094,7.695,1.641,7.6897,1.6418,7.8603,0.6103,7.8655)",
+                "span": {
+                  "offset": 988,
+                  "length": 16
+                }
+              },
+              {
+                "content": "Follow these steps to download the iFlex App",
+                "source": "D(1,0.6144,8.0382,3.6635,8.0435,3.663,8.2139,0.614,8.2062)",
+                "span": {
+                  "offset": 1012,
+                  "length": 44
+                }
+              },
+              {
+                "content": "1. Visit the iTunes App Store or the Android Market to",
+                "source": "D(1,0.8755,8.3376,4.2763,8.3374,4.2763,8.4964,0.8755,8.4966)",
+                "span": {
+                  "offset": 1058,
+                  "length": 55
+                }
+              },
+              {
+                "content": "download the isolved app on your iphone, ipad or Android.",
+                "source": "D(1,1.1123,8.5052,4.7045,8.5033,4.7046,8.6664,1.1124,8.6683)",
+                "span": {
+                  "offset": 1114,
+                  "length": 57
+                }
+              },
+              {
+                "content": "2. Once installed, enter the Username and Password to log",
+                "source": "D(1,0.8685,8.7881,4.6315,8.8002,4.631,8.9628,0.868,8.9507)",
+                "span": {
+                  "offset": 1173,
+                  "length": 58
+                }
+              },
+              {
+                "content": "into your account at www.isolvedbenefitservices.com",
+                "source": "D(1,1.1105,8.9668,4.4788,8.9675,4.4788,9.1243,1.1104,9.1236)",
+                "span": {
+                  "offset": 1232,
+                  "length": 51
+                }
+              },
+              {
+                "content": "Back",
+                "source": "D(1,5.6679,3.9374,5.9087,3.9396,5.9077,4.0499,5.667,4.0477)",
+                "span": {
+                  "offset": 1307,
+                  "length": 4
+                }
+              },
+              {
+                "content": "Eligible Expense Scanner",
+                "source": "D(1,6.0179,3.935,7.1977,3.934,7.1978,4.0609,6.018,4.0619)",
+                "span": {
+                  "offset": 1312,
+                  "length": 24
+                }
+              },
+              {
+                "content": "\u2612",
+                "source": "D(1,6.363,4.8404,6.8488,4.847,6.8577,5.2877,6.3647,5.2871)",
+                "span": {
+                  "offset": 1349,
+                  "length": 1
+                }
+              },
+              {
+                "content": "Eligible Item.",
+                "source": "D(1,6.2709,5.3756,6.9363,5.3778,6.9358,5.5083,6.2704,5.5068)",
+                "span": {
+                  "offset": 1351,
+                  "length": 14
+                }
+              },
+              {
+                "content": "SCAN ANOTHER ITEM",
+                "source": "D(1,6.1062,6.3702,7.113,6.3702,7.113,6.4859,6.1062,6.4859)",
+                "span": {
+                  "offset": 1367,
+                  "length": 17
+                }
+              },
+              {
+                "content": "COPYRIGHT SIGIS",
+                "source": "D(1,6.1965,6.7105,7.0279,6.7102,7.0279,6.8269,6.1965,6.8272)",
+                "span": {
+                  "offset": 1386,
+                  "length": 15
+                }
+              },
+              {
+                "content": "000",
+                "source": "D(1,7.366,7.5305,7.4844,7.5306,7.4844,7.5794,7.3659,7.5793)",
+                "span": {
+                  "offset": 1425,
+                  "length": 3
+                }
+              },
+              {
+                "content": "More",
+                "source": "D(1,7.34,7.6481,7.5103,7.6496,7.5097,7.7175,7.3394,7.716)",
+                "span": {
+                  "offset": 1429,
+                  "length": 4
+                }
+              },
+              {
+                "content": "Home",
+                "source": "D(1,5.6936,7.6476,5.8949,7.6503,5.8939,7.7192,5.6926,7.7165)",
+                "span": {
+                  "offset": 1435,
+                  "length": 4
+                }
+              },
+              {
+                "content": "Messages",
+                "source": "D(1,6.169,7.6468,6.5096,7.649,6.5091,7.7209,6.1685,7.7187)",
+                "span": {
+                  "offset": 1440,
+                  "length": 8
+                }
+              },
+              {
+                "content": "Me",
+                "source": "D(1,6.8267,7.6516,6.9369,7.6523,6.9366,7.7169,6.8264,7.7163)",
+                "span": {
+                  "offset": 1450,
+                  "length": 2
+                }
+              },
+              {
+                "content": "Download on the",
+                "source": "D(1,5.741,7.9047,6.3085,7.9064,6.3082,7.9969,5.7407,7.9952)",
+                "span": {
+                  "offset": 1454,
+                  "length": 15
+                }
+              },
+              {
+                "content": "App Store",
+                "source": "D(1,5.7567,7.9972,6.2875,7.9958,6.2878,8.1224,5.757,8.1238)",
+                "span": {
+                  "offset": 1470,
+                  "length": 9
+                }
+              },
+              {
+                "content": "GET IT ON",
+                "source": "D(1,6.9369,7.886,7.2773,7.8854,7.2774,7.9727,6.937,7.9733)",
+                "span": {
+                  "offset": 1481,
+                  "length": 9
+                }
+              },
+              {
+                "content": "Google Play",
+                "source": "D(1,6.9362,7.9673,7.6454,7.973,7.6441,8.1404,6.9348,8.1347)",
+                "span": {
+                  "offset": 1491,
+                  "length": 11
+                }
+              },
+              {
+                "content": "The iFlex mobile app is available for free on",
+                "source": "D(1,5.4416,8.2672,7.5707,8.2707,7.5705,8.4066,5.4414,8.403)",
+                "span": {
+                  "offset": 1516,
+                  "length": 45
+                }
+              },
+              {
+                "content": "Google Play and the App Store.",
+                "source": "D(1,5.7263,8.405,7.274,8.4031,7.2741,8.5414,5.7265,8.5432)",
+                "span": {
+                  "offset": 1562,
+                  "length": 30
+                }
+              },
+              {
+                "content": "Transforming employee experience for a better today and a better tomorrow.",
+                "source": "D(1,0.6319,9.8846,5.5567,9.8871,5.5566,10.0533,0.6318,10.0516)",
+                "span": {
+                  "offset": 1594,
+                  "length": 74
+                }
+              },
+              {
+                "content": "copyright 2020 . www.isolvedhcm.com",
+                "source": "D(1,0.6116,10.174,2.9918,10.1641,2.9928,10.3129,0.6126,10.3279)",
+                "span": {
+                  "offset": 1687,
+                  "length": 35
+                }
+              },
+              {
+                "content": "solved",
+                "source": "D(1,6.2657,10.0527,7.8571,10.0382,7.8581,10.3863,6.2689,10.4008)",
+                "span": {
+                  "offset": 1740,
+                  "length": 6
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "role": "title",
+            "content": "asolved Benefit Services",
+            "source": "D(1,0.5274,0.5169,5.8421,0.5228,5.8416,0.9855,0.5269,0.9797)",
+            "span": {
+              "offset": 0,
+              "length": 26
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "The iFlex App",
+            "source": "D(1,0.6097,1.8213,2.7784,1.8482,2.7739,2.2148,0.6052,2.188)",
+            "span": {
+              "offset": 29,
+              "length": 16
+            }
+          },
+          {
+            "content": "You have your phone with you all the time. Why not use the iFlex App to review your account information, take a photo of the receipt and submit the claim right away?",
+            "source": "D(1,0.6087,2.3179,4.806,2.3155,4.8063,2.8248,0.609,2.8272)",
+            "span": {
+              "offset": 47,
+              "length": 165
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "The iFlex App connects you with the details",
+            "source": "D(1,0.6077,3.0401,3.5702,3.0403,3.5702,3.2128,0.6077,3.2125)",
+            "span": {
+              "offset": 215,
+              "length": 47
+            }
+          },
+          {
+            "content": "\u00b7 Quickly check available balances 24/7",
+            "source": "D(1,0.8931,3.3347,3.4637,3.3308,3.4639,3.4877,0.8934,3.4916)",
+            "span": {
+              "offset": 264,
+              "length": 39
+            }
+          },
+          {
+            "content": "\u00b7 Access account details",
+            "source": "D(1,0.8927,3.6383,2.5916,3.6328,2.5921,3.7762,0.8931,3.7816)",
+            "span": {
+              "offset": 305,
+              "length": 24
+            }
+          },
+          {
+            "content": "\u00b7 View charts summarizing account (s)",
+            "source": "D(1,0.8931,3.9254,3.4016,3.9195,3.402,4.0831,0.8935,4.0889)",
+            "span": {
+              "offset": 331,
+              "length": 37
+            }
+          },
+          {
+            "content": "\u00b7 Click to call or email Customer Service",
+            "source": "D(1,0.8932,4.209,3.4975,4.2086,3.4975,4.3602,0.8932,4.3606)",
+            "span": {
+              "offset": 370,
+              "length": 41
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Provides additional time-saving options",
+            "source": "D(1,0.6116,4.5858,3.3565,4.5922,3.3561,4.7654,0.6112,4.759)",
+            "span": {
+              "offset": 414,
+              "length": 43
+            }
+          },
+          {
+            "content": "\u00b7 View claims requiring receipts",
+            "source": "D(1,0.8929,4.891,2.9877,4.8946,2.9874,5.0548,0.8926,5.0512)",
+            "span": {
+              "offset": 459,
+              "length": 32
+            }
+          },
+          {
+            "content": "\u00b7 Submit medical FSA and HRA claims",
+            "source": "D(1,0.8925,5.1872,3.3467,5.185,3.3468,5.3334,0.8927,5.3356)",
+            "span": {
+              "offset": 493,
+              "length": 35
+            }
+          },
+          {
+            "content": "\u00b7 Take a picture of a receipt to submit for a claim",
+            "source": "D(1,0.8931,5.473,4.0296,5.4698,4.0298,5.6317,0.8932,5.6349)",
+            "span": {
+              "offset": 530,
+              "length": 51
+            }
+          },
+          {
+            "content": "\u00b7 View HSA transaction details",
+            "source": "D(1,0.892,5.7687,2.9223,5.7662,2.9225,5.9139,0.8922,5.9165)",
+            "span": {
+              "offset": 583,
+              "length": 30
+            }
+          },
+          {
+            "content": "\u00b7 Using Expense Tracker, enter medical expense information and support documentation to store for later use in paying claims via your health benefits website",
+            "source": "D(1,0.8956,6.0621,4.7848,6.0569,4.7855,6.5475,0.8963,6.5527)",
+            "span": {
+              "offset": 615,
+              "length": 157
+            }
+          },
+          {
+            "content": "\u00b7 Report a lost or stolen debit card",
+            "source": "D(1,0.8912,6.6884,3.1731,6.6837,3.1734,6.8373,0.8916,6.842)",
+            "span": {
+              "offset": 774,
+              "length": 36
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "The iFlex App is easy, convenient and secure",
+            "source": "D(1,0.6094,7.0656,3.6304,7.0672,3.6304,7.2371,0.6093,7.2356)",
+            "span": {
+              "offset": 813,
+              "length": 48
+            }
+          },
+          {
+            "content": "Simply login to the app using your same health benefits website username and password (or follow alternative instructions if provided to you)",
+            "source": "D(1,0.6093,7.3532,4.6066,7.3518,4.6068,7.8641,0.6095,7.8655)",
+            "span": {
+              "offset": 863,
+              "length": 141
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Follow these steps to download the iFlex App",
+            "source": "D(1,0.6144,8.0358,3.6635,8.0435,3.663,8.2139,0.614,8.2062)",
+            "span": {
+              "offset": 1007,
+              "length": 49
+            }
+          },
+          {
+            "content": "1. Visit the iTunes App Store or the Android Market to download the isolved app on your iphone, ipad or Android.",
+            "source": "D(1,0.8755,8.3376,4.7045,8.3374,4.7046,8.6681,0.8756,8.6684)",
+            "span": {
+              "offset": 1058,
+              "length": 113
+            }
+          },
+          {
+            "content": "2. Once installed, enter the Username and Password to log into your account at www.isolvedbenefitservices.com",
+            "source": "D(1,0.8685,8.7881,4.6315,8.8002,4.6304,9.1349,0.8674,9.1228)",
+            "span": {
+              "offset": 1173,
+              "length": 110
+            }
+          },
+          {
+            "content": "Back Eligible Expense Scanner",
+            "source": "D(1,5.6669,3.9353,7.1977,3.934,7.1978,4.0609,5.667,4.0622)",
+            "span": {
+              "offset": 1307,
+              "length": 29
+            }
+          },
+          {
+            "content": "\u2612 Eligible Item.",
+            "source": "D(1,6.2727,4.8401,6.9381,4.8424,6.9358,5.5091,6.2704,5.5068)",
+            "span": {
+              "offset": 1349,
+              "length": 16
+            }
+          },
+          {
+            "content": "SCAN ANOTHER ITEM",
+            "source": "D(1,6.1062,6.3702,7.113,6.3702,7.113,6.4859,6.1062,6.4859)",
+            "span": {
+              "offset": 1367,
+              "length": 17
+            }
+          },
+          {
+            "content": "COPYRIGHT SIGIS",
+            "source": "D(1,6.1965,6.7105,7.0279,6.7102,7.0279,6.8269,6.1965,6.8272)",
+            "span": {
+              "offset": 1386,
+              "length": 15
+            }
+          },
+          {
+            "content": "000 More",
+            "source": "D(1,7.3411,7.5293,7.5113,7.5308,7.5097,7.7175,7.3394,7.716)",
+            "span": {
+              "offset": 1425,
+              "length": 8
+            }
+          },
+          {
+            "content": "Home Messages",
+            "source": "D(1,5.6928,7.6455,6.5096,7.6477,6.5094,7.7209,5.6926,7.7187)",
+            "span": {
+              "offset": 1435,
+              "length": 13
+            }
+          },
+          {
+            "content": "Me",
+            "source": "D(1,6.8267,7.6516,6.9369,7.6523,6.9366,7.7169,6.8264,7.7163)",
+            "span": {
+              "offset": 1450,
+              "length": 2
+            }
+          },
+          {
+            "content": "Download on the App Store",
+            "source": "D(1,5.741,7.9047,6.3085,7.9064,6.3078,8.1254,5.7404,8.1237)",
+            "span": {
+              "offset": 1454,
+              "length": 25
+            }
+          },
+          {
+            "content": "GET IT ON Google Play",
+            "source": "D(1,6.9368,7.8826,7.6461,7.8883,7.6441,8.1404,6.9348,8.1347)",
+            "span": {
+              "offset": 1481,
+              "length": 21
+            }
+          },
+          {
+            "content": "The iFlex mobile app is available for free on Google Play and the App Store.",
+            "source": "D(1,5.4416,8.2672,7.5707,8.2707,7.5703,8.5463,5.4412,8.5427)",
+            "span": {
+              "offset": 1516,
+              "length": 76
+            }
+          },
+          {
+            "content": "Transforming employee experience for a better today and a better tomorrow.",
+            "source": "D(1,0.6319,9.8846,5.5567,9.8871,5.5566,10.0541,0.6318,10.0516)",
+            "span": {
+              "offset": 1594,
+              "length": 74
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "copyright 2020 . www.isolvedhcm.com",
+            "source": "D(1,0.6116,10.174,2.9918,10.1591,2.9928,10.3129,0.6126,10.3279)",
+            "span": {
+              "offset": 1670,
+              "length": 57
+            }
+          },
+          {
+            "content": "solved",
+            "source": "D(1,6.2657,10.0527,7.8571,10.0382,7.8602,10.3863,6.2689,10.4008)",
+            "span": {
+              "offset": 1740,
+              "length": 6
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 1757
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/sections/1"
+            ]
+          },
+          {
+            "span": {
+              "offset": 29,
+              "length": 1728
+            },
+            "elements": [
+              "/paragraphs/1",
+              "/paragraphs/2",
+              "/sections/2",
+              "/sections/3",
+              "/sections/4"
+            ]
+          },
+          {
+            "span": {
+              "offset": 215,
+              "length": 196
+            },
+            "elements": [
+              "/paragraphs/3",
+              "/paragraphs/4",
+              "/paragraphs/5",
+              "/paragraphs/6",
+              "/paragraphs/7"
+            ]
+          },
+          {
+            "span": {
+              "offset": 414,
+              "length": 396
+            },
+            "elements": [
+              "/paragraphs/8",
+              "/paragraphs/9",
+              "/paragraphs/10",
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13",
+              "/paragraphs/14"
+            ]
+          },
+          {
+            "span": {
+              "offset": 813,
+              "length": 944
+            },
+            "elements": [
+              "/paragraphs/15",
+              "/paragraphs/16",
+              "/sections/5"
+            ]
+          },
+          {
+            "span": {
+              "offset": 1007,
+              "length": 750
+            },
+            "elements": [
+              "/paragraphs/17",
+              "/paragraphs/18",
+              "/paragraphs/19",
+              "/figures/0",
+              "/paragraphs/20",
+              "/figures/1",
+              "/figures/2",
+              "/paragraphs/29",
+              "/paragraphs/30",
+              "/figures/3"
+            ]
+          }
+        ],
+        "figures": [
+          {
+            "source": "D(1,5.5685,1.234,7.8911,1.2343,7.8899,3.5498,5.5673,3.5496)",
+            "span": {
+              "offset": 1286,
+              "length": 18
+            },
+            "id": "1.1"
+          },
+          {
+            "source": "D(1,5.5501,4.6123,7.6711,4.6124,7.6705,6.9937,5.5496,6.9934)",
+            "span": {
+              "offset": 1339,
+              "length": 73
+            },
+            "elements": [
+              "/paragraphs/21",
+              "/paragraphs/22",
+              "/paragraphs/23"
+            ],
+            "id": "1.2"
+          },
+          {
+            "source": "D(1,5.4273,7.4493,7.7115,7.4486,7.7121,8.2856,5.428,8.2861)",
+            "span": {
+              "offset": 1415,
+              "length": 98
+            },
+            "elements": [
+              "/paragraphs/24",
+              "/paragraphs/25",
+              "/paragraphs/26",
+              "/paragraphs/27",
+              "/paragraphs/28"
+            ],
+            "id": "1.3"
+          },
+          {
+            "source": "D(1,6.2484,10.0198,7.8935,10.0197,7.8932,10.4248,6.248,10.4248)",
+            "span": {
+              "offset": 1730,
+              "length": 27
+            },
+            "elements": [
+              "/paragraphs/32"
+            ],
+            "id": "1.4"
+          }
+        ]
+      }
+    ]
+  }
+}

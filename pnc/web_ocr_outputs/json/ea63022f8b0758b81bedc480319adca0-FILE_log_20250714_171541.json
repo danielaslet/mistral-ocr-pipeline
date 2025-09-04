@@ -1,0 +1,3106 @@
+{
+  "id": "9a67066b-0bfb-4efa-98f1-d4859b2543fb",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "prebuilt-documentAnalyzer",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-07-14T17:15:35Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "# asolved Benefit Services\n\n\n## The Health FSA Carryover.\n\nThe U.S. Treasury Department issued Notice 2020-33 for the Health\nFlexible Spending Account (FSA) Use-or-Lose rule to allow up to a $640\ncarryover of Health FSA funds. The carryover is applicable only to Health\nFSAs (not to Dependent Care FSAs). Any unused amount above the\ncarryover limit is subject to forfeiture and cannot be cashed out or\ntransferred to other taxable or nontaxable benefits (e.g., HSAs).\n\n\n<figure>\n</figure>\n\n\nIf your organization offers the carryover option, it's great news for you because:\n\n\n<figure>\n</figure>\n\n\nYou can now carry over up to $640 of your unused Health FSA funds at the end of the plan year.\n\n\n<figure>\n\n$\n\n</figure>\n\n\nThe money you put in a Health FSA is not taxed, so assuming you pay a combined 40 percent state\nand federal tax rate, you're saving 40 percent on health care expenses funded through the\naccount.\n\n\n### Before Carryover\n\n\n### FSA Carryover\n\n\n<figure>\n\nJanuary 1\n\nUp to $3,050\nAvailable\n\nJanuary 1\n\nUp to $3,050\nAvailable\n\nMinus medical, dental and vision expenses\n\nMinus medical, dental and vision expenses\n\nDecember\n\nRemaining Balance\n$450 Available\n\nDecember\n\nRemaining Balance\n$450 Available\n\n$0\n\n$450\n\n</figure>\n\n\n\\* This graphic is for informational purposes only. Plans vary by employer and this scenario may not be applicable for all employees.\n\nThe Health FSA carryover option may also apply to Limited FSA, an employer-sponsored benefit that is often\nusedinconjunction with a Health Savings Account (HSA), offered with ahigh deductible health plan.\n\nIf your organization offers carryover but you have chosen not to participate in the Health FSA program\nbecause of the Use-or-Lose rule, it's time to take another look.\n\n<!-- PageFooter=\"copyright 2023 . www.isolvedbenefitservices.com\" -->\n\n\n<figure>\n\nasolved\n\n</figure>",
+        "fields": {
+          "Summary": {
+            "type": "string",
+            "valueString": "The document discusses the U.S. Treasury Department's Notice 2020-33, which allows a carryover of up to $640 for Health Flexible Spending Account (FSA) funds under the Use-or-Lose rule. This carryover is applicable only to Health FSAs and not to Dependent Care FSAs. Any unused amount above the carryover limit is forfeited. The document highlights the tax benefits of contributing to a Health FSA and mentions that the carryover option may also apply to Limited FSAs used with Health Savings Accounts (HSAs)."
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "inch",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": 0.003861996,
+            "width": 8.5,
+            "height": 11,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 1845
+              }
+            ],
+            "words": [
+              {
+                "content": "asolved",
+                "span": {
+                  "offset": 2,
+                  "length": 7
+                },
+                "confidence": 0.759,
+                "source": "D(1,0.5273,0.5083,2.4166,0.503,2.4142,0.9909,0.5263,0.9844)"
+              },
+              {
+                "content": "Benefit",
+                "span": {
+                  "offset": 10,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5194,0.5035,4.0054,0.5169,4.0013,0.9909,2.5167,0.9909)"
+              },
+              {
+                "content": "Services",
+                "span": {
+                  "offset": 18,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.1003,0.5178,5.8438,0.5334,5.8438,0.9909,4.096,0.9909)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 32,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,0.6052,2.202,1.2373,2.2035,1.2378,2.5461,0.6065,2.544)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 36,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.3637,2.2029,2.4268,2.205,2.4268,2.5549,1.3642,2.5477)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 43,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.5648,2.2051,3.1739,2.2087,3.1735,2.5631,2.5646,2.5562)"
+              },
+              {
+                "content": "Carryover.",
+                "span": {
+                  "offset": 47,
+                  "length": 10
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.283,2.2101,5.0192,2.2276,5.0192,2.5742,3.2828,2.5641)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 59,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.6064,2.6739,0.8593,2.6744,0.8599,2.8438,0.607,2.8429)"
+              },
+              {
+                "content": "U.S.",
+                "span": {
+                  "offset": 63,
+                  "length": 4
+                },
+                "confidence": 0.987,
+                "source": "D(1,0.8923,2.6745,1.1671,2.6744,1.1677,2.8446,0.8929,2.8439)"
+              },
+              {
+                "content": "Treasury",
+                "span": {
+                  "offset": 68,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2028,2.6744,1.7827,2.6743,1.7835,2.8445,1.2034,2.8447)"
+              },
+              {
+                "content": "Department",
+                "span": {
+                  "offset": 77,
+                  "length": 10
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.8157,2.6742,2.6182,2.6751,2.6191,2.8439,1.8165,2.8444)"
+              },
+              {
+                "content": "issued",
+                "span": {
+                  "offset": 88,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6512,2.6751,3.1157,2.6751,3.1165,2.8423,2.6521,2.8438)"
+              },
+              {
+                "content": "Notice",
+                "span": {
+                  "offset": 95,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.1569,2.6751,3.5912,2.6747,3.5918,2.841,3.1578,2.8422)"
+              },
+              {
+                "content": "2020-33",
+                "span": {
+                  "offset": 102,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.6269,2.6745,4.1848,2.6733,4.1852,2.8395,3.6275,2.8409)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 110,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.2233,2.6733,4.3992,2.6735,4.3995,2.8391,4.2236,2.8394)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 114,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.4322,2.6735,4.6658,2.6735,4.6661,2.8382,4.4325,2.839)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 118,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.707,2.6735,5.152,2.6733,5.152,2.8373,4.7073,2.8381)"
+              },
+              {
+                "content": "Flexible",
+                "span": {
+                  "offset": 125,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6095,2.866,1.1259,2.8658,1.1267,3.0441,0.6105,3.0409)"
+              },
+              {
+                "content": "Spending",
+                "span": {
+                  "offset": 134,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1641,2.8658,1.792,2.8644,1.7938,3.0448,1.1649,3.0442)"
+              },
+              {
+                "content": "Account",
+                "span": {
+                  "offset": 143,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.8301,2.8643,2.3994,2.8639,2.4009,3.0448,1.8319,3.0448)"
+              },
+              {
+                "content": "(FSA)",
+                "span": {
+                  "offset": 151,
+                  "length": 5
+                },
+                "confidence": 0.984,
+                "source": "D(1,2.4493,2.8638,2.7926,2.8633,2.794,3.0444,2.4508,3.0448)"
+              },
+              {
+                "content": "Use-or-Lose",
+                "span": {
+                  "offset": 157,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.8483,2.8632,3.6611,2.8644,3.6624,3.0424,2.8498,3.044)"
+              },
+              {
+                "content": "rule",
+                "span": {
+                  "offset": 169,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.6963,2.8645,3.9663,2.8641,3.9669,3.0416,3.6975,3.0423)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 174,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.0015,2.8641,4.1453,2.8642,4.1459,3.042,4.002,3.0415)"
+              },
+              {
+                "content": "allow",
+                "span": {
+                  "offset": 177,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.1805,2.8642,4.5208,2.8644,4.5218,3.0433,4.1811,3.0421)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 183,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.5619,2.8643,4.7174,2.8642,4.7186,3.0436,4.563,3.0433)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 186,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.7526,2.8642,4.8994,2.8638,4.9003,3.0434,4.7538,3.0436)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 189,
+                  "length": 1
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.9346,2.8637,5.005,2.8635,5.0058,3.0433,4.9355,3.0433)"
+              },
+              {
+                "content": "$640",
+                "span": {
+                  "offset": 191,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.0431,2.8634,5.401,2.864,5.401,3.0413,5.0439,3.0432)"
+              },
+              {
+                "content": "carryover",
+                "span": {
+                  "offset": 196,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6083,3.0687,1.2618,3.066,1.2635,3.2333,0.6096,3.2358)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 206,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2956,3.0656,1.4083,3.0651,1.41,3.2329,1.2973,3.2328)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 209,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.4421,3.0649,1.8815,3.0643,1.8832,3.2353,1.4438,3.233)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 216,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.9154,3.0643,2.1632,3.0639,2.1649,3.2359,1.917,3.2356)"
+              },
+              {
+                "content": "funds.",
+                "span": {
+                  "offset": 220,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.197,3.0638,2.6337,3.0628,2.6353,3.2352,2.1987,3.2358)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 227,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.6703,3.0628,2.9266,3.0624,2.9281,3.2362,2.6719,3.2351)"
+              },
+              {
+                "content": "carryover",
+                "span": {
+                  "offset": 231,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.9633,3.0624,3.5717,3.0625,3.5734,3.2367,2.9648,3.2363)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 241,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.6055,3.0624,3.7351,3.0624,3.7368,3.2365,3.6072,3.2366)"
+              },
+              {
+                "content": "applicable",
+                "span": {
+                  "offset": 244,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.7717,3.0625,4.4534,3.0625,4.4552,3.2373,3.7734,3.2367)"
+              },
+              {
+                "content": "only",
+                "span": {
+                  "offset": 255,
+                  "length": 4
+                },
+                "confidence": 0.986,
+                "source": "D(1,4.49,3.0624,4.7548,3.062,4.7564,3.2377,4.4918,3.2374)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 260,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.7886,3.0621,4.9239,3.0625,4.9255,3.2369,4.7902,3.2375)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 263,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.9577,3.0626,5.4287,3.0645,5.4287,3.2342,4.9593,3.2367)"
+              },
+              {
+                "content": "FSAs",
+                "span": {
+                  "offset": 270,
+                  "length": 4
+                },
+                "confidence": 0.986,
+                "source": "D(1,0.6092,3.2546,0.9496,3.2537,0.9503,3.4277,0.6096,3.4252)"
+              },
+              {
+                "content": "(not",
+                "span": {
+                  "offset": 275,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.0035,3.2538,1.256,3.2541,1.2566,3.4295,1.0042,3.4281)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 280,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2901,3.2541,1.4263,3.2539,1.4269,3.4298,1.2907,3.4296)"
+              },
+              {
+                "content": "Dependent",
+                "span": {
+                  "offset": 283,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.4603,3.2538,2.2349,3.2538,2.2358,3.4293,1.461,3.4299)"
+              },
+              {
+                "content": "Care",
+                "span": {
+                  "offset": 293,
+                  "length": 4
+                },
+                "confidence": 0.988,
+                "source": "D(1,2.2689,3.2538,2.5867,3.2539,2.5878,3.43,2.2699,3.4294)"
+              },
+              {
+                "content": "FSAs).",
+                "span": {
+                  "offset": 298,
+                  "length": 6
+                },
+                "confidence": 0.977,
+                "source": "D(1,2.6264,3.2539,3.0406,3.2544,3.0413,3.4297,2.6275,3.43)"
+              },
+              {
+                "content": "Any",
+                "span": {
+                  "offset": 305,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.0803,3.2545,3.3329,3.2553,3.3334,3.4289,3.081,3.4296)"
+              },
+              {
+                "content": "unused",
+                "span": {
+                  "offset": 309,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.3726,3.2554,3.8634,3.2562,3.8637,3.4271,3.3732,3.4288)"
+              },
+              {
+                "content": "amount",
+                "span": {
+                  "offset": 316,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.906,3.2562,4.4223,3.2564,4.4228,3.4268,3.9063,3.427)"
+              },
+              {
+                "content": "above",
+                "span": {
+                  "offset": 323,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.4564,3.2564,4.8621,3.2565,4.8624,3.4276,4.4569,3.4269)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 329,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.8961,3.2567,5.1354,3.2584,5.1354,3.4263,4.8965,3.4274)"
+              },
+              {
+                "content": "carryover",
+                "span": {
+                  "offset": 333,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6089,3.4559,1.2307,3.4528,1.2315,3.6256,0.6095,3.6256)"
+              },
+              {
+                "content": "limit",
+                "span": {
+                  "offset": 343,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.264,3.4526,1.5416,3.4517,1.5423,3.6236,1.2648,3.6253)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 349,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.5749,3.4517,1.7137,3.4517,1.7145,3.6235,1.5756,3.6234)"
+              },
+              {
+                "content": "subject",
+                "span": {
+                  "offset": 352,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.7498,3.4518,2.2412,3.4516,2.2418,3.6232,1.7506,3.6235)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 360,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.2745,3.4514,2.4077,3.4507,2.4085,3.6225,2.2752,3.623)"
+              },
+              {
+                "content": "forfeiture",
+                "span": {
+                  "offset": 363,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.441,3.4506,3.099,3.4509,3.0993,3.6198,2.4419,3.6223)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 374,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.135,3.4508,3.3793,3.4513,3.3798,3.6181,3.1354,3.6197)"
+              },
+              {
+                "content": "cannot",
+                "span": {
+                  "offset": 378,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.4182,3.4514,3.8735,3.4502,3.8738,3.6177,3.4187,3.6179)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 385,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.9068,3.4502,4.09,3.4502,4.0906,3.6173,3.9072,3.6177)"
+              },
+              {
+                "content": "cashed",
+                "span": {
+                  "offset": 388,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.1261,3.4501,4.6146,3.4495,4.6149,3.6167,4.1267,3.6173)"
+              },
+              {
+                "content": "out",
+                "span": {
+                  "offset": 395,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6535,3.4494,4.8784,3.4496,4.8785,3.6159,4.6537,3.6165)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 399,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.9144,3.4497,5.0579,3.45,5.0579,3.6157,4.9146,3.6159)"
+              },
+              {
+                "content": "transferred",
+                "span": {
+                  "offset": 402,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.6059,3.641,1.3826,3.6401,1.3831,3.8141,0.6066,3.8122)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 414,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.4199,3.6401,1.5603,3.6401,1.5607,3.8138,1.4203,3.814)"
+              },
+              {
+                "content": "other",
+                "span": {
+                  "offset": 417,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.5976,3.6402,1.9473,3.6406,1.9477,3.8139,1.598,3.8137)"
+              },
+              {
+                "content": "taxable",
+                "span": {
+                  "offset": 423,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.9817,3.6406,2.489,3.6404,2.4893,3.815,1.982,3.814)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 431,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.5262,3.6405,2.6351,3.6409,2.6355,3.8151,2.5266,3.815)"
+              },
+              {
+                "content": "nontaxable",
+                "span": {
+                  "offset": 434,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6695,3.641,3.4262,3.642,3.4265,3.8156,2.6698,3.8151)"
+              },
+              {
+                "content": "benefits",
+                "span": {
+                  "offset": 445,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.4606,3.6418,4.0453,3.6411,4.0455,3.8184,3.4609,3.8158)"
+              },
+              {
+                "content": "(e.g.,",
+                "span": {
+                  "offset": 454,
+                  "length": 6
+                },
+                "confidence": 0.967,
+                "source": "D(1,4.094,3.6411,4.4093,3.6404,4.4095,3.8194,4.0942,3.8186)"
+              },
+              {
+                "content": "HSAs).",
+                "span": {
+                  "offset": 461,
+                  "length": 6
+                },
+                "confidence": 0.991,
+                "source": "D(1,4.458,3.6402,4.9141,3.6395,4.9141,3.8178,4.4582,3.8195)"
+              },
+              {
+                "content": "If",
+                "span": {
+                  "offset": 491,
+                  "length": 2
+                },
+                "confidence": 0.956,
+                "source": "D(1,0.609,4.109,0.7016,4.109,0.7019,4.2878,0.6093,4.2877)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 494,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.7363,4.1089,1.0719,4.109,1.0724,4.2877,0.7366,4.2878)"
+              },
+              {
+                "content": "organization",
+                "span": {
+                  "offset": 499,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1095,4.109,1.9688,4.1096,1.9691,4.2863,1.11,4.2875)"
+              },
+              {
+                "content": "offers",
+                "span": {
+                  "offset": 512,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.018,4.1097,2.4173,4.1106,2.4175,4.286,2.0182,4.2862)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 519,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.4607,4.1107,2.6776,4.1111,2.6779,4.2863,2.4609,4.2861)"
+              },
+              {
+                "content": "carryover",
+                "span": {
+                  "offset": 523,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.7239,4.1112,3.3923,4.1098,3.3925,4.2867,2.7242,4.2863)"
+              },
+              {
+                "content": "option,",
+                "span": {
+                  "offset": 533,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.4299,4.1097,3.8957,4.1088,3.8959,4.2868,3.4301,4.2867)"
+              },
+              {
+                "content": "it's",
+                "span": {
+                  "offset": 541,
+                  "length": 4
+                },
+                "confidence": 0.985,
+                "source": "D(1,3.9304,4.1089,4.1589,4.1091,4.1591,4.2868,3.9306,4.2868)"
+              },
+              {
+                "content": "great",
+                "span": {
+                  "offset": 546,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.2081,4.1091,4.564,4.1086,4.5642,4.2877,4.2083,4.2869)"
+              },
+              {
+                "content": "news",
+                "span": {
+                  "offset": 552,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6074,4.1086,4.9633,4.1092,4.9633,4.2856,4.6075,4.2876)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 557,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.0066,4.1091,5.2063,4.1081,5.2064,4.2855,5.0067,4.2856)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 561,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.2439,4.1079,5.4956,4.1078,5.4956,4.2848,5.244,4.2855)"
+              },
+              {
+                "content": "because:",
+                "span": {
+                  "offset": 565,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.5506,4.1081,6.1758,4.1119,6.1758,4.2835,5.5505,4.2844)"
+              },
+              {
+                "content": "You",
+                "span": {
+                  "offset": 597,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.2322,4.695,1.4814,4.6948,1.4819,4.8639,1.2326,4.8631)"
+              },
+              {
+                "content": "can",
+                "span": {
+                  "offset": 601,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.5186,4.6948,1.7249,4.6945,1.7253,4.8645,1.5191,4.864)"
+              },
+              {
+                "content": "now",
+                "span": {
+                  "offset": 605,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.7592,4.6944,2.0485,4.6934,2.0487,4.8647,1.7597,4.8646)"
+              },
+              {
+                "content": "carry",
+                "span": {
+                  "offset": 609,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0829,4.6933,2.3894,4.6917,2.3896,4.8646,2.0831,4.8647)"
+              },
+              {
+                "content": "over",
+                "span": {
+                  "offset": 615,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,2.4237,4.6915,2.6987,4.6901,2.699,4.8649,2.4239,4.8646)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 620,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.7331,4.69,2.9135,4.6891,2.9138,4.8652,2.7333,4.8649)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 623,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.9536,4.6889,3.0825,4.689,3.0829,4.8658,2.954,4.8653)"
+              },
+              {
+                "content": "$640",
+                "span": {
+                  "offset": 626,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.1283,4.689,3.4291,4.6892,3.4297,4.8661,3.1288,4.866)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 631,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.4721,4.6892,3.5809,4.6892,3.5815,4.8661,3.4726,4.8661)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 634,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.6153,4.6892,3.9189,4.6893,3.9194,4.8657,3.6159,4.8661)"
+              },
+              {
+                "content": "unused",
+                "span": {
+                  "offset": 639,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.9533,4.6893,4.4058,4.6892,4.4061,4.8639,3.9538,4.8655)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 646,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.4402,4.6891,4.8526,4.6886,4.8529,4.8636,4.4405,4.8638)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 653,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.887,4.6886,5.1276,4.6884,5.1279,4.8642,4.8873,4.8637)"
+              },
+              {
+                "content": "funds",
+                "span": {
+                  "offset": 657,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.162,4.6884,5.5487,4.689,5.5488,4.8646,5.1622,4.8643)"
+              },
+              {
+                "content": "at",
+                "span": {
+                  "offset": 663,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.583,4.689,5.689,4.689,5.6892,4.8645,5.5832,4.8646)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 666,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.7234,4.6891,5.9554,4.6892,5.9556,4.8641,5.7236,4.8644)"
+              },
+              {
+                "content": "end",
+                "span": {
+                  "offset": 670,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.9897,4.6892,6.2246,4.6885,6.2248,4.8654,5.99,4.8642)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 674,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.2647,4.6884,6.3764,4.6881,6.3767,4.8661,6.2649,4.8656)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 677,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.4108,4.688,6.617,4.6884,6.6172,4.8661,6.411,4.8661)"
+              },
+              {
+                "content": "plan",
+                "span": {
+                  "offset": 681,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.6514,4.6885,6.935,4.6892,6.9351,4.866,6.6516,4.866)"
+              },
+              {
+                "content": "year.",
+                "span": {
+                  "offset": 686,
+                  "length": 5
+                },
+                "confidence": 0.988,
+                "source": "D(1,6.9693,4.6893,7.2881,4.6901,7.2881,4.8661,6.9695,4.8661)"
+              },
+              {
+                "content": "$",
+                "span": {
+                  "offset": 704,
+                  "length": 1
+                },
+                "confidence": 0.977,
+                "source": "D(1,0.7708,5.3604,0.891,5.3566,0.891,5.5534,0.7725,5.5581)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 719,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.2334,5.2499,1.4731,5.251,1.4736,5.4231,1.2341,5.4212)"
+              },
+              {
+                "content": "money",
+                "span": {
+                  "offset": 723,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.5073,5.2512,1.9751,5.2507,1.9756,5.4249,1.5078,5.4234)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 729,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.0122,5.2505,2.2262,5.2497,2.2266,5.4247,2.0127,5.4249)"
+              },
+              {
+                "content": "put",
+                "span": {
+                  "offset": 733,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.2604,5.2496,2.4772,5.2495,2.4777,5.424,2.2609,5.4246)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 737,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.5114,5.2495,2.6541,5.2494,2.6546,5.4236,2.5119,5.4239)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 740,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.694,5.2494,2.7396,5.2495,2.7401,5.4237,2.6945,5.4237)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 742,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.7739,5.2495,3.2075,5.2501,3.2081,5.4241,2.7744,5.4238)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 749,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.2417,5.2502,3.4813,5.251,3.4823,5.4239,3.2424,5.4241)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 753,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.5156,5.2511,3.6297,5.2511,3.6306,5.4239,3.5165,5.4239)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 756,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.6639,5.2511,3.9064,5.2508,3.9073,5.4239,3.6649,5.4239)"
+              },
+              {
+                "content": "taxed,",
+                "span": {
+                  "offset": 760,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.952,5.2507,4.3514,5.2502,4.3519,5.4241,3.9529,5.424)"
+              },
+              {
+                "content": "so",
+                "span": {
+                  "offset": 767,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3999,5.2501,4.5425,5.2501,4.5429,5.4245,4.4004,5.4242)"
+              },
+              {
+                "content": "assuming",
+                "span": {
+                  "offset": 770,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.5768,5.2502,5.2186,5.2507,5.219,5.4253,4.5772,5.4246)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 779,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.2614,5.2507,5.4782,5.2507,5.4785,5.4253,5.2618,5.4253)"
+              },
+              {
+                "content": "pay",
+                "span": {
+                  "offset": 783,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.5124,5.2508,5.7692,5.2514,5.7695,5.4253,5.5128,5.4253)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 787,
+                  "length": 1
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.8063,5.2515,5.8747,5.2517,5.875,5.4253,5.8066,5.4253)"
+              },
+              {
+                "content": "combined",
+                "span": {
+                  "offset": 789,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.9118,5.2517,6.5622,5.2507,6.5626,5.4253,5.9121,5.4253)"
+              },
+              {
+                "content": "40",
+                "span": {
+                  "offset": 798,
+                  "length": 2
+                },
+                "confidence": 0.99,
+                "source": "D(1,6.605,5.2505,6.7619,5.2497,6.7623,5.4253,6.6054,5.4253)"
+              },
+              {
+                "content": "percent",
+                "span": {
+                  "offset": 801,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.8076,5.2495,7.3324,5.2493,7.3329,5.4224,6.808,5.4253)"
+              },
+              {
+                "content": "state",
+                "span": {
+                  "offset": 809,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,7.3724,5.2492,7.7363,5.2489,7.7363,5.421,7.3728,5.4223)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 815,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.2352,5.4396,1.4893,5.4399,1.4898,5.6101,1.2356,5.61)"
+              },
+              {
+                "content": "federal",
+                "span": {
+                  "offset": 819,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5293,5.4399,1.9919,5.4406,1.9921,5.6097,1.5297,5.6102)"
+              },
+              {
+                "content": "tax",
+                "span": {
+                  "offset": 827,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.0347,5.4407,2.2289,5.4404,2.2291,5.6102,2.0349,5.6097)"
+              },
+              {
+                "content": "rate,",
+                "span": {
+                  "offset": 831,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.2631,5.4403,2.5829,5.4393,2.5832,5.6119,2.2634,5.6103)"
+              },
+              {
+                "content": "you're",
+                "span": {
+                  "offset": 837,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6286,5.4391,3.0398,5.438,3.0402,5.6135,2.6289,5.6121)"
+              },
+              {
+                "content": "saving",
+                "span": {
+                  "offset": 844,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.0798,5.438,3.5024,5.4376,3.5031,5.6135,3.0803,5.6135)"
+              },
+              {
+                "content": "40",
+                "span": {
+                  "offset": 851,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.5452,5.4377,3.7023,5.4377,3.7029,5.6135,3.5459,5.6135)"
+              },
+              {
+                "content": "percent",
+                "span": {
+                  "offset": 854,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.748,5.4377,4.2562,5.4391,4.2566,5.6135,3.7485,5.6135)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 862,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.2933,5.4391,4.4504,5.4388,4.4507,5.6135,4.2937,5.6135)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 865,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.5246,5.4387,4.9387,5.4385,4.939,5.6135,4.525,5.6135)"
+              },
+              {
+                "content": "care",
+                "span": {
+                  "offset": 872,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.9786,5.4386,5.2642,5.4387,5.2645,5.6135,4.979,5.6135)"
+              },
+              {
+                "content": "expenses",
+                "span": {
+                  "offset": 877,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.3041,5.4388,5.938,5.439,5.9383,5.6127,5.3044,5.6135)"
+              },
+              {
+                "content": "funded",
+                "span": {
+                  "offset": 886,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.9752,5.439,6.4463,5.4378,6.4466,5.6131,5.9755,5.6126)"
+              },
+              {
+                "content": "through",
+                "span": {
+                  "offset": 893,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.4834,5.438,7.0174,5.4391,7.0177,5.6135,6.4837,5.6133)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 901,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,7.0545,5.439,7.2936,5.4385,7.2936,5.6135,7.0548,5.6135)"
+              },
+              {
+                "content": "account.",
+                "span": {
+                  "offset": 905,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2372,5.6552,1.8483,5.6528,1.8483,5.7879,1.2386,5.7876)"
+              },
+              {
+                "content": "Before",
+                "span": {
+                  "offset": 920,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6147,6.0026,1.2364,6.0054,1.2364,6.2184,0.6151,6.2129)"
+              },
+              {
+                "content": "Carryover",
+                "span": {
+                  "offset": 927,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2818,6.0062,2.1914,6.0098,2.1914,6.2224,1.2817,6.2187)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 943,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.6512,6.0018,4.0546,6.0061,4.0544,6.2154,3.6513,6.2124)"
+              },
+              {
+                "content": "Carryover",
+                "span": {
+                  "offset": 947,
+                  "length": 9
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.0994,6.0066,5.0026,6.0124,5.0026,6.222,4.0993,6.216)"
+              },
+              {
+                "content": "January",
+                "span": {
+                  "offset": 969,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2686,6.6892,1.8057,6.6911,1.8056,6.8527,1.2687,6.8512)"
+              },
+              {
+                "content": "1",
+                "span": {
+                  "offset": 977,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.8452,6.6912,1.8981,6.6923,1.8981,6.8535,1.8451,6.8535)"
+              },
+              {
+                "content": "Up",
+                "span": {
+                  "offset": 980,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.4617,6.6242,2.6529,6.6274,2.6548,6.7926,2.4646,6.7914)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 983,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.6879,6.6273,2.828,6.6277,2.829,6.7927,2.69,6.7918)"
+              },
+              {
+                "content": "$3,050",
+                "span": {
+                  "offset": 986,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.8657,6.6277,3.3148,6.628,3.3148,6.7907,2.8668,6.7927)"
+              },
+              {
+                "content": "Available",
+                "span": {
+                  "offset": 993,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.4605,6.8115,3.0806,6.8131,3.0811,6.9587,2.4618,6.9577)"
+              },
+              {
+                "content": "January",
+                "span": {
+                  "offset": 1004,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8081,6.6914,5.3465,6.6929,5.3467,6.8533,4.8084,6.8521)"
+              },
+              {
+                "content": "1",
+                "span": {
+                  "offset": 1012,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.3831,6.6931,5.4398,6.6937,5.4398,6.8535,5.3832,6.8535)"
+              },
+              {
+                "content": "Up",
+                "span": {
+                  "offset": 1015,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.3934,6.6238,6.5838,6.6265,6.5865,6.7927,6.3967,6.7927)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1018,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.6165,6.6264,6.7579,6.6267,6.7599,6.7927,6.6192,6.7926)"
+              },
+              {
+                "content": "$3,050",
+                "span": {
+                  "offset": 1021,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.796,6.6265,7.2423,6.6255,7.2437,6.791,6.7981,6.7927)"
+              },
+              {
+                "content": "Available",
+                "span": {
+                  "offset": 1028,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.3923,6.8121,7.0059,6.8121,7.0059,6.9587,6.3935,6.9587)"
+              },
+              {
+                "content": "Minus",
+                "span": {
+                  "offset": 1039,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.0983,7.2106,1.4934,7.2119,1.4939,7.3745,1.0991,7.3718)"
+              },
+              {
+                "content": "medical,",
+                "span": {
+                  "offset": 1045,
+                  "length": 8
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.5255,7.2118,2.0942,7.2119,2.0945,7.3765,1.526,7.3745)"
+              },
+              {
+                "content": "dental",
+                "span": {
+                  "offset": 1054,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.1422,7.212,2.5614,7.2139,2.5615,7.3778,2.1425,7.3768)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1061,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6014,7.214,2.8444,7.2146,2.8445,7.3788,2.6016,7.378)"
+              },
+              {
+                "content": "vision",
+                "span": {
+                  "offset": 1065,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.8844,7.2147,3.2689,7.217,3.2689,7.3795,2.8846,7.3789)"
+              },
+              {
+                "content": "expenses",
+                "span": {
+                  "offset": 1072,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3063,7.2173,3.9678,7.2207,3.9678,7.3795,3.3063,7.3795)"
+              },
+              {
+                "content": "Minus",
+                "span": {
+                  "offset": 1082,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.6375,7.2124,5.0304,7.2127,5.0309,7.3735,4.6381,7.3718)"
+              },
+              {
+                "content": "medical,",
+                "span": {
+                  "offset": 1088,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.0622,7.2128,5.633,7.2127,5.6332,7.3757,5.0628,7.3736)"
+              },
+              {
+                "content": "dental",
+                "span": {
+                  "offset": 1097,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.6808,7.2128,6.1028,7.2138,6.103,7.3774,5.681,7.376)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1104,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.1426,7.214,6.3869,7.2148,6.387,7.3781,6.1428,7.3776)"
+              },
+              {
+                "content": "vision",
+                "span": {
+                  "offset": 1108,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.424,7.2148,6.8063,7.2168,6.8063,7.3794,6.4242,7.3781)"
+              },
+              {
+                "content": "expenses",
+                "span": {
+                  "offset": 1115,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.8434,7.2172,7.5094,7.2212,7.5094,7.3795,6.8435,7.3793)"
+              },
+              {
+                "content": "December",
+                "span": {
+                  "offset": 1125,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2703,7.6975,1.9811,7.7003,1.9811,7.8445,1.2711,7.8445)"
+              },
+              {
+                "content": "Remaining",
+                "span": {
+                  "offset": 1135,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4608,7.6132,3.1238,7.6146,3.1243,7.7777,2.4621,7.7753)"
+              },
+              {
+                "content": "Balance",
+                "span": {
+                  "offset": 1145,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.1559,7.6146,3.6966,7.617,3.6966,7.7769,3.1564,7.778)"
+              },
+              {
+                "content": "$450",
+                "span": {
+                  "offset": 1153,
+                  "length": 4
+                },
+                "confidence": 0.984,
+                "source": "D(1,2.4598,7.8011,2.7882,7.8013,2.7902,7.9565,2.4626,7.958)"
+              },
+              {
+                "content": "Available",
+                "span": {
+                  "offset": 1158,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.834,7.801,3.4421,7.8012,3.4421,7.9557,2.8361,7.9565)"
+              },
+              {
+                "content": "December",
+                "span": {
+                  "offset": 1169,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.8113,7.697,5.5228,7.6997,5.5228,7.8445,4.812,7.8445)"
+              },
+              {
+                "content": "Remaining",
+                "span": {
+                  "offset": 1179,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.3934,7.6134,7.0677,7.615,7.0681,7.7777,6.3945,7.7756)"
+              },
+              {
+                "content": "Balance",
+                "span": {
+                  "offset": 1189,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,7.1076,7.615,7.6257,7.6157,7.6257,7.7741,7.1081,7.7778)"
+              },
+              {
+                "content": "$450",
+                "span": {
+                  "offset": 1197,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,6.3931,7.8023,6.7186,7.8025,6.7205,7.9575,6.3956,7.9582)"
+              },
+              {
+                "content": "Available",
+                "span": {
+                  "offset": 1202,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.7644,7.8025,7.3766,7.801,7.3766,7.9568,6.7662,7.9574)"
+              },
+              {
+                "content": "$0",
+                "span": {
+                  "offset": 1213,
+                  "length": 2
+                },
+                "confidence": 0.975,
+                "source": "D(1,1.5192,8.1622,1.7432,8.1635,1.7432,8.3308,1.5192,8.3304)"
+              },
+              {
+                "content": "$450",
+                "span": {
+                  "offset": 1217,
+                  "length": 4
+                },
+                "confidence": 0.988,
+                "source": "D(1,5.3283,8.1603,5.7552,8.1634,5.7552,8.3301,5.3289,8.3317)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 1235,
+                  "length": 2
+                },
+                "confidence": 0.977,
+                "source": "D(1,0.6235,8.5,0.6757,8.5001,0.6759,8.6476,0.6236,8.6474)"
+              },
+              {
+                "content": "This",
+                "span": {
+                  "offset": 1238,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.713,8.5001,0.9219,8.5001,0.9223,8.6489,0.7132,8.6478)"
+              },
+              {
+                "content": "graphic",
+                "span": {
+                  "offset": 1243,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.9542,8.5002,1.3198,8.5008,1.3203,8.6496,0.9546,8.6491)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1251,
+                  "length": 2
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.3496,8.5009,1.4392,8.5011,1.4396,8.6495,1.3501,8.6496)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 1254,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.469,8.5012,1.6083,8.5015,1.6087,8.6495,1.4694,8.6495)"
+              },
+              {
+                "content": "informational",
+                "span": {
+                  "offset": 1258,
+                  "length": 13
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6381,8.5015,2.3146,8.5012,2.3149,8.6521,1.6385,8.6496)"
+              },
+              {
+                "content": "purposes",
+                "span": {
+                  "offset": 1272,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3444,8.5012,2.8318,8.5013,2.8323,8.6526,2.3448,8.6521)"
+              },
+              {
+                "content": "only.",
+                "span": {
+                  "offset": 1281,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.8691,8.5013,3.1029,8.5012,3.1034,8.6529,2.8696,8.6526)"
+              },
+              {
+                "content": "Plans",
+                "span": {
+                  "offset": 1287,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.1477,8.5012,3.4361,8.5011,3.4367,8.6546,3.1482,8.6531)"
+              },
+              {
+                "content": "vary",
+                "span": {
+                  "offset": 1293,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.4759,8.5011,3.6774,8.501,3.6779,8.6549,3.4765,8.6548)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 1298,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.7072,8.501,3.8489,8.501,3.8494,8.6548,3.7077,8.6549)"
+              },
+              {
+                "content": "employer",
+                "span": {
+                  "offset": 1301,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.8813,8.501,4.3538,8.5022,4.3542,8.654,3.8817,8.6548)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1310,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.3836,8.5023,4.5726,8.5023,4.573,8.6541,4.384,8.654)"
+              },
+              {
+                "content": "this",
+                "span": {
+                  "offset": 1314,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6025,8.5022,4.7989,8.5015,4.7992,8.655,4.6028,8.6543)"
+              },
+              {
+                "content": "scenario",
+                "span": {
+                  "offset": 1319,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8337,8.5014,5.2739,8.5014,5.2741,8.6557,4.834,8.6551)"
+              },
+              {
+                "content": "may",
+                "span": {
+                  "offset": 1328,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.3062,8.5014,5.5301,8.5017,5.5302,8.6557,5.3064,8.6557)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1332,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.5599,8.5018,5.724,8.5018,5.7243,8.6555,5.5601,8.6556)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 1336,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.7564,8.5019,5.8832,8.5019,5.8835,8.6554,5.7566,8.6555)"
+              },
+              {
+                "content": "applicable",
+                "span": {
+                  "offset": 1339,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.918,8.5019,6.4402,8.5016,6.4406,8.6545,5.9183,8.6553)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 1350,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.4751,8.5017,6.6118,8.5021,6.6122,8.6545,6.4754,8.6545)"
+              },
+              {
+                "content": "all",
+                "span": {
+                  "offset": 1354,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.6417,8.5022,6.7635,8.5025,6.7638,8.6544,6.642,8.6544)"
+              },
+              {
+                "content": "employees.",
+                "span": {
+                  "offset": 1358,
+                  "length": 10
+                },
+                "confidence": 0.977,
+                "source": "D(1,6.7959,8.5026,7.3932,8.5018,7.3932,8.6555,6.7961,8.6544)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 1370,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,0.6119,8.86,0.8341,8.8595,0.8343,9.026,0.6122,9.0254)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1374,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8674,8.8595,1.2894,8.8587,1.2896,9.0275,0.8676,9.0261)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 1381,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.3227,8.8587,1.5892,8.8584,1.5892,9.0287,1.3229,9.0276)"
+              },
+              {
+                "content": "carryover",
+                "span": {
+                  "offset": 1385,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.6225,8.8584,2.2223,8.8588,2.2223,9.0305,1.6226,9.0288)"
+              },
+              {
+                "content": "option",
+                "span": {
+                  "offset": 1395,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.2556,8.8589,2.6693,8.8597,2.6694,9.0312,2.2557,9.0305)"
+              },
+              {
+                "content": "may",
+                "span": {
+                  "offset": 1402,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.7109,8.8598,2.9552,8.8604,2.9554,9.0318,2.7111,9.0313)"
+              },
+              {
+                "content": "also",
+                "span": {
+                  "offset": 1406,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9885,8.8604,3.2606,8.8601,3.2608,9.0324,2.9887,9.0318)"
+              },
+              {
+                "content": "apply",
+                "span": {
+                  "offset": 1411,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.2939,8.86,3.6216,8.8594,3.6219,9.0328,3.2942,9.0325)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1417,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.6549,8.8594,3.777,8.8597,3.7773,9.0322,3.6552,9.0327)"
+              },
+              {
+                "content": "Limited",
+                "span": {
+                  "offset": 1420,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.8104,8.8597,4.299,8.8605,4.2992,9.0314,3.8106,9.0321)"
+              },
+              {
+                "content": "FSA,",
+                "span": {
+                  "offset": 1428,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3406,8.8606,4.5988,8.8607,4.5991,9.0319,4.3409,9.0315)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 1433,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.6433,8.8606,4.7932,8.8604,4.7934,9.0324,4.6435,9.032)"
+              },
+              {
+                "content": "employer-sponsored",
+                "span": {
+                  "offset": 1436,
+                  "length": 18
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8293,8.8603,6.1703,8.8611,6.1706,9.029,4.8295,9.0325)"
+              },
+              {
+                "content": "benefit",
+                "span": {
+                  "offset": 1455,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.2064,8.8611,6.6534,8.861,6.6537,9.0272,6.2067,9.0289)"
+              },
+              {
+                "content": "that",
+                "span": {
+                  "offset": 1463,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.6867,8.8609,6.9421,8.8604,6.9423,9.0254,6.687,9.027)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1468,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.9754,8.8603,7.0976,8.8601,7.0978,9.0249,6.9756,9.0251)"
+              },
+              {
+                "content": "often",
+                "span": {
+                  "offset": 1471,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,7.1309,8.86,7.4873,8.8594,7.4873,9.0245,7.1312,9.0249)"
+              },
+              {
+                "content": "usedinconjunction",
+                "span": {
+                  "offset": 1477,
+                  "length": 17
+                },
+                "confidence": 0.978,
+                "source": "D(1,0.6117,9.0604,1.9823,9.0563,1.9829,9.2241,0.6123,9.2231)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 1495,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0155,9.0562,2.3222,9.0557,2.3228,9.2236,2.0161,9.224)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1500,
+                  "length": 1
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3581,9.0556,2.4134,9.0555,2.414,9.2235,2.3587,9.2236)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1502,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4466,9.0555,2.9301,9.0548,2.9309,9.2236,2.4472,9.2235)"
+              },
+              {
+                "content": "Savings",
+                "span": {
+                  "offset": 1509,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.9661,9.0548,3.5187,9.0547,3.5195,9.2253,2.9668,9.2237)"
+              },
+              {
+                "content": "Account",
+                "span": {
+                  "offset": 1517,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.5519,9.0547,4.1598,9.0533,4.1603,9.2261,3.5527,9.2254)"
+              },
+              {
+                "content": "(HSA),",
+                "span": {
+                  "offset": 1525,
+                  "length": 6
+                },
+                "confidence": 0.988,
+                "source": "D(1,4.193,9.0534,4.6462,9.0541,4.6468,9.2256,4.1935,9.2261)"
+              },
+              {
+                "content": "offered",
+                "span": {
+                  "offset": 1532,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.6793,9.0541,5.1878,9.0547,5.1885,9.2258,4.68,9.2256)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 1540,
+                  "length": 4
+                },
+                "confidence": 0.988,
+                "source": "D(1,5.2209,9.0547,5.5304,9.0551,5.531,9.2256,5.2216,9.2258)"
+              },
+              {
+                "content": "ahigh",
+                "span": {
+                  "offset": 1545,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.5636,9.0551,5.9808,9.056,5.9814,9.2255,5.5641,9.2256)"
+              },
+              {
+                "content": "deductible",
+                "span": {
+                  "offset": 1551,
+                  "length": 10
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.0389,9.0561,6.7905,9.0567,6.791,9.2247,6.0394,9.2255)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 1562,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.8236,9.0567,7.2768,9.0573,7.2773,9.2243,6.8242,9.2247)"
+              },
+              {
+                "content": "plan.",
+                "span": {
+                  "offset": 1569,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,7.31,9.0573,7.6968,9.058,7.6975,9.2251,7.3105,9.2243)"
+              },
+              {
+                "content": "If",
+                "span": {
+                  "offset": 1576,
+                  "length": 2
+                },
+                "confidence": 0.959,
+                "source": "D(1,0.6124,9.4123,0.6907,9.4123,0.6908,9.5828,0.6125,9.5828)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1579,
+                  "length": 4
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.7242,9.4123,1.0514,9.4121,1.0518,9.5828,0.7244,9.5828)"
+              },
+              {
+                "content": "organization",
+                "span": {
+                  "offset": 1584,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.0877,9.4121,1.9042,9.4103,1.9044,9.5818,1.0882,9.5828)"
+              },
+              {
+                "content": "offers",
+                "span": {
+                  "offset": 1597,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.9517,9.4102,2.3292,9.4104,2.3294,9.5812,1.9519,9.5817)"
+              },
+              {
+                "content": "carryover",
+                "span": {
+                  "offset": 1604,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.3767,9.4105,2.9947,9.4095,2.995,9.581,2.3769,9.5811)"
+              },
+              {
+                "content": "but",
+                "span": {
+                  "offset": 1614,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.0282,9.4094,3.2603,9.4099,3.2607,9.5809,3.0286,9.5811)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 1618,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,3.2995,9.4099,3.5399,9.4104,3.5403,9.5807,3.2998,9.5809)"
+              },
+              {
+                "content": "have",
+                "span": {
+                  "offset": 1622,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.5931,9.4105,3.9006,9.4111,3.901,9.5806,3.5934,9.5807)"
+              },
+              {
+                "content": "chosen",
+                "span": {
+                  "offset": 1627,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.9454,9.4111,4.4207,9.4116,4.4211,9.5794,3.9457,9.5805)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1634,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.4738,9.4116,4.6808,9.4106,4.6811,9.5798,4.4743,9.5793)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1638,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.7199,9.4104,4.8485,9.4097,4.8488,9.5802,4.7202,9.5799)"
+              },
+              {
+                "content": "participate",
+                "span": {
+                  "offset": 1641,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8961,9.4095,5.5783,9.4091,5.5785,9.5792,4.8963,9.5803)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 1653,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.6119,9.4092,5.7489,9.4092,5.7491,9.5791,5.6121,9.5792)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1656,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.7936,9.4093,5.9977,9.4092,5.998,9.5793,5.7938,9.5791)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1660,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.0481,9.4091,6.4563,9.4085,6.4565,9.5803,6.0483,9.5794)"
+              },
+              {
+                "content": "FSA",
+                "span": {
+                  "offset": 1667,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.5094,9.4087,6.7807,9.4099,6.7808,9.5804,6.5097,9.5804)"
+              },
+              {
+                "content": "program",
+                "span": {
+                  "offset": 1671,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.8254,9.4101,7.3932,9.4109,7.3932,9.5827,6.8255,9.5804)"
+              },
+              {
+                "content": "because",
+                "span": {
+                  "offset": 1679,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6107,9.6118,1.1752,9.611,1.1758,9.7699,0.6119,9.7693)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1687,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.2198,9.6108,1.3353,9.6104,1.3359,9.77,1.2205,9.7699)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1690,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.3668,9.6103,1.59,9.6102,1.5905,9.7705,1.3674,9.77)"
+              },
+              {
+                "content": "Use-or-Lose",
+                "span": {
+                  "offset": 1694,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6399,9.6103,2.438,9.6096,2.4385,9.771,1.6404,9.7707)"
+              },
+              {
+                "content": "rule,",
+                "span": {
+                  "offset": 1706,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4879,9.6096,2.7662,9.6097,2.7667,9.771,2.4884,9.771)"
+              },
+              {
+                "content": "it's",
+                "span": {
+                  "offset": 1712,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.8187,9.6097,3.0077,9.6099,3.0083,9.771,2.8192,9.771)"
+              },
+              {
+                "content": "time",
+                "span": {
+                  "offset": 1717,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.0524,9.61,3.3359,9.6106,3.3363,9.771,3.0529,9.771)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1722,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,3.3753,9.6106,3.5039,9.6105,3.5043,9.771,3.3757,9.771)"
+              },
+              {
+                "content": "take",
+                "span": {
+                  "offset": 1725,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.5459,9.6105,3.819,9.6114,3.8196,9.7707,3.5463,9.771)"
+              },
+              {
+                "content": "another",
+                "span": {
+                  "offset": 1730,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.8662,9.6115,4.3756,9.6104,4.3766,9.7699,3.8669,9.7706)"
+              },
+              {
+                "content": "look.",
+                "span": {
+                  "offset": 1738,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.4176,9.6104,4.7425,9.6101,4.7425,9.7682,4.4186,9.7697)"
+              },
+              {
+                "content": "copyright",
+                "span": {
+                  "offset": 1762,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6089,10.218,1.1788,10.215,1.1793,10.3704,0.6093,10.374)"
+              },
+              {
+                "content": "2023",
+                "span": {
+                  "offset": 1772,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.209,10.2148,1.4864,10.214,1.4868,10.3683,1.2096,10.37)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1777,
+                  "length": 1
+                },
+                "confidence": 0.648,
+                "source": "D(1,1.5242,10.2139,1.5897,10.2137,1.5901,10.368,1.5246,10.3683)"
+              },
+              {
+                "content": "www.isolvedbenefitservices.com",
+                "span": {
+                  "offset": 1779,
+                  "length": 30
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.6351,10.2136,3.9124,10.2145,3.9124,10.3636,1.6355,10.3676)"
+              },
+              {
+                "content": "asolved",
+                "span": {
+                  "offset": 1827,
+                  "length": 7
+                },
+                "confidence": 0.667,
+                "source": "D(1,6.2642,10.0356,7.7466,10.0078,7.7482,10.3698,6.266,10.3854)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "asolved Benefit Services",
+                "source": "D(1,0.5274,0.4982,5.8418,0.5109,5.8406,0.9909,0.5262,0.9849)",
+                "span": {
+                  "offset": 2,
+                  "length": 24
+                }
+              },
+              {
+                "content": "The Health FSA Carryover.",
+                "source": "D(1,0.6054,2.1978,5.0192,2.224,5.0165,2.5742,0.6032,2.5392)",
+                "span": {
+                  "offset": 32,
+                  "length": 25
+                }
+              },
+              {
+                "content": "The U.S. Treasury Department issued Notice 2020-33 for the Health",
+                "source": "D(1,0.6064,2.6739,5.1471,2.6731,5.1471,2.8416,0.6065,2.8423)",
+                "span": {
+                  "offset": 59,
+                  "length": 65
+                }
+              },
+              {
+                "content": "Flexible Spending Account (FSA) Use-or-Lose rule to allow up to a $640",
+                "source": "D(1,0.6095,2.865,5.3957,2.8621,5.3959,3.04,0.6096,3.0441)",
+                "span": {
+                  "offset": 125,
+                  "length": 70
+                }
+              },
+              {
+                "content": "carryover of Health FSA funds. The carryover is applicable only to Health",
+                "source": "D(1,0.6083,3.0628,5.4284,3.0618,5.4284,3.235,0.6083,3.2359)",
+                "span": {
+                  "offset": 196,
+                  "length": 73
+                }
+              },
+              {
+                "content": "FSAs (not to Dependent Care FSAs). Any unused amount above the",
+                "source": "D(1,0.6092,3.2537,5.1299,3.2536,5.1299,3.4271,0.6092,3.4272)",
+                "span": {
+                  "offset": 270,
+                  "length": 62
+                }
+              },
+              {
+                "content": "carryover limit is subject to forfeiture and cannot be cashed out or",
+                "source": "D(1,0.6089,3.4545,5.0544,3.4489,5.0549,3.6129,0.6094,3.6261)",
+                "span": {
+                  "offset": 333,
+                  "length": 68
+                }
+              },
+              {
+                "content": "transferred to other taxable or nontaxable benefits (e.g., HSAs).",
+                "source": "D(1,0.6059,3.6403,4.9131,3.6393,4.9131,3.8164,0.6059,3.8174)",
+                "span": {
+                  "offset": 402,
+                  "length": 65
+                }
+              },
+              {
+                "content": "If your organization offers the carryover option, it's great news for you because:",
+                "source": "D(1,0.609,4.109,6.1751,4.1068,6.1752,4.2842,0.6091,4.2863)",
+                "span": {
+                  "offset": 491,
+                  "length": 82
+                }
+              },
+              {
+                "content": "You can now carry over up to $640 of your unused Health FSA funds at the end of the plan year.",
+                "source": "D(1,1.2322,4.6875,7.2866,4.688,7.2866,4.8646,1.2322,4.8641)",
+                "span": {
+                  "offset": 597,
+                  "length": 94
+                }
+              },
+              {
+                "content": "$",
+                "source": "D(1,0.7695,5.3565,0.8846,5.3548,0.8875,5.5548,0.7724,5.5565)",
+                "span": {
+                  "offset": 704,
+                  "length": 1
+                }
+              },
+              {
+                "content": "The money you put in a Health FSA is not taxed, so assuming you pay a combined 40 percent state",
+                "source": "D(1,1.2334,5.2495,7.7322,5.2489,7.7322,5.4246,1.2335,5.4252)",
+                "span": {
+                  "offset": 719,
+                  "length": 95
+                }
+              },
+              {
+                "content": "and federal tax rate, you're saving 40 percent on health care expenses funded through the",
+                "source": "D(1,1.2352,5.4375,7.2921,5.4378,7.2921,5.6125,1.2352,5.6122)",
+                "span": {
+                  "offset": 815,
+                  "length": 89
+                }
+              },
+              {
+                "content": "account.",
+                "source": "D(1,1.2372,5.652,1.8465,5.6522,1.8465,5.7856,1.2371,5.7854)",
+                "span": {
+                  "offset": 905,
+                  "length": 8
+                }
+              },
+              {
+                "content": "Before Carryover",
+                "source": "D(1,0.6147,6.0015,2.1889,6.0073,2.1881,6.2211,0.6143,6.2153)",
+                "span": {
+                  "offset": 920,
+                  "length": 16
+                }
+              },
+              {
+                "content": "FSA Carryover",
+                "source": "D(1,3.6512,6.0011,5.0026,6.0102,5.0025,6.2214,3.6497,6.2123)",
+                "span": {
+                  "offset": 943,
+                  "length": 13
+                }
+              },
+              {
+                "content": "January 1",
+                "source": "D(1,1.2686,6.6892,1.8971,6.6914,1.8966,6.8514,1.268,6.8492)",
+                "span": {
+                  "offset": 969,
+                  "length": 9
+                }
+              },
+              {
+                "content": "Up to $3,050",
+                "source": "D(1,2.4617,6.6242,3.3119,6.628,3.3111,6.7927,2.4609,6.7893)",
+                "span": {
+                  "offset": 980,
+                  "length": 12
+                }
+              },
+              {
+                "content": "Available",
+                "source": "D(1,2.4605,6.8112,3.078,6.8126,3.0777,6.9567,2.4602,6.9553)",
+                "span": {
+                  "offset": 993,
+                  "length": 9
+                }
+              },
+              {
+                "content": "January 1",
+                "source": "D(1,4.8081,6.6913,5.4373,6.693,5.4369,6.8515,4.8077,6.8498)",
+                "span": {
+                  "offset": 1004,
+                  "length": 9
+                }
+              },
+              {
+                "content": "Up to $3,050",
+                "source": "D(1,6.3934,6.6238,7.2388,6.6255,7.2384,6.7922,6.393,6.7905)",
+                "span": {
+                  "offset": 1015,
+                  "length": 12
+                }
+              },
+              {
+                "content": "Available",
+                "source": "D(1,6.3923,6.8121,7.0043,6.8111,7.0045,6.9574,6.3926,6.9584)",
+                "span": {
+                  "offset": 1028,
+                  "length": 9
+                }
+              },
+              {
+                "content": "Minus medical, dental and vision expenses",
+                "source": "D(1,1.0983,7.2081,3.9678,7.2187,3.9673,7.3795,1.0977,7.371)",
+                "span": {
+                  "offset": 1039,
+                  "length": 41
+                }
+              },
+              {
+                "content": "Minus medical, dental and vision expenses",
+                "source": "D(1,4.6375,7.2101,7.5072,7.2173,7.5068,7.3791,4.6374,7.372)",
+                "span": {
+                  "offset": 1082,
+                  "length": 41
+                }
+              },
+              {
+                "content": "December",
+                "source": "D(1,1.2703,7.6975,1.9783,7.6992,1.9779,7.8443,1.27,7.8425)",
+                "span": {
+                  "offset": 1125,
+                  "length": 8
+                }
+              },
+              {
+                "content": "Remaining Balance",
+                "source": "D(1,2.4608,7.6125,3.6933,7.6144,3.6931,7.7771,2.4605,7.7752)",
+                "span": {
+                  "offset": 1135,
+                  "length": 17
+                }
+              },
+              {
+                "content": "$450 Available",
+                "source": "D(1,2.4598,7.8011,3.4386,7.7988,3.4389,7.9531,2.4602,7.9554)",
+                "span": {
+                  "offset": 1153,
+                  "length": 14
+                }
+              },
+              {
+                "content": "December",
+                "source": "D(1,4.8113,7.697,5.519,7.6981,5.5188,7.8436,4.8111,7.8425)",
+                "span": {
+                  "offset": 1169,
+                  "length": 8
+                }
+              },
+              {
+                "content": "Remaining Balance",
+                "source": "D(1,6.3934,7.6134,7.621,7.6135,7.621,7.7762,6.3934,7.776)",
+                "span": {
+                  "offset": 1179,
+                  "length": 17
+                }
+              },
+              {
+                "content": "$450 Available",
+                "source": "D(1,6.3931,7.8017,7.3719,7.8002,7.3722,7.9541,6.3933,7.9558)",
+                "span": {
+                  "offset": 1197,
+                  "length": 14
+                }
+              },
+              {
+                "content": "$0",
+                "source": "D(1,1.5192,8.1622,1.7397,8.1622,1.7397,8.3279,1.5192,8.3279)",
+                "span": {
+                  "offset": 1213,
+                  "length": 2
+                }
+              },
+              {
+                "content": "$450",
+                "source": "D(1,5.3283,8.1603,5.7549,8.1601,5.755,8.3291,5.3284,8.3293)",
+                "span": {
+                  "offset": 1217,
+                  "length": 4
+                }
+              },
+              {
+                "content": "* This graphic is for informational purposes only. Plans vary by employer and this scenario may not be applicable for all employees.",
+                "source": "D(1,0.6235,8.4993,7.3879,8.5017,7.3879,8.6539,0.6234,8.6514)",
+                "span": {
+                  "offset": 1235,
+                  "length": 133
+                }
+              },
+              {
+                "content": "The Health FSA carryover option may also apply to Limited FSA, an employer-sponsored benefit that is often",
+                "source": "D(1,0.6119,8.8582,7.4868,8.8594,7.4868,9.0309,0.6119,9.0297)",
+                "span": {
+                  "offset": 1370,
+                  "length": 106
+                }
+              },
+              {
+                "content": "usedinconjunction with a Health Savings Account (HSA), offered with ahigh deductible health plan.",
+                "source": "D(1,0.6117,9.0543,7.692,9.0524,7.6921,9.2223,0.6118,9.2242)",
+                "span": {
+                  "offset": 1477,
+                  "length": 97
+                }
+              },
+              {
+                "content": "If your organization offers carryover but you have chosen not to participate in the Health FSA program",
+                "source": "D(1,0.6124,9.4097,7.3897,9.4081,7.3898,9.5798,0.6124,9.5814)",
+                "span": {
+                  "offset": 1576,
+                  "length": 102
+                }
+              },
+              {
+                "content": "because of the Use-or-Lose rule, it's time to take another look.",
+                "source": "D(1,0.6107,9.6098,4.7389,9.6095,4.7389,9.7696,0.6107,9.77)",
+                "span": {
+                  "offset": 1679,
+                  "length": 64
+                }
+              },
+              {
+                "content": "copyright 2023 . www.isolvedbenefitservices.com",
+                "source": "D(1,0.6089,10.216,3.9109,10.2084,3.9114,10.3653,0.6093,10.3739)",
+                "span": {
+                  "offset": 1762,
+                  "length": 47
+                }
+              },
+              {
+                "content": "asolved",
+                "source": "D(1,6.2616,10.0221,7.8631,10.0035,7.8676,10.3658,6.2661,10.3855)",
+                "span": {
+                  "offset": 1827,
+                  "length": 7
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "role": "title",
+            "content": "asolved Benefit Services",
+            "source": "D(1,0.5273,0.4982,5.8418,0.5109,5.8406,0.9976,0.5262,0.9849)",
+            "span": {
+              "offset": 0,
+              "length": 26
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "The Health FSA Carryover.",
+            "source": "D(1,0.6054,2.1895,5.0192,2.224,5.0165,2.5742,0.6027,2.5397)",
+            "span": {
+              "offset": 29,
+              "length": 28
+            }
+          },
+          {
+            "content": "The U.S. Treasury Department issued Notice 2020-33 for the Health Flexible Spending Account (FSA) Use-or-Lose rule to allow up to a $640 carryover of Health FSA funds. The carryover is applicable only to Health FSAs (not to Dependent Care FSAs). Any unused amount above the carryover limit is subject to forfeiture and cannot be cashed out or transferred to other taxable or nontaxable benefits (e.g., HSAs).",
+            "source": "D(1,0.6057,2.6739,5.4283,2.6731,5.4285,3.8166,0.6059,3.8174)",
+            "span": {
+              "offset": 59,
+              "length": 408
+            }
+          },
+          {
+            "content": "If your organization offers the carryover option, it's great news for you because:",
+            "source": "D(1,0.609,4.109,6.1751,4.1068,6.1752,4.2842,0.6091,4.2863)",
+            "span": {
+              "offset": 491,
+              "length": 82
+            }
+          },
+          {
+            "content": "You can now carry over up to $640 of your unused Health FSA funds at the end of the plan year.",
+            "source": "D(1,1.2322,4.6875,7.2866,4.688,7.2866,4.8646,1.2322,4.8641)",
+            "span": {
+              "offset": 597,
+              "length": 94
+            }
+          },
+          {
+            "content": "$",
+            "source": "D(1,0.7695,5.3565,0.8846,5.3548,0.8875,5.5548,0.7724,5.5565)",
+            "span": {
+              "offset": 704,
+              "length": 1
+            }
+          },
+          {
+            "content": "The money you put in a Health FSA is not taxed, so assuming you pay a combined 40 percent state and federal tax rate, you're saving 40 percent on health care expenses funded through the account.",
+            "source": "D(1,1.2334,5.2495,7.7322,5.2489,7.7323,5.7851,1.2335,5.7857)",
+            "span": {
+              "offset": 719,
+              "length": 194
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Before Carryover",
+            "source": "D(1,0.6147,6.0015,2.1889,6.0073,2.1881,6.2211,0.614,6.2153)",
+            "span": {
+              "offset": 916,
+              "length": 20
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "FSA Carryover",
+            "source": "D(1,3.6512,6.0011,5.0039,6.0102,5.0025,6.2214,3.6497,6.2123)",
+            "span": {
+              "offset": 939,
+              "length": 17
+            }
+          },
+          {
+            "content": "January 1",
+            "source": "D(1,1.2686,6.6892,1.8971,6.6914,1.8966,6.8514,1.268,6.8492)",
+            "span": {
+              "offset": 969,
+              "length": 9
+            }
+          },
+          {
+            "content": "Up to $3,050 Available",
+            "source": "D(1,2.4613,6.6242,3.3119,6.628,3.3104,6.9591,2.4598,6.9553)",
+            "span": {
+              "offset": 980,
+              "length": 22
+            }
+          },
+          {
+            "content": "January 1",
+            "source": "D(1,4.8081,6.6913,5.4373,6.693,5.4369,6.8515,4.8077,6.8498)",
+            "span": {
+              "offset": 1004,
+              "length": 9
+            }
+          },
+          {
+            "content": "Up to $3,050 Available",
+            "source": "D(1,6.3927,6.6238,7.2388,6.6255,7.2381,6.9601,6.3921,6.9584)",
+            "span": {
+              "offset": 1015,
+              "length": 22
+            }
+          },
+          {
+            "content": "Minus medical, dental and vision expenses",
+            "source": "D(1,1.0982,7.2081,3.9678,7.2165,3.9673,7.3795,1.0977,7.371)",
+            "span": {
+              "offset": 1039,
+              "length": 41
+            }
+          },
+          {
+            "content": "Minus medical, dental and vision expenses",
+            "source": "D(1,4.6375,7.2101,7.5072,7.2173,7.5068,7.3791,4.6371,7.372)",
+            "span": {
+              "offset": 1082,
+              "length": 41
+            }
+          },
+          {
+            "content": "December",
+            "source": "D(1,1.2703,7.6975,1.9783,7.6992,1.9779,7.8443,1.27,7.8425)",
+            "span": {
+              "offset": 1125,
+              "length": 8
+            }
+          },
+          {
+            "content": "Remaining Balance $450 Available",
+            "source": "D(1,2.4601,7.6125,3.6933,7.6144,3.6928,7.9573,2.4596,7.9554)",
+            "span": {
+              "offset": 1135,
+              "length": 32
+            }
+          },
+          {
+            "content": "December",
+            "source": "D(1,4.8113,7.697,5.519,7.6981,5.5188,7.8436,4.8111,7.8425)",
+            "span": {
+              "offset": 1169,
+              "length": 8
+            }
+          },
+          {
+            "content": "Remaining Balance $450 Available",
+            "source": "D(1,6.3931,7.6134,7.621,7.6135,7.621,7.9559,6.3931,7.9558)",
+            "span": {
+              "offset": 1179,
+              "length": 32
+            }
+          },
+          {
+            "content": "$0",
+            "source": "D(1,1.5192,8.1622,1.7397,8.1622,1.7397,8.3279,1.5192,8.3279)",
+            "span": {
+              "offset": 1213,
+              "length": 2
+            }
+          },
+          {
+            "content": "$450",
+            "source": "D(1,5.3283,8.1603,5.7549,8.1601,5.755,8.3291,5.3284,8.3293)",
+            "span": {
+              "offset": 1217,
+              "length": 4
+            }
+          },
+          {
+            "content": "* This graphic is for informational purposes only. Plans vary by employer and this scenario may not be applicable for all employees.",
+            "source": "D(1,0.6235,8.4993,7.3879,8.5017,7.3879,8.6539,0.6234,8.6514)",
+            "span": {
+              "offset": 1235,
+              "length": 133
+            }
+          },
+          {
+            "content": "The Health FSA carryover option may also apply to Limited FSA, an employer-sponsored benefit that is often usedinconjunction with a Health Savings Account (HSA), offered with ahigh deductible health plan.",
+            "source": "D(1,0.6117,8.8582,7.692,8.8563,7.6921,9.2223,0.6118,9.2242)",
+            "span": {
+              "offset": 1370,
+              "length": 204
+            }
+          },
+          {
+            "content": "If your organization offers carryover but you have chosen not to participate in the Health FSA program because of the Use-or-Lose rule, it's time to take another look.",
+            "source": "D(1,0.6107,9.4097,7.3897,9.4081,7.3898,9.769,0.6107,9.7706)",
+            "span": {
+              "offset": 1576,
+              "length": 167
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "copyright 2023 . www.isolvedbenefitservices.com",
+            "source": "D(1,0.6089,10.216,3.9109,10.2074,3.9114,10.3653,0.6093,10.3739)",
+            "span": {
+              "offset": 1745,
+              "length": 69
+            }
+          },
+          {
+            "content": "asolved",
+            "source": "D(1,6.2616,10.0221,7.8631,10.0025,7.8676,10.3658,6.2661,10.3855)",
+            "span": {
+              "offset": 1827,
+              "length": 7
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 1845
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/sections/1"
+            ]
+          },
+          {
+            "span": {
+              "offset": 29,
+              "length": 1816
+            },
+            "elements": [
+              "/paragraphs/1",
+              "/paragraphs/2",
+              "/figures/0",
+              "/paragraphs/3",
+              "/figures/1",
+              "/paragraphs/4",
+              "/figures/2",
+              "/paragraphs/6",
+              "/sections/2",
+              "/sections/3"
+            ]
+          },
+          {
+            "span": {
+              "offset": 916,
+              "length": 20
+            },
+            "elements": [
+              "/paragraphs/7"
+            ]
+          },
+          {
+            "span": {
+              "offset": 939,
+              "length": 906
+            },
+            "elements": [
+              "/paragraphs/8",
+              "/figures/3",
+              "/paragraphs/21",
+              "/paragraphs/22",
+              "/paragraphs/23",
+              "/figures/4"
+            ]
+          }
+        ],
+        "figures": [
+          {
+            "source": "D(1,5.7089,1.2322,7.8999,1.2326,7.9001,3.3787,5.7091,3.3784)",
+            "span": {
+              "offset": 470,
+              "length": 18
+            },
+            "id": "1.1"
+          },
+          {
+            "source": "D(1,0.5654,4.5268,1.0871,4.5267,1.0872,5.0411,0.5655,5.0412)",
+            "span": {
+              "offset": 576,
+              "length": 18
+            },
+            "id": "1.2"
+          },
+          {
+            "source": "D(1,0.5741,5.2146,1.0884,5.2145,1.0885,5.7194,0.5742,5.7195)",
+            "span": {
+              "offset": 694,
+              "length": 22
+            },
+            "elements": [
+              "/paragraphs/5"
+            ],
+            "id": "1.3"
+          },
+          {
+            "source": "D(1,0.6064,6.2924,7.8695,6.2922,7.8692,8.4655,0.6056,8.4656)",
+            "span": {
+              "offset": 959,
+              "length": 273
+            },
+            "elements": [
+              "/paragraphs/9",
+              "/paragraphs/10",
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13",
+              "/paragraphs/14",
+              "/paragraphs/15",
+              "/paragraphs/16",
+              "/paragraphs/17",
+              "/paragraphs/18",
+              "/paragraphs/19",
+              "/paragraphs/20"
+            ],
+            "id": "1.4"
+          },
+          {
+            "source": "D(1,6.2556,9.9998,7.8879,9.9996,7.8876,10.4067,6.2553,10.4069)",
+            "span": {
+              "offset": 1817,
+              "length": 28
+            },
+            "elements": [
+              "/paragraphs/25"
+            ],
+            "id": "1.5"
+          }
+        ]
+      }
+    ]
+  }
+}

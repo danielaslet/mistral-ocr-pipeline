@@ -1,0 +1,4802 @@
+{
+  "id": "d6066f48-6815-43c7-89b9-93602cc76251",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "prebuilt-documentAnalyzer",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-07-14T17:07:55Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "Teladoc\u00ae\n\u00ae\nHEALTH\n\nMade available by:\n\nWTI Holdings LLC dba Waterfield Technologies\n\n\n<figure>\n</figure>\n\n\n# How to set up your Teladoc Health account\n\nSimply download the Teladoc Health app and\nfollow the four steps you see below.\n\n\n<figure>\n\n3:32\n\n\\-\n\nLet's start by finding\nyour benefits\n\n\"Required\n\nFirst name *\n\nLast name *\n\nDate of birth \"\nMM/DD/YYYY\n\nCountry *\n\nUnited States Of America\n\nZip code *\n\nEmail address *\n\n</figure>\n\n\n## 1. Confirm benefits\n\nProvide some information\nabout yourself to confirm\nyour eligibility.\n\n\n<figure>\n\n3:34\n\nWe need a little\nmore info\n\n\"Required\n\nPlease select your health or insurance\nprovider below. We use this information to\nhelp match you to your benefits, even if\nyour benefits are provided by your employer\nor association.\n\nHealth or insurance plan *\nAetna\n\nContinue\n\nMy provider is not on the list\n\n</figure>\n\n\n## 2. Select benefit provider\n\nConfirm the coverage that has\nbeen matched to you. Please\nnote your care option through\nyour employer group will pop\nup here if a match is found.\nClick \"Continue\" to proceed\nwith account set up.\n\n\n<figure>\n\n3:38\n\nNearly done ... please\nprovide your address\nand phone\n\n\"Required\n\nStreet address 1 *\n\nStreet address 2 (optional)\n\nCity*\n\nCountry *\n\nUnited States Of America\n\nState *\n\nZip code *\n\n</figure>\n\n\n3\\. Create account\n\nProvide your contact\ninformation.\n\n\n<figure>\n\n4:41\n\n<\n\nPerfect! Let's tie up\nthe details\n\n\"Required\n\nUsername *\n\nPassword\"\n\n\u00b7 use 10 - 20 characters\ninclude at least one number and one\nletter\n\nConfirm Password *\n\nEach security question cannot be selected\nmore than once. Answers must be at least 2\ncharacters with no special symbols.\nSecurity question 1\"\n\n</figure>\n\n\n4\\. Complete account\n\nCreate a username, password\nand pick security questions to\nensure your account is secure.\n\nOnce your account is created, eligible dependents under 18 years of age can be added in your account settings under\nthe primary member. Dependents older than 18 should follow the steps above to create their own account.\n\nSet up your Teladoc Health account today\nVisit TeladocHealth.com\nCall 1-800-835-2362 | Download the app \u00ab | +\n\n<!-- PageFooter=\"If your device settings for your mobile phone are set to Spanish, the Teladoc Health app will display in Spanish. @ Teladoc Health, Inc. All rights reserved. Teladoc Health marks and logos are owned by Teladoc Health, Inc. All programs and services are subject to applicable terms and conditions.\" -->\n<!-- PageFooter=\"496673\" -->\n<!-- PageFooter=\"TM-GM-10E-A24-02_3750057_E_030123_PC\" -->\n",
+        "fields": {
+          "Summary": {
+            "type": "string",
+            "valueString": "The document provides instructions on how to set up a Teladoc Health account, including downloading the app and following steps to confirm benefits, select a benefit provider, create an account, and complete the account setup. It also mentions the ability to add eligible dependents under 18 years of age to the account."
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "inch",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": 0.007479866,
+            "width": 8.5,
+            "height": 11,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 2534
+              }
+            ],
+            "words": [
+              {
+                "content": "Teladoc\u00ae",
+                "span": {
+                  "offset": 0,
+                  "length": 8
+                },
+                "confidence": 0.843,
+                "source": "D(1,0.5436,0.4106,1.8981,0.409,1.8981,0.7252,0.5445,0.7252)"
+              },
+              {
+                "content": "\u00ae",
+                "span": {
+                  "offset": 9,
+                  "length": 1
+                },
+                "confidence": 0.805,
+                "source": "D(1,1.8436,0.4387,1.9147,0.4412,1.9147,0.5017,1.8422,0.4975)"
+              },
+              {
+                "content": "HEALTH",
+                "span": {
+                  "offset": 11,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.2799,0.7597,1.8704,0.7595,1.8704,0.9077,1.28,0.9057)"
+              },
+              {
+                "content": "Made",
+                "span": {
+                  "offset": 19,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.402,0.5469,2.6789,0.5473,2.6785,0.666,2.4017,0.666)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 24,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.7023,0.5472,3.1372,0.5497,3.1362,0.6689,2.7019,0.6661)"
+              },
+              {
+                "content": "by:",
+                "span": {
+                  "offset": 34,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.1625,0.5499,3.3225,0.5504,3.3218,0.6699,3.1616,0.669)"
+              },
+              {
+                "content": "WTI",
+                "span": {
+                  "offset": 39,
+                  "length": 3
+                },
+                "confidence": 0.912,
+                "source": "D(1,2.4015,0.6649,2.6067,0.6662,2.6067,0.7928,2.4015,0.7924)"
+              },
+              {
+                "content": "Holdings",
+                "span": {
+                  "offset": 43,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.6385,0.6661,3.0701,0.6658,3.0699,0.7928,2.6384,0.7929)"
+              },
+              {
+                "content": "LLC",
+                "span": {
+                  "offset": 52,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.0976,0.6657,3.2817,0.665,3.2814,0.7938,3.0974,0.793)"
+              },
+              {
+                "content": "dba",
+                "span": {
+                  "offset": 56,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3071,0.6651,3.4912,0.6652,3.4909,0.7939,3.3068,0.7937)"
+              },
+              {
+                "content": "Waterfield",
+                "span": {
+                  "offset": 60,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.5166,0.6652,4.0414,0.6649,4.0409,0.7955,3.5163,0.794)"
+              },
+              {
+                "content": "Technologies",
+                "span": {
+                  "offset": 71,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.0689,0.6648,4.737,0.6647,4.737,0.7967,4.0684,0.7957)"
+              },
+              {
+                "content": "How",
+                "span": {
+                  "offset": 109,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.2458,1.4005,5.0471,1.4053,5.0442,1.7284,4.2442,1.7161)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 113,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.1219,1.4055,5.4477,1.4066,5.4438,1.7344,5.1187,1.7289)"
+              },
+              {
+                "content": "set",
+                "span": {
+                  "offset": 116,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.5385,1.4073,6.014,1.4107,6.0103,1.7419,5.5347,1.7365)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 120,
+                  "length": 2
+                },
+                "confidence": 0.99,
+                "source": "D(1,6.0888,1.4114,6.5108,1.4156,6.5077,1.7458,6.0852,1.7419)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 123,
+                  "length": 4
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.5909,1.4166,7.36,1.4245,7.36,1.7454,6.5881,1.7462)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 128,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.2498,1.7549,5.5507,1.7548,5.5505,2.0681,4.2502,2.0669)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 136,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.6374,1.7546,6.7341,1.7572,6.7342,2.0685,5.6372,2.0683)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 143,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.8208,1.7578,8.1403,1.7604,8.1403,2.0704,6.821,2.0677)"
+              },
+              {
+                "content": "Simply",
+                "span": {
+                  "offset": 152,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.2567,2.2981,4.6944,2.2982,4.6945,2.4791,4.2563,2.4776)"
+              },
+              {
+                "content": "download",
+                "span": {
+                  "offset": 159,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.7299,2.2982,5.3981,2.2969,5.3981,2.4766,4.73,2.4789)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 168,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.4336,2.2969,5.6613,2.2963,5.6612,2.4769,5.4336,2.4767)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 172,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.6997,2.2961,6.1965,2.2964,6.1964,2.4778,5.6997,2.4768)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 180,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.232,2.2964,6.7081,2.2984,6.7078,2.4786,6.2319,2.4781)"
+              },
+              {
+                "content": "app",
+                "span": {
+                  "offset": 187,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.7435,2.2987,6.9949,2.2995,6.9947,2.4799,6.7433,2.4788)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 191,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.0304,2.2995,7.2936,2.3009,7.2936,2.4795,7.0302,2.48)"
+              },
+              {
+                "content": "follow",
+                "span": {
+                  "offset": 195,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.2507,2.4995,4.611,2.5009,4.6107,2.6686,4.2503,2.6669)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 202,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.6687,2.5011,4.8997,2.5016,4.899,2.6704,4.6684,2.6691)"
+              },
+              {
+                "content": "four",
+                "span": {
+                  "offset": 206,
+                  "length": 4
+                },
+                "confidence": 0.986,
+                "source": "D(1,4.9327,2.5017,5.2297,2.5018,5.2288,2.6715,4.9319,2.6705)"
+              },
+              {
+                "content": "steps",
+                "span": {
+                  "offset": 211,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.2627,2.5017,5.6146,2.5039,5.6141,2.6726,5.2618,2.6714)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 217,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.6476,2.504,5.9089,2.5043,5.9082,2.6728,5.6471,2.6725)"
+              },
+              {
+                "content": "see",
+                "span": {
+                  "offset": 221,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.9501,2.5043,6.1921,2.5056,6.1915,2.6717,5.9494,2.6731)"
+              },
+              {
+                "content": "below.",
+                "span": {
+                  "offset": 225,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.2279,2.5056,6.6572,2.5069,6.6572,2.6721,6.2273,2.6718)"
+              },
+              {
+                "content": "3:32",
+                "span": {
+                  "offset": 244,
+                  "length": 4
+                },
+                "confidence": 0.983,
+                "source": "D(1,0.6195,3.5599,0.7139,3.5591,0.7139,3.6094,0.6194,3.6103)"
+              },
+              {
+                "content": "-",
+                "span": {
+                  "offset": 250,
+                  "length": 2
+                },
+                "confidence": 0.195,
+                "source": "D(1,1.1694,3.5666,1.1904,3.5659,1.1906,3.6073,1.1695,3.6089)"
+              },
+              {
+                "content": "Let's",
+                "span": {
+                  "offset": 254,
+                  "length": 5
+                },
+                "confidence": 0.977,
+                "source": "D(1,0.5719,3.7796,0.7354,3.7792,0.7348,3.8603,0.5715,3.8604)"
+              },
+              {
+                "content": "start",
+                "span": {
+                  "offset": 260,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,0.7516,3.7791,0.9015,3.78,0.9012,3.8628,0.7511,3.8604)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 266,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,0.9178,3.7803,0.9934,3.7804,0.9929,3.8633,0.9174,3.863)"
+              },
+              {
+                "content": "finding",
+                "span": {
+                  "offset": 269,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.0096,3.7803,1.2451,3.7817,1.2451,3.8667,1.0091,3.8634)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 277,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.5682,3.8732,0.7162,3.8715,0.7164,3.9469,0.5685,3.9487)"
+              },
+              {
+                "content": "benefits",
+                "span": {
+                  "offset": 282,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.731,3.8712,1.012,3.8693,1.0124,3.9454,0.7312,3.9467)"
+              },
+              {
+                "content": "\"Required",
+                "span": {
+                  "offset": 292,
+                  "length": 9
+                },
+                "confidence": 0.907,
+                "source": "D(1,0.5701,3.9985,0.7415,4.0006,0.7415,4.0509,0.5701,4.0485)"
+              },
+              {
+                "content": "First",
+                "span": {
+                  "offset": 303,
+                  "length": 5
+                },
+                "confidence": 0.983,
+                "source": "D(1,0.5704,4.0919,0.6503,4.0916,0.6505,4.1426,0.5704,4.1422)"
+              },
+              {
+                "content": "name",
+                "span": {
+                  "offset": 309,
+                  "length": 4
+                },
+                "confidence": 0.809,
+                "source": "D(1,0.6603,4.0916,0.7636,4.0893,0.7638,4.1401,0.6605,4.1427)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 314,
+                  "length": 1
+                },
+                "confidence": 0.834,
+                "source": "D(1,0.7736,4.0892,0.8024,4.0893,0.8024,4.1398,0.7738,4.14)"
+              },
+              {
+                "content": "Last",
+                "span": {
+                  "offset": 317,
+                  "length": 4
+                },
+                "confidence": 0.961,
+                "source": "D(1,0.5722,4.2977,0.6467,4.2987,0.6468,4.3485,0.5722,4.3475)"
+              },
+              {
+                "content": "name",
+                "span": {
+                  "offset": 322,
+                  "length": 4
+                },
+                "confidence": 0.913,
+                "source": "D(1,0.6564,4.2989,0.7601,4.2967,0.7602,4.3456,0.6566,4.3486)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 327,
+                  "length": 1
+                },
+                "confidence": 0.64,
+                "source": "D(1,0.7698,4.2964,0.7969,4.2963,0.7969,4.3452,0.7699,4.3455)"
+              },
+              {
+                "content": "Date",
+                "span": {
+                  "offset": 330,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,0.5704,4.5102,0.6561,4.5094,0.6563,4.5617,0.5705,4.5611)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 335,
+                  "length": 2
+                },
+                "confidence": 0.723,
+                "source": "D(1,0.6664,4.5093,0.7007,4.5088,0.7009,4.5617,0.6666,4.5617)"
+              },
+              {
+                "content": "birth",
+                "span": {
+                  "offset": 338,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.711,4.5088,0.8002,4.5077,0.8005,4.5601,0.7112,4.5617)"
+              },
+              {
+                "content": "\"",
+                "span": {
+                  "offset": 344,
+                  "length": 1
+                },
+                "confidence": 0.271,
+                "source": "D(1,0.8105,4.5075,0.8379,4.5074,0.8383,4.5594,0.8108,4.56)"
+              },
+              {
+                "content": "MM/DD/YYYY",
+                "span": {
+                  "offset": 346,
+                  "length": 10
+                },
+                "confidence": 0.975,
+                "source": "D(1,0.5928,4.6035,0.8743,4.5995,0.8743,4.6528,0.5927,4.6548)"
+              },
+              {
+                "content": "Country",
+                "span": {
+                  "offset": 358,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.5751,4.7228,0.72,4.7215,0.7203,4.7735,0.5752,4.7728)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 366,
+                  "length": 1
+                },
+                "confidence": 0.652,
+                "source": "D(1,0.7301,4.7215,0.7581,4.7213,0.7581,4.7732,0.7304,4.7735)"
+              },
+              {
+                "content": "United",
+                "span": {
+                  "offset": 369,
+                  "length": 6
+                },
+                "confidence": 0.935,
+                "source": "D(1,0.5894,4.8161,0.71,4.814,0.7102,4.8697,0.5896,4.8702)"
+              },
+              {
+                "content": "States",
+                "span": {
+                  "offset": 376,
+                  "length": 6
+                },
+                "confidence": 0.963,
+                "source": "D(1,0.721,4.8139,0.8343,4.8137,0.8344,4.87,0.7212,4.8697)"
+              },
+              {
+                "content": "Of",
+                "span": {
+                  "offset": 383,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.8453,4.8136,0.8855,4.8136,0.8855,4.8701,0.8454,4.87)"
+              },
+              {
+                "content": "America",
+                "span": {
+                  "offset": 386,
+                  "length": 7
+                },
+                "confidence": 0.987,
+                "source": "D(1,0.8965,4.8134,1.0537,4.8131,1.0536,4.8697,0.8965,4.8699)"
+              },
+              {
+                "content": "Zip",
+                "span": {
+                  "offset": 395,
+                  "length": 3
+                },
+                "confidence": 0.977,
+                "source": "D(1,0.5699,4.935,0.6295,4.9342,0.6299,4.9847,0.5701,4.9837)"
+              },
+              {
+                "content": "code",
+                "span": {
+                  "offset": 399,
+                  "length": 4
+                },
+                "confidence": 0.983,
+                "source": "D(1,0.6395,4.9343,0.7256,4.9328,0.7261,4.9841,0.6398,4.9849)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 404,
+                  "length": 1
+                },
+                "confidence": 0.931,
+                "source": "D(1,0.7355,4.9325,0.7621,4.9324,0.763,4.9836,0.7362,4.9838)"
+              },
+              {
+                "content": "Email",
+                "span": {
+                  "offset": 407,
+                  "length": 5
+                },
+                "confidence": 0.908,
+                "source": "D(1,0.5716,5.1455,0.6676,5.1446,0.6677,5.1968,0.5716,5.1957)"
+              },
+              {
+                "content": "address",
+                "span": {
+                  "offset": 413,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.6779,5.1446,0.8219,5.1422,0.8219,5.1954,0.678,5.197)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 421,
+                  "length": 1
+                },
+                "confidence": 0.648,
+                "source": "D(1,0.8321,5.1421,0.8577,5.142,0.8577,5.1952,0.8322,5.1953)"
+              },
+              {
+                "content": "1.",
+                "span": {
+                  "offset": 439,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6376,3.6855,1.7699,3.6857,1.7702,3.8438,1.6378,3.8434)"
+              },
+              {
+                "content": "Confirm",
+                "span": {
+                  "offset": 442,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.8115,3.686,2.4135,3.6872,2.4136,3.845,1.8117,3.8443)"
+              },
+              {
+                "content": "benefits",
+                "span": {
+                  "offset": 450,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.455,3.6869,3.0768,3.6877,3.0768,3.8453,2.455,3.8454)"
+              },
+              {
+                "content": "Provide",
+                "span": {
+                  "offset": 460,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6369,3.9139,2.1587,3.9145,2.1589,4.0758,1.6371,4.0746)"
+              },
+              {
+                "content": "some",
+                "span": {
+                  "offset": 468,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.1984,3.9147,2.5691,3.9155,2.5692,4.0766,2.1986,4.076)"
+              },
+              {
+                "content": "information",
+                "span": {
+                  "offset": 473,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6009,3.9155,3.4531,3.9158,3.4531,4.0784,2.601,4.0767)"
+              },
+              {
+                "content": "about",
+                "span": {
+                  "offset": 485,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.6323,4.1174,2.0349,4.117,2.0351,4.2843,1.6327,4.2845)"
+              },
+              {
+                "content": "yourself",
+                "span": {
+                  "offset": 491,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0675,4.1169,2.6224,4.1159,2.6225,4.2812,2.0678,4.2843)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 500,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.6551,4.1158,2.8183,4.1149,2.8182,4.2801,2.6551,4.2809)"
+              },
+              {
+                "content": "confirm",
+                "span": {
+                  "offset": 503,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.8536,4.1145,3.3978,4.1152,3.3978,4.2776,2.8537,4.28)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 511,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.6264,4.3334,1.954,4.3296,1.9546,4.5006,1.6297,4.5008)"
+              },
+              {
+                "content": "eligibility.",
+                "span": {
+                  "offset": 516,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.9879,4.3291,2.5898,4.3259,2.5898,4.5008,1.9884,4.5008)"
+              },
+              {
+                "content": "3:34",
+                "span": {
+                  "offset": 541,
+                  "length": 4
+                },
+                "confidence": 0.977,
+                "source": "D(1,4.3833,3.5585,4.4769,3.5593,4.4769,3.6095,4.3831,3.6092)"
+              },
+              {
+                "content": "We",
+                "span": {
+                  "offset": 547,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.3311,3.7817,4.4385,3.7819,4.4383,3.8546,4.3308,3.854)"
+              },
+              {
+                "content": "need",
+                "span": {
+                  "offset": 550,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.454,3.7819,4.6092,3.7822,4.6091,3.8552,4.4538,3.8544)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 555,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.6247,3.7822,4.6593,3.7817,4.6592,3.8555,4.6246,3.8554)"
+              },
+              {
+                "content": "little",
+                "span": {
+                  "offset": 557,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.6772,3.7818,4.8366,3.7817,4.8366,3.8556,4.6772,3.8552)"
+              },
+              {
+                "content": "more",
+                "span": {
+                  "offset": 564,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3329,3.8769,4.5004,3.8752,4.5005,3.9413,4.3329,3.9409)"
+              },
+              {
+                "content": "info",
+                "span": {
+                  "offset": 569,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.5132,3.875,4.654,3.8752,4.654,3.9416,4.5134,3.9414)"
+              },
+              {
+                "content": "\"Required",
+                "span": {
+                  "offset": 575,
+                  "length": 9
+                },
+                "confidence": 0.855,
+                "source": "D(1,4.333,3.9994,4.5044,4.0001,4.5044,4.0505,4.3329,4.0486)"
+              },
+              {
+                "content": "Please",
+                "span": {
+                  "offset": 586,
+                  "length": 6
+                },
+                "confidence": 0.932,
+                "source": "D(1,4.3327,4.1113,4.4429,4.1118,4.443,4.1661,4.3327,4.1651)"
+              },
+              {
+                "content": "select",
+                "span": {
+                  "offset": 593,
+                  "length": 6
+                },
+                "confidence": 0.985,
+                "source": "D(1,4.4536,4.1118,4.5603,4.1114,4.5603,4.1654,4.4537,4.166)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 600,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.571,4.1114,4.6457,4.1109,4.6457,4.1653,4.571,4.1654)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 605,
+                  "length": 6
+                },
+                "confidence": 0.988,
+                "source": "D(1,4.6564,4.1109,4.7702,4.1113,4.7701,4.1662,4.6563,4.1654)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 612,
+                  "length": 2
+                },
+                "confidence": 0.977,
+                "source": "D(1,4.7809,4.1113,4.8093,4.1114,4.8092,4.1661,4.7808,4.1662)"
+              },
+              {
+                "content": "insurance",
+                "span": {
+                  "offset": 615,
+                  "length": 9
+                },
+                "confidence": 0.985,
+                "source": "D(1,4.82,4.1114,5.0081,4.1115,5.0081,4.1653,4.8199,4.1661)"
+              },
+              {
+                "content": "provider",
+                "span": {
+                  "offset": 625,
+                  "length": 8
+                },
+                "confidence": 0.983,
+                "source": "D(1,4.3322,4.1633,4.4785,4.164,4.4786,4.2168,4.3322,4.2158)"
+              },
+              {
+                "content": "below.",
+                "span": {
+                  "offset": 634,
+                  "length": 6
+                },
+                "confidence": 0.974,
+                "source": "D(1,4.489,4.164,4.6005,4.1641,4.6005,4.2173,4.489,4.2169)"
+              },
+              {
+                "content": "We",
+                "span": {
+                  "offset": 641,
+                  "length": 2
+                },
+                "confidence": 0.991,
+                "source": "D(1,4.6109,4.1642,4.6667,4.1647,4.6667,4.218,4.611,4.2174)"
+              },
+              {
+                "content": "use",
+                "span": {
+                  "offset": 644,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6771,4.1648,4.7398,4.1642,4.7398,4.2178,4.6772,4.218)"
+              },
+              {
+                "content": "this",
+                "span": {
+                  "offset": 648,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.7503,4.164,4.8095,4.1641,4.8095,4.2179,4.7503,4.2178)"
+              },
+              {
+                "content": "information",
+                "span": {
+                  "offset": 653,
+                  "length": 11
+                },
+                "confidence": 0.962,
+                "source": "D(1,4.82,4.1642,5.029,4.1663,5.0294,4.2187,4.82,4.2179)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 665,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.0395,4.1663,5.0911,4.1655,5.0911,4.22,5.0398,4.2189)"
+              },
+              {
+                "content": "help",
+                "span": {
+                  "offset": 668,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.333,4.2061,4.4028,4.207,4.4024,4.2596,4.3323,4.258)"
+              },
+              {
+                "content": "match",
+                "span": {
+                  "offset": 673,
+                  "length": 5
+                },
+                "confidence": 0.988,
+                "source": "D(1,4.4133,4.2069,4.5251,4.2066,4.525,4.2596,4.413,4.2596)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 679,
+                  "length": 3
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.5356,4.2067,4.5985,4.2076,4.5983,4.2608,4.5355,4.2597)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 683,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.6089,4.2081,4.6439,4.209,4.6437,4.2623,4.6088,4.2612)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 686,
+                  "length": 4
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.6543,4.2087,4.7346,4.2058,4.7345,4.2595,4.6542,4.2621)"
+              },
+              {
+                "content": "benefits,",
+                "span": {
+                  "offset": 691,
+                  "length": 9
+                },
+                "confidence": 0.911,
+                "source": "D(1,4.7451,4.2055,4.8988,4.2051,4.8987,4.259,4.745,4.2593)"
+              },
+              {
+                "content": "even",
+                "span": {
+                  "offset": 701,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.9093,4.2054,4.9897,4.2059,4.9895,4.2596,4.9092,4.2592)"
+              },
+              {
+                "content": "if",
+                "span": {
+                  "offset": 706,
+                  "length": 2
+                },
+                "confidence": 0.963,
+                "source": "D(1,5.0001,4.206,5.0413,4.2066,5.0413,4.2602,5,4.2597)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 709,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,4.3308,4.2615,4.4075,4.261,4.4073,4.3132,4.3305,4.3132)"
+              },
+              {
+                "content": "benefits",
+                "span": {
+                  "offset": 714,
+                  "length": 8
+                },
+                "confidence": 0.963,
+                "source": "D(1,4.4179,4.2607,4.5643,4.2602,4.5641,4.3132,4.4178,4.3129)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 723,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.5747,4.2602,4.627,4.2604,4.6269,4.3135,4.5746,4.3133)"
+              },
+              {
+                "content": "provided",
+                "span": {
+                  "offset": 727,
+                  "length": 8
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.6375,4.2604,4.7943,4.2605,4.7941,4.3144,4.6374,4.3135)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 736,
+                  "length": 2
+                },
+                "confidence": 0.983,
+                "source": "D(1,4.8047,4.2602,4.843,4.2593,4.8429,4.3132,4.8045,4.3141)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 739,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8535,4.2594,4.9337,4.2598,4.9335,4.3131,4.8533,4.3132)"
+              },
+              {
+                "content": "employer",
+                "span": {
+                  "offset": 744,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.9441,4.2599,5.1243,4.2616,5.1243,4.316,4.944,4.3131)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 753,
+                  "length": 2
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.3315,4.3106,4.3703,4.3112,4.3703,4.36,4.3314,4.3591)"
+              },
+              {
+                "content": "association.",
+                "span": {
+                  "offset": 756,
+                  "length": 12
+                },
+                "confidence": 0.863,
+                "source": "D(1,4.38,4.3112,4.5986,4.3126,4.5986,4.3624,4.38,4.3602)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 770,
+                  "length": 6
+                },
+                "confidence": 0.928,
+                "source": "D(1,4.3312,4.3997,4.4532,4.4006,4.4531,4.4532,4.331,4.4514)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 777,
+                  "length": 2
+                },
+                "confidence": 0.915,
+                "source": "D(1,4.4636,4.4006,4.495,4.401,4.4949,4.454,4.4636,4.4533)"
+              },
+              {
+                "content": "insurance",
+                "span": {
+                  "offset": 780,
+                  "length": 9
+                },
+                "confidence": 0.963,
+                "source": "D(1,4.5054,4.4011,4.6831,4.4015,4.6831,4.4551,4.5054,4.4543)"
+              },
+              {
+                "content": "plan",
+                "span": {
+                  "offset": 790,
+                  "length": 4
+                },
+                "confidence": 0.943,
+                "source": "D(1,4.6936,4.4013,4.7702,4.4013,4.7702,4.455,4.6935,4.455)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 795,
+                  "length": 1
+                },
+                "confidence": 0.67,
+                "source": "D(1,4.7807,4.4014,4.8085,4.4017,4.8085,4.4558,4.7807,4.4551)"
+              },
+              {
+                "content": "Aetna",
+                "span": {
+                  "offset": 797,
+                  "length": 5
+                },
+                "confidence": 0.854,
+                "source": "D(1,4.362,4.4929,4.4714,4.4934,4.4714,4.5432,4.3618,4.5424)"
+              },
+              {
+                "content": "Continue",
+                "span": {
+                  "offset": 804,
+                  "length": 8
+                },
+                "confidence": 0.879,
+                "source": "D(1,4.636,5.0132,4.8197,5.0149,4.8195,5.067,4.6358,5.0644)"
+              },
+              {
+                "content": "My",
+                "span": {
+                  "offset": 814,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.46,5.1929,4.5158,5.1938,4.5155,5.2511,4.4593,5.2497)"
+              },
+              {
+                "content": "provider",
+                "span": {
+                  "offset": 817,
+                  "length": 8
+                },
+                "confidence": 0.696,
+                "source": "D(1,4.527,5.194,4.6758,5.1941,4.6756,5.2511,4.5267,5.2513)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 826,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.687,5.194,4.7131,5.1937,4.7128,5.2511,4.6867,5.2511)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 829,
+                  "length": 3
+                },
+                "confidence": 0.983,
+                "source": "D(1,4.7242,5.1936,4.7875,5.193,4.7872,5.2504,4.7239,5.2511)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 833,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.7987,5.1928,4.8396,5.1931,4.8393,5.2496,4.7983,5.2501)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 836,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8508,5.1933,4.9066,5.1939,4.9063,5.2497,4.8504,5.2497)"
+              },
+              {
+                "content": "list",
+                "span": {
+                  "offset": 840,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.9178,5.1939,4.9959,5.1924,4.9958,5.2494,4.9175,5.2496)"
+              },
+              {
+                "content": "2.",
+                "span": {
+                  "offset": 861,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.3925,3.6825,5.5324,3.6827,5.5322,3.8538,5.3924,3.8524)"
+              },
+              {
+                "content": "Select",
+                "span": {
+                  "offset": 864,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.5716,3.683,6.0192,3.6843,6.0188,3.8562,5.5713,3.8539)"
+              },
+              {
+                "content": "benefit",
+                "span": {
+                  "offset": 871,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.0528,3.6847,6.6067,3.6879,6.6063,3.8579,6.0523,3.8564)"
+              },
+              {
+                "content": "provider",
+                "span": {
+                  "offset": 879,
+                  "length": 8
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.6431,3.6878,7.2826,3.6882,7.2817,3.858,6.6426,3.8579)"
+              },
+              {
+                "content": "Confirm",
+                "span": {
+                  "offset": 889,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.3973,3.9113,5.9722,3.9133,5.9724,4.0828,5.3978,4.0797)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 897,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.0083,3.9135,6.2416,3.9144,6.2417,4.0846,6.0085,4.0833)"
+              },
+              {
+                "content": "coverage",
+                "span": {
+                  "offset": 901,
+                  "length": 8
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.2777,3.9144,6.9109,3.916,6.9106,4.0856,6.2778,4.0849)"
+              },
+              {
+                "content": "that",
+                "span": {
+                  "offset": 910,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.947,3.916,7.2081,3.916,7.2077,4.0856,6.9468,4.0856)"
+              },
+              {
+                "content": "has",
+                "span": {
+                  "offset": 915,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,7.2414,3.9161,7.5191,3.917,7.5178,4.0856,7.2409,4.0856)"
+              },
+              {
+                "content": "been",
+                "span": {
+                  "offset": 919,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.3944,4.1138,5.7342,4.113,5.7345,4.2824,5.3947,4.2808)"
+              },
+              {
+                "content": "matched",
+                "span": {
+                  "offset": 924,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.7702,4.1126,6.4111,4.1137,6.4112,4.2839,5.7704,4.2824)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 932,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.4498,4.1141,6.5907,4.115,6.5908,4.2841,6.4499,4.2841)"
+              },
+              {
+                "content": "you.",
+                "span": {
+                  "offset": 935,
+                  "length": 4
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.6239,4.1149,6.9112,4.1151,6.9111,4.2842,6.624,4.2838)"
+              },
+              {
+                "content": "Please",
+                "span": {
+                  "offset": 940,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.9609,4.1157,7.4098,4.1165,7.4098,4.2809,6.9608,4.2842)"
+              },
+              {
+                "content": "note",
+                "span": {
+                  "offset": 947,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.3953,4.3242,5.706,4.3246,5.7065,4.4975,5.3959,4.4963)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 952,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.7405,4.3245,6.0627,4.3231,6.0633,4.4981,5.7411,4.4975)"
+              },
+              {
+                "content": "care",
+                "span": {
+                  "offset": 957,
+                  "length": 4
+                },
+                "confidence": 0.987,
+                "source": "D(1,6.0972,4.3231,6.4021,4.3233,6.4029,4.4986,6.0977,4.4982)"
+              },
+              {
+                "content": "option",
+                "span": {
+                  "offset": 962,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.4423,4.3232,6.8882,4.3208,6.8885,4.499,6.4433,4.4984)"
+              },
+              {
+                "content": "through",
+                "span": {
+                  "offset": 969,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.9256,4.321,7.4818,4.3204,7.4818,4.4997,6.9259,4.4991)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 977,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.3887,4.5316,5.7156,4.5272,5.716,4.7001,5.3898,4.7001)"
+              },
+              {
+                "content": "employer",
+                "span": {
+                  "offset": 982,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.75,4.5268,6.4038,4.525,6.404,4.7001,5.7504,4.7001)"
+              },
+              {
+                "content": "group",
+                "span": {
+                  "offset": 991,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.4382,4.5252,6.8368,4.5254,6.8369,4.7001,6.4385,4.7001)"
+              },
+              {
+                "content": "will",
+                "span": {
+                  "offset": 997,
+                  "length": 4
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.8713,4.5256,7.0663,4.5256,7.0663,4.7001,6.8713,4.7001)"
+              },
+              {
+                "content": "pop",
+                "span": {
+                  "offset": 1002,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,7.1121,4.5256,7.3877,4.5266,7.3877,4.7001,7.1121,4.7001)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 1006,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.3939,4.7231,5.549,4.7223,5.5507,4.8916,5.3965,4.8922)"
+              },
+              {
+                "content": "here",
+                "span": {
+                  "offset": 1009,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.5822,4.7219,5.9033,4.7192,5.9049,4.8891,5.5838,4.8911)"
+              },
+              {
+                "content": "if",
+                "span": {
+                  "offset": 1014,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.9365,4.719,6.0362,4.7177,6.0373,4.8883,5.938,4.8892)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1017,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.0694,4.7173,6.1358,4.7169,6.1371,4.8873,6.0704,4.888)"
+              },
+              {
+                "content": "match",
+                "span": {
+                  "offset": 1019,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.1691,4.7168,6.6231,4.7156,6.624,4.884,6.1704,4.8869)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1025,
+                  "length": 2
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.6701,4.7152,6.7643,4.7147,6.7648,4.8838,6.6709,4.8839)"
+              },
+              {
+                "content": "found.",
+                "span": {
+                  "offset": 1028,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.8003,4.7147,7.2493,4.7133,7.2493,4.8802,6.8007,4.8838)"
+              },
+              {
+                "content": "Click",
+                "span": {
+                  "offset": 1035,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.3972,4.9131,5.7108,4.9133,5.711,5.0842,5.3974,5.082)"
+              },
+              {
+                "content": "\"Continue\"",
+                "span": {
+                  "offset": 1041,
+                  "length": 10
+                },
+                "confidence": 0.942,
+                "source": "D(1,5.7444,4.9133,6.5173,4.9154,6.5174,5.0875,5.7446,5.0842)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1052,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.5537,4.9155,6.6853,4.916,6.6854,5.0876,6.5538,5.0876)"
+              },
+              {
+                "content": "proceed",
+                "span": {
+                  "offset": 1055,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.7189,4.9161,7.3213,4.9189,7.3213,5.086,6.719,5.0874)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 1063,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.3914,5.1243,5.6854,5.1247,5.6855,5.2828,5.3919,5.2832)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 1068,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.73,5.1251,6.2916,5.1268,6.2917,5.2886,5.7301,5.2832)"
+              },
+              {
+                "content": "set",
+                "span": {
+                  "offset": 1076,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.3284,5.1271,6.5462,5.128,6.5462,5.2906,6.3285,5.2887)"
+              },
+              {
+                "content": "up.",
+                "span": {
+                  "offset": 1080,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.583,5.1283,6.79,5.1274,6.79,5.2887,6.5829,5.2911)"
+              },
+              {
+                "content": "3:38",
+                "span": {
+                  "offset": 1096,
+                  "length": 4
+                },
+                "confidence": 0.984,
+                "source": "D(1,0.6196,6.174,0.718,6.1723,0.7182,6.224,0.6197,6.2261)"
+              },
+              {
+                "content": "Nearly",
+                "span": {
+                  "offset": 1102,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.5695,6.3972,0.7868,6.397,0.7861,6.4728,0.5692,6.4727)"
+              },
+              {
+                "content": "done",
+                "span": {
+                  "offset": 1109,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8017,6.3972,0.9421,6.3975,0.9415,6.4739,0.801,6.4729)"
+              },
+              {
+                "content": "...",
+                "span": {
+                  "offset": 1114,
+                  "length": 3
+                },
+                "confidence": 0.99,
+                "source": "D(1,0.957,6.3976,1.0066,6.3982,1.006,6.4744,0.9563,6.474)"
+              },
+              {
+                "content": "please",
+                "span": {
+                  "offset": 1118,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.0215,6.3984,1.2451,6.3984,1.2449,6.4748,1.0209,6.4743)"
+              },
+              {
+                "content": "provide",
+                "span": {
+                  "offset": 1125,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.571,6.4895,0.813,6.4893,0.8129,6.5613,0.571,6.5623)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1133,
+                  "length": 4
+                },
+                "confidence": 0.988,
+                "source": "D(1,0.8272,6.489,0.9791,6.4871,0.979,6.5606,0.8272,6.5613)"
+              },
+              {
+                "content": "address",
+                "span": {
+                  "offset": 1138,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.9933,6.4868,1.2591,6.4877,1.2591,6.5599,0.9932,6.5604)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1146,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,0.5702,6.5774,0.6915,6.5759,0.6915,6.6498,0.5703,6.6506)"
+              },
+              {
+                "content": "phone",
+                "span": {
+                  "offset": 1150,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.7095,6.5756,0.9161,6.5757,0.9161,6.6492,0.7095,6.65)"
+              },
+              {
+                "content": "\"Required",
+                "span": {
+                  "offset": 1157,
+                  "length": 9
+                },
+                "confidence": 0.829,
+                "source": "D(1,0.5702,6.7001,0.7454,6.7003,0.7454,6.7507,0.5702,6.7507)"
+              },
+              {
+                "content": "Street",
+                "span": {
+                  "offset": 1168,
+                  "length": 6
+                },
+                "confidence": 0.977,
+                "source": "D(1,0.5698,6.7925,0.6844,6.7911,0.6846,6.8425,0.5698,6.8425)"
+              },
+              {
+                "content": "address",
+                "span": {
+                  "offset": 1175,
+                  "length": 7
+                },
+                "confidence": 0.99,
+                "source": "D(1,0.6945,6.7911,0.8395,6.7891,0.8397,6.8406,0.6947,6.8425)"
+              },
+              {
+                "content": "1",
+                "span": {
+                  "offset": 1183,
+                  "length": 1
+                },
+                "confidence": 0.949,
+                "source": "D(1,0.8496,6.7889,0.8699,6.7887,0.87,6.8403,0.8498,6.8406)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 1185,
+                  "length": 1
+                },
+                "confidence": 0.715,
+                "source": "D(1,0.88,6.7885,0.907,6.7884,0.9071,6.8399,0.8801,6.8401)"
+              },
+              {
+                "content": "Street",
+                "span": {
+                  "offset": 1188,
+                  "length": 6
+                },
+                "confidence": 0.985,
+                "source": "D(1,0.5713,7.0022,0.6821,7.0014,0.6821,7.0549,0.5713,7.054)"
+              },
+              {
+                "content": "address",
+                "span": {
+                  "offset": 1195,
+                  "length": 7
+                },
+                "confidence": 0.984,
+                "source": "D(1,0.6928,7.0015,0.8393,7.0011,0.8393,7.0562,0.6929,7.0551)"
+              },
+              {
+                "content": "2",
+                "span": {
+                  "offset": 1203,
+                  "length": 1
+                },
+                "confidence": 0.505,
+                "source": "D(1,0.8501,7.001,0.8643,7.001,0.8643,7.0564,0.85,7.0562)"
+              },
+              {
+                "content": "(optional)",
+                "span": {
+                  "offset": 1205,
+                  "length": 10
+                },
+                "confidence": 0.836,
+                "source": "D(1,0.8751,7.001,1.068,7,1.068,7.0563,0.875,7.0566)"
+              },
+              {
+                "content": "City*",
+                "span": {
+                  "offset": 1217,
+                  "length": 5
+                },
+                "confidence": 0.893,
+                "source": "D(1,0.5732,7.2142,0.6839,7.2134,0.6841,7.2631,0.5733,7.2648)"
+              },
+              {
+                "content": "Country",
+                "span": {
+                  "offset": 1224,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.5743,7.4265,0.7208,7.425,0.721,7.4752,0.5744,7.4748)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 1232,
+                  "length": 1
+                },
+                "confidence": 0.811,
+                "source": "D(1,0.7306,7.4248,0.7566,7.4248,0.7569,7.4749,0.7307,7.475)"
+              },
+              {
+                "content": "United",
+                "span": {
+                  "offset": 1235,
+                  "length": 6
+                },
+                "confidence": 0.945,
+                "source": "D(1,0.5896,7.5216,0.71,7.5204,0.7102,7.5744,0.5897,7.5746)"
+              },
+              {
+                "content": "States",
+                "span": {
+                  "offset": 1242,
+                  "length": 6
+                },
+                "confidence": 0.949,
+                "source": "D(1,0.7206,7.5202,0.8339,7.5204,0.8341,7.5748,0.7208,7.5743)"
+              },
+              {
+                "content": "Of",
+                "span": {
+                  "offset": 1249,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8445,7.5203,0.887,7.5204,0.8871,7.5748,0.8447,7.5747)"
+              },
+              {
+                "content": "America",
+                "span": {
+                  "offset": 1252,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8977,7.5203,1.057,7.5201,1.0568,7.5743,0.8977,7.5747)"
+              },
+              {
+                "content": "State",
+                "span": {
+                  "offset": 1261,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.5711,7.6382,0.6685,7.6378,0.6687,7.6844,0.5711,7.6843)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 1267,
+                  "length": 1
+                },
+                "confidence": 0.861,
+                "source": "D(1,0.6776,7.6377,0.7051,7.6382,0.7053,7.6848,0.6779,7.6845)"
+              },
+              {
+                "content": "Zip",
+                "span": {
+                  "offset": 1270,
+                  "length": 3
+                },
+                "confidence": 0.987,
+                "source": "D(1,0.9754,7.6385,1.0363,7.6393,1.0364,7.6884,0.9754,7.6872)"
+              },
+              {
+                "content": "code",
+                "span": {
+                  "offset": 1274,
+                  "length": 4
+                },
+                "confidence": 0.945,
+                "source": "D(1,1.0459,7.6395,1.1324,7.6382,1.1327,7.6869,1.046,7.6887)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 1279,
+                  "length": 1
+                },
+                "confidence": 0.935,
+                "source": "D(1,1.142,7.638,1.1676,7.6376,1.1676,7.6863,1.1423,7.6866)"
+              },
+              {
+                "content": "3.",
+                "span": {
+                  "offset": 1294,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.6306,6.3513,1.7685,6.3523,1.7687,6.5094,1.6308,6.5094)"
+              },
+              {
+                "content": "Create",
+                "span": {
+                  "offset": 1298,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.8119,6.3523,2.3098,6.3551,2.3096,6.5103,1.812,6.5099)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 1305,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.343,6.3553,2.9495,6.3578,2.9495,6.5103,2.3427,6.5103)"
+              },
+              {
+                "content": "Provide",
+                "span": {
+                  "offset": 1314,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6369,6.5848,2.1595,6.5881,2.1593,6.7524,1.6367,6.75)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1322,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.1942,6.5885,2.5008,6.589,2.5004,6.7515,2.1939,6.7524)"
+              },
+              {
+                "content": "contact",
+                "span": {
+                  "offset": 1327,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.5355,6.5888,3.0879,6.5886,3.0879,6.7492,2.535,6.7513)"
+              },
+              {
+                "content": "information.",
+                "span": {
+                  "offset": 1335,
+                  "length": 12
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.631,6.7844,2.4958,6.79,2.4958,6.9421,1.6316,6.9403)"
+              },
+              {
+                "content": "4:41",
+                "span": {
+                  "offset": 1360,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.3858,6.1726,4.4769,6.1733,4.4769,6.2234,4.3859,6.2219)"
+              },
+              {
+                "content": "<",
+                "span": {
+                  "offset": 1366,
+                  "length": 1
+                },
+                "confidence": 0.253,
+                "source": "D(1,4.3534,6.2691,4.3828,6.2688,4.3824,6.3143,4.3533,6.3147)"
+              },
+              {
+                "content": "Perfect!",
+                "span": {
+                  "offset": 1369,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3318,6.3935,4.5924,6.3941,4.5923,6.4686,4.3316,6.466)"
+              },
+              {
+                "content": "Let's",
+                "span": {
+                  "offset": 1378,
+                  "length": 5
+                },
+                "confidence": 0.977,
+                "source": "D(1,4.612,6.3943,4.7698,6.3958,4.7695,6.4713,4.6118,6.4689)"
+              },
+              {
+                "content": "tie",
+                "span": {
+                  "offset": 1384,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.7845,6.3961,4.8713,6.3972,4.8709,6.4726,4.7841,6.4712)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 1388,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.8873,6.3974,4.9749,6.3983,4.9749,6.4749,4.8868,6.4729)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1391,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.3325,6.4856,4.4471,6.4844,4.4471,6.5543,4.3325,6.5546)"
+              },
+              {
+                "content": "details",
+                "span": {
+                  "offset": 1395,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.462,6.4842,4.6872,6.4849,4.6872,6.5546,4.462,6.5543)"
+              },
+              {
+                "content": "\"Required",
+                "span": {
+                  "offset": 1404,
+                  "length": 9
+                },
+                "confidence": 0.678,
+                "source": "D(1,4.3347,6.6115,4.5083,6.6125,4.5084,6.6618,4.3347,6.6613)"
+              },
+              {
+                "content": "Username",
+                "span": {
+                  "offset": 1415,
+                  "length": 8
+                },
+                "confidence": 0.941,
+                "source": "D(1,4.333,6.7018,4.5207,6.7001,4.5209,6.7493,4.333,6.7526)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 1424,
+                  "length": 1
+                },
+                "confidence": 0.461,
+                "source": "D(1,4.5306,6.6997,4.5599,6.699,4.5599,6.7494,4.5308,6.7492)"
+              },
+              {
+                "content": "Password\"",
+                "span": {
+                  "offset": 1427,
+                  "length": 9
+                },
+                "confidence": 0.637,
+                "source": "D(1,4.3346,6.9086,4.5075,6.9087,4.5075,6.9583,4.3345,6.9576)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 1438,
+                  "length": 1
+                },
+                "confidence": 0.303,
+                "source": "D(1,4.3776,7.001,4.3988,7.0015,4.399,7.0528,4.3778,7.0528)"
+              },
+              {
+                "content": "use",
+                "span": {
+                  "offset": 1440,
+                  "length": 3
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.4276,7.0016,4.4912,7.0015,4.4914,7.0528,4.4278,7.0528)"
+              },
+              {
+                "content": "10",
+                "span": {
+                  "offset": 1444,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.5014,7.0013,4.5336,7.0011,4.5337,7.0526,4.5015,7.0526)"
+              },
+              {
+                "content": "-",
+                "span": {
+                  "offset": 1447,
+                  "length": 1
+                },
+                "confidence": 0.977,
+                "source": "D(1,4.5438,7.001,4.5642,7.0006,4.5643,7.0523,4.5439,7.0526)"
+              },
+              {
+                "content": "20",
+                "span": {
+                  "offset": 1449,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.5744,7.0005,4.6151,7.0009,4.6152,7.0526,4.5745,7.0523)"
+              },
+              {
+                "content": "characters",
+                "span": {
+                  "offset": 1452,
+                  "length": 10
+                },
+                "confidence": 0.912,
+                "source": "D(1,4.6253,7.0008,4.8255,7.0003,4.8254,7.0525,4.6254,7.0526)"
+              },
+              {
+                "content": "include",
+                "span": {
+                  "offset": 1463,
+                  "length": 7
+                },
+                "confidence": 0.953,
+                "source": "D(1,4.4215,7.0632,4.5471,7.0629,4.5472,7.1142,4.4217,7.1145)"
+              },
+              {
+                "content": "at",
+                "span": {
+                  "offset": 1471,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.5573,7.0627,4.5878,7.0623,4.588,7.114,4.5574,7.1141)"
+              },
+              {
+                "content": "least",
+                "span": {
+                  "offset": 1474,
+                  "length": 5
+                },
+                "confidence": 0.976,
+                "source": "D(1,4.598,7.0625,4.6862,7.0631,4.6863,7.1148,4.5981,7.1142)"
+              },
+              {
+                "content": "one",
+                "span": {
+                  "offset": 1480,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.6963,7.0632,4.7574,7.0636,4.7575,7.1156,4.6965,7.115)"
+              },
+              {
+                "content": "number",
+                "span": {
+                  "offset": 1484,
+                  "length": 6
+                },
+                "confidence": 0.956,
+                "source": "D(1,4.7676,7.0636,4.9067,7.0633,4.9067,7.1153,4.7677,7.1156)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1491,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.9169,7.0633,4.9813,7.0638,4.9814,7.1158,4.9169,7.1153)"
+              },
+              {
+                "content": "one",
+                "span": {
+                  "offset": 1495,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.9915,7.064,5.069,7.0635,5.069,7.1164,4.9916,7.116)"
+              },
+              {
+                "content": "letter",
+                "span": {
+                  "offset": 1499,
+                  "length": 6
+                },
+                "confidence": 0.975,
+                "source": "D(1,4.4214,7.1141,4.5354,7.116,4.5355,7.1623,4.4215,7.159)"
+              },
+              {
+                "content": "Confirm",
+                "span": {
+                  "offset": 1507,
+                  "length": 7
+                },
+                "confidence": 0.788,
+                "source": "D(1,4.3351,7.3204,4.4735,7.3204,4.4734,7.3749,4.3349,7.3735)"
+              },
+              {
+                "content": "Password",
+                "span": {
+                  "offset": 1515,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.4886,7.3202,4.6672,7.3195,4.6672,7.3747,4.4886,7.3749)"
+              },
+              {
+                "content": "*",
+                "span": {
+                  "offset": 1524,
+                  "length": 1
+                },
+                "confidence": 0.634,
+                "source": "D(1,4.6779,7.3193,4.7038,7.3192,4.7038,7.3747,4.6779,7.3747)"
+              },
+              {
+                "content": "Each",
+                "span": {
+                  "offset": 1527,
+                  "length": 4
+                },
+                "confidence": 0.988,
+                "source": "D(1,4.3337,7.5101,4.4149,7.51,4.4148,7.5642,4.3336,7.5638)"
+              },
+              {
+                "content": "security",
+                "span": {
+                  "offset": 1532,
+                  "length": 8
+                },
+                "confidence": 0.983,
+                "source": "D(1,4.4255,7.51,4.5667,7.5103,4.5666,7.5641,4.4254,7.5642)"
+              },
+              {
+                "content": "question",
+                "span": {
+                  "offset": 1541,
+                  "length": 8
+                },
+                "confidence": 0.983,
+                "source": "D(1,4.5773,7.5103,4.7292,7.5102,4.7289,7.5649,4.5772,7.5642)"
+              },
+              {
+                "content": "cannot",
+                "span": {
+                  "offset": 1550,
+                  "length": 6
+                },
+                "confidence": 0.977,
+                "source": "D(1,4.7398,7.5102,4.8598,7.5102,4.8594,7.5645,4.7395,7.5648)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 1557,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.8704,7.5101,4.9128,7.5098,4.9123,7.5635,4.87,7.5644)"
+              },
+              {
+                "content": "selected",
+                "span": {
+                  "offset": 1560,
+                  "length": 8
+                },
+                "confidence": 0.987,
+                "source": "D(1,4.9234,7.5097,5.0964,7.5114,5.0958,7.5639,4.9229,7.5633)"
+              },
+              {
+                "content": "more",
+                "span": {
+                  "offset": 1569,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3326,7.5622,4.4218,7.564,4.4219,7.6185,4.3326,7.6166)"
+              },
+              {
+                "content": "than",
+                "span": {
+                  "offset": 1574,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.4325,7.5641,4.5111,7.5633,4.5111,7.6179,4.4326,7.6186)"
+              },
+              {
+                "content": "once.",
+                "span": {
+                  "offset": 1579,
+                  "length": 5
+                },
+                "confidence": 0.963,
+                "source": "D(1,4.5218,7.5631,4.6182,7.5635,4.6182,7.6185,4.5218,7.6178)"
+              },
+              {
+                "content": "Answers",
+                "span": {
+                  "offset": 1585,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6289,7.5636,4.7789,7.5619,4.7789,7.6169,4.629,7.6187)"
+              },
+              {
+                "content": "must",
+                "span": {
+                  "offset": 1593,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.7896,7.5618,4.8789,7.562,4.8788,7.616,4.7896,7.6167)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 1598,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.8896,7.5621,4.9289,7.5621,4.9288,7.6162,4.8895,7.616)"
+              },
+              {
+                "content": "at",
+                "span": {
+                  "offset": 1601,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.9396,7.5621,4.9717,7.5621,4.9717,7.616,4.9395,7.6163)"
+              },
+              {
+                "content": "least",
+                "span": {
+                  "offset": 1604,
+                  "length": 5
+                },
+                "confidence": 0.99,
+                "source": "D(1,4.9824,7.5621,5.0717,7.5623,5.0717,7.6162,4.9824,7.6159)"
+              },
+              {
+                "content": "2",
+                "span": {
+                  "offset": 1610,
+                  "length": 1
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.0824,7.5623,5.1077,7.5625,5.1077,7.6174,5.0824,7.6166)"
+              },
+              {
+                "content": "characters",
+                "span": {
+                  "offset": 1612,
+                  "length": 10
+                },
+                "confidence": 0.99,
+                "source": "D(1,4.3338,7.6099,4.5171,7.611,4.5171,7.6642,4.3337,7.6634)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 1623,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.5277,7.6111,4.6018,7.6125,4.6017,7.6664,4.5277,7.6643)"
+              },
+              {
+                "content": "no",
+                "span": {
+                  "offset": 1628,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.6123,7.6124,4.6582,7.6115,4.6581,7.6658,4.6123,7.6664)"
+              },
+              {
+                "content": "special",
+                "span": {
+                  "offset": 1631,
+                  "length": 7
+                },
+                "confidence": 0.977,
+                "source": "D(1,4.6687,7.6114,4.7851,7.6107,4.785,7.6646,4.6687,7.6658)"
+              },
+              {
+                "content": "symbols.",
+                "span": {
+                  "offset": 1639,
+                  "length": 8
+                },
+                "confidence": 0.899,
+                "source": "D(1,4.7957,7.6107,4.972,7.6102,4.9718,7.6651,4.7956,7.6645)"
+              },
+              {
+                "content": "Security",
+                "span": {
+                  "offset": 1648,
+                  "length": 8
+                },
+                "confidence": 0.977,
+                "source": "D(1,4.3342,7.7022,4.484,7.7016,4.4842,7.7548,4.3341,7.7537)"
+              },
+              {
+                "content": "question",
+                "span": {
+                  "offset": 1657,
+                  "length": 8
+                },
+                "confidence": 0.981,
+                "source": "D(1,4.4945,7.7017,4.6548,7.6997,4.6549,7.7533,4.4946,7.755)"
+              },
+              {
+                "content": "1\"",
+                "span": {
+                  "offset": 1666,
+                  "length": 2
+                },
+                "confidence": 0.436,
+                "source": "D(1,4.6652,7.6995,4.7204,7.699,4.7204,7.7532,4.6653,7.7531)"
+              },
+              {
+                "content": "4.",
+                "span": {
+                  "offset": 1682,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.3938,6.3508,5.5324,6.3523,5.5323,6.5198,5.3936,6.5201)"
+              },
+              {
+                "content": "Complete",
+                "span": {
+                  "offset": 1686,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.5731,6.3527,6.3014,6.3536,6.3011,6.5206,5.5731,6.5197)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 1695,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.3395,6.3537,6.945,6.3565,6.945,6.5167,6.3392,6.5204)"
+              },
+              {
+                "content": "Create",
+                "span": {
+                  "offset": 1704,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.3969,6.5853,5.8756,6.587,5.8757,6.7493,5.3973,6.747)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1711,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.9153,6.5872,5.9867,6.5874,5.9869,6.7495,5.9154,6.7494)"
+              },
+              {
+                "content": "username,",
+                "span": {
+                  "offset": 1713,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.029,6.5878,6.7511,6.5904,6.7512,6.7519,6.0292,6.7496)"
+              },
+              {
+                "content": "password",
+                "span": {
+                  "offset": 1723,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.7829,6.5905,7.4762,6.5902,7.4762,6.7509,6.7829,6.7523)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1732,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.3923,6.7884,5.6368,6.7879,5.6371,6.958,5.3927,6.957)"
+              },
+              {
+                "content": "pick",
+                "span": {
+                  "offset": 1736,
+                  "length": 4
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.6702,6.7879,5.9703,6.7878,5.9705,6.9584,5.6704,6.9579)"
+              },
+              {
+                "content": "security",
+                "span": {
+                  "offset": 1741,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.0064,6.7877,6.5621,6.7859,6.5623,6.9572,6.0066,6.9586)"
+              },
+              {
+                "content": "questions",
+                "span": {
+                  "offset": 1750,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.5955,6.7858,7.279,6.7862,7.279,6.9518,6.5957,6.9569)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1760,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,7.3151,6.7864,7.4762,6.7853,7.4762,6.9509,7.3152,6.9515)"
+              },
+              {
+                "content": "ensure",
+                "span": {
+                  "offset": 1763,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.3955,6.9977,5.8842,6.9967,5.8847,7.1525,5.3963,7.1513)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1770,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,5.9199,6.9968,6.2253,6.9959,6.2258,7.152,5.9204,7.1525)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 1775,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.261,6.9957,6.8006,6.9938,6.801,7.1504,6.2615,7.1519)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1783,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.8312,6.9936,6.9559,6.9933,6.9562,7.1495,6.8316,7.1502)"
+              },
+              {
+                "content": "secure.",
+                "span": {
+                  "offset": 1786,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.9967,6.9934,7.5094,6.9943,7.5094,7.1464,6.9969,7.1492)"
+              },
+              {
+                "content": "Once",
+                "span": {
+                  "offset": 1795,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.9627,8.2207,1.2632,8.2224,1.2629,8.3718,0.962,8.3715)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1800,
+                  "length": 4
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2933,8.2225,1.5437,8.223,1.5437,8.3722,1.293,8.3718)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 1805,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.5738,8.2229,2.0146,8.2216,2.0146,8.373,1.5737,8.3723)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1813,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0447,8.2215,2.1449,8.2212,2.1448,8.3731,2.0446,8.373)"
+              },
+              {
+                "content": "created,",
+                "span": {
+                  "offset": 1816,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.1749,8.2211,2.6458,8.2204,2.6458,8.3743,2.1748,8.3731)"
+              },
+              {
+                "content": "eligible",
+                "span": {
+                  "offset": 1825,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.6759,8.2203,3.0591,8.2206,3.0592,8.3753,2.6759,8.3745)"
+              },
+              {
+                "content": "dependents",
+                "span": {
+                  "offset": 1834,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.0892,8.2206,3.7579,8.2213,3.7582,8.3757,3.0892,8.3754)"
+              },
+              {
+                "content": "under",
+                "span": {
+                  "offset": 1845,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.788,8.2213,4.1436,8.2213,4.1439,8.3752,3.7883,8.3757)"
+              },
+              {
+                "content": "18",
+                "span": {
+                  "offset": 1851,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.1762,8.2213,4.2889,8.2212,4.2891,8.375,4.1764,8.3752)"
+              },
+              {
+                "content": "years",
+                "span": {
+                  "offset": 1854,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.319,8.2212,4.6371,8.2208,4.6372,8.3744,4.3192,8.375)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1860,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.6671,8.2208,4.7698,8.2207,4.7699,8.3744,4.6673,8.3744)"
+              },
+              {
+                "content": "age",
+                "span": {
+                  "offset": 1863,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.7999,8.2207,5.0103,8.2207,5.0104,8.375,4.8,8.3745)"
+              },
+              {
+                "content": "can",
+                "span": {
+                  "offset": 1867,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.0403,8.2207,5.2307,8.2207,5.2308,8.3755,5.0405,8.375)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 1871,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.2607,8.2207,5.411,8.2209,5.4111,8.3758,5.2609,8.3755)"
+              },
+              {
+                "content": "added",
+                "span": {
+                  "offset": 1874,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.4411,8.2209,5.7817,8.2218,5.7818,8.3759,5.4412,8.3758)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 1880,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.8118,8.222,5.912,8.2226,5.912,8.3759,5.8118,8.3759)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1883,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.942,8.2227,6.1925,8.2236,6.1925,8.3756,5.9421,8.3759)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 1888,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.2225,8.2235,6.6834,8.2222,6.6834,8.3742,6.2226,8.3755)"
+              },
+              {
+                "content": "settings",
+                "span": {
+                  "offset": 1896,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.7135,8.2223,7.1718,8.2229,7.1718,8.3756,6.7135,8.3743)"
+              },
+              {
+                "content": "under",
+                "span": {
+                  "offset": 1905,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,7.2019,8.2228,7.5482,8.2223,7.5482,8.3749,7.2018,8.3755)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1911,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.2449,8.374,1.4241,8.3745,1.424,8.5254,1.2446,8.5254)"
+              },
+              {
+                "content": "primary",
+                "span": {
+                  "offset": 1915,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.454,8.3745,1.8821,8.3748,1.8822,8.5254,1.4539,8.5254)"
+              },
+              {
+                "content": "member.",
+                "span": {
+                  "offset": 1923,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.912,8.3747,2.4198,8.3727,2.42,8.5254,1.9121,8.5254)"
+              },
+              {
+                "content": "Dependents",
+                "span": {
+                  "offset": 1931,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.4497,8.3725,3.1666,8.3717,3.1669,8.5245,2.4499,8.5254)"
+              },
+              {
+                "content": "older",
+                "span": {
+                  "offset": 1942,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.1965,8.3717,3.4753,8.3713,3.4756,8.5237,3.1968,8.5244)"
+              },
+              {
+                "content": "than",
+                "span": {
+                  "offset": 1948,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.5052,8.3712,3.779,8.3704,3.7793,8.5232,3.5055,8.5237)"
+              },
+              {
+                "content": "18",
+                "span": {
+                  "offset": 1953,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.8188,8.3703,3.9508,8.3703,3.9511,8.5233,3.8192,8.5232)"
+              },
+              {
+                "content": "should",
+                "span": {
+                  "offset": 1956,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.9807,8.3704,4.3416,8.3706,4.342,8.5236,3.981,8.5233)"
+              },
+              {
+                "content": "follow",
+                "span": {
+                  "offset": 1963,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.3715,8.3706,4.6876,8.3707,4.688,8.5234,4.3718,8.5235)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1970,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.7299,8.3707,4.9191,8.3706,4.9194,8.5236,4.7303,8.5235)"
+              },
+              {
+                "content": "steps",
+                "span": {
+                  "offset": 1974,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.949,8.3706,5.2577,8.3707,5.2579,8.5233,4.9493,8.5236)"
+              },
+              {
+                "content": "above",
+                "span": {
+                  "offset": 1980,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.2876,8.3707,5.6261,8.371,5.6263,8.5222,5.2877,8.5232)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1986,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.656,8.371,5.7755,8.371,5.7757,8.5217,5.6562,8.5221)"
+              },
+              {
+                "content": "create",
+                "span": {
+                  "offset": 1989,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.8053,8.371,6.1539,8.3709,6.154,8.5218,5.8056,8.5217)"
+              },
+              {
+                "content": "their",
+                "span": {
+                  "offset": 1996,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.1837,8.3708,6.4526,8.3707,6.4527,8.5221,6.1839,8.5219)"
+              },
+              {
+                "content": "own",
+                "span": {
+                  "offset": 2002,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.4824,8.3707,6.7239,8.3708,6.724,8.5209,6.4826,8.522)"
+              },
+              {
+                "content": "account.",
+                "span": {
+                  "offset": 2006,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.7563,8.3709,7.2492,8.3733,7.2493,8.5207,6.7564,8.5207)"
+              },
+              {
+                "content": "Set",
+                "span": {
+                  "offset": 2016,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.6906,8.9862,2.0964,8.9879,2.0925,9.2617,1.6873,9.2612)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 2020,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1499,8.9881,2.471,8.9883,2.469,9.2608,2.1463,9.2617)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 2023,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5245,8.9876,3.1042,8.9845,3.1033,9.2554,2.5226,9.2607)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 2028,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.1577,8.9846,4.1298,8.9814,4.1286,9.2494,3.1569,9.2546)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 2036,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.1878,8.9811,5.0173,8.9819,5.0159,9.2518,4.1865,9.2494)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 2043,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.0797,8.9817,6.0608,8.9809,6.0588,9.2558,5.0782,9.2519)"
+              },
+              {
+                "content": "today",
+                "span": {
+                  "offset": 2051,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.1187,8.981,6.8177,8.9834,6.8177,9.2617,6.1167,9.2564)"
+              },
+              {
+                "content": "Visit",
+                "span": {
+                  "offset": 2057,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.1091,9.3167,3.5214,9.317,3.5215,9.5141,3.1094,9.5127)"
+              },
+              {
+                "content": "TeladocHealth.com",
+                "span": {
+                  "offset": 2063,
+                  "length": 17
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.5633,9.3168,5.3734,9.3275,5.3734,9.5196,3.5634,9.5142)"
+              },
+              {
+                "content": "Call",
+                "span": {
+                  "offset": 2081,
+                  "length": 4
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.0914,9.5743,2.4245,9.5749,2.4247,9.7949,2.091,9.7956)"
+              },
+              {
+                "content": "1-800-835-2362",
+                "span": {
+                  "offset": 2086,
+                  "length": 14
+                },
+                "confidence": 0.129,
+                "source": "D(1,2.4976,9.5758,4.0932,9.5779,4.0927,9.8047,2.4979,9.795)"
+              },
+              {
+                "content": "|",
+                "span": {
+                  "offset": 2101,
+                  "length": 1
+                },
+                "confidence": 1,
+                "source": "D(1,4.1408,9.5776,4.2433,9.5771,4.2426,9.8071,4.1402,9.8055)"
+              },
+              {
+                "content": "Download",
+                "span": {
+                  "offset": 2103,
+                  "length": 8
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.2872,9.5772,5.235,9.5874,5.2339,9.8134,4.2865,9.8074)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 2112,
+                  "length": 3
+                },
+                "confidence": 1,
+                "source": "D(1,5.2899,9.5875,5.5973,9.5904,5.5967,9.816,5.2889,9.8136)"
+              },
+              {
+                "content": "app",
+                "span": {
+                  "offset": 2116,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.6522,9.5915,5.9852,9.5954,5.9848,9.8178,5.6516,9.8168)"
+              },
+              {
+                "content": "\u00ab",
+                "span": {
+                  "offset": 2120,
+                  "length": 1
+                },
+                "confidence": 0.385,
+                "source": "D(1,6.0291,9.5957,6.1169,9.5966,6.1165,9.8174,6.0287,9.8175)"
+              },
+              {
+                "content": "|",
+                "span": {
+                  "offset": 2122,
+                  "length": 1
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.1608,9.5974,6.223,9.5986,6.2225,9.8185,6.1604,9.8179)"
+              },
+              {
+                "content": "+",
+                "span": {
+                  "offset": 2124,
+                  "length": 1
+                },
+                "confidence": 0.709,
+                "source": "D(1,6.2815,9.5997,6.4082,9.6021,6.4082,9.8204,6.281,9.8191)"
+              },
+              {
+                "content": "If",
+                "span": {
+                  "offset": 2144,
+                  "length": 2
+                },
+                "confidence": 0.907,
+                "source": "D(1,0.24,10.4341,0.2833,10.4341,0.2831,10.5631,0.2398,10.563)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 2147,
+                  "length": 4
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.3093,10.4341,0.5172,10.434,0.5171,10.564,0.3091,10.5632)"
+              },
+              {
+                "content": "device",
+                "span": {
+                  "offset": 2152,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.5432,10.434,0.8377,10.4335,0.8374,10.5644,0.5431,10.5641)"
+              },
+              {
+                "content": "settings",
+                "span": {
+                  "offset": 2159,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8637,10.4335,1.2362,10.4321,1.2357,10.5649,0.8633,10.5644)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 2168,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.2622,10.432,1.3921,10.4315,1.3915,10.5648,1.2616,10.5649)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 2172,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.4181,10.4314,1.6174,10.4306,1.6166,10.5643,1.4175,10.5648)"
+              },
+              {
+                "content": "mobile",
+                "span": {
+                  "offset": 2177,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6434,10.4305,1.9552,10.4311,1.9546,10.5644,1.6426,10.5642)"
+              },
+              {
+                "content": "phone",
+                "span": {
+                  "offset": 2184,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.9812,10.4312,2.2844,10.4313,2.2842,10.5646,1.9806,10.5645)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 2190,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.3104,10.4313,2.449,10.4314,2.4489,10.5644,2.3102,10.5646)"
+              },
+              {
+                "content": "set",
+                "span": {
+                  "offset": 2194,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.475,10.4315,2.6136,10.4318,2.6135,10.5637,2.4749,10.5642)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 2198,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.6396,10.4319,2.75,10.4321,2.75,10.5632,2.6395,10.5636)"
+              },
+              {
+                "content": "Spanish,",
+                "span": {
+                  "offset": 2201,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.776,10.432,3.1507,10.4305,3.1506,10.5622,2.776,10.5631)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 2210,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.1766,10.4304,3.3412,10.4303,3.341,10.5618,3.1765,10.5621)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 2214,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.3672,10.4303,3.7051,10.4294,3.7045,10.5621,3.367,10.5618)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 2222,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.7311,10.4293,4.0472,10.4292,4.0467,10.5632,3.7304,10.5622)"
+              },
+              {
+                "content": "app",
+                "span": {
+                  "offset": 2229,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.0732,10.4292,4.2248,10.4295,4.2244,10.5637,4.0727,10.5632)"
+              },
+              {
+                "content": "will",
+                "span": {
+                  "offset": 2233,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.2508,10.4295,4.3894,10.4298,4.3889,10.5642,4.2504,10.5638)"
+              },
+              {
+                "content": "display",
+                "span": {
+                  "offset": 2238,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.4154,10.4299,4.7186,10.4304,4.7181,10.5644,4.4148,10.5643)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 2246,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.7446,10.4304,4.8377,10.4306,4.8374,10.5644,4.7441,10.5644)"
+              },
+              {
+                "content": "Spanish.",
+                "span": {
+                  "offset": 2249,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8637,10.4306,5.2572,10.4323,5.2572,10.5615,4.8634,10.5643)"
+              },
+              {
+                "content": "@",
+                "span": {
+                  "offset": 2258,
+                  "length": 1
+                },
+                "confidence": 0.133,
+                "source": "D(1,0.2367,10.5793,0.3014,10.5793,0.301,10.6894,0.2363,10.6891)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 2260,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.3255,10.5793,0.6066,10.5793,0.6065,10.691,0.3251,10.6895)"
+              },
+              {
+                "content": "Health,",
+                "span": {
+                  "offset": 2268,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.6288,10.5793,0.8877,10.5787,0.8876,10.692,0.6287,10.6911)"
+              },
+              {
+                "content": "Inc.",
+                "span": {
+                  "offset": 2276,
+                  "length": 4
+                },
+                "confidence": 0.963,
+                "source": "D(1,0.9099,10.5786,1.0523,10.5781,1.0521,10.6924,0.9098,10.6921)"
+              },
+              {
+                "content": "All",
+                "span": {
+                  "offset": 2281,
+                  "length": 3
+                },
+                "confidence": 0.978,
+                "source": "D(1,1.0745,10.578,1.154,10.5778,1.1538,10.6927,1.0743,10.6925)"
+              },
+              {
+                "content": "rights",
+                "span": {
+                  "offset": 2285,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1762,10.5777,1.376,10.5773,1.3757,10.6919,1.176,10.6927)"
+              },
+              {
+                "content": "reserved.",
+                "span": {
+                  "offset": 2292,
+                  "length": 9
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.3982,10.5772,1.7477,10.5766,1.7474,10.6905,1.3979,10.6918)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 2302,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.7718,10.5766,2.0492,10.5762,2.0487,10.6902,1.7714,10.6905)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 2310,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0714,10.5762,2.3081,10.5765,2.3078,10.6903,2.0709,10.6901)"
+              },
+              {
+                "content": "marks",
+                "span": {
+                  "offset": 2317,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.3303,10.5765,2.5597,10.577,2.5596,10.6906,2.33,10.6903)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 2323,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.5819,10.5771,2.7076,10.577,2.7076,10.6908,2.5818,10.6907)"
+              },
+              {
+                "content": "logos",
+                "span": {
+                  "offset": 2327,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.7298,10.5769,2.9425,10.5766,2.9425,10.6911,2.7298,10.6908)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 2333,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.9647,10.5766,3.0701,10.5764,3.0701,10.6912,2.9647,10.6911)"
+              },
+              {
+                "content": "owned",
+                "span": {
+                  "offset": 2337,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.0923,10.5764,3.342,10.5768,3.342,10.6914,3.0923,10.6912)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 2343,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.3716,10.5768,3.4548,10.5769,3.4549,10.6914,3.3716,10.6914)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 2346,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.477,10.5769,3.7582,10.5769,3.7582,10.6917,3.4771,10.6914)"
+              },
+              {
+                "content": "Health,",
+                "span": {
+                  "offset": 2354,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.7804,10.5769,4.0319,10.5768,4.032,10.6919,3.7804,10.6917)"
+              },
+              {
+                "content": "Inc.",
+                "span": {
+                  "offset": 2362,
+                  "length": 4
+                },
+                "confidence": 0.972,
+                "source": "D(1,4.0541,10.5768,4.1983,10.5768,4.1984,10.6918,4.0542,10.6919)"
+              },
+              {
+                "content": "All",
+                "span": {
+                  "offset": 2367,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.2224,10.5768,4.3112,10.5768,4.3112,10.6917,4.2224,10.6918)"
+              },
+              {
+                "content": "programs",
+                "span": {
+                  "offset": 2371,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3408,10.5768,4.6811,10.577,4.6811,10.6913,4.3408,10.6917)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 2380,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.7051,10.5771,4.8401,10.5773,4.8402,10.6911,4.7051,10.6913)"
+              },
+              {
+                "content": "services",
+                "span": {
+                  "offset": 2384,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8623,10.5773,5.1619,10.5775,5.162,10.691,4.8624,10.691)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 2393,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.1841,10.5775,5.3025,10.5775,5.3025,10.6911,5.1842,10.691)"
+              },
+              {
+                "content": "subject",
+                "span": {
+                  "offset": 2397,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.3247,10.5775,5.5707,10.5778,5.5707,10.691,5.3247,10.6911)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 2405,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.5929,10.5778,5.6669,10.578,5.6668,10.6909,5.5929,10.691)"
+              },
+              {
+                "content": "applicable",
+                "span": {
+                  "offset": 2408,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.6891,10.578,6.0516,10.5788,6.0515,10.6901,5.689,10.6909)"
+              },
+              {
+                "content": "terms",
+                "span": {
+                  "offset": 2419,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.0738,10.5789,6.2809,10.5794,6.2808,10.6893,6.0737,10.69)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 2425,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.3031,10.5795,6.4455,10.5797,6.4453,10.6887,6.303,10.6892)"
+              },
+              {
+                "content": "conditions.",
+                "span": {
+                  "offset": 2429,
+                  "length": 11
+                },
+                "confidence": 0.977,
+                "source": "D(1,6.4696,10.5797,6.862,10.5797,6.862,10.6869,6.4694,10.6886)"
+              },
+              {
+                "content": "496673",
+                "span": {
+                  "offset": 2463,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.241,10.7855,0.5189,10.7844,0.5186,10.8746,0.2407,10.8752)"
+              },
+              {
+                "content": "TM-GM-10E-A24-02_3750057_E_030123_PC",
+                "span": {
+                  "offset": 2492,
+                  "length": 36
+                },
+                "confidence": 0.9,
+                "source": "D(1,6.6577,10.7803,8.254,10.7797,8.254,10.8782,6.6577,10.8781)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "Teladoc\u00ae",
+                "source": "D(1,0.5436,0.41,1.8959,0.4071,1.8965,0.7218,0.5442,0.7246)",
+                "span": {
+                  "offset": 0,
+                  "length": 8
+                }
+              },
+              {
+                "content": "\u00ae",
+                "source": "D(1,1.8436,0.4387,1.9129,0.4413,1.9106,0.5011,1.8413,0.4985)",
+                "span": {
+                  "offset": 9,
+                  "length": 1
+                }
+              },
+              {
+                "content": "HEALTH",
+                "source": "D(1,1.2799,0.7594,1.8662,0.7594,1.8663,0.9055,1.2799,0.9056)",
+                "span": {
+                  "offset": 11,
+                  "length": 6
+                }
+              },
+              {
+                "content": "Made available by:",
+                "source": "D(1,2.402,0.545,3.3204,0.5498,3.3198,0.6687,2.4017,0.664)",
+                "span": {
+                  "offset": 19,
+                  "length": 18
+                }
+              },
+              {
+                "content": "WTI Holdings LLC dba Waterfield Technologies",
+                "source": "D(1,2.4015,0.6643,4.736,0.6647,4.736,0.7948,2.4015,0.7945)",
+                "span": {
+                  "offset": 39,
+                  "length": 44
+                }
+              },
+              {
+                "content": "How to set up your",
+                "source": "D(1,4.2458,1.3957,7.3562,1.4206,7.3536,1.7473,4.2432,1.7223)",
+                "span": {
+                  "offset": 109,
+                  "length": 18
+                }
+              },
+              {
+                "content": "Teladoc Health account",
+                "source": "D(1,4.2498,1.753,8.1374,1.7564,8.1371,2.0659,4.2496,2.0625)",
+                "span": {
+                  "offset": 128,
+                  "length": 22
+                }
+              },
+              {
+                "content": "Simply download the Teladoc Health app and",
+                "source": "D(1,4.2563,2.2955,7.29,2.2957,7.2899,2.4772,4.2563,2.4769)",
+                "span": {
+                  "offset": 152,
+                  "length": 42
+                }
+              },
+              {
+                "content": "follow the four steps you see below.",
+                "source": "D(1,4.2507,2.4993,6.6539,2.5048,6.6535,2.6725,4.2503,2.667)",
+                "span": {
+                  "offset": 195,
+                  "length": 36
+                }
+              },
+              {
+                "content": "3:32",
+                "source": "D(1,0.6192,3.5596,0.7118,3.5591,0.7121,3.6095,0.6194,3.61)",
+                "span": {
+                  "offset": 244,
+                  "length": 4
+                }
+              },
+              {
+                "content": "-",
+                "source": "D(1,1.1687,3.5657,1.2333,3.5645,1.234,3.607,1.1695,3.6082)",
+                "span": {
+                  "offset": 250,
+                  "length": 2
+                }
+              },
+              {
+                "content": "Let's start by finding",
+                "source": "D(1,0.5719,3.7765,1.2451,3.7816,1.2447,3.8653,0.5712,3.8602)",
+                "span": {
+                  "offset": 254,
+                  "length": 22
+                }
+              },
+              {
+                "content": "your benefits",
+                "source": "D(1,0.5679,3.8724,1.0072,3.8689,1.0078,3.9441,0.5685,3.9475)",
+                "span": {
+                  "offset": 277,
+                  "length": 13
+                }
+              },
+              {
+                "content": "\"Required",
+                "source": "D(1,0.5701,3.9985,0.7411,4.0001,0.7407,4.0502,0.57,4.0487)",
+                "span": {
+                  "offset": 292,
+                  "length": 9
+                }
+              },
+              {
+                "content": "First name *",
+                "source": "D(1,0.57,4.0919,0.7995,4.0886,0.8003,4.14,0.5704,4.1433)",
+                "span": {
+                  "offset": 303,
+                  "length": 12
+                }
+              },
+              {
+                "content": "Last name *",
+                "source": "D(1,0.5719,4.2977,0.7953,4.2961,0.7957,4.3469,0.5723,4.3485)",
+                "span": {
+                  "offset": 317,
+                  "length": 11
+                }
+              },
+              {
+                "content": "Date of birth \"",
+                "source": "D(1,0.57,4.5102,0.8356,4.5066,0.8363,4.5593,0.5705,4.5617)",
+                "span": {
+                  "offset": 330,
+                  "length": 15
+                }
+              },
+              {
+                "content": "MM/DD/YYYY",
+                "source": "D(1,0.5922,4.6018,0.8741,4.599,0.8743,4.6519,0.5927,4.6546)",
+                "span": {
+                  "offset": 346,
+                  "length": 10
+                }
+              },
+              {
+                "content": "Country *",
+                "source": "D(1,0.5748,4.7224,0.7575,4.7211,0.7579,4.7725,0.5752,4.7738)",
+                "span": {
+                  "offset": 358,
+                  "length": 9
+                }
+              },
+              {
+                "content": "United States Of America",
+                "source": "D(1,0.5894,4.8139,1.0526,4.8126,1.0528,4.8687,0.5896,4.87)",
+                "span": {
+                  "offset": 369,
+                  "length": 24
+                }
+              },
+              {
+                "content": "Zip code *",
+                "source": "D(1,0.5696,4.9341,0.7584,4.9322,0.7589,4.983,0.5701,4.985)",
+                "span": {
+                  "offset": 395,
+                  "length": 10
+                }
+              },
+              {
+                "content": "Email address *",
+                "source": "D(1,0.571,5.1453,0.8559,5.1418,0.8565,5.1946,0.5716,5.1981)",
+                "span": {
+                  "offset": 407,
+                  "length": 15
+                }
+              },
+              {
+                "content": "1. Confirm benefits",
+                "source": "D(1,1.6376,3.6853,3.0741,3.6859,3.074,3.8435,1.6375,3.8429)",
+                "span": {
+                  "offset": 439,
+                  "length": 19
+                }
+              },
+              {
+                "content": "Provide some information",
+                "source": "D(1,1.6369,3.9127,3.4523,3.9152,3.4521,4.0759,1.6367,4.0734)",
+                "span": {
+                  "offset": 460,
+                  "length": 24
+                }
+              },
+              {
+                "content": "about yourself to confirm",
+                "source": "D(1,1.6323,4.1172,3.3926,4.1132,3.3931,4.2791,1.6327,4.2836)",
+                "span": {
+                  "offset": 485,
+                  "length": 25
+                }
+              },
+              {
+                "content": "your eligibility.",
+                "source": "D(1,1.6264,4.3247,2.5873,4.3254,2.5871,4.5006,1.6263,4.4998)",
+                "span": {
+                  "offset": 511,
+                  "length": 17
+                }
+              },
+              {
+                "content": "3:34",
+                "source": "D(1,4.3833,3.5585,4.4766,3.5592,4.4763,3.6095,4.3829,3.6089)",
+                "span": {
+                  "offset": 541,
+                  "length": 4
+                }
+              },
+              {
+                "content": "We need a little",
+                "source": "D(1,4.3308,3.7817,4.8343,3.7817,4.8343,3.8544,4.3308,3.8545)",
+                "span": {
+                  "offset": 547,
+                  "length": 16
+                }
+              },
+              {
+                "content": "more info",
+                "source": "D(1,4.3329,3.8743,4.6511,3.8749,4.651,3.9405,4.3328,3.94)",
+                "span": {
+                  "offset": 564,
+                  "length": 9
+                }
+              },
+              {
+                "content": "\"Required",
+                "source": "D(1,4.333,3.9994,4.5032,4.0001,4.503,4.0502,4.3328,4.0496)",
+                "span": {
+                  "offset": 575,
+                  "length": 9
+                }
+              },
+              {
+                "content": "Please select your health or insurance",
+                "source": "D(1,4.3327,4.1103,5.0078,4.111,5.0078,4.1658,4.3326,4.1651)",
+                "span": {
+                  "offset": 586,
+                  "length": 38
+                }
+              },
+              {
+                "content": "provider below. We use this information to",
+                "source": "D(1,4.3322,4.1631,5.0888,4.1649,5.0886,4.219,4.332,4.2159)",
+                "span": {
+                  "offset": 625,
+                  "length": 42
+                }
+              },
+              {
+                "content": "help match you to your benefits, even if",
+                "source": "D(1,4.3322,4.2061,5.0392,4.2039,5.0394,4.2603,4.3324,4.2625)",
+                "span": {
+                  "offset": 668,
+                  "length": 40
+                }
+              },
+              {
+                "content": "your benefits are provided by your employer",
+                "source": "D(1,4.3306,4.2582,5.1212,4.26,5.1211,4.3151,4.3305,4.3133)",
+                "span": {
+                  "offset": 709,
+                  "length": 43
+                }
+              },
+              {
+                "content": "or association.",
+                "source": "D(1,4.3315,4.3106,4.5974,4.3126,4.5971,4.3623,4.3312,4.3603)",
+                "span": {
+                  "offset": 753,
+                  "length": 15
+                }
+              },
+              {
+                "content": "Health or insurance plan *",
+                "source": "D(1,4.3312,4.3996,4.8075,4.4015,4.8073,4.4549,4.331,4.4531)",
+                "span": {
+                  "offset": 770,
+                  "length": 26
+                }
+              },
+              {
+                "content": "Aetna",
+                "source": "D(1,4.362,4.4929,4.4709,4.4934,4.4706,4.5437,4.3618,4.5432)",
+                "span": {
+                  "offset": 797,
+                  "length": 5
+                }
+              },
+              {
+                "content": "Continue",
+                "source": "D(1,4.636,5.0132,4.817,5.0149,4.8165,5.0672,4.6355,5.0654)",
+                "span": {
+                  "offset": 804,
+                  "length": 8
+                }
+              },
+              {
+                "content": "My provider is not on the list",
+                "source": "D(1,4.4592,5.1929,4.9938,5.1924,4.9938,5.25,4.4593,5.2506)",
+                "span": {
+                  "offset": 814,
+                  "length": 30
+                }
+              },
+              {
+                "content": "2. Select benefit provider",
+                "source": "D(1,5.3925,3.6814,7.2808,3.6878,7.2802,3.8579,5.392,3.8515)",
+                "span": {
+                  "offset": 861,
+                  "length": 26
+                }
+              },
+              {
+                "content": "Confirm the coverage that has",
+                "source": "D(1,5.3973,3.9113,7.5162,3.9168,7.5158,4.0856,5.3969,4.0806)",
+                "span": {
+                  "offset": 889,
+                  "length": 29
+                }
+              },
+              {
+                "content": "been matched to you. Please",
+                "source": "D(1,5.3944,4.1111,7.4097,4.115,7.4094,4.2837,5.3941,4.2798)",
+                "span": {
+                  "offset": 919,
+                  "length": 27
+                }
+              },
+              {
+                "content": "note your care option through",
+                "source": "D(1,5.3953,4.3219,7.4811,4.3204,7.4812,4.4971,5.3954,4.4986)",
+                "span": {
+                  "offset": 947,
+                  "length": 29
+                }
+              },
+              {
+                "content": "your employer group will pop",
+                "source": "D(1,5.3887,4.5242,7.383,4.5251,7.383,4.6997,5.3886,4.6989)",
+                "span": {
+                  "offset": 977,
+                  "length": 28
+                }
+              },
+              {
+                "content": "up here if a match is found.",
+                "source": "D(1,5.3939,4.7213,7.2484,4.7111,7.2493,4.879,5.3949,4.8898)",
+                "span": {
+                  "offset": 1006,
+                  "length": 28
+                }
+              },
+              {
+                "content": "Click \"Continue\" to proceed",
+                "source": "D(1,5.3972,4.9121,7.3177,4.9173,7.3172,5.0871,5.3967,5.082)",
+                "span": {
+                  "offset": 1035,
+                  "length": 27
+                }
+              },
+              {
+                "content": "with account set up.",
+                "source": "D(1,5.3914,5.124,6.7889,5.1275,6.7885,5.2889,5.391,5.2854)",
+                "span": {
+                  "offset": 1063,
+                  "length": 20
+                }
+              },
+              {
+                "content": "3:38",
+                "source": "D(1,0.6189,6.174,0.714,6.1724,0.7148,6.2247,0.6198,6.2262)",
+                "span": {
+                  "offset": 1096,
+                  "length": 4
+                }
+              },
+              {
+                "content": "Nearly done ... please",
+                "source": "D(1,0.5695,6.3961,1.2396,6.3984,1.2394,6.474,0.5692,6.4718)",
+                "span": {
+                  "offset": 1102,
+                  "length": 22
+                }
+              },
+              {
+                "content": "provide your address",
+                "source": "D(1,0.5706,6.4885,1.2567,6.4849,1.2571,6.5586,0.571,6.5622)",
+                "span": {
+                  "offset": 1125,
+                  "length": 20
+                }
+              },
+              {
+                "content": "and phone",
+                "source": "D(1,0.57,6.576,0.9141,6.5746,0.9144,6.648,0.5703,6.6494)",
+                "span": {
+                  "offset": 1146,
+                  "length": 9
+                }
+              },
+              {
+                "content": "\"Required",
+                "source": "D(1,0.5701,6.7001,0.7434,6.6996,0.7435,6.7501,0.5702,6.7506)",
+                "span": {
+                  "offset": 1157,
+                  "length": 9
+                }
+              },
+              {
+                "content": "Street address 1 *",
+                "source": "D(1,0.5692,6.7918,0.9036,6.7881,0.9042,6.84,0.5698,6.8425)",
+                "span": {
+                  "offset": 1168,
+                  "length": 18
+                }
+              },
+              {
+                "content": "Street address 2 (optional)",
+                "source": "D(1,0.5712,7.0012,1.0663,7,1.0664,7.0554,0.5713,7.0567)",
+                "span": {
+                  "offset": 1188,
+                  "length": 27
+                }
+              },
+              {
+                "content": "City*",
+                "source": "D(1,0.573,7.214,0.6829,7.2134,0.6832,7.2633,0.5733,7.2639)",
+                "span": {
+                  "offset": 1217,
+                  "length": 5
+                }
+              },
+              {
+                "content": "Country *",
+                "source": "D(1,0.5738,7.4265,0.7554,7.4245,0.7559,7.4743,0.5744,7.4763)",
+                "span": {
+                  "offset": 1224,
+                  "length": 9
+                }
+              },
+              {
+                "content": "United States Of America",
+                "source": "D(1,0.5896,7.5202,1.0547,7.52,1.0547,7.5739,0.5896,7.5741)",
+                "span": {
+                  "offset": 1235,
+                  "length": 24
+                }
+              },
+              {
+                "content": "State *",
+                "source": "D(1,0.5709,7.6382,0.7041,7.6375,0.7043,7.6845,0.5711,7.6851)",
+                "span": {
+                  "offset": 1261,
+                  "length": 7
+                }
+              },
+              {
+                "content": "Zip code *",
+                "source": "D(1,0.9752,7.6385,1.1673,7.6377,1.1675,7.6873,0.9754,7.6882)",
+                "span": {
+                  "offset": 1270,
+                  "length": 10
+                }
+              },
+              {
+                "content": "3. Create account",
+                "source": "D(1,1.6306,6.3513,2.9487,6.3556,2.9482,6.5103,1.6301,6.5068)",
+                "span": {
+                  "offset": 1294,
+                  "length": 18
+                }
+              },
+              {
+                "content": "Provide your contact",
+                "source": "D(1,1.6369,6.5848,3.0878,6.5886,3.0874,6.7522,1.6364,6.7483)",
+                "span": {
+                  "offset": 1314,
+                  "length": 20
+                }
+              },
+              {
+                "content": "information.",
+                "source": "D(1,1.631,6.7844,2.4956,6.7879,2.495,6.9412,1.6303,6.9377)",
+                "span": {
+                  "offset": 1335,
+                  "length": 12
+                }
+              },
+              {
+                "content": "4:41",
+                "source": "D(1,4.3858,6.1726,4.4744,6.1733,4.474,6.224,4.3854,6.2233)",
+                "span": {
+                  "offset": 1360,
+                  "length": 4
+                }
+              },
+              {
+                "content": "<",
+                "source": "D(1,4.3475,6.2685,4.3784,6.2688,4.378,6.3145,4.347,6.3142)",
+                "span": {
+                  "offset": 1366,
+                  "length": 1
+                }
+              },
+              {
+                "content": "Perfect! Let's tie up",
+                "source": "D(1,4.3318,6.3903,4.9726,6.3981,4.9717,6.4735,4.3309,6.4656)",
+                "span": {
+                  "offset": 1369,
+                  "length": 21
+                }
+              },
+              {
+                "content": "the details",
+                "source": "D(1,4.3325,6.4832,4.6864,6.4842,4.6862,6.5544,4.3324,6.5535)",
+                "span": {
+                  "offset": 1391,
+                  "length": 11
+                }
+              },
+              {
+                "content": "\"Required",
+                "source": "D(1,4.3347,6.6115,4.5049,6.6125,4.5046,6.6623,4.3344,6.6613)",
+                "span": {
+                  "offset": 1404,
+                  "length": 9
+                }
+              },
+              {
+                "content": "Username *",
+                "source": "D(1,4.3324,6.7018,4.5576,6.699,4.5583,6.7507,4.333,6.7535)",
+                "span": {
+                  "offset": 1415,
+                  "length": 10
+                }
+              },
+              {
+                "content": "Password\"",
+                "source": "D(1,4.3345,6.9086,4.5048,6.9086,4.5048,6.9582,4.3345,6.9582)",
+                "span": {
+                  "offset": 1427,
+                  "length": 9
+                }
+              },
+              {
+                "content": "\u00b7 use 10 - 20 characters",
+                "source": "D(1,4.3776,7.0006,4.823,7.0004,4.823,7.0526,4.3776,7.0527)",
+                "span": {
+                  "offset": 1438,
+                  "length": 24
+                }
+              },
+              {
+                "content": "include at least one number and one",
+                "source": "D(1,4.391,7.0618,5.0664,7.0634,5.0663,7.1158,4.3909,7.1142)",
+                "span": {
+                  "offset": 1463,
+                  "length": 35
+                }
+              },
+              {
+                "content": "letter",
+                "source": "D(1,4.4214,7.1138,4.5347,7.116,4.5338,7.1624,4.4205,7.1602)",
+                "span": {
+                  "offset": 1499,
+                  "length": 6
+                }
+              },
+              {
+                "content": "Confirm Password *",
+                "source": "D(1,4.3348,7.3204,4.7035,7.3192,4.7037,7.374,4.335,7.3752)",
+                "span": {
+                  "offset": 1507,
+                  "length": 18
+                }
+              },
+              {
+                "content": "Each security question cannot be selected",
+                "source": "D(1,4.3336,7.5099,5.0953,7.5096,5.0953,7.5638,4.3336,7.5641)",
+                "span": {
+                  "offset": 1527,
+                  "length": 41
+                }
+              },
+              {
+                "content": "more than once. Answers must be at least 2",
+                "source": "D(1,4.3326,7.5622,5.1073,7.5614,5.1074,7.6178,4.3326,7.6186)",
+                "span": {
+                  "offset": 1569,
+                  "length": 42
+                }
+              },
+              {
+                "content": "characters with no special symbols.",
+                "source": "D(1,4.3338,7.6097,4.9701,7.6102,4.97,7.6659,4.3337,7.6655)",
+                "span": {
+                  "offset": 1612,
+                  "length": 35
+                }
+              },
+              {
+                "content": "Security question 1\"",
+                "source": "D(1,4.3337,7.7022,4.7183,7.699,4.7187,7.753,4.3342,7.7559)",
+                "span": {
+                  "offset": 1648,
+                  "length": 20
+                }
+              },
+              {
+                "content": "4. Complete account",
+                "source": "D(1,5.3938,6.3504,6.9421,6.3546,6.9416,6.5214,5.3933,6.5173)",
+                "span": {
+                  "offset": 1682,
+                  "length": 20
+                }
+              },
+              {
+                "content": "Create a username, password",
+                "source": "D(1,5.3969,6.5853,7.4755,6.5902,7.4751,6.7523,5.3965,6.7473)",
+                "span": {
+                  "offset": 1704,
+                  "length": 27
+                }
+              },
+              {
+                "content": "and pick security questions to",
+                "source": "D(1,5.3923,6.7882,7.4711,6.7838,7.4715,6.9534,5.3927,6.9577)",
+                "span": {
+                  "offset": 1732,
+                  "length": 30
+                }
+              },
+              {
+                "content": "ensure your account is secure.",
+                "source": "D(1,5.3955,6.9977,7.5042,6.9919,7.5047,7.1458,5.3959,7.1522)",
+                "span": {
+                  "offset": 1763,
+                  "length": 30
+                }
+              },
+              {
+                "content": "Once your account is created, eligible dependents under 18 years of age can be added in your account settings under",
+                "source": "D(1,0.9621,8.2197,7.544,8.2212,7.544,8.3741,0.962,8.3725)",
+                "span": {
+                  "offset": 1795,
+                  "length": 115
+                }
+              },
+              {
+                "content": "the primary member. Dependents older than 18 should follow the steps above to create their own account.",
+                "source": "D(1,1.2445,8.3735,7.2459,8.3659,7.2461,8.5189,1.2446,8.5254)",
+                "span": {
+                  "offset": 1911,
+                  "length": 103
+                }
+              },
+              {
+                "content": "Set up your Teladoc Health account today",
+                "source": "D(1,1.6873,8.9809,6.8158,8.9808,6.8158,9.2579,1.6873,9.258)",
+                "span": {
+                  "offset": 2016,
+                  "length": 40
+                }
+              },
+              {
+                "content": "Visit TeladocHealth.com",
+                "source": "D(1,3.1091,9.3127,5.3721,9.3217,5.3713,9.5185,3.1083,9.5094)",
+                "span": {
+                  "offset": 2057,
+                  "length": 23
+                }
+              },
+              {
+                "content": "Call 1-800-835-2362 | Download the app \u00ab | +",
+                "source": "D(1,2.0915,9.5717,6.4044,9.5904,6.403,9.8189,2.0901,9.7919)",
+                "span": {
+                  "offset": 2081,
+                  "length": 44
+                }
+              },
+              {
+                "content": "If your device settings for your mobile phone are set to Spanish, the Teladoc Health app will display in Spanish.",
+                "source": "D(1,0.2398,10.4295,5.2569,10.4288,5.2569,10.5623,0.2398,10.5629)",
+                "span": {
+                  "offset": 2144,
+                  "length": 113
+                }
+              },
+              {
+                "content": "@ Teladoc Health, Inc. All rights reserved. Teladoc Health marks and logos are owned by Teladoc Health, Inc. All programs and services are subject to applicable terms and conditions.",
+                "source": "D(1,0.2362,10.5766,6.8599,10.5748,6.86,10.6892,0.2363,10.6911)",
+                "span": {
+                  "offset": 2258,
+                  "length": 182
+                }
+              },
+              {
+                "content": "496673",
+                "source": "D(1,0.2406,10.7845,0.5148,10.7844,0.5149,10.874,0.2407,10.8741)",
+                "span": {
+                  "offset": 2463,
+                  "length": 6
+                }
+              },
+              {
+                "content": "TM-GM-10E-A24-02_3750057_E_030123_PC",
+                "source": "D(1,6.6577,10.7788,8.2524,10.7788,8.2524,10.8782,6.6577,10.8782)",
+                "span": {
+                  "offset": 2492,
+                  "length": 36
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "content": "Teladoc\u00ae \u00ae HEALTH",
+            "source": "D(1,0.5436,0.41,1.9128,0.4071,1.9138,0.9054,0.5446,0.9083)",
+            "span": {
+              "offset": 0,
+              "length": 17
+            }
+          },
+          {
+            "content": "Made available by:",
+            "source": "D(1,2.402,0.545,3.3204,0.5498,3.3198,0.6687,2.4017,0.664)",
+            "span": {
+              "offset": 19,
+              "length": 18
+            }
+          },
+          {
+            "content": "WTI Holdings LLC dba Waterfield Technologies",
+            "source": "D(1,2.4015,0.6643,4.736,0.6647,4.736,0.7948,2.4015,0.7945)",
+            "span": {
+              "offset": 39,
+              "length": 44
+            }
+          },
+          {
+            "role": "title",
+            "content": "How to set up your Teladoc Health account",
+            "source": "D(1,4.2435,1.3957,8.1377,1.399,8.1371,2.0659,4.2429,2.0625)",
+            "span": {
+              "offset": 107,
+              "length": 43
+            }
+          },
+          {
+            "content": "Simply download the Teladoc Health app and follow the four steps you see below.",
+            "source": "D(1,4.2504,2.2955,7.29,2.2957,7.2899,2.6725,4.2503,2.6723)",
+            "span": {
+              "offset": 152,
+              "length": 79
+            }
+          },
+          {
+            "content": "3:32",
+            "source": "D(1,0.6192,3.5596,0.7118,3.5591,0.7121,3.6095,0.6194,3.61)",
+            "span": {
+              "offset": 244,
+              "length": 4
+            }
+          },
+          {
+            "content": "-",
+            "source": "D(1,1.1687,3.5657,1.2333,3.5645,1.2341,3.607,1.1695,3.6082)",
+            "span": {
+              "offset": 250,
+              "length": 2
+            }
+          },
+          {
+            "content": "Let's start by finding your benefits",
+            "source": "D(1,0.5686,3.7765,1.2454,3.7816,1.2441,3.9526,0.5673,3.9475)",
+            "span": {
+              "offset": 254,
+              "length": 36
+            }
+          },
+          {
+            "content": "\"Required",
+            "source": "D(1,0.5701,3.9985,0.7411,4.0001,0.7407,4.0502,0.5696,4.0487)",
+            "span": {
+              "offset": 292,
+              "length": 9
+            }
+          },
+          {
+            "content": "First name *",
+            "source": "D(1,0.5697,4.0919,0.7995,4.0886,0.8003,4.14,0.5704,4.1433)",
+            "span": {
+              "offset": 303,
+              "length": 12
+            }
+          },
+          {
+            "content": "Last name *",
+            "source": "D(1,0.5719,4.2977,0.7953,4.2961,0.7957,4.3469,0.5723,4.3485)",
+            "span": {
+              "offset": 317,
+              "length": 11
+            }
+          },
+          {
+            "content": "Date of birth \" MM/DD/YYYY",
+            "source": "D(1,0.57,4.5093,0.8732,4.5063,0.8747,4.6518,0.5714,4.6549)",
+            "span": {
+              "offset": 330,
+              "length": 26
+            }
+          },
+          {
+            "content": "Country *",
+            "source": "D(1,0.5748,4.7224,0.7575,4.7211,0.7579,4.7725,0.5752,4.7738)",
+            "span": {
+              "offset": 358,
+              "length": 9
+            }
+          },
+          {
+            "content": "United States Of America",
+            "source": "D(1,0.5894,4.8139,1.0526,4.8126,1.0528,4.8687,0.5896,4.87)",
+            "span": {
+              "offset": 369,
+              "length": 24
+            }
+          },
+          {
+            "content": "Zip code *",
+            "source": "D(1,0.5696,4.9341,0.7584,4.9322,0.7589,4.983,0.5701,4.985)",
+            "span": {
+              "offset": 395,
+              "length": 10
+            }
+          },
+          {
+            "content": "Email address *",
+            "source": "D(1,0.571,5.1453,0.8559,5.1418,0.8565,5.1946,0.5716,5.1981)",
+            "span": {
+              "offset": 407,
+              "length": 15
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "1. Confirm benefits",
+            "source": "D(1,1.6376,3.6853,3.0741,3.6859,3.074,3.8435,1.6375,3.8429)",
+            "span": {
+              "offset": 436,
+              "length": 22
+            }
+          },
+          {
+            "content": "Provide some information about yourself to confirm your eligibility.",
+            "source": "D(1,1.627,3.9127,3.4523,3.9152,3.4515,4.5023,1.6262,4.4998)",
+            "span": {
+              "offset": 460,
+              "length": 68
+            }
+          },
+          {
+            "content": "3:34",
+            "source": "D(1,4.3833,3.5585,4.4766,3.5592,4.4763,3.6096,4.3829,3.6089)",
+            "span": {
+              "offset": 541,
+              "length": 4
+            }
+          },
+          {
+            "content": "We need a little more info",
+            "source": "D(1,4.3308,3.7817,4.8343,3.7817,4.8343,3.9405,4.3308,3.9405)",
+            "span": {
+              "offset": 547,
+              "length": 26
+            }
+          },
+          {
+            "content": "\"Required",
+            "source": "D(1,4.333,3.9994,4.5032,4.0001,4.503,4.0502,4.3328,4.0496)",
+            "span": {
+              "offset": 575,
+              "length": 9
+            }
+          },
+          {
+            "content": "Please select your health or insurance provider below. We use this information to help match you to your benefits, even if your benefits are provided by your employer or association.",
+            "source": "D(1,4.3307,4.1103,5.1214,4.1112,5.1211,4.3628,4.3304,4.362)",
+            "span": {
+              "offset": 586,
+              "length": 182
+            }
+          },
+          {
+            "content": "Health or insurance plan * Aetna",
+            "source": "D(1,4.3312,4.3996,4.8075,4.4015,4.8069,4.5449,4.3306,4.5431)",
+            "span": {
+              "offset": 770,
+              "length": 32
+            }
+          },
+          {
+            "content": "Continue",
+            "source": "D(1,4.636,5.0132,4.817,5.0149,4.8165,5.0672,4.6355,5.0654)",
+            "span": {
+              "offset": 804,
+              "length": 8
+            }
+          },
+          {
+            "content": "My provider is not on the list",
+            "source": "D(1,4.4592,5.1929,4.9938,5.1924,4.9938,5.25,4.4593,5.2506)",
+            "span": {
+              "offset": 814,
+              "length": 30
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "2. Select benefit provider",
+            "source": "D(1,5.3925,3.6814,7.2808,3.6878,7.2802,3.8579,5.392,3.8515)",
+            "span": {
+              "offset": 858,
+              "length": 29
+            }
+          },
+          {
+            "content": "Confirm the coverage that has been matched to you. Please note your care option through your employer group will pop up here if a match is found. Click \"Continue\" to proceed with account set up.",
+            "source": "D(1,5.3903,3.9112,7.5162,3.9168,7.5126,5.291,5.3867,5.2854)",
+            "span": {
+              "offset": 889,
+              "length": 194
+            }
+          },
+          {
+            "content": "3:38",
+            "source": "D(1,0.6189,6.174,0.714,6.1724,0.7148,6.2247,0.6198,6.2262)",
+            "span": {
+              "offset": 1096,
+              "length": 4
+            }
+          },
+          {
+            "content": "Nearly done ... please provide your address and phone",
+            "source": "D(1,0.5689,6.3961,1.2564,6.3932,1.2574,6.6466,0.5699,6.6494)",
+            "span": {
+              "offset": 1102,
+              "length": 53
+            }
+          },
+          {
+            "content": "\"Required",
+            "source": "D(1,0.5701,6.7001,0.7434,6.6996,0.7435,6.7501,0.5702,6.7506)",
+            "span": {
+              "offset": 1157,
+              "length": 9
+            }
+          },
+          {
+            "content": "Street address 1 *",
+            "source": "D(1,0.5692,6.7918,0.9036,6.7881,0.9042,6.84,0.5698,6.8437)",
+            "span": {
+              "offset": 1168,
+              "length": 18
+            }
+          },
+          {
+            "content": "Street address 2 (optional)",
+            "source": "D(1,0.5712,7.0012,1.0663,7,1.0664,7.0554,0.5713,7.0567)",
+            "span": {
+              "offset": 1188,
+              "length": 27
+            }
+          },
+          {
+            "content": "City*",
+            "source": "D(1,0.573,7.214,0.6829,7.2133,0.6832,7.2633,0.5733,7.2639)",
+            "span": {
+              "offset": 1217,
+              "length": 5
+            }
+          },
+          {
+            "content": "Country *",
+            "source": "D(1,0.5738,7.4265,0.7554,7.4245,0.7559,7.4743,0.5744,7.4763)",
+            "span": {
+              "offset": 1224,
+              "length": 9
+            }
+          },
+          {
+            "content": "United States Of America",
+            "source": "D(1,0.5896,7.5202,1.0547,7.52,1.0547,7.5739,0.5896,7.5741)",
+            "span": {
+              "offset": 1235,
+              "length": 24
+            }
+          },
+          {
+            "content": "State *",
+            "source": "D(1,0.5709,7.6382,0.7041,7.6375,0.7043,7.6845,0.5711,7.6851)",
+            "span": {
+              "offset": 1261,
+              "length": 7
+            }
+          },
+          {
+            "content": "Zip code *",
+            "source": "D(1,0.9752,7.6385,1.1673,7.6377,1.1675,7.6873,0.9754,7.6882)",
+            "span": {
+              "offset": 1270,
+              "length": 10
+            }
+          },
+          {
+            "content": "3. Create account",
+            "source": "D(1,1.6306,6.3513,2.9487,6.3556,2.9482,6.511,1.6301,6.5068)",
+            "span": {
+              "offset": 1294,
+              "length": 18
+            }
+          },
+          {
+            "content": "Provide your contact information.",
+            "source": "D(1,1.6313,6.5848,3.0878,6.5886,3.0869,6.9428,1.6303,6.9389)",
+            "span": {
+              "offset": 1314,
+              "length": 33
+            }
+          },
+          {
+            "content": "4:41",
+            "source": "D(1,4.3858,6.1726,4.4744,6.1733,4.474,6.224,4.3854,6.2233)",
+            "span": {
+              "offset": 1360,
+              "length": 4
+            }
+          },
+          {
+            "content": "<",
+            "source": "D(1,4.3475,6.2685,4.3784,6.2688,4.378,6.3145,4.347,6.3142)",
+            "span": {
+              "offset": 1366,
+              "length": 1
+            }
+          },
+          {
+            "content": "Perfect! Let's tie up the details",
+            "source": "D(1,4.3318,6.3903,4.9726,6.3981,4.9707,6.5613,4.3298,6.5534)",
+            "span": {
+              "offset": 1369,
+              "length": 33
+            }
+          },
+          {
+            "content": "\"Required",
+            "source": "D(1,4.3347,6.6115,4.5049,6.6125,4.5046,6.6623,4.3344,6.6613)",
+            "span": {
+              "offset": 1404,
+              "length": 9
+            }
+          },
+          {
+            "content": "Username *",
+            "source": "D(1,4.3324,6.7018,4.5576,6.699,4.5583,6.7507,4.333,6.7535)",
+            "span": {
+              "offset": 1415,
+              "length": 10
+            }
+          },
+          {
+            "content": "Password\"",
+            "source": "D(1,4.3345,6.9086,4.5048,6.9086,4.5048,6.9582,4.3345,6.9582)",
+            "span": {
+              "offset": 1427,
+              "length": 9
+            }
+          },
+          {
+            "content": "\u00b7 use 10 - 20 characters include at least one number and one letter",
+            "source": "D(1,4.3776,7.0006,5.0664,7.0003,5.0665,7.1622,4.3776,7.1625)",
+            "span": {
+              "offset": 1438,
+              "length": 67
+            }
+          },
+          {
+            "content": "Confirm Password *",
+            "source": "D(1,4.3348,7.3204,4.7035,7.3192,4.7037,7.374,4.335,7.3752)",
+            "span": {
+              "offset": 1507,
+              "length": 18
+            }
+          },
+          {
+            "content": "Each security question cannot be selected more than once. Answers must be at least 2 characters with no special symbols. Security question 1\"",
+            "source": "D(1,4.3325,7.5099,5.1073,7.509,5.1076,7.7551,4.3328,7.7559)",
+            "span": {
+              "offset": 1527,
+              "length": 141
+            }
+          },
+          {
+            "content": "4. Complete account",
+            "source": "D(1,5.3938,6.3504,6.9421,6.3546,6.9416,6.5215,5.3933,6.5173)",
+            "span": {
+              "offset": 1682,
+              "length": 20
+            }
+          },
+          {
+            "content": "Create a username, password and pick security questions to ensure your account is secure.",
+            "source": "D(1,5.3915,6.5853,7.5029,6.5788,7.5047,7.1458,5.3933,7.1522)",
+            "span": {
+              "offset": 1704,
+              "length": 89
+            }
+          },
+          {
+            "content": "Once your account is created, eligible dependents under 18 years of age can be added in your account settings under the primary member. Dependents older than 18 should follow the steps above to create their own account.",
+            "source": "D(1,0.9621,8.2197,7.5441,8.2212,7.544,8.5269,0.962,8.5253)",
+            "span": {
+              "offset": 1795,
+              "length": 219
+            }
+          },
+          {
+            "content": "Set up your Teladoc Health account today Visit TeladocHealth.com Call 1-800-835-2362 | Download the app \u00ab | +",
+            "source": "D(1,1.6873,8.9809,6.8158,8.9808,6.8158,9.8189,1.6874,9.819)",
+            "span": {
+              "offset": 2016,
+              "length": 109
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "If your device settings for your mobile phone are set to Spanish, the Teladoc Health app will display in Spanish. @ Teladoc Health, Inc. All rights reserved. Teladoc Health marks and logos are owned by Teladoc Health, Inc. All programs and services are subject to applicable terms and conditions.",
+            "source": "D(1,0.2362,10.4295,6.8599,10.4276,6.86,10.6892,0.2363,10.6911)",
+            "span": {
+              "offset": 2127,
+              "length": 318
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "496673",
+            "source": "D(1,0.2406,10.7845,0.5148,10.7844,0.5149,10.874,0.2407,10.8741)",
+            "span": {
+              "offset": 2446,
+              "length": 28
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "TM-GM-10E-A24-02_3750057_E_030123_PC",
+            "source": "D(1,6.6577,10.7788,8.2524,10.7788,8.2524,10.8781,6.6577,10.8782)",
+            "span": {
+              "offset": 2475,
+              "length": 58
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 2125
+            },
+            "elements": [
+              "/sections/1",
+              "/sections/2"
+            ]
+          },
+          {
+            "span": {
+              "offset": 0,
+              "length": 104
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/paragraphs/1",
+              "/paragraphs/2",
+              "/figures/0"
+            ]
+          },
+          {
+            "span": {
+              "offset": 107,
+              "length": 2018
+            },
+            "elements": [
+              "/paragraphs/3",
+              "/paragraphs/4",
+              "/figures/1",
+              "/sections/3",
+              "/sections/4"
+            ]
+          },
+          {
+            "span": {
+              "offset": 436,
+              "length": 419
+            },
+            "elements": [
+              "/paragraphs/16",
+              "/paragraphs/17",
+              "/figures/2"
+            ]
+          },
+          {
+            "span": {
+              "offset": 858,
+              "length": 1267
+            },
+            "elements": [
+              "/paragraphs/25",
+              "/paragraphs/26",
+              "/figures/3",
+              "/paragraphs/37",
+              "/paragraphs/38",
+              "/figures/4",
+              "/paragraphs/48",
+              "/paragraphs/49",
+              "/paragraphs/50",
+              "/paragraphs/51"
+            ]
+          }
+        ],
+        "figures": [
+          {
+            "source": "D(1,0.0214,1.1602,4.0053,1.1612,4.0039,2.9904,0.0198,2.9893)",
+            "span": {
+              "offset": 86,
+              "length": 18
+            },
+            "id": "1.1"
+          },
+          {
+            "source": "D(1,0.4748,3.4686,1.4514,3.4684,1.4518,5.3884,0.4752,5.3887)",
+            "span": {
+              "offset": 234,
+              "length": 199
+            },
+            "elements": [
+              "/paragraphs/5",
+              "/paragraphs/6",
+              "/paragraphs/7",
+              "/paragraphs/8",
+              "/paragraphs/9",
+              "/paragraphs/10",
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13",
+              "/paragraphs/14",
+              "/paragraphs/15"
+            ],
+            "id": "1.2"
+          },
+          {
+            "source": "D(1,4.2311,3.4693,5.1948,3.4685,5.1948,5.3854,4.2312,5.3861)",
+            "span": {
+              "offset": 531,
+              "length": 324
+            },
+            "elements": [
+              "/paragraphs/18",
+              "/paragraphs/19",
+              "/paragraphs/20",
+              "/paragraphs/21",
+              "/paragraphs/22",
+              "/paragraphs/23",
+              "/paragraphs/24"
+            ],
+            "id": "1.3"
+          },
+          {
+            "source": "D(1,0.4726,6.0843,1.4543,6.0843,1.4542,8.0214,0.4725,8.0214)",
+            "span": {
+              "offset": 1086,
+              "length": 205
+            },
+            "elements": [
+              "/paragraphs/27",
+              "/paragraphs/28",
+              "/paragraphs/29",
+              "/paragraphs/30",
+              "/paragraphs/31",
+              "/paragraphs/32",
+              "/paragraphs/33",
+              "/paragraphs/34",
+              "/paragraphs/35",
+              "/paragraphs/36"
+            ],
+            "id": "1.4"
+          },
+          {
+            "source": "D(1,4.2239,6.0802,5.1962,6.0801,5.1959,8.0242,4.2236,8.0243)",
+            "span": {
+              "offset": 1350,
+              "length": 329
+            },
+            "elements": [
+              "/paragraphs/39",
+              "/paragraphs/40",
+              "/paragraphs/41",
+              "/paragraphs/42",
+              "/paragraphs/43",
+              "/paragraphs/44",
+              "/paragraphs/45",
+              "/paragraphs/46",
+              "/paragraphs/47"
+            ],
+            "id": "1.5"
+          }
+        ]
+      }
+    ]
+  }
+}

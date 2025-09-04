@@ -1,0 +1,3023 @@
+{
+  "id": "05a23f2a-8489-4ac6-a74d-be751539ec7f",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "prebuilt-documentAnalyzer",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-07-14T17:11:01Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "# Confused about Medicare? We'll guide you through it\n\n\n<figure>\n</figure>\n\n\nGet one-on-one support and guidance to help you understand your Medicare options. Our advocates can help\nyou choose the plan that is right for you, your budget and your health situation.\n\n\n## Our experts will:\n\nReview Medicare parts, what each covers, and\nwhat they cost\n\nER\nInform you about enrollment deadlines and when\nto sign up to avoid paying late enrollment penalties\n\n2\nExplain how Medicare works with your employer's/\nspouse's plan; do a side-by-side comparison\n\nLet you know if your doctors participate in\nthe Medicare plan, and if your medications are\nin the plan's formulary\n\nFind Medicare-participating physicians,\nschedule appointments\n\nHelp with the application process\n\nAnswer any questions you may have\n\n\n## In Call us if you are ...\n\n\u00b7 Nearing age 65 and becoming eligible\nfor Medicare. To make sure you get\nMedicare coverage when you turn 65,\nsign up during the 3 months before\nyou turn 65.\n\n\u00b7 On an employer's or spouse's health\nplan and are retiring and want to\ntransition to Medicare\n\n\u00b7 Age 65 or over, still working and\nconfused about the Medicare mail\nyou're receiving\n\n\u00b7 Currently on a Medicare plan and are\nconsidering choosing a new Medicare\nplan during the annual enrollment period\n\nHealth Advocate is available to employees, spouses, dependents, parents and parents-in-law. It's completely confidential.\n\n866.799.2731\n\nanswers@HealthAdvocate.com\nHealthAdvocate.com/members\n\nCall . Email . Message . Live Chat\n\n=\n\nWe're not an insurance company. Health Advocate is not a direct healthcare provider, and is not affiliated\nwith any insurance company or third party provider. @2024 Health Advocate HA-M-2401148-2FLY\n\n\n<figure>\n\nHealthAdvocate\"\n\n</figure>",
+        "fields": {
+          "Summary": {
+            "type": "string",
+            "valueString": "The document provides guidance and support for individuals navigating Medicare options, offering personalized assistance to help choose the right plan based on budget and health needs. It outlines the services provided by Health Advocate, including reviewing Medicare parts, informing about enrollment deadlines, explaining plan interactions, and assisting with applications. The document targets those nearing age 65, transitioning from employer plans, or considering new Medicare plans during the enrollment period."
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "inch",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": -0.0212,
+            "width": 8.5,
+            "height": 11,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 1756
+              }
+            ],
+            "words": [
+              {
+                "content": "Confused",
+                "span": {
+                  "offset": 2,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.7372,1.1121,1.8674,1.111,1.8665,1.4117,0.7354,1.4117)"
+              },
+              {
+                "content": "about",
+                "span": {
+                  "offset": 11,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.9467,1.1117,2.6158,1.1117,2.6151,1.4117,1.9458,1.4117)"
+              },
+              {
+                "content": "Medicare?",
+                "span": {
+                  "offset": 17,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6803,1.1117,3.9069,1.1042,3.9069,1.4091,2.6796,1.4117)"
+              },
+              {
+                "content": "We'll",
+                "span": {
+                  "offset": 27,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.7341,1.6088,1.2695,1.6138,1.2694,1.9993,0.734,1.9987)"
+              },
+              {
+                "content": "guide",
+                "span": {
+                  "offset": 33,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.346,1.6145,1.958,1.6153,1.9567,2.009,1.3459,1.9999)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 39,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.0345,1.6159,2.4424,1.6204,2.4414,2.0086,2.033,2.009)"
+              },
+              {
+                "content": "through",
+                "span": {
+                  "offset": 43,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.5189,1.6208,3.4368,1.6186,3.4361,2.0096,2.5181,2.0087)"
+              },
+              {
+                "content": "it",
+                "span": {
+                  "offset": 51,
+                  "length": 2
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.5133,1.6167,3.763,1.6173,3.763,2.0091,3.5126,2.0096)"
+              },
+              {
+                "content": "Get",
+                "span": {
+                  "offset": 77,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.9924,2.9059,1.2245,2.9059,1.2246,3.0922,0.9925,3.0909)"
+              },
+              {
+                "content": "one-on-one",
+                "span": {
+                  "offset": 81,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2622,2.9059,1.9334,2.9052,1.9332,3.0943,1.2622,3.0924)"
+              },
+              {
+                "content": "support",
+                "span": {
+                  "offset": 92,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.971,2.9049,2.4289,2.9027,2.4289,3.0954,1.9709,3.0944)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 100,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.4665,2.9026,2.6673,2.9026,2.6673,3.0956,2.4665,3.0954)"
+              },
+              {
+                "content": "guidance",
+                "span": {
+                  "offset": 104,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.708,2.9026,3.1879,2.903,3.1882,3.098,2.7081,3.0956)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 113,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.2255,2.903,3.351,2.9031,3.3513,3.0981,3.2259,3.0982)"
+              },
+              {
+                "content": "help",
+                "span": {
+                  "offset": 116,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3886,2.9031,3.627,2.9033,3.6273,3.0971,3.389,3.0979)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 121,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.6646,2.9033,3.8967,2.9035,3.897,3.0971,3.6649,3.0969)"
+              },
+              {
+                "content": "understand",
+                "span": {
+                  "offset": 125,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.9375,2.9035,4.5742,2.9037,4.5745,3.0963,3.9378,3.0972)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 136,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6118,2.9037,4.8565,2.9037,4.8568,3.0974,4.6121,3.0962)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 141,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8941,2.9037,5.4336,2.9022,5.4337,3.0963,4.8944,3.0975)"
+              },
+              {
+                "content": "options.",
+                "span": {
+                  "offset": 150,
+                  "length": 8
+                },
+                "confidence": 0.991,
+                "source": "D(1,5.4712,2.902,5.9417,2.9038,5.9419,3.0938,5.4713,3.0961)"
+              },
+              {
+                "content": "Our",
+                "span": {
+                  "offset": 159,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.9824,2.904,6.2114,2.9026,6.2115,3.0924,5.9827,3.0936)"
+              },
+              {
+                "content": "advocates",
+                "span": {
+                  "offset": 163,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.249,2.9024,6.8136,2.9016,6.8134,3.0913,6.2491,3.0922)"
+              },
+              {
+                "content": "can",
+                "span": {
+                  "offset": 173,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.8512,2.9017,7.0551,2.9016,7.0549,3.0919,6.851,3.0913)"
+              },
+              {
+                "content": "help",
+                "span": {
+                  "offset": 177,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,7.099,2.9016,7.3434,2.9015,7.3434,3.0929,7.0988,3.092)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 182,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.9787,3.135,1.2067,3.1337,1.208,3.3237,0.9805,3.3269)"
+              },
+              {
+                "content": "choose",
+                "span": {
+                  "offset": 186,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2479,3.1334,1.6247,3.132,1.6254,3.3217,1.2491,3.3232)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 193,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.6627,3.1318,1.8527,3.1307,1.8537,3.3225,1.6634,3.3218)"
+              },
+              {
+                "content": "plan",
+                "span": {
+                  "offset": 197,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8907,3.1304,2.1187,3.1289,2.12,3.3229,1.8918,3.3226)"
+              },
+              {
+                "content": "that",
+                "span": {
+                  "offset": 202,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.1567,3.1286,2.3847,3.1271,2.3858,3.3228,2.158,3.3229)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 207,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.4227,3.1269,2.4987,3.1264,2.4995,3.3226,2.4237,3.3227)"
+              },
+              {
+                "content": "right",
+                "span": {
+                  "offset": 210,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.5367,3.1262,2.8154,3.1249,2.8162,3.3221,2.5374,3.3226)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 216,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.8534,3.1247,3.018,3.124,3.019,3.3216,2.8542,3.3221)"
+              },
+              {
+                "content": "you,",
+                "span": {
+                  "offset": 220,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.056,3.1239,3.2967,3.1232,3.2975,3.3209,3.0569,3.3215)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 225,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3347,3.1233,3.588,3.1241,3.5889,3.3226,3.3355,3.3211)"
+              },
+              {
+                "content": "budget",
+                "span": {
+                  "offset": 230,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.626,3.1241,4.0313,3.124,4.0322,3.3202,3.6269,3.3224)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 237,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.0693,3.1241,4.2878,3.1247,4.2885,3.3192,4.0702,3.32)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 241,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.329,3.1247,4.5633,3.1243,4.5642,3.3186,4.3297,3.3191)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 246,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.6013,3.1244,4.9813,3.1253,4.9817,3.3161,4.6021,3.3184)"
+              },
+              {
+                "content": "situation.",
+                "span": {
+                  "offset": 253,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.0225,3.1254,5.5615,3.1267,5.5615,3.3115,5.0228,3.3157)"
+              },
+              {
+                "content": "Our",
+                "span": {
+                  "offset": 269,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.9921,4.0773,1.2685,4.0794,1.2685,4.2793,0.9925,4.2793)"
+              },
+              {
+                "content": "experts",
+                "span": {
+                  "offset": 273,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.308,4.0796,1.8081,4.08,1.8081,4.2793,1.3079,4.2793)"
+              },
+              {
+                "content": "will:",
+                "span": {
+                  "offset": 281,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8476,4.0795,2.1634,4.0782,2.1634,4.2793,1.8476,4.2793)"
+              },
+              {
+                "content": "Review",
+                "span": {
+                  "offset": 288,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2414,4.4488,1.6665,4.4501,1.6668,4.6216,1.2422,4.6213)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 295,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.7033,4.4497,2.2277,4.4489,2.2278,4.6225,1.7036,4.622)"
+              },
+              {
+                "content": "parts,",
+                "span": {
+                  "offset": 304,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.2617,4.4493,2.5904,4.4511,2.5905,4.6225,2.2618,4.6225)"
+              },
+              {
+                "content": "what",
+                "span": {
+                  "offset": 311,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.6245,4.4512,2.9249,4.4503,2.9249,4.6225,2.6246,4.6225)"
+              },
+              {
+                "content": "each",
+                "span": {
+                  "offset": 316,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9589,4.45,3.2225,4.4514,3.2223,4.6225,2.9589,4.6225)"
+              },
+              {
+                "content": "covers,",
+                "span": {
+                  "offset": 321,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.2621,4.4514,3.6618,4.4517,3.6617,4.6225,3.262,4.6225)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 329,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.6986,4.4516,3.9169,4.45,3.9177,4.622,3.6985,4.6225)"
+              },
+              {
+                "content": "what",
+                "span": {
+                  "offset": 333,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.236,4.6731,1.5276,4.6764,1.5279,4.844,1.2383,4.8431)"
+              },
+              {
+                "content": "they",
+                "span": {
+                  "offset": 338,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5606,4.6764,1.8221,4.6761,1.8222,4.844,1.5607,4.844)"
+              },
+              {
+                "content": "cost",
+                "span": {
+                  "offset": 343,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8578,4.6755,2.1084,4.677,2.1084,4.844,1.858,4.844)"
+              },
+              {
+                "content": "ER",
+                "span": {
+                  "offset": 349,
+                  "length": 2
+                },
+                "confidence": 0.112,
+                "source": "D(1,1.0294,5.0355,1.1566,5.0403,1.1566,5.1777,1.03,5.1794)"
+              },
+              {
+                "content": "Inform",
+                "span": {
+                  "offset": 352,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2358,5.0174,1.6151,5.0168,1.6155,5.1961,1.2363,5.1973)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 359,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.6644,5.0167,1.9018,5.018,1.9022,5.1962,1.6648,5.1959)"
+              },
+              {
+                "content": "about",
+                "span": {
+                  "offset": 363,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.9394,5.0181,2.2551,5.0194,2.2559,5.196,1.9399,5.1963)"
+              },
+              {
+                "content": "enrollment",
+                "span": {
+                  "offset": 369,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.2898,5.0195,2.9501,5.0181,2.9504,5.1934,2.2907,5.1958)"
+              },
+              {
+                "content": "deadlines",
+                "span": {
+                  "offset": 380,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.9877,5.018,3.535,5.016,3.535,5.1922,2.988,5.193)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 390,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.5697,5.0161,3.7696,5.0167,3.7696,5.1921,3.5698,5.1922)"
+              },
+              {
+                "content": "when",
+                "span": {
+                  "offset": 394,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.8101,5.0166,4.1227,5.0152,4.1227,5.1921,3.8101,5.1919)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 399,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.2369,5.2452,1.346,5.245,1.3467,5.4297,1.2372,5.4301)"
+              },
+              {
+                "content": "sign",
+                "span": {
+                  "offset": 402,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3823,5.2449,1.6004,5.2446,1.6013,5.4296,1.3832,5.4295)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 407,
+                  "length": 2
+                },
+                "confidence": 0.977,
+                "source": "D(1,1.6367,5.2445,1.7821,5.2436,1.7829,5.4287,1.6376,5.4296)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 410,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.8184,5.2433,1.9578,5.2428,1.9583,5.429,1.8192,5.4284)"
+              },
+              {
+                "content": "avoid",
+                "span": {
+                  "offset": 413,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.9971,5.2428,2.2667,5.242,2.2673,5.4288,1.9977,5.4294)"
+              },
+              {
+                "content": "paying",
+                "span": {
+                  "offset": 419,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.303,5.2419,2.6665,5.2396,2.6673,5.4279,2.3037,5.4288)"
+              },
+              {
+                "content": "late",
+                "span": {
+                  "offset": 426,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.7028,5.2393,2.933,5.2395,2.9334,5.4262,2.7037,5.4275)"
+              },
+              {
+                "content": "enrollment",
+                "span": {
+                  "offset": 431,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9693,5.2397,3.5872,5.2404,3.5874,5.4225,2.9697,5.426)"
+              },
+              {
+                "content": "penalties",
+                "span": {
+                  "offset": 442,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.6235,5.2404,4.167,5.2394,4.167,5.4192,3.6237,5.4225)"
+              },
+              {
+                "content": "2",
+                "span": {
+                  "offset": 453,
+                  "length": 1
+                },
+                "confidence": 0.099,
+                "source": "D(1,1.0681,5.6781,1.1313,5.6743,1.1332,5.7364,1.0685,5.7395)"
+              },
+              {
+                "content": "Explain",
+                "span": {
+                  "offset": 455,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.24,5.5881,1.6636,5.5877,1.6638,5.7679,1.2402,5.774)"
+              },
+              {
+                "content": "how",
+                "span": {
+                  "offset": 463,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6989,5.5881,1.9342,5.59,1.9344,5.7664,1.6991,5.7676)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 467,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.9695,5.5901,2.5225,5.5934,2.5227,5.7643,1.9697,5.7663)"
+              },
+              {
+                "content": "works",
+                "span": {
+                  "offset": 476,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.5578,5.5933,2.9167,5.5931,2.9167,5.7669,2.558,5.7643)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 482,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.952,5.5928,3.1902,5.5892,3.1902,5.7687,2.952,5.7672)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 487,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.2256,5.5891,3.4874,5.5878,3.4873,5.7717,3.2255,5.7693)"
+              },
+              {
+                "content": "employer's/",
+                "span": {
+                  "offset": 492,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.5227,5.5876,4.2057,5.5874,4.2057,5.774,3.5226,5.7717)"
+              },
+              {
+                "content": "spouse's",
+                "span": {
+                  "offset": 504,
+                  "length": 8
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.2369,5.8176,1.6988,5.8156,1.7002,5.9959,1.2387,6.001)"
+              },
+              {
+                "content": "plan;",
+                "span": {
+                  "offset": 513,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.7343,5.8155,2.0245,5.8139,2.0258,5.9952,1.7357,5.9954)"
+              },
+              {
+                "content": "do",
+                "span": {
+                  "offset": 519,
+                  "length": 2
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.0629,5.8135,2.2021,5.8131,2.2034,5.9949,2.0644,5.9953)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 522,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.2406,5.8132,2.2969,5.8133,2.2979,5.9943,2.2418,5.9947)"
+              },
+              {
+                "content": "side-by-side",
+                "span": {
+                  "offset": 524,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3354,5.8134,3.043,5.8105,3.0432,5.9926,2.3363,5.9942)"
+              },
+              {
+                "content": "comparison",
+                "span": {
+                  "offset": 537,
+                  "length": 10
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.0785,5.8106,3.752,5.8136,3.752,5.9914,3.0788,5.9922)"
+              },
+              {
+                "content": "Let",
+                "span": {
+                  "offset": 549,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.233,6.1578,1.416,6.1586,1.417,6.3442,1.2333,6.3421)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 553,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.4525,6.1587,1.6599,6.159,1.6603,6.344,1.4535,6.3439)"
+              },
+              {
+                "content": "know",
+                "span": {
+                  "offset": 557,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,1.6965,6.1588,2.0014,6.1594,2.0016,6.3442,1.6968,6.3442)"
+              },
+              {
+                "content": "if",
+                "span": {
+                  "offset": 562,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.038,6.1595,2.1234,6.1597,2.1236,6.3442,2.0382,6.3442)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 565,
+                  "length": 4
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.16,6.1596,2.4283,6.1586,2.4283,6.3442,2.1602,6.3442)"
+              },
+              {
+                "content": "doctors",
+                "span": {
+                  "offset": 570,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.4649,6.1584,2.8917,6.159,2.8915,6.3432,2.4648,6.3442)"
+              },
+              {
+                "content": "participate",
+                "span": {
+                  "offset": 578,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9283,6.1589,3.5504,6.1565,3.5499,6.3435,2.9281,6.3432)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 590,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.5869,6.1563,3.7243,6.1556,3.7243,6.344,3.5864,6.3436)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 593,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.2374,6.3808,1.4405,6.3794,1.4409,6.5568,1.2379,6.5559)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 597,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.4782,6.3794,2.0177,6.3804,2.018,6.5601,1.4786,6.557)"
+              },
+              {
+                "content": "plan,",
+                "span": {
+                  "offset": 606,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0613,6.3803,2.3223,6.3806,2.3227,6.5601,2.0615,6.5601)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 612,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.3601,6.3807,2.537,6.381,2.5372,6.5594,2.3604,6.5601)"
+              },
+              {
+                "content": "if",
+                "span": {
+                  "offset": 616,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.5718,6.381,2.653,6.3812,2.6532,6.559,2.572,6.5592)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 619,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6879,6.3813,2.9547,6.3814,2.9549,6.56,2.688,6.5589)"
+              },
+              {
+                "content": "medications",
+                "span": {
+                  "offset": 624,
+                  "length": 11
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.9896,6.3814,3.7003,6.3816,3.6999,6.5559,2.9896,6.5598)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 636,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.738,6.3816,3.9235,6.3832,3.9235,6.5539,3.7376,6.5558)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 640,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.2363,6.6014,1.3473,6.6001,1.3475,6.7842,1.2363,6.7837)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 643,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.3862,6.6003,1.5781,6.6007,1.5784,6.7839,1.3864,6.7843)"
+              },
+              {
+                "content": "plan's",
+                "span": {
+                  "offset": 647,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.6171,6.6012,1.9079,6.6027,1.9074,6.7853,1.6173,6.7839)"
+              },
+              {
+                "content": "formulary",
+                "span": {
+                  "offset": 654,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.9438,6.6027,2.5456,6.6057,2.5456,6.7904,1.9433,6.786)"
+              },
+              {
+                "content": "Find",
+                "span": {
+                  "offset": 665,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.234,6.9437,1.4931,6.9444,1.4932,7.1301,1.2346,7.1266)"
+              },
+              {
+                "content": "Medicare-participating",
+                "span": {
+                  "offset": 670,
+                  "length": 22
+                },
+                "confidence": 0.986,
+                "source": "D(1,1.5301,6.9444,2.875,6.952,2.8742,7.1414,1.5301,7.1306)"
+              },
+              {
+                "content": "physicians,",
+                "span": {
+                  "offset": 693,
+                  "length": 11
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.912,6.9521,3.5859,6.956,3.5859,7.141,2.9112,7.1414)"
+              },
+              {
+                "content": "schedule",
+                "span": {
+                  "offset": 705,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.2367,7.1786,1.7517,7.179,1.7519,7.3518,1.2377,7.347)"
+              },
+              {
+                "content": "appointments",
+                "span": {
+                  "offset": 714,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.7907,7.1791,2.5898,7.1822,2.5898,7.3459,1.791,7.3518)"
+              },
+              {
+                "content": "Help",
+                "span": {
+                  "offset": 728,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2378,7.5152,1.5109,7.5161,1.5111,7.698,1.2376,7.6959)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 733,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.5465,7.5161,1.8227,7.5167,1.8226,7.6995,1.5466,7.6982)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 738,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.8613,7.5166,2.0542,7.5176,2.054,7.7004,1.8611,7.6995)"
+              },
+              {
+                "content": "application",
+                "span": {
+                  "offset": 742,
+                  "length": 11
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.0899,7.5179,2.7282,7.5196,2.7277,7.7002,2.0896,7.7006)"
+              },
+              {
+                "content": "process",
+                "span": {
+                  "offset": 754,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.7697,7.5205,3.2096,7.5221,3.2096,7.6985,2.7691,7.6996)"
+              },
+              {
+                "content": "Answer",
+                "span": {
+                  "offset": 763,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2315,7.8707,1.6694,7.8724,1.669,8.0431,1.2312,8.0394)"
+              },
+              {
+                "content": "any",
+                "span": {
+                  "offset": 770,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.7031,7.8723,1.9333,7.8718,1.9331,8.0438,1.7027,8.0433)"
+              },
+              {
+                "content": "questions",
+                "span": {
+                  "offset": 774,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.967,7.8719,2.5003,7.8731,2.4997,8.0438,1.9668,8.0438)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 784,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.534,7.8729,2.7473,7.8712,2.7464,8.0438,2.5334,8.0438)"
+              },
+              {
+                "content": "may",
+                "span": {
+                  "offset": 788,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.781,7.8712,3.028,7.8717,3.0274,8.0428,2.7801,8.0438)"
+              },
+              {
+                "content": "have",
+                "span": {
+                  "offset": 792,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.0617,7.8719,3.359,7.8725,3.359,8.0429,3.0611,8.0426)"
+              },
+              {
+                "content": "In",
+                "span": {
+                  "offset": 802,
+                  "length": 2
+                },
+                "confidence": 0.097,
+                "source": "D(1,4.6663,4.0879,4.8255,4.086,4.8255,4.2454,4.6669,4.2498)"
+              },
+              {
+                "content": "Call",
+                "span": {
+                  "offset": 805,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.0529,4.0688,5.3321,4.0682,5.3312,4.2787,5.0525,4.2757)"
+              },
+              {
+                "content": "us",
+                "span": {
+                  "offset": 810,
+                  "length": 2
+                },
+                "confidence": 0.989,
+                "source": "D(1,5.3832,4.0693,5.5023,4.0709,5.5015,4.2821,5.3824,4.2795)"
+              },
+              {
+                "content": "if",
+                "span": {
+                  "offset": 813,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.5432,4.072,5.6385,4.0749,5.6379,4.2817,5.5425,4.2822)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 816,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.6793,4.0761,5.9552,4.0785,5.9543,4.2877,5.6788,4.2812)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 820,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.0028,4.0787,6.1561,4.0794,6.1551,4.288,6.0019,4.2883)"
+              },
+              {
+                "content": "...",
+                "span": {
+                  "offset": 824,
+                  "length": 3
+                },
+                "confidence": 0.98,
+                "source": "D(1,6.1969,4.0802,6.3363,4.0828,6.3363,4.2857,6.196,4.2874)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 829,
+                  "length": 1
+                },
+                "confidence": 0.359,
+                "source": "D(1,5.0579,4.4415,5.1046,4.4415,5.105,4.6249,5.0584,4.6246)"
+              },
+              {
+                "content": "Nearing",
+                "span": {
+                  "offset": 831,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.1856,4.4416,5.6184,4.4403,5.6189,4.6284,5.1858,4.6255)"
+              },
+              {
+                "content": "age",
+                "span": {
+                  "offset": 839,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.6557,4.4403,5.8425,4.4403,5.8434,4.6293,5.6564,4.6285)"
+              },
+              {
+                "content": "65",
+                "span": {
+                  "offset": 843,
+                  "length": 2
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.8799,4.4403,6.0294,4.4402,6.0306,4.6304,5.8808,4.6295)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 846,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.0667,4.4401,6.266,4.4393,6.2669,4.6309,6.0679,4.6304)"
+              },
+              {
+                "content": "becoming",
+                "span": {
+                  "offset": 850,
+                  "length": 8
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.3033,4.4391,6.8638,4.4385,6.8641,4.6325,6.3043,4.6311)"
+              },
+              {
+                "content": "eligible",
+                "span": {
+                  "offset": 859,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.9011,4.4387,7.337,4.4403,7.3371,4.6307,6.9014,4.6326)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 868,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.1602,4.6598,5.3215,4.6604,5.322,4.8346,5.161,4.8342)"
+              },
+              {
+                "content": "Medicare.",
+                "span": {
+                  "offset": 872,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.356,4.6608,5.9319,4.6629,5.9322,4.8374,5.3565,4.8348)"
+              },
+              {
+                "content": "To",
+                "span": {
+                  "offset": 882,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.9664,4.6633,6.0816,4.6638,6.0819,4.8385,5.9668,4.8377)"
+              },
+              {
+                "content": "make",
+                "span": {
+                  "offset": 885,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.1162,4.6636,6.4415,4.6641,6.4417,4.8417,6.1164,4.8387)"
+              },
+              {
+                "content": "sure",
+                "span": {
+                  "offset": 890,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.4761,4.6641,6.692,4.6669,6.692,4.8441,6.4762,4.8421)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 895,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.7265,4.668,6.9453,4.6703,6.9453,4.8471,6.7266,4.8443)"
+              },
+              {
+                "content": "get",
+                "span": {
+                  "offset": 899,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.9799,4.6705,7.1774,4.671,7.1774,4.8495,6.9799,4.8473)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 903,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.1666,4.8822,5.6894,4.8826,5.6898,5.065,5.1676,5.0609)"
+              },
+              {
+                "content": "coverage",
+                "span": {
+                  "offset": 912,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.725,4.8827,6.2536,4.8854,6.2545,5.0678,5.7255,5.0653)"
+              },
+              {
+                "content": "when",
+                "span": {
+                  "offset": 921,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,6.2893,4.8856,6.5892,4.8869,6.5897,5.0687,6.2901,5.0682)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 926,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.6279,4.8865,6.8357,4.8841,6.8363,5.0672,6.6283,5.0685)"
+              },
+              {
+                "content": "turn",
+                "span": {
+                  "offset": 930,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.8743,4.8837,7.1149,4.8852,7.1156,5.0647,6.8749,5.0669)"
+              },
+              {
+                "content": "65,",
+                "span": {
+                  "offset": 935,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.1595,4.8853,7.3545,4.8832,7.3545,5.0637,7.1602,5.0643)"
+              },
+              {
+                "content": "sign",
+                "span": {
+                  "offset": 939,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.1623,5.11,5.3959,5.1094,5.3975,5.2979,5.1645,5.2979)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 944,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.4384,5.1088,5.575,5.1081,5.577,5.2969,5.44,5.2979)"
+              },
+              {
+                "content": "during",
+                "span": {
+                  "offset": 947,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.6114,5.1079,5.9512,5.1055,5.9534,5.2937,5.6135,5.2962)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 954,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.9876,5.1053,6.2031,5.1037,6.2045,5.2908,5.9898,5.2929)"
+              },
+              {
+                "content": "3",
+                "span": {
+                  "offset": 958,
+                  "length": 1
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.2395,5.1034,6.2911,5.103,6.2928,5.2894,6.2411,5.2902)"
+              },
+              {
+                "content": "months",
+                "span": {
+                  "offset": 960,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.3275,5.1028,6.7645,5.1015,6.765,5.2824,6.3293,5.2888)"
+              },
+              {
+                "content": "before",
+                "span": {
+                  "offset": 967,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.8009,5.1016,7.2106,5.101,7.2106,5.2791,6.8015,5.2822)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 974,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.1588,5.3462,5.3824,5.3431,5.3857,5.5022,5.1624,5.5081)"
+              },
+              {
+                "content": "turn",
+                "span": {
+                  "offset": 978,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.4218,5.3427,5.6611,5.3356,5.6642,5.4969,5.4249,5.5012)"
+              },
+              {
+                "content": "65.",
+                "span": {
+                  "offset": 983,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.7031,5.3349,5.9046,5.3317,5.9046,5.4937,5.7064,5.4962)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 988,
+                  "length": 1
+                },
+                "confidence": 0.277,
+                "source": "D(1,5.0597,5.68,5.1046,5.6798,5.1059,5.8554,5.0612,5.8548)"
+              },
+              {
+                "content": "On",
+                "span": {
+                  "offset": 990,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.1763,5.6793,5.3468,5.6777,5.3475,5.8574,5.1774,5.8563)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 993,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.3826,5.6773,5.5381,5.6761,5.5391,5.8585,5.3834,5.8576)"
+              },
+              {
+                "content": "employer's",
+                "span": {
+                  "offset": 996,
+                  "length": 10
+                },
+                "confidence": 0.983,
+                "source": "D(1,5.577,5.676,6.184,5.6737,6.1852,5.8609,5.5781,5.8586)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1007,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.2199,5.6734,6.3395,5.6725,6.3402,5.86,6.2209,5.8607)"
+              },
+              {
+                "content": "spouse's",
+                "span": {
+                  "offset": 1010,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.3753,5.6724,6.8418,5.6726,6.8421,5.8559,6.3761,5.8594)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 1019,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.8777,5.6728,7.2826,5.6718,7.2826,5.8508,6.878,5.8555)"
+              },
+              {
+                "content": "plan",
+                "span": {
+                  "offset": 1026,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.1589,5.9053,5.422,5.9019,5.424,6.0853,5.1624,6.0877)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1031,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.4579,5.9018,5.6673,5.9007,5.6693,6.0859,5.46,6.0852)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 1035,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.7061,5.9002,5.8646,5.8993,5.8663,6.086,5.7079,6.0863)"
+              },
+              {
+                "content": "retiring",
+                "span": {
+                  "offset": 1039,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.9005,5.8993,6.3311,5.8975,6.3326,6.0828,5.902,6.0857)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1048,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.367,5.897,6.5704,5.8984,6.5707,6.0809,6.3687,6.0827)"
+              },
+              {
+                "content": "want",
+                "span": {
+                  "offset": 1052,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.6063,5.8986,6.8814,5.9013,6.8812,6.0773,6.6065,6.0809)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1057,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.9173,5.902,7.0723,5.903,7.0723,6.0745,6.917,6.0764)"
+              },
+              {
+                "content": "transition",
+                "span": {
+                  "offset": 1060,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.161,6.1305,5.717,6.1271,5.7187,6.2831,5.1635,6.283)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1071,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.7552,6.1273,5.8751,6.1273,5.876,6.2828,5.7568,6.2829)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 1074,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.9159,6.127,6.4667,6.1255,6.467,6.2826,5.9166,6.2828)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 1084,
+                  "length": 1
+                },
+                "confidence": 0.31,
+                "source": "D(1,5.0583,6.4755,5.1061,6.4751,5.1079,6.6533,5.0598,6.6528)"
+              },
+              {
+                "content": "Age",
+                "span": {
+                  "offset": 1086,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.1689,6.4745,5.3931,6.4726,5.3949,6.6526,5.171,6.6539)"
+              },
+              {
+                "content": "65",
+                "span": {
+                  "offset": 1090,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.429,6.4722,5.5725,6.4708,5.5744,6.6535,5.4309,6.6527)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1093,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.6084,6.4705,5.728,6.4707,5.7295,6.6542,5.6102,6.6538)"
+              },
+              {
+                "content": "over,",
+                "span": {
+                  "offset": 1096,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.7639,6.4707,6.027,6.4698,6.0283,6.6533,5.7653,6.6541)"
+              },
+              {
+                "content": "still",
+                "span": {
+                  "offset": 1102,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,6.0628,6.47,6.2422,6.4688,6.2435,6.6532,6.0641,6.653)"
+              },
+              {
+                "content": "working",
+                "span": {
+                  "offset": 1108,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.2781,6.4681,6.7206,6.4689,6.7211,6.6539,6.2796,6.6536)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1116,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.7564,6.4692,6.9893,6.4698,6.9893,6.6512,6.757,6.6533)"
+              },
+              {
+                "content": "confused",
+                "span": {
+                  "offset": 1120,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.1635,6.6972,5.6822,6.6931,5.6839,6.8557,5.1662,6.8566)"
+              },
+              {
+                "content": "about",
+                "span": {
+                  "offset": 1129,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.7221,6.6928,6.0412,6.693,6.0428,6.8556,5.7238,6.8559)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1135,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.0732,6.6929,6.2381,6.6916,6.2392,6.8549,6.0746,6.8556)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 1139,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.27,6.6913,6.8019,6.6901,6.8024,6.8534,6.2711,6.8547)"
+              },
+              {
+                "content": "mail",
+                "span": {
+                  "offset": 1148,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.8339,6.69,7.0998,6.6894,7.0999,6.8517,6.8343,6.8533)"
+              },
+              {
+                "content": "you're",
+                "span": {
+                  "offset": 1153,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.1573,6.9213,5.5052,6.9202,5.5062,7.0961,5.1603,7.0993)"
+              },
+              {
+                "content": "receiving",
+                "span": {
+                  "offset": 1160,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.54,6.9196,6.0762,6.9217,6.0762,7.1018,5.5408,7.0963)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 1171,
+                  "length": 1
+                },
+                "confidence": 0.336,
+                "source": "D(1,5.0574,7.2625,5.1072,7.2624,5.1077,7.4355,5.058,7.4351)"
+              },
+              {
+                "content": "Currently",
+                "span": {
+                  "offset": 1173,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.1775,7.2623,5.7371,7.2601,5.7378,7.4393,5.1779,7.436)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 1183,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.7723,7.2601,5.9246,7.2597,5.9253,7.4404,5.7729,7.4397)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1186,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.9627,7.2595,6.0213,7.2591,6.022,7.4404,5.9634,7.4404)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 1188,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.0623,7.259,6.6073,7.2584,6.6074,7.4404,6.063,7.4404)"
+              },
+              {
+                "content": "plan",
+                "span": {
+                  "offset": 1197,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.6483,7.2588,6.8885,7.2577,6.8885,7.4404,6.6484,7.4404)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1202,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.9296,7.2578,7.1288,7.2602,7.1287,7.4386,6.9296,7.4404)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 1206,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,7.1698,7.261,7.3545,7.2634,7.3545,7.4358,7.1696,7.4376)"
+              },
+              {
+                "content": "considering",
+                "span": {
+                  "offset": 1210,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.1649,7.4892,5.8146,7.4843,5.8158,7.6673,5.1669,7.6634)"
+              },
+              {
+                "content": "choosing",
+                "span": {
+                  "offset": 1222,
+                  "length": 8
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.85,7.4841,6.3579,7.4823,6.3588,7.6657,5.8512,7.6672)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1231,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.3933,7.4824,6.4671,7.4815,6.4682,7.6647,6.3943,7.6652)"
+              },
+              {
+                "content": "new",
+                "span": {
+                  "offset": 1233,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.5085,7.481,6.7359,7.4813,6.7368,7.6642,6.5095,7.6643)"
+              },
+              {
+                "content": "Medicare",
+                "span": {
+                  "offset": 1237,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.7713,7.4816,7.3268,7.4843,7.3268,7.6568,6.772,7.6634)"
+              },
+              {
+                "content": "plan",
+                "span": {
+                  "offset": 1246,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,5.1612,7.7045,5.3704,7.7034,5.3722,7.8933,5.1639,7.8943)"
+              },
+              {
+                "content": "during",
+                "span": {
+                  "offset": 1251,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.4073,7.703,5.7396,7.7029,5.7408,7.8929,5.4091,7.8935)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1258,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.7765,7.703,5.9488,7.7018,5.9495,7.892,5.7777,7.8929)"
+              },
+              {
+                "content": "annual",
+                "span": {
+                  "offset": 1262,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.9858,7.7019,6.3303,7.7032,6.3308,7.8893,5.9864,7.8921)"
+              },
+              {
+                "content": "enrollment",
+                "span": {
+                  "offset": 1269,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.3673,7.703,6.9457,7.7017,6.9462,7.8877,6.3677,7.8889)"
+              },
+              {
+                "content": "period",
+                "span": {
+                  "offset": 1280,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.9826,7.7019,7.3434,7.7032,7.3434,7.8838,6.9831,7.8874)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1288,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.9938,8.4327,1.3686,8.435,1.3681,8.6077,0.9929,8.6053)"
+              },
+              {
+                "content": "Advocate",
+                "span": {
+                  "offset": 1295,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.4037,8.4352,1.9073,8.438,1.9068,8.6109,1.4033,8.608)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1304,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.9425,8.4381,2.0244,8.4382,2.0238,8.6116,1.9419,8.6111)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 1307,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0596,8.4382,2.5046,8.4383,2.5039,8.6142,2.0589,8.6118)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1317,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.5398,8.4383,2.6569,8.4381,2.6561,8.6148,2.539,8.6144)"
+              },
+              {
+                "content": "employees,",
+                "span": {
+                  "offset": 1320,
+                  "length": 10
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.692,8.438,3.3011,8.4377,3.301,8.6179,2.6913,8.615)"
+              },
+              {
+                "content": "spouses,",
+                "span": {
+                  "offset": 1331,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3362,8.4377,3.793,8.4387,3.7932,8.6195,3.3362,8.6181)"
+              },
+              {
+                "content": "dependents,",
+                "span": {
+                  "offset": 1340,
+                  "length": 11
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.8281,8.4387,4.484,8.4402,4.4842,8.6195,3.8284,8.6195)"
+              },
+              {
+                "content": "parents",
+                "span": {
+                  "offset": 1352,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.5192,8.4402,4.9291,8.44,4.9294,8.6195,4.5194,8.6195)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1360,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.9642,8.4399,5.1516,8.4395,5.1519,8.6195,4.9645,8.6195)"
+              },
+              {
+                "content": "parents-in-law.",
+                "span": {
+                  "offset": 1364,
+                  "length": 15
+                },
+                "confidence": 0.977,
+                "source": "D(1,5.1868,8.4395,6.0066,8.4382,6.0067,8.6179,5.1871,8.6195)"
+              },
+              {
+                "content": "It's",
+                "span": {
+                  "offset": 1380,
+                  "length": 4
+                },
+                "confidence": 0.94,
+                "source": "D(1,6.0418,8.4381,6.2057,8.4377,6.2058,8.6178,6.0418,8.6178)"
+              },
+              {
+                "content": "completely",
+                "span": {
+                  "offset": 1385,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.2409,8.4377,6.8499,8.4364,6.8501,8.6175,6.2409,8.6179)"
+              },
+              {
+                "content": "confidential.",
+                "span": {
+                  "offset": 1396,
+                  "length": 13
+                },
+                "confidence": 0.975,
+                "source": "D(1,6.8851,8.4364,7.5814,8.4354,7.5814,8.6169,6.8852,8.6172)"
+              },
+              {
+                "content": "866.799.2731",
+                "span": {
+                  "offset": 1411,
+                  "length": 12
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.3913,9.3526,2.8001,9.3552,2.8001,9.5606,1.3909,9.5606)"
+              },
+              {
+                "content": "answers@HealthAdvocate.com",
+                "span": {
+                  "offset": 1425,
+                  "length": 26
+                },
+                "confidence": 0.974,
+                "source": "D(1,1.3881,9.6554,3.1764,9.6508,3.1764,9.7851,1.3883,9.7875)"
+              },
+              {
+                "content": "HealthAdvocate.com/members",
+                "span": {
+                  "offset": 1452,
+                  "length": 26
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3907,9.8246,3.1795,9.8255,3.1795,9.9634,1.3909,9.9617)"
+              },
+              {
+                "content": "Call",
+                "span": {
+                  "offset": 1480,
+                  "length": 4
+                },
+                "confidence": 0.986,
+                "source": "D(1,0.5205,10.1465,0.7515,10.1476,0.7509,10.3008,0.5204,10.2995)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1485,
+                  "length": 1
+                },
+                "confidence": 0.92,
+                "source": "D(1,0.8216,10.1479,0.8683,10.1481,0.8676,10.3021,0.8209,10.3014)"
+              },
+              {
+                "content": "Email",
+                "span": {
+                  "offset": 1487,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.9436,10.1485,1.2603,10.1481,1.2596,10.3071,0.9428,10.3034)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1493,
+                  "length": 1
+                },
+                "confidence": 0.932,
+                "source": "D(1,1.3304,10.1475,1.3797,10.1476,1.379,10.309,1.3297,10.3082)"
+              },
+              {
+                "content": "Message",
+                "span": {
+                  "offset": 1495,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.4472,10.1478,1.9378,10.1456,1.9377,10.3113,1.4464,10.3101)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1503,
+                  "length": 1
+                },
+                "confidence": 0.941,
+                "source": "D(1,2.0001,10.1465,2.0494,10.1474,2.0493,10.311,2,10.3111)"
+              },
+              {
+                "content": "Live",
+                "span": {
+                  "offset": 1505,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.1246,10.1489,2.3478,10.1525,2.3473,10.3093,2.1245,10.3102)"
+              },
+              {
+                "content": "Chat",
+                "span": {
+                  "offset": 1510,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3816,10.1528,2.695,10.1532,2.695,10.3101,2.381,10.3097)"
+              },
+              {
+                "content": "=",
+                "span": {
+                  "offset": 1516,
+                  "length": 1
+                },
+                "confidence": 0.673,
+                "source": "D(1,2.7337,10.1478,2.8444,10.1515,2.8444,10.2447,2.7339,10.2393)"
+              },
+              {
+                "content": "We're",
+                "span": {
+                  "offset": 1519,
+                  "length": 5
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.5115,10.4004,0.6889,10.4009,0.6891,10.5075,0.5118,10.5058)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1525,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.7102,10.4009,0.8166,10.4011,0.8168,10.5083,0.7104,10.5077)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 1529,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.8379,10.4011,0.9017,10.4012,0.902,10.5085,0.8381,10.5083)"
+              },
+              {
+                "content": "insurance",
+                "span": {
+                  "offset": 1532,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.923,10.4012,1.2352,10.4009,1.2354,10.51,0.9232,10.5085)"
+              },
+              {
+                "content": "company.",
+                "span": {
+                  "offset": 1542,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.2565,10.4009,1.5545,10.4004,1.5548,10.5105,1.2567,10.5101)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1551,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.5758,10.4004,1.7957,10.4006,1.7959,10.51,1.576,10.5105)"
+              },
+              {
+                "content": "Advocate",
+                "span": {
+                  "offset": 1558,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.817,10.4006,2.1079,10.4005,2.1079,10.5094,1.8171,10.5099)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1567,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1292,10.4005,2.1718,10.4005,2.1717,10.5093,2.1292,10.5093)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1570,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1931,10.4004,2.2995,10.4002,2.2994,10.5092,2.193,10.5093)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1574,
+                  "length": 1
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3208,10.4002,2.3563,10.4001,2.3561,10.5091,2.3207,10.5091)"
+              },
+              {
+                "content": "direct",
+                "span": {
+                  "offset": 1576,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3775,10.4001,2.5478,10.4002,2.5477,10.5089,2.3774,10.5091)"
+              },
+              {
+                "content": "healthcare",
+                "span": {
+                  "offset": 1583,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5691,10.4003,2.9026,10.4006,2.9027,10.5091,2.569,10.5088)"
+              },
+              {
+                "content": "provider,",
+                "span": {
+                  "offset": 1594,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9239,10.4005,3.1935,10.399,3.1937,10.5077,2.924,10.509)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1604,
+                  "length": 3
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.2148,10.3989,3.3212,10.3985,3.3214,10.5069,3.215,10.5075)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1608,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3425,10.3984,3.3921,10.3983,3.3924,10.5064,3.3427,10.5068)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1611,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.4134,10.3982,3.5198,10.3979,3.5201,10.5055,3.4137,10.5063)"
+              },
+              {
+                "content": "affiliated",
+                "span": {
+                  "offset": 1615,
+                  "length": 10
+                },
+                "confidence": 0.99,
+                "source": "D(1,3.5411,10.3978,3.8294,10.3951,3.8294,10.5022,3.5414,10.5054)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 1626,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.5134,10.5144,0.639,10.5143,0.6393,10.6262,0.5137,10.6251)"
+              },
+              {
+                "content": "any",
+                "span": {
+                  "offset": 1631,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6612,10.5143,0.7646,10.5143,0.7649,10.6273,0.6615,10.6264)"
+              },
+              {
+                "content": "insurance",
+                "span": {
+                  "offset": 1635,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.7867,10.5143,1.0895,10.5139,1.0898,10.6273,0.7871,10.6272)"
+              },
+              {
+                "content": "company",
+                "span": {
+                  "offset": 1645,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1117,10.5138,1.3997,10.5123,1.3999,10.627,1.1119,10.6274)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1653,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.4219,10.5121,1.481,10.5118,1.4812,10.6266,1.4221,10.6269)"
+              },
+              {
+                "content": "third",
+                "span": {
+                  "offset": 1656,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5031,10.5117,1.6619,10.5111,1.6622,10.626,1.5033,10.6265)"
+              },
+              {
+                "content": "party",
+                "span": {
+                  "offset": 1662,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.6841,10.511,1.8355,10.5104,1.8357,10.6253,1.6843,10.626)"
+              },
+              {
+                "content": "provider.",
+                "span": {
+                  "offset": 1668,
+                  "length": 9
+                },
+                "confidence": 0.988,
+                "source": "D(1,1.8577,10.5103,2.1734,10.5099,2.1733,10.6247,1.8579,10.6252)"
+              },
+              {
+                "content": "@2024",
+                "span": {
+                  "offset": 1678,
+                  "length": 5
+                },
+                "confidence": 0.912,
+                "source": "D(1,2.1974,10.5098,2.4448,10.5085,2.445,10.6216,2.1973,10.6244)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1684,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.4688,10.5084,2.6775,10.5077,2.6777,10.6202,2.469,10.6215)"
+              },
+              {
+                "content": "Advocate",
+                "span": {
+                  "offset": 1691,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6996,10.5077,3.0025,10.5066,3.0026,10.6174,2.6998,10.62)"
+              },
+              {
+                "content": "HA-M-2401148-2FLY",
+                "span": {
+                  "offset": 1700,
+                  "length": 17
+                },
+                "confidence": 0.986,
+                "source": "D(1,3.0763,10.5063,3.8239,10.502,3.8239,10.6135,3.0765,10.6166)"
+              },
+              {
+                "content": "HealthAdvocate\"",
+                "span": {
+                  "offset": 1730,
+                  "length": 15
+                },
+                "confidence": 0.736,
+                "source": "D(1,5.775,10.1471,8.0241,10.1501,8.0241,10.4132,5.7731,10.4132)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "Confused about Medicare?",
+                "source": "D(1,0.7347,1.1121,3.9066,1.1044,3.9069,1.4068,0.7354,1.4117)",
+                "span": {
+                  "offset": 2,
+                  "length": 24
+                }
+              },
+              {
+                "content": "We'll guide you through it",
+                "source": "D(1,0.7341,1.6088,3.7609,1.6166,3.7599,2.0075,0.733,1.9997)",
+                "span": {
+                  "offset": 27,
+                  "length": 26
+                }
+              },
+              {
+                "content": "Get one-on-one support and guidance to help you understand your Medicare options. Our advocates can help",
+                "source": "D(1,0.9924,2.9032,7.3423,2.9009,7.3424,3.0944,0.9925,3.0967)",
+                "span": {
+                  "offset": 77,
+                  "length": 104
+                }
+              },
+              {
+                "content": "you choose the plan that is right for you, your budget and your health situation.",
+                "source": "D(1,0.9787,3.127,5.5579,3.1223,5.5583,3.3159,0.9791,3.3238)",
+                "span": {
+                  "offset": 182,
+                  "length": 81
+                }
+              },
+              {
+                "content": "Our experts will:",
+                "source": "D(1,0.9921,4.0773,2.1591,4.0782,2.1589,4.2793,0.992,4.2788)",
+                "span": {
+                  "offset": 269,
+                  "length": 17
+                }
+              },
+              {
+                "content": "Review Medicare parts, what each covers, and",
+                "source": "D(1,1.2414,4.4476,3.9145,4.4501,3.9143,4.6225,1.2412,4.621)",
+                "span": {
+                  "offset": 288,
+                  "length": 44
+                }
+              },
+              {
+                "content": "what they cost",
+                "source": "D(1,1.236,4.6731,2.1067,4.6761,2.1062,4.844,1.2354,4.8419)",
+                "span": {
+                  "offset": 333,
+                  "length": 14
+                }
+              },
+              {
+                "content": "ER",
+                "source": "D(1,1.0294,5.035,1.1543,5.0344,1.1549,5.1764,1.03,5.177)",
+                "span": {
+                  "offset": 349,
+                  "length": 2
+                }
+              },
+              {
+                "content": "Inform you about enrollment deadlines and when",
+                "source": "D(1,1.2358,5.017,4.121,5.0138,4.1212,5.1914,1.236,5.1946)",
+                "span": {
+                  "offset": 352,
+                  "length": 46
+                }
+              },
+              {
+                "content": "to sign up to avoid paying late enrollment penalties",
+                "source": "D(1,1.2365,5.2452,4.163,5.237,4.1637,5.4199,1.2372,5.4308)",
+                "span": {
+                  "offset": 399,
+                  "length": 52
+                }
+              },
+              {
+                "content": "2",
+                "source": "D(1,1.068,5.6762,1.1289,5.6744,1.1307,5.7372,1.0685,5.7391)",
+                "span": {
+                  "offset": 453,
+                  "length": 1
+                }
+              },
+              {
+                "content": "Explain how Medicare works with your employer's/",
+                "source": "D(1,1.24,5.5868,4.2025,5.5872,4.2025,5.7718,1.2399,5.7714)",
+                "span": {
+                  "offset": 455,
+                  "length": 48
+                }
+              },
+              {
+                "content": "spouse's plan; do a side-by-side comparison",
+                "source": "D(1,1.2369,5.8168,3.7485,5.8072,3.7493,5.9884,1.2377,5.9996)",
+                "span": {
+                  "offset": 504,
+                  "length": 43
+                }
+              },
+              {
+                "content": "Let you know if your doctors participate in",
+                "source": "D(1,1.233,6.1578,3.722,6.1556,3.7222,6.3424,1.2332,6.3442)",
+                "span": {
+                  "offset": 549,
+                  "length": 43
+                }
+              },
+              {
+                "content": "the Medicare plan, and if your medications are",
+                "source": "D(1,1.2374,6.3775,3.9218,6.3818,3.9215,6.5601,1.2371,6.5564)",
+                "span": {
+                  "offset": 593,
+                  "length": 46
+                }
+              },
+              {
+                "content": "in the plan's formulary",
+                "source": "D(1,1.2364,6.5989,2.5433,6.6048,2.5424,6.7872,1.2354,6.7807)",
+                "span": {
+                  "offset": 640,
+                  "length": 23
+                }
+              },
+              {
+                "content": "Find Medicare-participating physicians,",
+                "source": "D(1,1.234,6.9427,3.5859,6.9552,3.5849,7.1414,1.233,7.1323)",
+                "span": {
+                  "offset": 665,
+                  "length": 39
+                }
+              },
+              {
+                "content": "schedule appointments",
+                "source": "D(1,1.2367,7.1777,2.5893,7.1798,2.5891,7.351,1.2365,7.3489)",
+                "span": {
+                  "offset": 705,
+                  "length": 21
+                }
+              },
+              {
+                "content": "Help with the application process",
+                "source": "D(1,1.2378,7.5141,3.2072,7.5194,3.2067,7.7006,1.2373,7.6953)",
+                "span": {
+                  "offset": 728,
+                  "length": 33
+                }
+              },
+              {
+                "content": "Answer any questions you may have",
+                "source": "D(1,1.2313,7.8707,3.3558,7.871,3.3558,8.0429,1.2313,8.0425)",
+                "span": {
+                  "offset": 763,
+                  "length": 33
+                }
+              },
+              {
+                "content": "In",
+                "source": "D(1,4.6663,4.0856,4.8228,4.085,4.8234,4.2465,4.6669,4.2471)",
+                "span": {
+                  "offset": 802,
+                  "length": 2
+                }
+              },
+              {
+                "content": "Call us if you are ...",
+                "source": "D(1,5.0529,4.0644,6.3354,4.0818,6.3326,4.29,5.0524,4.2726)",
+                "span": {
+                  "offset": 805,
+                  "length": 22
+                }
+              },
+              {
+                "content": "\u00b7 Nearing age 65 and becoming eligible",
+                "source": "D(1,5.0579,4.4343,7.3341,4.4393,7.3336,4.6307,5.0575,4.625)",
+                "span": {
+                  "offset": 829,
+                  "length": 38
+                }
+              },
+              {
+                "content": "for Medicare. To make sure you get",
+                "source": "D(1,5.1603,4.6558,7.1748,4.6682,7.1734,4.8468,5.1589,4.8313)",
+                "span": {
+                  "offset": 868,
+                  "length": 34
+                }
+              },
+              {
+                "content": "Medicare coverage when you turn 65,",
+                "source": "D(1,5.1666,4.8822,7.3531,4.8832,7.353,5.0669,5.1666,5.0659)",
+                "span": {
+                  "offset": 903,
+                  "length": 35
+                }
+              },
+              {
+                "content": "sign up during the 3 months before",
+                "source": "D(1,5.1623,5.11,7.2053,5.0986,7.2066,5.2844,5.1636,5.2979)",
+                "span": {
+                  "offset": 939,
+                  "length": 34
+                }
+              },
+              {
+                "content": "you turn 65.",
+                "source": "D(1,5.1588,5.3447,5.8999,5.3312,5.9028,5.4919,5.1617,5.5054)",
+                "span": {
+                  "offset": 974,
+                  "length": 12
+                }
+              },
+              {
+                "content": "\u00b7 On an employer's or spouse's health",
+                "source": "D(1,5.0597,5.6783,7.2807,5.6688,7.2815,5.8528,5.0606,5.8626)",
+                "span": {
+                  "offset": 988,
+                  "length": 37
+                }
+              },
+              {
+                "content": "plan and are retiring and want to",
+                "source": "D(1,5.1589,5.9026,7.0689,5.8958,7.0698,6.0781,5.1598,6.0874)",
+                "span": {
+                  "offset": 1026,
+                  "length": 33
+                }
+              },
+              {
+                "content": "transition to Medicare",
+                "source": "D(1,5.161,6.1256,6.4642,6.1248,6.4643,6.2805,5.1611,6.2813)",
+                "span": {
+                  "offset": 1060,
+                  "length": 22
+                }
+              },
+              {
+                "content": "\u00b7 Age 65 or over, still working and",
+                "source": "D(1,5.0583,6.4677,6.9869,6.4677,6.9869,6.6512,5.0583,6.6512)",
+                "span": {
+                  "offset": 1084,
+                  "length": 35
+                }
+              },
+              {
+                "content": "confused about the Medicare mail",
+                "source": "D(1,5.1635,6.6944,7.0967,6.6883,7.0972,6.85,5.164,6.8561)",
+                "span": {
+                  "offset": 1120,
+                  "length": 32
+                }
+              },
+              {
+                "content": "you're receiving",
+                "source": "D(1,5.1573,6.9184,6.0728,6.9205,6.0724,7.0985,5.1569,7.0964)",
+                "span": {
+                  "offset": 1153,
+                  "length": 16
+                }
+              },
+              {
+                "content": "\u00b7 Currently on a Medicare plan and are",
+                "source": "D(1,5.0574,7.2585,7.354,7.2572,7.3541,7.4379,5.0575,7.4393)",
+                "span": {
+                  "offset": 1171,
+                  "length": 38
+                }
+              },
+              {
+                "content": "considering choosing a new Medicare",
+                "source": "D(1,5.1649,7.4862,7.3235,7.4791,7.3243,7.6593,5.1657,7.6673)",
+                "span": {
+                  "offset": 1210,
+                  "length": 35
+                }
+              },
+              {
+                "content": "plan during the annual enrollment period",
+                "source": "D(1,5.1612,7.7035,7.3392,7.7006,7.3398,7.8853,5.1618,7.8924)",
+                "span": {
+                  "offset": 1246,
+                  "length": 40
+                }
+              },
+              {
+                "content": "Health Advocate is available to employees, spouses, dependents, parents and parents-in-law. It's completely confidential.",
+                "source": "D(1,0.993,8.4327,7.5809,8.4354,7.5808,8.6195,0.9929,8.6175)",
+                "span": {
+                  "offset": 1288,
+                  "length": 121
+                }
+              },
+              {
+                "content": "866.799.2731",
+                "source": "D(1,1.3912,9.3522,2.7975,9.3542,2.7972,9.5606,1.3909,9.559)",
+                "span": {
+                  "offset": 1411,
+                  "length": 12
+                }
+              },
+              {
+                "content": "answers@HealthAdvocate.com",
+                "source": "D(1,1.3881,9.6514,3.1726,9.6492,3.1728,9.7838,1.3883,9.786)",
+                "span": {
+                  "offset": 1425,
+                  "length": 26
+                }
+              },
+              {
+                "content": "HealthAdvocate.com/members",
+                "source": "D(1,1.3907,9.822,3.1772,9.8246,3.177,9.9641,1.3905,9.9615)",
+                "span": {
+                  "offset": 1452,
+                  "length": 26
+                }
+              },
+              {
+                "content": "Call . Email . Message . Live Chat",
+                "source": "D(1,0.5203,10.1465,2.6949,10.1451,2.695,10.3093,0.5204,10.3108)",
+                "span": {
+                  "offset": 1480,
+                  "length": 34
+                }
+              },
+              {
+                "content": "=",
+                "source": "D(1,2.7337,10.1477,2.8444,10.1506,2.8423,10.2427,2.7313,10.2399)",
+                "span": {
+                  "offset": 1516,
+                  "length": 1
+                }
+              },
+              {
+                "content": "We're not an insurance company. Health Advocate is not a direct healthcare provider, and is not affiliated",
+                "source": "D(1,0.5115,10.4004,3.8252,10.3952,3.8254,10.5058,0.5117,10.5111)",
+                "span": {
+                  "offset": 1519,
+                  "length": 106
+                }
+              },
+              {
+                "content": "with any insurance company or third party provider. @2024 Health Advocate HA-M-2401148-2FLY",
+                "source": "D(1,0.5133,10.5144,3.8219,10.5021,3.8223,10.6167,0.5137,10.629)",
+                "span": {
+                  "offset": 1626,
+                  "length": 91
+                }
+              },
+              {
+                "content": "HealthAdvocate\"",
+                "source": "D(1,5.7731,10.1461,8.0207,10.1456,8.0208,10.4099,5.7731,10.4104)",
+                "span": {
+                  "offset": 1730,
+                  "length": 15
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "role": "title",
+            "content": "Confused about Medicare? We'll guide you through it",
+            "source": "D(1,0.7347,1.0986,3.9075,1.1044,3.9058,2.0077,0.733,2.0019)",
+            "span": {
+              "offset": 0,
+              "length": 53
+            }
+          },
+          {
+            "content": "Get one-on-one support and guidance to help you understand your Medicare options. Our advocates can help you choose the plan that is right for you, your budget and your health situation.",
+            "source": "D(1,0.9787,2.9032,7.3423,2.9008,7.3425,3.3214,0.9788,3.3238)",
+            "span": {
+              "offset": 77,
+              "length": 186
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Our experts will:",
+            "source": "D(1,0.9921,4.0773,2.1591,4.0782,2.1589,4.2797,0.992,4.2788)",
+            "span": {
+              "offset": 266,
+              "length": 20
+            }
+          },
+          {
+            "content": "Review Medicare parts, what each covers, and what they cost",
+            "source": "D(1,1.2358,4.4476,3.9145,4.4501,3.9141,4.8456,1.2354,4.8432)",
+            "span": {
+              "offset": 288,
+              "length": 59
+            }
+          },
+          {
+            "content": "ER Inform you about enrollment deadlines and when to sign up to avoid paying late enrollment penalties",
+            "source": "D(1,1.0293,5.0178,4.1622,5.0061,4.1637,5.4199,1.0308,5.4316)",
+            "span": {
+              "offset": 349,
+              "length": 102
+            }
+          },
+          {
+            "content": "2 Explain how Medicare works with your employer's/ spouse's plan; do a side-by-side comparison",
+            "source": "D(1,1.068,5.5868,4.2025,5.5872,4.2024,5.9999,1.068,5.9996)",
+            "span": {
+              "offset": 453,
+              "length": 94
+            }
+          },
+          {
+            "content": "Let you know if your doctors participate in the Medicare plan, and if your medications are in the plan's formulary",
+            "source": "D(1,1.233,6.1578,3.9216,6.1554,3.9222,6.786,1.2336,6.7884)",
+            "span": {
+              "offset": 549,
+              "length": 114
+            }
+          },
+          {
+            "content": "Find Medicare-participating physicians, schedule appointments",
+            "source": "D(1,1.234,6.9427,3.5859,6.9552,3.5837,7.3614,1.2318,7.3489)",
+            "span": {
+              "offset": 665,
+              "length": 61
+            }
+          },
+          {
+            "content": "Help with the application process",
+            "source": "D(1,1.2378,7.5141,3.2072,7.5194,3.2067,7.7006,1.2373,7.6953)",
+            "span": {
+              "offset": 728,
+              "length": 33
+            }
+          },
+          {
+            "content": "Answer any questions you may have",
+            "source": "D(1,1.2313,7.8707,3.3558,7.871,3.3558,8.0429,1.2313,8.0425)",
+            "span": {
+              "offset": 763,
+              "length": 33
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "In Call us if you are ...",
+            "source": "D(1,4.6667,4.0592,6.3354,4.0818,6.3326,4.29,4.6638,4.2673)",
+            "span": {
+              "offset": 799,
+              "length": 28
+            }
+          },
+          {
+            "content": "\u00b7 Nearing age 65 and becoming eligible for Medicare. To make sure you get Medicare coverage when you turn 65, sign up during the 3 months before you turn 65.",
+            "source": "D(1,5.054,4.4344,7.3441,4.3926,7.3637,5.4653,5.0735,5.5071)",
+            "span": {
+              "offset": 829,
+              "length": 157
+            }
+          },
+          {
+            "content": "\u00b7 On an employer's or spouse's health plan and are retiring and want to transition to Medicare",
+            "source": "D(1,5.0597,5.6783,7.2807,5.6688,7.2833,6.277,5.0623,6.2865)",
+            "span": {
+              "offset": 988,
+              "length": 94
+            }
+          },
+          {
+            "content": "\u00b7 Age 65 or over, still working and confused about the Medicare mail you're receiving",
+            "source": "D(1,5.0583,6.4677,7.0972,6.4677,7.0972,7.0985,5.0583,7.0985)",
+            "span": {
+              "offset": 1084,
+              "length": 85
+            }
+          },
+          {
+            "content": "\u00b7 Currently on a Medicare plan and are considering choosing a new Medicare plan during the annual enrollment period",
+            "source": "D(1,5.0574,7.2585,7.354,7.2572,7.3544,7.8911,5.0578,7.8924)",
+            "span": {
+              "offset": 1171,
+              "length": 115
+            }
+          },
+          {
+            "content": "Health Advocate is available to employees, spouses, dependents, parents and parents-in-law. It's completely confidential.",
+            "source": "D(1,0.993,8.4327,7.5809,8.4354,7.5808,8.6202,0.9929,8.6175)",
+            "span": {
+              "offset": 1288,
+              "length": 121
+            }
+          },
+          {
+            "content": "866.799.2731",
+            "source": "D(1,1.3912,9.3522,2.7975,9.3542,2.7972,9.561,1.3909,9.559)",
+            "span": {
+              "offset": 1411,
+              "length": 12
+            }
+          },
+          {
+            "content": "answers@HealthAdvocate.com HealthAdvocate.com/members",
+            "source": "D(1,1.3881,9.6514,3.177,9.6492,3.1774,9.9641,1.3885,9.9662)",
+            "span": {
+              "offset": 1425,
+              "length": 53
+            }
+          },
+          {
+            "content": "Call . Email . Message . Live Chat",
+            "source": "D(1,0.5203,10.1465,2.6949,10.1451,2.695,10.3093,0.5204,10.3108)",
+            "span": {
+              "offset": 1480,
+              "length": 34
+            }
+          },
+          {
+            "content": "=",
+            "source": "D(1,2.7337,10.1477,2.8447,10.1506,2.8423,10.2427,2.7313,10.2399)",
+            "span": {
+              "offset": 1516,
+              "length": 1
+            }
+          },
+          {
+            "content": "We're not an insurance company. Health Advocate is not a direct healthcare provider, and is not affiliated with any insurance company or third party provider. @2024 Health Advocate HA-M-2401148-2FLY",
+            "source": "D(1,0.5115,10.4004,3.8252,10.3952,3.8256,10.6238,0.5119,10.629)",
+            "span": {
+              "offset": 1519,
+              "length": 198
+            }
+          },
+          {
+            "content": "HealthAdvocate\"",
+            "source": "D(1,5.7731,10.1461,8.0207,10.1456,8.0208,10.4099,5.7731,10.4104)",
+            "span": {
+              "offset": 1730,
+              "length": 15
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 1756
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/figures/0",
+              "/paragraphs/1",
+              "/sections/1",
+              "/sections/2"
+            ]
+          },
+          {
+            "span": {
+              "offset": 266,
+              "length": 530
+            },
+            "elements": [
+              "/paragraphs/2",
+              "/paragraphs/3",
+              "/paragraphs/4",
+              "/paragraphs/5",
+              "/paragraphs/6",
+              "/paragraphs/7",
+              "/paragraphs/8",
+              "/paragraphs/9"
+            ]
+          },
+          {
+            "span": {
+              "offset": 799,
+              "length": 957
+            },
+            "elements": [
+              "/paragraphs/10",
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13",
+              "/paragraphs/14",
+              "/paragraphs/15",
+              "/paragraphs/16",
+              "/paragraphs/17",
+              "/paragraphs/18",
+              "/paragraphs/19",
+              "/paragraphs/20",
+              "/figures/1"
+            ]
+          }
+        ],
+        "figures": [
+          {
+            "source": "D(1,4.1714,0.2181,8.233,0.2191,8.2323,2.4254,4.1708,2.4245)",
+            "span": {
+              "offset": 56,
+              "length": 18
+            },
+            "id": "1.1"
+          },
+          {
+            "source": "D(1,5.4311,10.0633,8.0378,10.0635,8.0378,10.4248,5.4311,10.4246)",
+            "span": {
+              "offset": 1720,
+              "length": 36
+            },
+            "elements": [
+              "/paragraphs/21"
+            ],
+            "id": "1.2"
+          }
+        ]
+      }
+    ]
+  }
+}

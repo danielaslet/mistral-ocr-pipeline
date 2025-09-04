@@ -1,0 +1,1987 @@
+{
+  "id": "122745c7-6667-426b-9ab8-c363fc364a6a",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "prebuilt-documentAnalyzer",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-07-14T17:08:02Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "Teladoc\u00ae\n\u00ae\nHEALTH\n\n<!-- PageHeader=\"Made available by: WTI Holdings LLC dba Waterfield Technologies\" -->\n\n\n<figure>\n</figure>\n\n\nAVAILABLE NOW\n\nYou've got Teladoc Health\nTalk to a doctor anytime,\nanywhere by phone or video.\n\nSet up your account today to get care for\nnon-emergency medical conditions like the flu,\nsinus infections, bronchitis, and much more.\n\n\n<figure>\n</figure>\n\n\n<figure>\n\nCreate account\n\n</figure>\n\n\nUse your phone, the app, or the\nwebsite to create an account and\ncomplete your medical history\n\n\n<figure>\n\nGet Care\n\n</figure>\n\n\nRequest a time and a Teladoc Health\nprovider will contact you\n\n\n<figure>\n\nFeel better\n\n</figure>\n\n\nThe provider will diagnose\nsymptoms and send a\nprescription if necessary\n\n\n# Get care now for free\n\nVisit TeladocHealth.com\nCall 1-800-835-2362 | Download the app & |\n\n*Teladoc Health is not available internationally.\n\n<!-- PageFooter=\"@ Teladoc Health, Inc. 2 Manhattanville Rd. Ste 203, Purchase, NY 10577. All rights reserved. The marks and logos of Teladoc Health and Teladoc Health wholly owned subsidiaries are trademarks of Teladoc Health, Inc. All programs and services are subject to applicable terms and conditions.\" -->\n<!-- PageFooter=\"496673\" -->\n<!-- PageFooter=\"10E-101_413370312_11062019\" -->\n",
+        "fields": {
+          "Summary": {
+            "type": "string",
+            "valueString": "The document promotes Teladoc Health, a service that allows users to talk to a doctor anytime via phone or video for non-emergency medical conditions. It encourages users to set up an account to access care for conditions like the flu and sinus infections, and provides contact information for getting started."
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "inch",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": -0.0088,
+            "width": 8.5,
+            "height": 11,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 1256
+              }
+            ],
+            "words": [
+              {
+                "content": "Teladoc\u00ae",
+                "span": {
+                  "offset": 0,
+                  "length": 8
+                },
+                "confidence": 0.963,
+                "source": "D(1,0.4848,0.4409,1.7708,0.4449,1.7708,0.7474,0.4863,0.7474)"
+              },
+              {
+                "content": "\u00ae",
+                "span": {
+                  "offset": 9,
+                  "length": 1
+                },
+                "confidence": 0.648,
+                "source": "D(1,1.7123,0.4646,1.7798,0.4687,1.7789,0.5331,1.7112,0.53)"
+              },
+              {
+                "content": "HEALTH",
+                "span": {
+                  "offset": 11,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.1715,0.77,1.7357,0.7698,1.7357,0.9131,1.1716,0.9111)"
+              },
+              {
+                "content": "Made",
+                "span": {
+                  "offset": 36,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3548,0.5553,2.6347,0.5564,2.6339,0.6771,2.3545,0.6761)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 41,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6585,0.5566,3.0932,0.5594,3.0916,0.6814,2.6577,0.6772)"
+              },
+              {
+                "content": "by:",
+                "span": {
+                  "offset": 51,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.117,0.5596,3.2816,0.5613,3.2816,0.6834,3.1154,0.6815)"
+              },
+              {
+                "content": "WTI",
+                "span": {
+                  "offset": 55,
+                  "length": 3
+                },
+                "confidence": 0.831,
+                "source": "D(1,2.3547,0.6798,2.5446,0.6799,2.5445,0.8094,2.3547,0.8088)"
+              },
+              {
+                "content": "Holdings",
+                "span": {
+                  "offset": 59,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5704,0.6799,3.0105,0.6801,3.0104,0.8094,2.5704,0.8094)"
+              },
+              {
+                "content": "LLC",
+                "span": {
+                  "offset": 68,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.0364,0.6801,3.2349,0.6792,3.2344,0.8115,3.0362,0.8095)"
+              },
+              {
+                "content": "dba",
+                "span": {
+                  "offset": 72,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.2608,0.6792,3.4463,0.6797,3.4459,0.8119,3.2603,0.8115)"
+              },
+              {
+                "content": "Waterfield",
+                "span": {
+                  "offset": 76,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.4722,0.6798,3.9943,0.6805,3.9935,0.8138,3.4717,0.812)"
+              },
+              {
+                "content": "Technologies",
+                "span": {
+                  "offset": 87,
+                  "length": 12
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.0202,0.6803,4.6982,0.6805,4.6982,0.8138,4.0193,0.8138)"
+              },
+              {
+                "content": "AVAILABLE",
+                "span": {
+                  "offset": 128,
+                  "length": 9
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.4825,2.665,1.5343,2.6627,1.5323,2.8619,0.4813,2.8621)"
+              },
+              {
+                "content": "NOW",
+                "span": {
+                  "offset": 138,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.5864,2.6632,2.0863,2.6621,2.0863,2.8621,1.5844,2.8618)"
+              },
+              {
+                "content": "You've",
+                "span": {
+                  "offset": 143,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.4901,3.0543,1.5864,3.0517,1.5865,3.4102,0.4927,3.4093)"
+              },
+              {
+                "content": "got",
+                "span": {
+                  "offset": 150,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6676,3.0527,2.1781,3.0503,2.1782,3.4101,1.6674,3.4102)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 154,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.2535,3.0501,3.5182,3.0515,3.5185,3.3955,2.2537,3.4094)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 162,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.5936,3.051,4.6872,3.0473,4.6872,3.3961,3.5939,3.3953)"
+              },
+              {
+                "content": "Talk",
+                "span": {
+                  "offset": 169,
+                  "length": 4
+                },
+                "confidence": 0.984,
+                "source": "D(1,0.4863,3.4159,1.2296,3.4158,1.2311,3.7538,0.4877,3.7475)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 174,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.3028,3.4153,1.6182,3.4167,1.6185,3.7566,1.3049,3.7548)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 177,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.7026,3.4172,1.8885,3.4185,1.8885,3.759,1.7028,3.7573)"
+              },
+              {
+                "content": "doctor",
+                "span": {
+                  "offset": 179,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.956,3.4188,3.0147,3.4193,3.0143,3.7651,1.9559,3.7594)"
+              },
+              {
+                "content": "anytime,",
+                "span": {
+                  "offset": 186,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.0879,3.4192,4.488,3.4208,4.488,3.77,3.0874,3.7658)"
+              },
+              {
+                "content": "anywhere",
+                "span": {
+                  "offset": 195,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4867,3.7926,2.0917,3.7893,2.0925,4.1559,0.4878,4.1573)"
+              },
+              {
+                "content": "by",
+                "span": {
+                  "offset": 204,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.1684,3.7891,2.5342,3.7867,2.5348,4.1521,2.169,4.1553)"
+              },
+              {
+                "content": "phone",
+                "span": {
+                  "offset": 207,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.6109,3.7864,3.6436,3.7819,3.6442,4.1402,2.6115,4.1509)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 213,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.7262,3.7817,4.0507,3.78,4.0509,4.1323,3.7265,4.1387)"
+              },
+              {
+                "content": "video.",
+                "span": {
+                  "offset": 216,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.1216,3.7796,5.1022,3.7828,5.1022,4.1275,4.1217,4.1311)"
+              },
+              {
+                "content": "Set",
+                "span": {
+                  "offset": 224,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4903,4.303,0.772,4.3066,0.7711,4.5222,0.4891,4.521)"
+              },
+              {
+                "content": "up",
+                "span": {
+                  "offset": 228,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.8143,4.307,1.0573,4.3087,1.0567,4.5218,0.8135,4.5222)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 231,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.0995,4.3086,1.4834,4.3089,1.483,4.5214,1.0989,4.5215)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 236,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5292,4.309,2.2088,4.307,2.2079,4.5208,1.5288,4.5215)"
+              },
+              {
+                "content": "today",
+                "span": {
+                  "offset": 244,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.2511,4.3069,2.7617,4.3066,2.7608,4.522,2.2501,4.5206)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 250,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.804,4.3063,2.9871,4.3048,2.9862,4.5215,2.803,4.5219)"
+              },
+              {
+                "content": "get",
+                "span": {
+                  "offset": 253,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.0364,4.3045,3.3287,4.3046,3.3277,4.5209,3.0355,4.5213)"
+              },
+              {
+                "content": "care",
+                "span": {
+                  "offset": 257,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.371,4.3041,3.7337,4.3029,3.7329,4.5189,3.37,4.5207)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 262,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.7795,4.3029,4.0397,4.3033,4.0397,4.5183,3.7787,4.5187)"
+              },
+              {
+                "content": "non-emergency",
+                "span": {
+                  "offset": 266,
+                  "length": 13
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.4927,4.5477,1.905,4.5423,1.9054,4.7528,0.4927,4.7518)"
+              },
+              {
+                "content": "medical",
+                "span": {
+                  "offset": 280,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.9461,4.5421,2.642,4.5395,2.6423,4.7501,1.9466,4.7527)"
+              },
+              {
+                "content": "conditions",
+                "span": {
+                  "offset": 288,
+                  "length": 10
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.6969,4.5393,3.5641,4.5358,3.5641,4.7454,2.6971,4.7501)"
+              },
+              {
+                "content": "like",
+                "span": {
+                  "offset": 299,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.6053,4.5356,3.9138,4.5338,3.914,4.7447,3.6052,4.745)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 304,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.9584,4.5335,4.2463,4.5342,4.2463,4.7448,3.9586,4.7448)"
+              },
+              {
+                "content": "flu,",
+                "span": {
+                  "offset": 308,
+                  "length": 4
+                },
+                "confidence": 0.983,
+                "source": "D(1,4.2909,4.5344,4.5599,4.5362,4.5599,4.7444,4.2908,4.7448)"
+              },
+              {
+                "content": "sinus",
+                "span": {
+                  "offset": 313,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,0.4899,4.7785,0.9113,4.7789,0.9114,4.9768,0.4897,4.9768)"
+              },
+              {
+                "content": "infections,",
+                "span": {
+                  "offset": 319,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.9508,4.7788,1.8893,4.7761,1.8891,4.9768,0.9509,4.9768)"
+              },
+              {
+                "content": "bronchitis,",
+                "span": {
+                  "offset": 331,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.9485,4.7759,2.8376,4.7776,2.8373,4.9768,1.9484,4.9768)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 343,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.8903,4.778,3.1998,4.7775,3.1995,4.9768,2.89,4.9768)"
+              },
+              {
+                "content": "much",
+                "span": {
+                  "offset": 347,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.2624,4.7779,3.7431,4.7778,3.743,4.9768,3.262,4.9768)"
+              },
+              {
+                "content": "more.",
+                "span": {
+                  "offset": 352,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.7991,4.7778,4.3109,4.781,4.3109,4.9768,3.799,4.9768)"
+              },
+              {
+                "content": "Create",
+                "span": {
+                  "offset": 391,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.1541,6.1209,1.6563,6.1251,1.6562,6.282,1.1542,6.2797)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 398,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.6924,6.125,2.2855,6.1265,2.2855,6.2833,1.6922,6.2817)"
+              },
+              {
+                "content": "Use",
+                "span": {
+                  "offset": 419,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6861,6.3856,0.9184,6.3872,0.9185,6.5651,0.6859,6.5654)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 423,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.9532,6.3871,1.232,6.386,1.2332,6.5652,0.9534,6.5649)"
+              },
+              {
+                "content": "phone,",
+                "span": {
+                  "offset": 428,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2668,6.3862,1.7081,6.3874,1.7085,6.565,1.2682,6.5654)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 435,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.7429,6.3879,1.952,6.3882,1.9522,6.5648,1.7432,6.5649)"
+              },
+              {
+                "content": "app,",
+                "span": {
+                  "offset": 439,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,1.9868,6.3881,2.2539,6.3879,2.2539,6.5633,1.987,6.5647)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 444,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.2888,6.3875,2.4049,6.3865,2.405,6.5642,2.2888,6.5636)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 447,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4398,6.3867,2.6839,6.3875,2.6839,6.5618,2.4399,6.5638)"
+              },
+              {
+                "content": "website",
+                "span": {
+                  "offset": 451,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6269,6.5866,1.1087,6.5872,1.1093,6.7479,0.6281,6.7473)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 459,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.1402,6.5873,1.2842,6.5872,1.2846,6.7481,1.1407,6.748)"
+              },
+              {
+                "content": "create",
+                "span": {
+                  "offset": 462,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.3182,6.5872,1.7163,6.5878,1.7165,6.747,1.3186,6.748)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 469,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.7477,6.5878,1.8918,6.5878,1.892,6.7465,1.7479,6.747)"
+              },
+              {
+                "content": "account",
+                "span": {
+                  "offset": 472,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.9258,6.5878,2.4496,6.5878,2.4499,6.7468,1.9261,6.7463)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 480,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.481,6.5875,2.7393,6.5849,2.7393,6.7449,2.4813,6.7467)"
+              },
+              {
+                "content": "complete",
+                "span": {
+                  "offset": 484,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.7187,6.7866,1.3155,6.7861,1.3148,6.9623,0.7184,6.9603)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 493,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3499,6.7862,1.6139,6.7866,1.6135,6.9614,1.3493,6.9622)"
+              },
+              {
+                "content": "medical",
+                "span": {
+                  "offset": 498,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6483,6.7866,2.1418,6.7845,2.14,6.961,1.648,6.9615)"
+              },
+              {
+                "content": "history",
+                "span": {
+                  "offset": 506,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1762,6.7848,2.6452,6.7874,2.6452,6.9624,2.1744,6.9609)"
+              },
+              {
+                "content": "Get",
+                "span": {
+                  "offset": 526,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.2149,6.122,4.4842,6.1237,4.4839,6.277,4.215,6.2752)"
+              },
+              {
+                "content": "Care",
+                "span": {
+                  "offset": 530,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.5169,6.1239,4.8532,6.1262,4.8532,6.2778,4.5166,6.2774)"
+              },
+              {
+                "content": "Request",
+                "span": {
+                  "offset": 548,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.4005,6.3863,3.9257,6.3864,3.926,6.5605,3.4011,6.5627)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 556,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.96,6.3864,4.0285,6.3863,4.0287,6.5608,3.9602,6.5606)"
+              },
+              {
+                "content": "time",
+                "span": {
+                  "offset": 558,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.0627,6.3863,4.3482,6.3852,4.3485,6.559,4.0629,6.5608)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 563,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.3825,6.3851,4.6108,6.385,4.6115,6.559,4.3828,6.5588)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 567,
+                  "length": 1
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6451,6.3848,4.725,6.3843,4.7255,6.5592,4.6457,6.5591)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 569,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.7593,6.3841,5.216,6.3826,5.2162,6.5565,4.7597,6.5588)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 577,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.2503,6.3824,5.7109,6.3814,5.7109,6.5544,5.2504,6.5565)"
+              },
+              {
+                "content": "provider",
+                "span": {
+                  "offset": 584,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.7882,6.5924,4.296,6.5889,4.2967,6.7609,3.7906,6.7634)"
+              },
+              {
+                "content": "will",
+                "span": {
+                  "offset": 593,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3298,6.5888,4.5104,6.5885,4.5109,6.7611,4.3306,6.761)"
+              },
+              {
+                "content": "contact",
+                "span": {
+                  "offset": 598,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.5443,6.5884,5.0296,6.5883,5.0298,6.7613,4.5447,6.7606)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 606,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.0634,6.5882,5.318,6.5899,5.318,6.7619,5.0637,6.7617)"
+              },
+              {
+                "content": "Feel",
+                "span": {
+                  "offset": 622,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.7036,6.1195,7,6.1205,6.9996,6.2818,6.7038,6.281)"
+              },
+              {
+                "content": "better",
+                "span": {
+                  "offset": 627,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,7.045,6.12,7.515,6.1222,7.515,6.2833,7.0446,6.2821)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 647,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.2292,6.3885,6.5079,6.3883,6.5082,6.5669,6.23,6.5648)"
+              },
+              {
+                "content": "provider",
+                "span": {
+                  "offset": 651,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.5544,6.3884,7.1003,6.3896,7.1012,6.5676,6.5547,6.5663)"
+              },
+              {
+                "content": "will",
+                "span": {
+                  "offset": 660,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.1352,6.3896,7.3501,6.3897,7.3501,6.5682,7.1359,6.5678)"
+              },
+              {
+                "content": "diagnose",
+                "span": {
+                  "offset": 665,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.3907,6.3894,8.0352,6.393,8.0352,6.5672,7.3908,6.5683)"
+              },
+              {
+                "content": "symptoms",
+                "span": {
+                  "offset": 674,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.3545,6.5959,7.114,6.5904,7.1157,6.7583,6.3572,6.765)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 683,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,7.1523,6.5902,7.4046,6.5874,7.4059,6.7535,7.1539,6.7577)"
+              },
+              {
+                "content": "send",
+                "span": {
+                  "offset": 687,
+                  "length": 4
+                },
+                "confidence": 0.993,
+                "source": "D(1,7.4457,6.5873,7.7775,6.5862,7.7777,6.7512,7.447,6.7533)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 692,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.8214,6.5859,7.9079,6.585,7.9079,6.7522,7.8216,6.7513)"
+              },
+              {
+                "content": "prescription",
+                "span": {
+                  "offset": 694,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.2711,6.7942,7.0914,6.7884,7.0912,6.9643,6.2716,6.9643)"
+              },
+              {
+                "content": "if",
+                "span": {
+                  "offset": 707,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,7.1256,6.7886,7.2167,6.7891,7.2161,6.9643,7.1254,6.9643)"
+              },
+              {
+                "content": "necessary",
+                "span": {
+                  "offset": 710,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,7.2509,6.7893,7.9854,6.7935,7.9854,6.9643,7.2501,6.9643)"
+              },
+              {
+                "content": "Get",
+                "span": {
+                  "offset": 724,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.9657,7.2854,3.4239,7.2875,3.4236,7.5266,2.9654,7.5287)"
+              },
+              {
+                "content": "care",
+                "span": {
+                  "offset": 728,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.4832,7.2874,4.0007,7.2863,4.0004,7.5275,3.4829,7.5266)"
+              },
+              {
+                "content": "now",
+                "span": {
+                  "offset": 733,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.0718,7.2867,4.5775,7.287,4.5774,7.5273,4.0715,7.5271)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 737,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.6328,7.2871,4.9884,7.2851,4.9884,7.5282,4.6328,7.5272)"
+              },
+              {
+                "content": "free",
+                "span": {
+                  "offset": 741,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.0437,7.2851,5.5449,7.2853,5.5449,7.5259,5.0437,7.5279)"
+              },
+              {
+                "content": "Visit",
+                "span": {
+                  "offset": 747,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.1906,7.7232,3.5759,7.7242,3.576,7.9168,3.1908,7.9141)"
+              },
+              {
+                "content": "TeladocHealth.com",
+                "span": {
+                  "offset": 753,
+                  "length": 17
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.6166,7.7242,5.318,7.7315,5.318,7.9195,3.6167,7.917)"
+              },
+              {
+                "content": "Call",
+                "span": {
+                  "offset": 771,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.2237,7.9399,2.5366,7.9427,2.5363,8.1422,2.2228,8.1411)"
+              },
+              {
+                "content": "1-800-835-2362",
+                "span": {
+                  "offset": 776,
+                  "length": 14
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.6051,7.943,4.0947,7.948,4.0943,8.1487,2.6048,8.1427)"
+              },
+              {
+                "content": "|",
+                "span": {
+                  "offset": 791,
+                  "length": 1
+                },
+                "confidence": 0.929,
+                "source": "D(1,4.1893,7.9484,4.2186,7.949,4.2181,8.1493,4.1888,8.1491)"
+              },
+              {
+                "content": "Download",
+                "span": {
+                  "offset": 793,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.3131,7.9508,5.1704,7.9573,5.1697,8.1577,4.3127,8.1499)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 802,
+                  "length": 3
+                },
+                "confidence": 0.991,
+                "source": "D(1,5.2193,7.9579,5.5061,7.9619,5.5051,8.1636,5.2185,8.159)"
+              },
+              {
+                "content": "app",
+                "span": {
+                  "offset": 806,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.5583,7.9627,5.8712,7.9664,5.8709,8.1656,5.5572,8.1642)"
+              },
+              {
+                "content": "&",
+                "span": {
+                  "offset": 810,
+                  "length": 1
+                },
+                "confidence": 0.101,
+                "source": "D(1,5.9168,7.9678,6.0145,7.971,6.0137,8.1656,5.9164,8.1656)"
+              },
+              {
+                "content": "|",
+                "span": {
+                  "offset": 812,
+                  "length": 1
+                },
+                "confidence": 0.544,
+                "source": "D(1,6.0569,7.9724,6.1979,7.977,6.1979,8.1656,6.0559,8.1656)"
+              },
+              {
+                "content": "*Teladoc",
+                "span": {
+                  "offset": 815,
+                  "length": 8
+                },
+                "confidence": 0.977,
+                "source": "D(1,0.3032,9.3052,0.6136,9.307,0.6135,9.4094,0.3031,9.407)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 824,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6338,9.307,0.8633,9.3069,0.8631,9.4103,0.6337,9.4096)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 831,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.8835,9.307,0.9443,9.3072,0.9442,9.4102,0.8834,9.4103)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 834,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.9645,9.3072,1.086,9.3078,1.0859,9.4102,0.9644,9.4102)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 838,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.1062,9.3079,1.4099,9.3082,1.4097,9.4112,1.1062,9.4102)"
+              },
+              {
+                "content": "internationally.",
+                "span": {
+                  "offset": 848,
+                  "length": 16
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.4302,9.3081,1.959,9.3081,1.959,9.4112,1.4299,9.4112)"
+              },
+              {
+                "content": "@",
+                "span": {
+                  "offset": 883,
+                  "length": 1
+                },
+                "confidence": 0.191,
+                "source": "D(1,0.2841,9.5285,0.3457,9.5286,0.3452,9.6305,0.2837,9.6302)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 885,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.3755,9.5286,0.6497,9.5289,0.6495,9.6317,0.3751,9.6306)"
+              },
+              {
+                "content": "Health,",
+                "span": {
+                  "offset": 893,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.6708,9.529,0.9169,9.5292,0.9167,9.6326,0.6706,9.6318)"
+              },
+              {
+                "content": "Inc.",
+                "span": {
+                  "offset": 901,
+                  "length": 4
+                },
+                "confidence": 0.977,
+                "source": "D(1,0.938,9.5292,1.0821,9.5291,1.0818,9.633,0.9378,9.6327)"
+              },
+              {
+                "content": "2",
+                "span": {
+                  "offset": 906,
+                  "length": 1
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1032,9.5291,1.1348,9.5291,1.1345,9.6331,1.1029,9.633)"
+              },
+              {
+                "content": "Manhattanville",
+                "span": {
+                  "offset": 908,
+                  "length": 14
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1559,9.5291,1.6867,9.5287,1.6864,9.6333,1.1556,9.6331)"
+              },
+              {
+                "content": "Rd.",
+                "span": {
+                  "offset": 923,
+                  "length": 3
+                },
+                "confidence": 0.979,
+                "source": "D(1,1.7096,9.5287,1.8291,9.5285,1.8288,9.6331,1.7092,9.6333)"
+              },
+              {
+                "content": "Ste",
+                "span": {
+                  "offset": 927,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.8555,9.5285,1.9732,9.5284,1.973,9.633,1.8552,9.6331)"
+              },
+              {
+                "content": "203,",
+                "span": {
+                  "offset": 931,
+                  "length": 4
+                },
+                "confidence": 0.977,
+                "source": "D(1,1.9943,9.5283,2.1472,9.5282,2.147,9.6334,1.9941,9.633)"
+              },
+              {
+                "content": "Purchase,",
+                "span": {
+                  "offset": 936,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.1736,9.5282,2.5198,9.528,2.5197,9.6343,2.1734,9.6334)"
+              },
+              {
+                "content": "NY",
+                "span": {
+                  "offset": 946,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5409,9.5279,2.6675,9.5273,2.6674,9.6343,2.5408,9.6343)"
+              },
+              {
+                "content": "10577.",
+                "span": {
+                  "offset": 949,
+                  "length": 6
+                },
+                "confidence": 0.99,
+                "source": "D(1,2.6921,9.5272,2.9276,9.5261,2.9276,9.6342,2.692,9.6343)"
+              },
+              {
+                "content": "All",
+                "span": {
+                  "offset": 956,
+                  "length": 3
+                },
+                "confidence": 0.975,
+                "source": "D(1,2.9487,9.526,3.026,9.5256,3.0261,9.6342,2.9487,9.6342)"
+              },
+              {
+                "content": "rights",
+                "span": {
+                  "offset": 960,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.0471,9.5255,3.244,9.5254,3.2441,9.6344,3.0472,9.6342)"
+              },
+              {
+                "content": "reserved.",
+                "span": {
+                  "offset": 967,
+                  "length": 9
+                },
+                "confidence": 0.99,
+                "source": "D(1,3.2651,9.5254,3.6078,9.5257,3.608,9.6351,3.2652,9.6345)"
+              },
+              {
+                "content": "The",
+                "span": {
+                  "offset": 977,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.6307,9.5258,3.7572,9.5258,3.7574,9.6352,3.6308,9.6351)"
+              },
+              {
+                "content": "marks",
+                "span": {
+                  "offset": 981,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.7783,9.5258,4.0103,9.5257,4.0105,9.6352,3.7785,9.6352)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 987,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.0314,9.5257,4.1509,9.5257,4.1511,9.6352,4.0315,9.6352)"
+              },
+              {
+                "content": "logos",
+                "span": {
+                  "offset": 991,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.172,9.5257,4.3689,9.5258,4.369,9.635,4.1722,9.6352)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 997,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.39,9.5258,4.4673,9.5259,4.4674,9.6349,4.3901,9.635)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 1000,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.4884,9.5259,4.7626,9.5261,4.7627,9.6347,4.4885,9.6349)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1008,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.7837,9.5261,5.0245,9.5258,5.0245,9.6353,4.7838,9.6346)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1015,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.0455,9.5258,5.1791,9.5256,5.1791,9.6357,5.0456,9.6353)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 1019,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.2002,9.5256,5.4727,9.5254,5.4727,9.6361,5.2002,9.6357)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1027,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.4937,9.5254,5.7258,9.5255,5.7258,9.6361,5.4937,9.6361)"
+              },
+              {
+                "content": "wholly",
+                "span": {
+                  "offset": 1034,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.7468,9.5255,5.9718,9.5256,5.9719,9.6358,5.7469,9.6361)"
+              },
+              {
+                "content": "owned",
+                "span": {
+                  "offset": 1041,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.9929,9.5256,6.2407,9.5255,6.2408,9.635,5.993,9.6358)"
+              },
+              {
+                "content": "subsidiaries",
+                "span": {
+                  "offset": 1047,
+                  "length": 12
+                },
+                "confidence": 0.99,
+                "source": "D(1,6.2636,9.5255,6.6819,9.5256,6.6819,9.6341,6.2636,9.6349)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 1060,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.703,9.5256,6.8085,9.5257,6.8084,9.634,6.703,9.6341)"
+              },
+              {
+                "content": "trademarks",
+                "span": {
+                  "offset": 1064,
+                  "length": 10
+                },
+                "confidence": 0.989,
+                "source": "D(1,6.8295,9.5257,7.2408,9.5256,7.2407,9.6336,6.8295,9.634)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1075,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.2619,9.5256,7.3287,9.5255,7.3286,9.6335,7.2618,9.6336)"
+              },
+              {
+                "content": "Teladoc",
+                "span": {
+                  "offset": 1078,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,7.3498,9.5254,7.624,9.5251,7.6239,9.633,7.3497,9.6334)"
+              },
+              {
+                "content": "Health,",
+                "span": {
+                  "offset": 1086,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.6451,9.5251,7.9052,9.5256,7.9053,9.6328,7.645,9.633)"
+              },
+              {
+                "content": "Inc.",
+                "span": {
+                  "offset": 1094,
+                  "length": 4
+                },
+                "confidence": 0.975,
+                "source": "D(1,7.9333,9.5257,8.0546,9.5259,8.0548,9.6327,7.9334,9.6328)"
+              },
+              {
+                "content": "All",
+                "span": {
+                  "offset": 1099,
+                  "length": 3
+                },
+                "confidence": 0.918,
+                "source": "D(1,8.0757,9.526,8.179,9.5262,8.179,9.6326,8.0759,9.6327)"
+              },
+              {
+                "content": "programs",
+                "span": {
+                  "offset": 1103,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.2862,9.6233,0.6352,9.6231,0.6354,9.7209,0.2864,9.7212)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1112,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6545,9.623,0.7848,9.6225,0.7849,9.7205,0.6547,9.7209)"
+              },
+              {
+                "content": "services",
+                "span": {
+                  "offset": 1116,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8106,9.6224,1.1049,9.6213,1.105,9.7196,0.8106,9.7204)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 1125,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.1242,9.6213,1.2401,9.621,1.2401,9.7198,1.1243,9.7196)"
+              },
+              {
+                "content": "subject",
+                "span": {
+                  "offset": 1129,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2626,9.6209,1.5023,9.6197,1.5023,9.7191,1.2626,9.7198)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1137,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.5216,9.6196,1.6036,9.6194,1.6036,9.7191,1.5216,9.719)"
+              },
+              {
+                "content": "applicable",
+                "span": {
+                  "offset": 1140,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6229,9.6194,1.9816,9.6195,1.9817,9.7181,1.6229,9.7192)"
+              },
+              {
+                "content": "terms",
+                "span": {
+                  "offset": 1151,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0009,9.6195,2.202,9.6195,2.2019,9.7172,2.001,9.7181)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1157,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.2261,9.6194,2.3564,9.6188,2.3564,9.7166,2.2261,9.717)"
+              },
+              {
+                "content": "conditions.",
+                "span": {
+                  "offset": 1161,
+                  "length": 11
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.3806,9.6187,2.7669,9.6193,2.7669,9.7149,2.3805,9.7165)"
+              },
+              {
+                "content": "496673",
+                "span": {
+                  "offset": 1195,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,0.2879,10.8399,0.5811,10.8412,0.5811,10.9313,0.2876,10.9304)"
+              },
+              {
+                "content": "10E-101_413370312_11062019",
+                "span": {
+                  "offset": 1224,
+                  "length": 26
+                },
+                "confidence": 0.963,
+                "source": "D(1,7.0568,10.8385,8.251,10.8361,8.251,10.9318,7.0572,10.9336)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "Teladoc\u00ae",
+                "source": "D(1,0.4848,0.4409,1.7655,0.4414,1.7653,0.744,0.4847,0.7434)",
+                "span": {
+                  "offset": 0,
+                  "length": 8
+                }
+              },
+              {
+                "content": "\u00ae",
+                "source": "D(1,1.7123,0.4646,1.7794,0.4662,1.7777,0.532,1.7107,0.5303)",
+                "span": {
+                  "offset": 9,
+                  "length": 1
+                }
+              },
+              {
+                "content": "HEALTH",
+                "source": "D(1,1.1715,0.77,1.7327,0.7699,1.7327,0.9108,1.1715,0.911)",
+                "span": {
+                  "offset": 11,
+                  "length": 6
+                }
+              },
+              {
+                "content": "Made available by:",
+                "source": "D(1,2.3548,0.5536,3.2787,0.5607,3.2777,0.6817,2.3538,0.6741)",
+                "span": {
+                  "offset": 36,
+                  "length": 18
+                }
+              },
+              {
+                "content": "WTI Holdings LLC dba Waterfield Technologies",
+                "source": "D(1,2.3547,0.6783,4.696,0.6806,4.6959,0.8132,2.3546,0.811)",
+                "span": {
+                  "offset": 55,
+                  "length": 44
+                }
+              },
+              {
+                "content": "AVAILABLE NOW",
+                "source": "D(1,0.4811,2.6628,2.0824,2.6609,2.0826,2.86,0.4813,2.8618)",
+                "span": {
+                  "offset": 128,
+                  "length": 13
+                }
+              },
+              {
+                "content": "You've got Teladoc Health",
+                "source": "D(1,0.4901,3.0493,4.6859,3.0463,4.6862,3.4058,0.4903,3.4088)",
+                "span": {
+                  "offset": 143,
+                  "length": 25
+                }
+              },
+              {
+                "content": "Talk to a doctor anytime,",
+                "source": "D(1,0.4864,3.4102,4.4836,3.4178,4.4828,3.77,0.4856,3.7614)",
+                "span": {
+                  "offset": 169,
+                  "length": 25
+                }
+              },
+              {
+                "content": "anywhere by phone or video.",
+                "source": "D(1,0.4863,3.7926,5.101,3.7755,5.1022,4.1387,0.4878,4.1575)",
+                "span": {
+                  "offset": 195,
+                  "length": 27
+                }
+              },
+              {
+                "content": "Set up your account today to get care for",
+                "source": "D(1,0.4891,4.303,4.0394,4.3025,4.0394,4.5185,0.4891,4.5191)",
+                "span": {
+                  "offset": 224,
+                  "length": 41
+                }
+              },
+              {
+                "content": "non-emergency medical conditions like the flu,",
+                "source": "D(1,0.4925,4.5453,4.5591,4.5315,4.5598,4.7409,0.4928,4.7547)",
+                "span": {
+                  "offset": 266,
+                  "length": 46
+                }
+              },
+              {
+                "content": "sinus infections, bronchitis, and much more.",
+                "source": "D(1,0.4897,4.7752,4.3074,4.7751,4.3074,4.9766,0.4897,4.9766)",
+                "span": {
+                  "offset": 313,
+                  "length": 44
+                }
+              },
+              {
+                "content": "Create account",
+                "source": "D(1,1.1541,6.1209,2.2855,6.1264,2.2852,6.2829,1.1533,6.2774)",
+                "span": {
+                  "offset": 391,
+                  "length": 14
+                }
+              },
+              {
+                "content": "Use your phone, the app, or the",
+                "source": "D(1,0.6858,6.3855,2.6824,6.3843,2.6825,6.5616,0.6859,6.5629)",
+                "span": {
+                  "offset": 419,
+                  "length": 31
+                }
+              },
+              {
+                "content": "website to create an account and",
+                "source": "D(1,0.6269,6.5866,2.7343,6.585,2.7345,6.7446,0.627,6.7462)",
+                "span": {
+                  "offset": 451,
+                  "length": 32
+                }
+              },
+              {
+                "content": "complete your medical history",
+                "source": "D(1,0.7183,6.7848,2.6432,6.7838,2.6433,6.9595,0.7184,6.9604)",
+                "span": {
+                  "offset": 484,
+                  "length": 29
+                }
+              },
+              {
+                "content": "Get Care",
+                "source": "D(1,4.2149,6.1214,4.853,6.1246,4.8522,6.2777,4.2141,6.2745)",
+                "span": {
+                  "offset": 526,
+                  "length": 8
+                }
+              },
+              {
+                "content": "Request a time and a Teladoc Health",
+                "source": "D(1,3.4005,6.3863,5.7105,6.3808,5.7109,6.5552,3.4009,6.5606)",
+                "span": {
+                  "offset": 548,
+                  "length": 35
+                }
+              },
+              {
+                "content": "provider will contact you",
+                "source": "D(1,3.7881,6.5879,5.3168,6.5866,5.3169,6.7593,3.7883,6.7605)",
+                "span": {
+                  "offset": 584,
+                  "length": 25
+                }
+              },
+              {
+                "content": "Feel better",
+                "source": "D(1,6.7036,6.1181,7.5102,6.1211,7.5096,6.2814,6.703,6.2783)",
+                "span": {
+                  "offset": 622,
+                  "length": 11
+                }
+              },
+              {
+                "content": "The provider will diagnose",
+                "source": "D(1,6.2292,6.3877,8.0297,6.3902,8.0295,6.5664,6.2289,6.5639)",
+                "span": {
+                  "offset": 647,
+                  "length": 26
+                }
+              },
+              {
+                "content": "symptoms and send a",
+                "source": "D(1,6.3545,6.5956,7.904,6.5823,7.9055,6.7494,6.356,6.7635)",
+                "span": {
+                  "offset": 674,
+                  "length": 19
+                }
+              },
+              {
+                "content": "prescription if necessary",
+                "source": "D(1,6.2711,6.7884,7.9845,6.7871,7.9847,6.9628,6.2713,6.9642)",
+                "span": {
+                  "offset": 694,
+                  "length": 25
+                }
+              },
+              {
+                "content": "Get care now for free",
+                "source": "D(1,2.9652,7.2854,5.5442,7.2836,5.5444,7.5241,2.9654,7.526)",
+                "span": {
+                  "offset": 724,
+                  "length": 21
+                }
+              },
+              {
+                "content": "Visit TeladocHealth.com",
+                "source": "D(1,3.1906,7.7227,5.3162,7.7297,5.3156,7.9194,3.19,7.9125)",
+                "span": {
+                  "offset": 747,
+                  "length": 23
+                }
+              },
+              {
+                "content": "Call 1-800-835-2362 | Download the app & |",
+                "source": "D(1,2.2237,7.9386,6.1963,7.962,6.1949,8.1654,2.2223,8.1377)",
+                "span": {
+                  "offset": 771,
+                  "length": 42
+                }
+              },
+              {
+                "content": "*Teladoc Health is not available internationally.",
+                "source": "D(1,0.3032,9.3052,1.9566,9.308,1.9564,9.4112,0.303,9.4087)",
+                "span": {
+                  "offset": 815,
+                  "length": 49
+                }
+              },
+              {
+                "content": "@ Teladoc Health, Inc. 2 Manhattanville Rd. Ste 203, Purchase, NY 10577. All rights reserved. The marks and logos of Teladoc Health and Teladoc Health wholly owned subsidiaries are trademarks of Teladoc Health, Inc. All",
+                "source": "D(1,0.2837,9.5253,8.177,9.525,8.177,9.6342,0.2837,9.6345)",
+                "span": {
+                  "offset": 883,
+                  "length": 219
+                }
+              },
+              {
+                "content": "programs and services are subject to applicable terms and conditions.",
+                "source": "D(1,0.2861,9.6226,2.7663,9.6165,2.7665,9.715,0.2864,9.7212)",
+                "span": {
+                  "offset": 1103,
+                  "length": 69
+                }
+              },
+              {
+                "content": "496673",
+                "source": "D(1,0.2879,10.8399,0.5771,10.8412,0.5767,10.9307,0.2875,10.9294)",
+                "span": {
+                  "offset": 1195,
+                  "length": 6
+                }
+              },
+              {
+                "content": "10E-101_413370312_11062019",
+                "source": "D(1,7.0568,10.837,8.2505,10.8359,8.2506,10.9324,7.0569,10.9335)",
+                "span": {
+                  "offset": 1224,
+                  "length": 26
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "content": "Teladoc\u00ae \u00ae HEALTH",
+            "source": "D(1,0.4848,0.4409,1.7794,0.4414,1.7792,0.9113,0.4846,0.9107)",
+            "span": {
+              "offset": 0,
+              "length": 17
+            }
+          },
+          {
+            "role": "pageHeader",
+            "content": "Made available by: WTI Holdings LLC dba Waterfield Technologies",
+            "source": "D(1,2.3539,0.5536,4.6961,0.5559,4.6959,0.8133,2.3537,0.811)",
+            "span": {
+              "offset": 19,
+              "length": 85
+            }
+          },
+          {
+            "content": "AVAILABLE NOW",
+            "source": "D(1,0.4811,2.6628,2.0824,2.6609,2.0826,2.86,0.4813,2.8618)",
+            "span": {
+              "offset": 128,
+              "length": 13
+            }
+          },
+          {
+            "content": "You've got Teladoc Health Talk to a doctor anytime, anywhere by phone or video.",
+            "source": "D(1,0.4827,3.0493,5.098,3.0306,5.1025,4.1387,0.4872,4.1575)",
+            "span": {
+              "offset": 143,
+              "length": 79
+            }
+          },
+          {
+            "content": "Set up your account today to get care for non-emergency medical conditions like the flu, sinus infections, bronchitis, and much more.",
+            "source": "D(1,0.4891,4.3025,4.5598,4.3025,4.5598,4.9766,0.4891,4.9766)",
+            "span": {
+              "offset": 224,
+              "length": 133
+            }
+          },
+          {
+            "content": "Create account",
+            "source": "D(1,1.1541,6.1209,2.286,6.1264,2.2852,6.2829,1.1533,6.2774)",
+            "span": {
+              "offset": 391,
+              "length": 14
+            }
+          },
+          {
+            "content": "Use your phone, the app, or the website to create an account and complete your medical history",
+            "source": "D(1,0.6268,6.3855,2.7342,6.3842,2.7346,6.9594,0.6271,6.9608)",
+            "span": {
+              "offset": 419,
+              "length": 94
+            }
+          },
+          {
+            "content": "Get Care",
+            "source": "D(1,4.2149,6.1214,4.853,6.1246,4.8522,6.2777,4.2141,6.2745)",
+            "span": {
+              "offset": 526,
+              "length": 8
+            }
+          },
+          {
+            "content": "Request a time and a Teladoc Health provider will contact you",
+            "source": "D(1,3.4005,6.3863,5.7105,6.3808,5.7114,6.7584,3.4014,6.7638)",
+            "span": {
+              "offset": 548,
+              "length": 61
+            }
+          },
+          {
+            "content": "Feel better",
+            "source": "D(1,6.7036,6.1181,7.5102,6.1211,7.5096,6.2814,6.703,6.2783)",
+            "span": {
+              "offset": 622,
+              "length": 11
+            }
+          },
+          {
+            "content": "The provider will diagnose symptoms and send a prescription if necessary",
+            "source": "D(1,6.2292,6.3877,8.0297,6.3902,8.0289,6.9667,6.2284,6.9642)",
+            "span": {
+              "offset": 647,
+              "length": 72
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Get care now for free",
+            "source": "D(1,2.9652,7.2854,5.5442,7.2836,5.5444,7.5241,2.9654,7.526)",
+            "span": {
+              "offset": 722,
+              "length": 23
+            }
+          },
+          {
+            "content": "Visit TeladocHealth.com Call 1-800-835-2362 | Download the app & |",
+            "source": "D(1,2.2253,7.7082,6.1979,7.7358,6.1949,8.1654,2.2223,8.1377)",
+            "span": {
+              "offset": 747,
+              "length": 66
+            }
+          },
+          {
+            "role": "footnote",
+            "content": "*Teladoc Health is not available internationally.",
+            "source": "D(1,0.3032,9.3052,1.9566,9.308,1.9564,9.4115,0.303,9.4087)",
+            "span": {
+              "offset": 815,
+              "length": 49
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "@ Teladoc Health, Inc. 2 Manhattanville Rd. Ste 203, Purchase, NY 10577. All rights reserved. The marks and logos of Teladoc Health and Teladoc Health wholly owned subsidiaries are trademarks of Teladoc Health, Inc. All programs and services are subject to applicable terms and conditions.",
+            "source": "D(1,0.2837,9.5253,8.177,9.525,8.1771,9.7208,0.2837,9.7212)",
+            "span": {
+              "offset": 866,
+              "length": 311
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "496673",
+            "source": "D(1,0.2879,10.8399,0.5771,10.8412,0.5767,10.9307,0.2875,10.9294)",
+            "span": {
+              "offset": 1178,
+              "length": 28
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "10E-101_413370312_11062019",
+            "source": "D(1,7.0568,10.837,8.2505,10.8359,8.2506,10.9324,7.0569,10.9335)",
+            "span": {
+              "offset": 1207,
+              "length": 48
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 864
+            },
+            "elements": [
+              "/sections/1",
+              "/sections/2"
+            ]
+          },
+          {
+            "span": {
+              "offset": 0,
+              "length": 719
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/figures/0",
+              "/paragraphs/2",
+              "/paragraphs/3",
+              "/paragraphs/4",
+              "/figures/1",
+              "/figures/2",
+              "/paragraphs/6",
+              "/figures/3",
+              "/paragraphs/8",
+              "/figures/4",
+              "/paragraphs/10"
+            ]
+          },
+          {
+            "span": {
+              "offset": 722,
+              "length": 142
+            },
+            "elements": [
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13"
+            ]
+          }
+        ],
+        "figures": [
+          {
+            "source": "D(1,3.1478,1.5935,5.0904,1.5931,5.0907,2.8095,3.1481,2.81)",
+            "span": {
+              "offset": 107,
+              "length": 18
+            },
+            "id": "1.1"
+          },
+          {
+            "source": "D(1,5.0282,1.4207,8.4229,1.4321,8.4193,5.0429,5.0246,5.0316)",
+            "span": {
+              "offset": 360,
+              "length": 18
+            },
+            "id": "1.2"
+          },
+          {
+            "source": "D(1,1.1466,5.4673,2.2834,5.467,2.2841,6.2909,1.1473,6.2911)",
+            "span": {
+              "offset": 381,
+              "length": 35
+            },
+            "elements": [
+              "/paragraphs/5"
+            ],
+            "id": "1.3"
+          },
+          {
+            "source": "D(1,4.1455,5.4796,4.8513,5.4795,4.8516,6.2971,4.1458,6.2972)",
+            "span": {
+              "offset": 516,
+              "length": 29
+            },
+            "elements": [
+              "/paragraphs/7"
+            ],
+            "id": "1.4"
+          },
+          {
+            "source": "D(1,6.6619,5.4582,7.5319,5.4583,7.5319,6.2825,6.6617,6.2824)",
+            "span": {
+              "offset": 612,
+              "length": 32
+            },
+            "elements": [
+              "/paragraphs/9"
+            ],
+            "id": "1.5"
+          }
+        ]
+      }
+    ]
+  }
+}

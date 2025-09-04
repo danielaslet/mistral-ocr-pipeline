@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Common Medical Events Table</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 32px;
+        background: #fff;
+        color: #222;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 24px;
+      }
+      th,
+      td {
+        border: 1px solid #888;
+        padding: 10px 7px;
+        vertical-align: top;
+        font-size: 15px;
+      }
+      th {
+        background: #e8eef7;
+        font-weight: bold;
+        text-align: left;
+      }
+      .section-header {
+        background: #d9e4f5;
+        font-weight: bold;
+        font-size: 17px;
+        color: #222;
+      }
+      .small {
+        font-size: 12px;
+        color: #555;
+      }
+      .footer-link {
+        color: #1976d2;
+        text-decoration: underline;
+      }
+      .blue-text {
+        color: #1976d2;
+      }
+      .bold {
+        font-weight: bold;
+      }
+      .note {
+        font-size: 13px;
+        color: #666;
+        margin-bottom: 10px;
+      }
+      a {
+        color: #1976d2;
+        text-decoration: underline;
+        word-break: break-all;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th rowspan="2">Common Medical Event</th>
+        <th rowspan="2">Services You May Need</th>
+        <th colspan="2" style="text-align: center">What You Will Pay</th>
+        <th rowspan="2">
+          Limitations, Exceptions, &amp; Other Important Information
+        </th>
+      </tr>
+      <tr>
+        <th>
+          Network Provider<br /><span class="small"
+            >(You will pay the least)</span
+          >
+        </th>
+        <th>
+          Out-of-Network Provider<br /><span class="small"
+            >(You will pay the most)</span
+          >
+        </th>
+      </tr>
+
+      <!-- Section: Drugs -->
+      <tr>
+        <td colspan="5" class="section-header">
+          If you need drugs to treat your illness or condition<br />
+          <span style="font-weight: normal"
+            >More information about
+            <span class="bold">prescription drug coverage</span> is available at
+            <a
+              href="https://www.bcbsok.com/member/prescription-drug-plan-information/pharmacy-prescription-plan-information"
+              target="_blank"
+            >
+              https://www.bcbsok.com/member/prescription-drug-plan-information/pharmacy-prescription-plan-information
+            </a>
+          </span>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Preferred generic drugs</td>
+        <td>
+          $3 retail<br />$6 mail order/prescription; deductible does not apply
+        </td>
+        <td>$3 retail/prescription; deductible does not apply</td>
+        <td>
+          Limited to a 30-day supply at retail (or a 90-day supply at a network
+          of select retail pharmacies). Up to 90-day supply at mail order.
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Non-preferred generic drugs</td>
+        <td>
+          $10 retail<br />$20 mail order/prescription; deductible does not apply
+        </td>
+        <td>$10 retail/prescription; deductible does not apply</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Preferred brand drugs</td>
+        <td>
+          $45 retail<br />$90 mail order/prescription; deductible does not apply
+        </td>
+        <td>$45 retail/prescription; deductible does not apply</td>
+        <td>
+          Payment of the difference between the cost of a brand name drug and a
+          generic may be required if a generic drug is available.
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Non-preferred brand drugs</td>
+        <td>
+          $70 retail<br />$140 mail order/prescription; deductible does not
+          apply
+        </td>
+        <td>$70 retail/prescription; deductible does not apply</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Preferred specialty drugs</td>
+        <td>
+          <span class="bold">30% coinsurance</span>,<br />$300
+          max/prescription;<br />deductible does not apply
+        </td>
+        <td>
+          <span class="bold">30% coinsurance</span>,<br />$300
+          max/prescription;<br />deductible does not apply
+        </td>
+        <td>
+          Specialty drugs should be obtained from Network specialty pharmacy
+          provider; 20% penalty if any other vendor is used. 30-day supply
+          except for certain FDA-designated dosing regimens. Mail order is not
+          covered. Your cost for a covered insulin drug will not exceed $30 per
+          30-day supply or $90 per 90-day supply.
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Non-preferred specialty drugs</td>
+        <td>
+          <span class="bold">50% coinsurance</span>,<br />$500
+          max/prescription;<br />deductible does not apply
+        </td>
+        <td>
+          <span class="bold">50% coinsurance</span>,<br />$500
+          max/prescription;<br />deductible does not apply
+        </td>
+        <td></td>
+      </tr>
+
+      <!-- Section: Outpatient Surgery -->
+      <tr>
+        <td colspan="5" class="section-header">
+          If you have outpatient surgery
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Facility fee (e.g., ambulatory surgery center)</td>
+        <td><span class="bold">20% coinsurance</span></td>
+        <td><span class="bold">50% coinsurance</span></td>
+        <td>Elective abortion is not covered.</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Physician/surgeon fees</td>
+        <td><span class="bold">20% coinsurance</span></td>
+        <td><span class="bold">50% coinsurance</span></td>
+        <td>None</td>
+      </tr>
+
+      <!-- Section: Immediate Medical Attention -->
+      <tr>
+        <td colspan="5" class="section-header">
+          If you need immediate medical attention
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Emergency room care</td>
+        <td>
+          Facility Charges:<br />
+          <span class="bold">20% coinsurance</span> after deductible<br />
+          ER Physician Charges:<br />
+          <span class="bold">20% coinsurance</span> after deductible
+        </td>
+        <td>
+          Facility Charges:<br />
+          <span class="bold">20% coinsurance</span> after deductible<br />
+          ER Physician Charges:<br />
+          <span class="bold">20% coinsurance</span> after deductible
+        </td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Emergency medical transportation</td>
+        <td>No Charge;<br />deductible does not apply</td>
+        <td>No Charge;<br />deductible does not apply</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Urgent care</td>
+        <td>$85/visit;<br />deductible does not apply</td>
+        <td><span class="bold">30% coinsurance</span></td>
+        <td>None</td>
+      </tr>
+
+      <!-- Section: Hospital Stay -->
+      <tr>
+        <td colspan="5" class="section-header">If you have a hospital stay</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Facility fee (e.g., hospital room)</td>
+        <td><span class="bold">20% coinsurance</span></td>
+        <td><span class="bold">50% coinsurance</span></td>
+        <td>
+          Additional $300 per occurrence deductible Out-of-Network.
+          Preauthorization required; $500 penalty if not preauthorized
+          Out-of-Network.
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Physician/surgeon fees</td>
+        <td><span class="bold">20% coinsurance</span></td>
+        <td><span class="bold">50% coinsurance</span></td>
+        <td>None</td>
+      </tr>
+    </table>
+
+    <div class="small" style="margin-top: 10px">
+      * For more information about limitations and exceptions, see the plan or
+      policy document at
+      <a
+        class="footer-link"
+        href="https://policy-srv.box.com/s/acre3hhhle0jqrcst1lk8bvws9eg9gfc"
+        target="_blank"
+      >
+        https://policy-srv.box.com/s/acre3hhhle0jqrcst1lk8bvws9eg9gfc </a
+      >.
+    </div>
+
+    <div style="text-align: right; margin-top: 20px">
+      <span class="blue-text" style="font-size: 14px">Page 3 of 7</span>
+    </div>
+  </body>
+</html>

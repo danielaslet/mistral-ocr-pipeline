@@ -1,0 +1,33 @@
+# analyze_document_config.yaml
+
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/1500.pdf?sp=r&st=2025-07-09T21:32:24Z&se=2025-08-16T05:32:24Z&spr=https&sv=2024-11-04&sr=b&sig=iDI%2FmezlXRpeOS6pf0EhY8h3zQTDAUVRtcORBjcRt4M%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/FINAL%202025%20Waterfield%20Benefits%20Highlight_3879520.pdf?sp=r&st=2025-07-10T10:40:05Z&se=2025-07-10T18:40:05Z&spr=https&sv=2024-11-04&sr=b&sig=ZJdwJUKvdIvKw8DUXQHORjW1kbdWl7f5dnB3GodHAR0%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/1cb132f71869d501f30e1b32edc35ec8-FILE.pdf?sp=r&st=2025-07-10T10:46:20Z&se=2025-07-10T18:46:20Z&spr=https&sv=2024-11-04&sr=b&sig=3Q51nSmQz6VFLm8DzBqB3TyIYZG1pZfb6ecyQMkWGPs%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/1cc27cc57d317ebb963cdadf5c1b0bd0-FILE.pdf?sp=r&st=2025-07-10T10:49:23Z&se=2025-07-10T18:49:23Z&spr=https&sv=2024-11-04&sr=b&sig=uJRANBPhd5WMij5vcXq74gsAsYtAfSxOvzHVGVu6nvc%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/1d8cff436ce98c3ef04923991f6a39df-FILE.pdf?sp=r&st=2025-07-10T10:49:55Z&se=2025-07-10T18:49:55Z&spr=https&sv=2024-11-04&sr=b&sig=M44GBjoZcvwCfNw11Q06%2B4zexX%2BjVe2nB2RdZVgBFSg%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/270c7e7949101d1ea46e3a371eb70557-FILE.pdf?sp=r&st=2025-07-10T10:52:03Z&se=2025-07-10T18:52:03Z&spr=https&sv=2024-11-04&sr=b&sig=sPs4vhsBGVsflwT0Oc8joOvzdqW3yN40nIERZgBCBmI%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/4a57cdd47d0d88267819a5b8185ac410-FILE.pdf?sp=r&st=2025-07-10T10:52:40Z&se=2025-07-10T18:52:40Z&spr=https&sv=2024-11-04&sr=b&sig=tb5VPnX4jTmsi0tyVPeIxl%2FfJmsb6ET5aLXzndh7CIs%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/857c1eeb8bd5fe1835bf414ed1c0c4ec-FILE.pdf?sp=r&st=2025-07-10T10:53:39Z&se=2025-07-10T18:53:39Z&spr=https&sv=2024-11-04&sr=b&sig=g%2BXN5HqaXYXU%2FY5y%2F5xqg3iASoS6HwYkvDB8Xj%2BYufo%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/a528774316c101e720d9cba5ef7d2672-FILE.pdf?sp=r&st=2025-07-10T10:54:23Z&se=2025-07-10T18:54:23Z&spr=https&sv=2024-11-04&sr=b&sig=Zi%2B4PRaF%2BjFJrDAuVKQTVKa0SSRdy3xUru3ECO1BvbI%3D"
+# file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/a74497f1c8b12734e668855a29144b55-FILE.pdf?sp=r&st=2025-07-10T10:55:38Z&se=2025-07-10T18:55:38Z&spr=https&sv=2024-11-04&sr=b&sig=9B7J4jXxRTH5s6tX4bwttS3K3rR0ExK40SsbArYGWn0%3D"
+file_url: "https://a1bgeneralresearch.blob.core.windows.net/ai-foundary-content-understanding/files_for_upload/5aa78bb2dc88ea56ae4bb01af9897feb-FILE.pdf?sp=r&st=2025-07-10T10:59:32Z&se=2025-07-10T18:59:32Z&spr=https&sv=2024-11-04&sr=b&sig=xkcKYyIYRvvYGmg%2B1f9V7ZY4opAm1GlCchCtaw09%2FwI%3D"
+
+analyzer_id: "prebuilt-documentAnalyzer"
+output_dir: ./ocr_outputs
+log_dir: ./logs
+
+# Turn on regex-based visualization in HTML
+enable_visualization: true
+
+# Each key is a Python regex, each value is the replacement template.
+
+visualization_rules:
+  # Show HTML comments for page numbers as blue paragraphs
+  - condition: '(?m)<!--\s*PageNumber="([^"]+)"\s*-->'
+    treatment: '<p style="color:blue;">\1</p>'
+  # Show HTML comments for page breaks as blue paragraphs
+  - condition: '(?m)<!--\s*PageBreak\s*-->'
+    treatment: '<p style="color:blue;">--- PAGE BREAK ---</p>'
+  # Mark figure blocks explicitly
+  - condition: '(?ms)<figure>([\s\S]*?)</figure>'
+    treatment: '<div style="color:blue;">[Figure]</div><figure>\1</figure>'

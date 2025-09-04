@@ -1,0 +1,18 @@
+python-dotenv
+azure-ai-documentintelligence
+pymupdf
+pyyaml
+azure-ai-formrecognizer
+httpx
+Markdown
+
+# PDF rasterization
+PyMuPDF         # for pymupdf
+pdf2image    # for poppler-based rasterization
+
+# YAML config parsing
+PyYAML
+
+# Image handling (used by pdf2image internally)
+Pillow
+azure-storage-blob

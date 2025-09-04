@@ -1,0 +1,13 @@
+# ocr_config.yaml
+
+# provider: mistral  # "adi" or "mistral"
+# model: document  # read | layout | document  (ignored for mistral)
+# input_pdf: ./ingestion_files/1500.pdf
+# output_dir: ./outputs
+# log_dir: ./logs
+
+# Paths (relative or absolute)
+input_pdf: ./ingestion_files/1500.pdf
+output_dir: ./ocr_outputs
+log_dir: ./logs
+

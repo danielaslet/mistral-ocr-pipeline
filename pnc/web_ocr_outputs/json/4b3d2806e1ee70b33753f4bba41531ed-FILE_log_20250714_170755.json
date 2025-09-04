@@ -1,0 +1,3518 @@
+{
+  "id": "685b3387-6fee-4d25-bb88-321774580459",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "prebuilt-documentAnalyzer",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-07-14T17:07:47Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "# Be ready for anything with a first aid kit\n\n\n<figure>\n</figure>\n\n\nSummer is a great time to get outside, travel, and try new adventures. But with all the fun, there's also a chance of scrapes,\nbug bites, sunburns, and other minor injuries. That's why it's smart to have a first aid kit ready whether you're heading to the\nbeach, going on a hike, or just spending time in the backyard.\n\n\n## How to build your first aid kit\n\n\n### Start with the basics\n\nInclude bandages in different sizes, gauze pads,\nadhesive tape, antiseptic wipes, and antibiotic\nointment to treat cuts and scrapes.\n\nBe ready for stings and allergies\nIf someone has a known allergy, make sure you\nhave their epinephrine auto-injector (like an\nEpiPen) and know how to use it.\n\n\\+\n\n\n### Add items for common summer needs\n\nPack tweezers for splinters or ticks, aloe vera for\nsunburn, hydrocortisone cream for itchy bites,\nand an ice pack to reduce swelling.\n\n\n### Include a thermometer and gloves\n\nThese tools help with checking temperatures\nand protecting yourself when giving care.\n\n(\n\nDon't forget medications\nInclude pain relievers like ibuprofen or\nacetaminophen, allergy medicine like\nantihistamines, and any personal medications\nyour family may need.\n\nCheck your kit often\n\nReplace anything that's expired, and make sure\neverything is clean and ready to use.\n\n\n<figure>\n</figure>\n\n\nOne first aid kit\nis good, but two\nare better!\n\nA well-stocked first aid kit can help you take quick\naction. To be prepared no matter where you are,\nkeep one in your home and another in your car.\n\n\n## We're here to help Reach out to us for guidance and resources.\n\n866-799-2731\nanswers@HealthAdvocate.com\n\nwww.HealthAdvocate.com/waterfieldtech\n\nRegistration code: SNASDX8\n\nCall . Email . Message . Live Chat\n\nWe're not an insurance company. Health Advocate is not a direct healthcare provider, and is not affiliated\nwith any insurance company or third party provider. @2025 Health Advocate HA-M-2401066-1FLY\n\n\n<figure>\n\nHealthAdvocate\"\nSM\n\n</figure>",
+        "fields": {
+          "Summary": {
+            "type": "string",
+            "valueString": "The document provides guidance on preparing a first aid kit for summer activities, emphasizing the importance of having essential items like bandages, antiseptic wipes, and medications. It suggests including items for common summer needs such as aloe vera and hydrocortisone cream, and advises keeping a kit both at home and in the car. The document also offers contact information for Health Advocate for further assistance."
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "inch",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": 0.02702931,
+            "width": 8.5,
+            "height": 11,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 2005
+              }
+            ],
+            "words": [
+              {
+                "content": "Be",
+                "span": {
+                  "offset": 2,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.6856,0.7095,1.0786,0.709,1.0762,1.1948,0.6821,1.1822)"
+              },
+              {
+                "content": "ready",
+                "span": {
+                  "offset": 5,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.1768,0.7083,2.0937,0.7174,2.0909,1.2115,1.1747,1.1977)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 11,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.1919,0.7186,2.6831,0.7217,2.6807,1.2254,2.189,1.214)"
+              },
+              {
+                "content": "anything",
+                "span": {
+                  "offset": 15,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.7813,0.7222,4.3441,0.7346,4.3441,1.2456,2.7793,1.2275)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 24,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.6647,1.1968,1.4025,1.1992,1.4023,1.5875,0.6651,1.5854)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 29,
+                  "length": 1
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.517,1.1973,1.676,1.1961,1.6757,1.5888,1.5167,1.5888)"
+              },
+              {
+                "content": "first",
+                "span": {
+                  "offset": 31,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.7841,1.1966,2.4646,1.1999,2.4648,1.588,1.7838,1.5888)"
+              },
+              {
+                "content": "aid",
+                "span": {
+                  "offset": 37,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.5537,1.2004,3.0307,1.203,3.0315,1.5867,2.5539,1.5873)"
+              },
+              {
+                "content": "kit",
+                "span": {
+                  "offset": 41,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.1579,1.2021,3.6136,1.2037,3.6136,1.588,3.1586,1.5876)"
+              },
+              {
+                "content": "Summer",
+                "span": {
+                  "offset": 68,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6645,2.3107,1.1334,2.3118,1.1336,2.4997,0.6647,2.4952)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 75,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.1705,2.3118,1.2692,2.3118,1.2693,2.5005,1.1706,2.5001)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 78,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.3062,2.3118,1.3772,2.3117,1.3773,2.5009,1.3064,2.5006)"
+              },
+              {
+                "content": "great",
+                "span": {
+                  "offset": 80,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.4173,2.3117,1.6888,2.3115,1.689,2.5021,1.4175,2.5011)"
+              },
+              {
+                "content": "time",
+                "span": {
+                  "offset": 86,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.7258,2.3114,1.985,2.3111,1.9853,2.5013,1.7261,2.502)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 91,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.022,2.3111,2.1639,2.3109,2.1642,2.5008,2.0223,2.5012)"
+              },
+              {
+                "content": "get",
+                "span": {
+                  "offset": 94,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.201,2.311,2.3676,2.3112,2.3679,2.5004,2.2013,2.5007)"
+              },
+              {
+                "content": "outside,",
+                "span": {
+                  "offset": 98,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.4046,2.3112,2.8674,2.3112,2.8678,2.5006,2.4049,2.5004)"
+              },
+              {
+                "content": "travel,",
+                "span": {
+                  "offset": 107,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9044,2.3111,3.2592,2.3105,3.2597,2.5015,2.9048,2.5007)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 115,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.2963,2.3105,3.4968,2.3106,3.4973,2.5012,3.2967,2.5014)"
+              },
+              {
+                "content": "try",
+                "span": {
+                  "offset": 119,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.5369,2.3106,3.6758,2.3106,3.6762,2.5009,3.5374,2.5011)"
+              },
+              {
+                "content": "new",
+                "span": {
+                  "offset": 123,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.7128,2.3106,3.9719,2.3107,3.9724,2.5,3.7132,2.5008)"
+              },
+              {
+                "content": "adventures.",
+                "span": {
+                  "offset": 127,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.009,2.3108,4.6661,2.3102,4.6667,2.4972,4.0095,2.4999)"
+              },
+              {
+                "content": "But",
+                "span": {
+                  "offset": 139,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.7124,2.3101,4.8975,2.3097,4.898,2.4975,4.7129,2.4972)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 143,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.9346,2.3096,5.1907,2.309,5.1911,2.4979,4.935,2.4975)"
+              },
+              {
+                "content": "all",
+                "span": {
+                  "offset": 148,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.2308,2.309,5.348,2.3087,5.3484,2.4978,5.2312,2.4978)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 152,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.3881,2.3086,5.5763,2.3082,5.5767,2.4978,5.3885,2.4978)"
+              },
+              {
+                "content": "fun,",
+                "span": {
+                  "offset": 156,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,5.6133,2.3081,5.8355,2.3087,5.836,2.4979,5.6138,2.4978)"
+              },
+              {
+                "content": "there's",
+                "span": {
+                  "offset": 161,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.8725,2.3089,6.2613,2.3106,6.2618,2.4984,5.873,2.498)"
+              },
+              {
+                "content": "also",
+                "span": {
+                  "offset": 169,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.2983,2.3107,6.5112,2.3114,6.5116,2.4984,6.2988,2.4984)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 174,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.5482,2.3115,6.6037,2.3117,6.6041,2.4984,6.5486,2.4984)"
+              },
+              {
+                "content": "chance",
+                "span": {
+                  "offset": 176,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.6438,2.3118,7.0511,2.3137,7.0513,2.4992,6.6442,2.4984)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 183,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.0881,2.3138,7.193,2.3143,7.1931,2.4995,7.0883,2.4992)"
+              },
+              {
+                "content": "scrapes,",
+                "span": {
+                  "offset": 186,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.23,2.3146,7.7031,2.3181,7.7031,2.5066,7.2301,2.5)"
+              },
+              {
+                "content": "bug",
+                "span": {
+                  "offset": 195,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.6629,2.521,0.8521,2.5217,0.8526,2.7091,0.6632,2.7086)"
+              },
+              {
+                "content": "bites,",
+                "span": {
+                  "offset": 199,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.8899,2.5218,1.2241,2.5228,1.2249,2.71,0.8905,2.7092)"
+              },
+              {
+                "content": "sunburns,",
+                "span": {
+                  "offset": 206,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.265,2.5227,1.7852,2.5217,1.7857,2.7097,1.2659,2.7099)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 216,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.823,2.5216,2.0468,2.521,2.0473,2.7101,1.8236,2.7097)"
+              },
+              {
+                "content": "other",
+                "span": {
+                  "offset": 220,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.091,2.5209,2.3778,2.5197,2.3782,2.7105,2.0914,2.7102)"
+              },
+              {
+                "content": "minor",
+                "span": {
+                  "offset": 226,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.4157,2.5195,2.7435,2.5181,2.7439,2.7109,2.416,2.7106)"
+              },
+              {
+                "content": "injuries.",
+                "span": {
+                  "offset": 232,
+                  "length": 9
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.7813,2.5181,3.2353,2.5173,3.2359,2.7113,2.7817,2.7109)"
+              },
+              {
+                "content": "That's",
+                "span": {
+                  "offset": 242,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.2731,2.5173,3.5883,2.517,3.589,2.7113,3.2738,2.7113)"
+              },
+              {
+                "content": "why",
+                "span": {
+                  "offset": 249,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.6262,2.5169,3.8531,2.5171,3.8538,2.7113,3.6269,2.7114)"
+              },
+              {
+                "content": "it's",
+                "span": {
+                  "offset": 253,
+                  "length": 4
+                },
+                "confidence": 0.977,
+                "source": "D(1,3.891,2.5171,4.0833,2.5174,4.0838,2.7111,3.8916,2.7112)"
+              },
+              {
+                "content": "smart",
+                "span": {
+                  "offset": 258,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.1211,2.5175,4.4206,2.5183,4.4211,2.7103,4.1217,2.7111)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 264,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.4584,2.5185,4.5719,2.5189,4.5723,2.7099,4.4589,2.7102)"
+              },
+              {
+                "content": "have",
+                "span": {
+                  "offset": 267,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.6097,2.519,4.8997,2.5193,4.9002,2.7102,4.6102,2.7098)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 272,
+                  "length": 1
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.9376,2.5193,4.9911,2.5193,4.9916,2.7106,4.938,2.7104)"
+              },
+              {
+                "content": "first",
+                "span": {
+                  "offset": 274,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.0321,2.5193,5.2402,2.5192,5.2407,2.7117,5.0326,2.7108)"
+              },
+              {
+                "content": "aid",
+                "span": {
+                  "offset": 280,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.278,2.519,5.4293,2.5185,5.4298,2.7116,5.2785,2.7116)"
+              },
+              {
+                "content": "kit",
+                "span": {
+                  "offset": 284,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.4672,2.5184,5.6059,2.5179,5.6063,2.7115,5.4676,2.7116)"
+              },
+              {
+                "content": "ready",
+                "span": {
+                  "offset": 288,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.6437,2.5178,5.9715,2.5171,5.9721,2.7119,5.6441,2.7115)"
+              },
+              {
+                "content": "whether",
+                "span": {
+                  "offset": 294,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.0094,2.5171,6.4759,2.5168,6.4765,2.7126,6.0099,2.712)"
+              },
+              {
+                "content": "you're",
+                "span": {
+                  "offset": 302,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.5137,2.5169,6.8668,2.5176,6.8672,2.7126,6.5143,2.7126)"
+              },
+              {
+                "content": "heading",
+                "span": {
+                  "offset": 309,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.9046,2.5177,7.3586,2.5195,7.3589,2.7126,6.905,2.7126)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 317,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,7.3964,2.5195,7.5099,2.5195,7.5102,2.7126,7.3967,2.7126)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 320,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,7.5477,2.5195,7.7695,2.5194,7.7695,2.7126,7.548,2.7126)"
+              },
+              {
+                "content": "beach,",
+                "span": {
+                  "offset": 324,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.6634,2.7258,1.045,2.7259,1.0455,2.923,0.6641,2.9193)"
+              },
+              {
+                "content": "going",
+                "span": {
+                  "offset": 331,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.0838,2.7259,1.3748,2.7258,1.3758,2.923,1.0844,2.923)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 337,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.4136,2.7258,1.5688,2.7256,1.5698,2.923,1.4147,2.923)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 340,
+                  "length": 1
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.6076,2.7255,1.6464,2.7255,1.6473,2.923,1.6086,2.923)"
+              },
+              {
+                "content": "hike,",
+                "span": {
+                  "offset": 342,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.6852,2.7254,1.9698,2.7249,1.9706,2.923,1.6861,2.923)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 348,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.0118,2.725,2.0862,2.7251,2.0871,2.923,2.0127,2.923)"
+              },
+              {
+                "content": "just",
+                "span": {
+                  "offset": 351,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,2.125,2.7252,2.3449,2.7233,2.3458,2.923,2.1259,2.923)"
+              },
+              {
+                "content": "spending",
+                "span": {
+                  "offset": 356,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.3837,2.7229,2.8881,2.7243,2.8888,2.9207,2.3846,2.923)"
+              },
+              {
+                "content": "time",
+                "span": {
+                  "offset": 365,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9269,2.7244,3.1856,2.7238,3.1859,2.9194,2.9276,2.9203)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 370,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.2244,2.7238,3.3441,2.724,3.3443,2.9198,3.2247,2.9195)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 373,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,3.3829,2.724,3.5478,2.7243,3.548,2.9207,3.3831,2.92)"
+              },
+              {
+                "content": "backyard.",
+                "span": {
+                  "offset": 377,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.5866,2.7244,4.1725,2.7245,4.1725,2.9207,3.5868,2.9209)"
+              },
+              {
+                "content": "How",
+                "span": {
+                  "offset": 392,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.103,3.4465,3.4577,3.4488,3.4576,3.6679,3.1028,3.6635)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 396,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.5012,3.4485,3.6242,3.4478,3.6241,3.6692,3.501,3.6682)"
+              },
+              {
+                "content": "build",
+                "span": {
+                  "offset": 399,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.6676,3.4475,4.0621,3.4481,4.0624,3.6704,3.6676,3.6695)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 405,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.1128,3.4477,4.4205,3.4465,4.4207,3.6704,4.1131,3.6704)"
+              },
+              {
+                "content": "first",
+                "span": {
+                  "offset": 410,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.4639,3.4464,4.7932,3.449,4.7933,3.6682,4.4642,3.6704)"
+              },
+              {
+                "content": "aid",
+                "span": {
+                  "offset": 416,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.8403,3.4495,5.0285,3.4486,5.0287,3.6685,4.8404,3.6682)"
+              },
+              {
+                "content": "kit",
+                "span": {
+                  "offset": 420,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.0719,3.4482,5.318,3.4468,5.318,3.6654,5.0722,3.6681)"
+              },
+              {
+                "content": "Start",
+                "span": {
+                  "offset": 430,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.2835,3.9291,1.585,3.9294,1.5853,4.0999,1.2838,4.0998)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 436,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6185,3.9297,1.9061,3.9294,1.9062,4.099,1.6187,4.0995)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 441,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.9452,3.9296,2.149,3.9299,2.149,4.0997,1.9453,4.0992)"
+              },
+              {
+                "content": "basics",
+                "span": {
+                  "offset": 445,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1853,3.9298,2.5511,3.9289,2.5511,4.1003,2.1853,4.0994)"
+              },
+              {
+                "content": "Include",
+                "span": {
+                  "offset": 453,
+                  "length": 7
+                },
+                "confidence": 0.977,
+                "source": "D(1,1.2878,4.1318,1.6967,4.1302,1.6971,4.313,1.2882,4.3094)"
+              },
+              {
+                "content": "bandages",
+                "span": {
+                  "offset": 461,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.7327,4.1301,2.2498,4.1298,2.2504,4.3144,1.7331,4.3131)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 470,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.2859,4.1298,2.4181,4.1297,2.4185,4.3164,2.2864,4.3149)"
+              },
+              {
+                "content": "different",
+                "span": {
+                  "offset": 473,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.4572,4.1298,2.9352,4.1335,2.9352,4.3181,2.4575,4.3166)"
+              },
+              {
+                "content": "sizes,",
+                "span": {
+                  "offset": 483,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.9713,4.1337,3.2809,4.1356,3.2808,4.3181,2.9713,4.3181)"
+              },
+              {
+                "content": "gauze",
+                "span": {
+                  "offset": 490,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.317,4.1358,3.6206,4.136,3.6202,4.3181,3.3168,4.3181)"
+              },
+              {
+                "content": "pads,",
+                "span": {
+                  "offset": 496,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.6567,4.136,3.9733,4.1357,3.9733,4.3181,3.6563,4.3181)"
+              },
+              {
+                "content": "adhesive",
+                "span": {
+                  "offset": 502,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2884,4.3316,1.7848,4.3301,1.7856,4.5063,1.2898,4.5063)"
+              },
+              {
+                "content": "tape,",
+                "span": {
+                  "offset": 511,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.8193,4.3299,2.1034,4.3299,2.1044,4.5063,1.8201,4.5063)"
+              },
+              {
+                "content": "antiseptic",
+                "span": {
+                  "offset": 517,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.1407,4.3302,2.6945,4.3293,2.6951,4.5063,2.1418,4.5063)"
+              },
+              {
+                "content": "wipes,",
+                "span": {
+                  "offset": 528,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.7318,4.3293,3.0762,4.3287,3.0767,4.504,2.7323,4.5063)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 535,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.1135,4.3286,3.3144,4.3282,3.3147,4.502,3.1139,4.5037)"
+              },
+              {
+                "content": "antibiotic",
+                "span": {
+                  "offset": 539,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.3545,4.3283,3.9014,4.3266,3.9014,4.4985,3.3548,4.5016)"
+              },
+              {
+                "content": "ointment",
+                "span": {
+                  "offset": 550,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2902,4.5284,1.8096,4.5283,1.81,4.6889,1.2906,4.6861)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 559,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.8414,4.5283,1.9686,4.5289,1.9689,4.6901,1.8418,4.6892)"
+              },
+              {
+                "content": "treat",
+                "span": {
+                  "offset": 562,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0004,4.5291,2.2998,4.5293,2.3,4.6921,2.0007,4.6903)"
+              },
+              {
+                "content": "cuts",
+                "span": {
+                  "offset": 568,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3342,4.5297,2.5727,4.5311,2.5729,4.694,2.3344,4.6921)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 573,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.6098,4.531,2.8112,4.5317,2.8111,4.6962,2.61,4.6945)"
+              },
+              {
+                "content": "scrapes.",
+                "span": {
+                  "offset": 577,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.8536,4.5321,3.3092,4.532,3.3092,4.6982,2.8533,4.6963)"
+              },
+              {
+                "content": "Be",
+                "span": {
+                  "offset": 587,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.8947,3.9244,5.0357,3.9258,5.0358,4.119,4.8946,4.1182)"
+              },
+              {
+                "content": "ready",
+                "span": {
+                  "offset": 590,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.0742,3.926,5.4203,3.9263,5.4205,4.1227,5.0743,4.1195)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 596,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.4588,3.9264,5.6383,3.9269,5.6382,4.1239,5.459,4.1231)"
+              },
+              {
+                "content": "stings",
+                "span": {
+                  "offset": 600,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.6768,3.9273,6.0229,3.9293,6.023,4.1241,5.6767,4.124)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 607,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.0614,3.929,6.3018,3.9291,6.3016,4.128,6.0614,4.1244)"
+              },
+              {
+                "content": "allergies",
+                "span": {
+                  "offset": 611,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.3402,3.9298,6.8454,3.9304,6.8454,4.127,6.34,4.1273)"
+              },
+              {
+                "content": "If",
+                "span": {
+                  "offset": 621,
+                  "length": 2
+                },
+                "confidence": 0.956,
+                "source": "D(1,4.8933,4.1292,4.9637,4.1296,4.964,4.3031,4.8935,4.3027)"
+              },
+              {
+                "content": "someone",
+                "span": {
+                  "offset": 624,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.9989,4.1298,5.5154,4.1311,5.5157,4.307,4.9993,4.3032)"
+              },
+              {
+                "content": "has",
+                "span": {
+                  "offset": 632,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.5506,4.1313,5.7619,4.1314,5.7624,4.309,5.551,4.307)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 636,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.7971,4.1312,5.8323,4.131,5.8329,4.3105,5.7976,4.3097)"
+              },
+              {
+                "content": "known",
+                "span": {
+                  "offset": 638,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.8675,4.1311,6.2636,4.1332,6.2638,4.3145,5.8681,4.3111)"
+              },
+              {
+                "content": "allergy,",
+                "span": {
+                  "offset": 644,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.3047,4.1336,6.6891,4.1345,6.6893,4.3166,6.3049,4.3148)"
+              },
+              {
+                "content": "make",
+                "span": {
+                  "offset": 653,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.7243,4.1349,7.0558,4.137,7.0557,4.3201,6.7245,4.3172)"
+              },
+              {
+                "content": "sure",
+                "span": {
+                  "offset": 658,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,7.094,4.1376,7.3228,4.141,7.3226,4.322,7.0938,4.3203)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 663,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,7.358,4.1415,7.5814,4.1444,7.5814,4.3236,7.3577,4.3224)"
+              },
+              {
+                "content": "have",
+                "span": {
+                  "offset": 667,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,4.8933,4.3239,5.1401,4.3232,5.1404,4.5049,4.8937,4.5016)"
+              },
+              {
+                "content": "their",
+                "span": {
+                  "offset": 672,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.1753,4.3233,5.4573,4.3228,5.4577,4.5063,5.1757,4.5052)"
+              },
+              {
+                "content": "epinephrine",
+                "span": {
+                  "offset": 678,
+                  "length": 11
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.4926,4.323,6.1859,4.3256,6.1863,4.5063,5.4929,4.5063)"
+              },
+              {
+                "content": "auto-injector",
+                "span": {
+                  "offset": 690,
+                  "length": 13
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.2212,4.3259,6.985,4.3283,6.9852,4.5032,6.2215,4.5063)"
+              },
+              {
+                "content": "(like",
+                "span": {
+                  "offset": 704,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.0203,4.3288,7.2612,4.3291,7.261,4.5023,7.0204,4.5029)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 710,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,7.2964,4.3292,7.4375,4.3296,7.4375,4.5017,7.2963,4.5022)"
+              },
+              {
+                "content": "EpiPen)",
+                "span": {
+                  "offset": 713,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.8939,4.5154,5.3402,4.5162,5.3412,4.6981,4.8947,4.7001)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 721,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.3754,4.5161,5.575,4.5157,5.5759,4.6964,5.3763,4.698)"
+              },
+              {
+                "content": "know",
+                "span": {
+                  "offset": 725,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.6103,4.5156,5.9156,4.5166,5.9162,4.6965,5.6112,4.6966)"
+              },
+              {
+                "content": "how",
+                "span": {
+                  "offset": 730,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.9508,4.517,6.1857,4.5174,6.1862,4.694,5.9514,4.6965)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 734,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.221,4.5175,6.3648,4.5197,6.3651,4.6931,6.2214,4.6937)"
+              },
+              {
+                "content": "use",
+                "span": {
+                  "offset": 737,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.403,4.5192,6.5615,4.5199,6.5618,4.692,6.4032,4.6933)"
+              },
+              {
+                "content": "it.",
+                "span": {
+                  "offset": 741,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.5967,4.5205,6.7458,4.5201,6.7458,4.6923,6.597,4.6913)"
+              },
+              {
+                "content": "+",
+                "span": {
+                  "offset": 746,
+                  "length": 2
+                },
+                "confidence": 0.975,
+                "source": "D(1,0.8942,5.1869,1.0238,5.1921,1.0238,5.3164,0.8952,5.3114)"
+              },
+              {
+                "content": "Add",
+                "span": {
+                  "offset": 755,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.2822,5.0043,1.54,5.0058,1.5402,5.1761,1.2823,5.1761)"
+              },
+              {
+                "content": "items",
+                "span": {
+                  "offset": 759,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5736,5.0059,1.9351,5.0065,1.9352,5.1761,1.5739,5.1761)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 765,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.9687,5.0067,2.134,5.0067,2.1342,5.1761,1.9689,5.1761)"
+              },
+              {
+                "content": "common",
+                "span": {
+                  "offset": 769,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.1676,5.0069,2.7252,5.0077,2.7252,5.1761,2.1678,5.1761)"
+              },
+              {
+                "content": "summer",
+                "span": {
+                  "offset": 776,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.7616,5.0079,3.2547,5.0079,3.2546,5.1761,2.7616,5.1761)"
+              },
+              {
+                "content": "needs",
+                "span": {
+                  "offset": 783,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.2883,5.0079,3.6689,5.0058,3.6689,5.1761,3.2882,5.1761)"
+              },
+              {
+                "content": "Pack",
+                "span": {
+                  "offset": 790,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2864,5.2027,1.5523,5.2047,1.5525,5.3774,1.2865,5.3766)"
+              },
+              {
+                "content": "tweezers",
+                "span": {
+                  "offset": 795,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.587,5.2047,2.0841,5.2052,2.0843,5.3806,1.5872,5.3778)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 804,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.1188,5.2052,2.2922,5.2054,2.2924,5.381,2.119,5.3808)"
+              },
+              {
+                "content": "splinters",
+                "span": {
+                  "offset": 808,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.3269,5.2055,2.8269,5.2038,2.827,5.381,2.3271,5.381)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 818,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.8645,5.2037,2.9627,5.2039,2.9627,5.381,2.8645,5.381)"
+              },
+              {
+                "content": "ticks,",
+                "span": {
+                  "offset": 821,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.9974,5.204,3.3124,5.2033,3.3124,5.381,2.9974,5.381)"
+              },
+              {
+                "content": "aloe",
+                "span": {
+                  "offset": 828,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,3.35,5.2032,3.5639,5.203,3.5638,5.3808,3.35,5.381)"
+              },
+              {
+                "content": "vera",
+                "span": {
+                  "offset": 833,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.5986,5.2031,3.85,5.2024,3.8496,5.3804,3.5984,5.3806)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 838,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.8905,5.2022,4.0674,5.2015,4.0674,5.381,3.8901,5.3806)"
+              },
+              {
+                "content": "sunburn,",
+                "span": {
+                  "offset": 842,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.286,5.4025,1.7689,5.4015,1.7699,5.5807,1.2868,5.5781)"
+              },
+              {
+                "content": "hydrocortisone",
+                "span": {
+                  "offset": 851,
+                  "length": 14
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8042,5.4015,2.7024,5.4023,2.7029,5.5817,1.8052,5.5806)"
+              },
+              {
+                "content": "cream",
+                "span": {
+                  "offset": 866,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.7377,5.4023,3.0911,5.401,3.0916,5.5823,2.7382,5.5816)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 872,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.1293,5.4006,3.2648,5.4002,3.2652,5.5823,3.1298,5.5823)"
+              },
+              {
+                "content": "itchy",
+                "span": {
+                  "offset": 876,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.3001,5.4004,3.5946,5.4026,3.5946,5.5823,3.3005,5.5824)"
+              },
+              {
+                "content": "bites,",
+                "span": {
+                  "offset": 882,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.6299,5.4025,3.9678,5.404,3.9678,5.5844,3.6299,5.5827)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 889,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.2866,5.5968,1.4992,5.5972,1.4993,5.7742,1.2871,5.7741)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 893,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.5405,5.5972,1.6409,5.5964,1.641,5.7744,1.5407,5.7742)"
+              },
+              {
+                "content": "ice",
+                "span": {
+                  "offset": 896,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6763,5.5961,1.8534,5.5949,1.8536,5.7768,1.6764,5.7745)"
+              },
+              {
+                "content": "pack",
+                "span": {
+                  "offset": 900,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8889,5.5953,2.1487,5.597,2.1489,5.7785,1.889,5.7771)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 905,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.1841,5.5973,2.3022,5.5985,2.3023,5.7791,2.1843,5.7787)"
+              },
+              {
+                "content": "reduce",
+                "span": {
+                  "offset": 908,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.3376,5.5992,2.7539,5.5983,2.7537,5.7796,2.3377,5.7791)"
+              },
+              {
+                "content": "swelling.",
+                "span": {
+                  "offset": 915,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.7923,5.5985,3.2705,5.5994,3.2705,5.7796,2.792,5.7796)"
+              },
+              {
+                "content": "Include",
+                "span": {
+                  "offset": 931,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.888,4.9998,5.3406,5.001,5.3407,5.1911,4.8884,5.1875)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 939,
+                  "length": 1
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.3783,5.0013,5.4286,5.0016,5.4287,5.1911,5.3785,5.1911)"
+              },
+              {
+                "content": "thermometer",
+                "span": {
+                  "offset": 941,
+                  "length": 11
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.4663,5.0019,6.3087,5.0026,6.3084,5.1978,5.4664,5.191)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 953,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,6.3464,5.0022,6.579,5.0042,6.5785,5.198,6.346,5.1991)"
+              },
+              {
+                "content": "gloves",
+                "span": {
+                  "offset": 957,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.6167,5.0043,7.0059,5.0061,7.0059,5.2017,6.6162,5.1985)"
+              },
+              {
+                "content": "These",
+                "span": {
+                  "offset": 965,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.8879,5.2007,5.2065,5.2021,5.2068,5.3832,4.8883,5.3795)"
+              },
+              {
+                "content": "tools",
+                "span": {
+                  "offset": 971,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.2419,5.2021,5.5133,5.2034,5.5135,5.3841,5.2421,5.3838)"
+              },
+              {
+                "content": "help",
+                "span": {
+                  "offset": 977,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.5487,5.2036,5.7965,5.2043,5.7967,5.3861,5.5489,5.3842)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 982,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.8319,5.2043,6.0973,5.2041,6.0974,5.3884,5.832,5.3865)"
+              },
+              {
+                "content": "checking",
+                "span": {
+                  "offset": 987,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,6.1357,5.2041,6.6224,5.2077,6.622,5.3905,6.1357,5.3885)"
+              },
+              {
+                "content": "temperatures",
+                "span": {
+                  "offset": 996,
+                  "length": 12
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.6578,5.2081,7.4707,5.217,7.4707,5.3884,6.6573,5.3907)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1009,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.8903,5.4047,5.0841,5.4056,5.0851,5.5875,4.8908,5.5867)"
+              },
+              {
+                "content": "protecting",
+                "span": {
+                  "offset": 1013,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.1205,5.4056,5.7263,5.4047,5.7268,5.591,5.1214,5.5878)"
+              },
+              {
+                "content": "yourself",
+                "span": {
+                  "offset": 1024,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.7627,5.4046,6.2231,5.4046,6.2234,5.5905,5.7632,5.5911)"
+              },
+              {
+                "content": "when",
+                "span": {
+                  "offset": 1033,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.2594,5.4046,6.5744,5.4031,6.5747,5.5913,6.2597,5.5907)"
+              },
+              {
+                "content": "giving",
+                "span": {
+                  "offset": 1038,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.6138,5.4033,6.9379,5.4068,6.9379,5.5913,6.6141,5.5913)"
+              },
+              {
+                "content": "care.",
+                "span": {
+                  "offset": 1045,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.9742,5.4071,7.266,5.4103,7.266,5.5889,6.9742,5.5911)"
+              },
+              {
+                "content": "(",
+                "span": {
+                  "offset": 1052,
+                  "length": 1
+                },
+                "confidence": 0.411,
+                "source": "D(1,0.8763,6.2205,0.9297,6.2217,0.9297,6.3247,0.879,6.3263)"
+              },
+              {
+                "content": "Don't",
+                "span": {
+                  "offset": 1055,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.2929,6.0537,1.6239,6.0557,1.6234,6.2443,1.2931,6.2419)"
+              },
+              {
+                "content": "forget",
+                "span": {
+                  "offset": 1061,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.6606,6.0556,2.0284,6.0568,2.0284,6.2439,1.6603,6.2443)"
+              },
+              {
+                "content": "medications",
+                "span": {
+                  "offset": 1068,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0651,6.057,2.8444,6.0601,2.8444,6.2446,2.0652,6.2441)"
+              },
+              {
+                "content": "Include",
+                "span": {
+                  "offset": 1080,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2888,6.2551,1.6941,6.2559,1.6943,6.4383,1.2887,6.4372)"
+              },
+              {
+                "content": "pain",
+                "span": {
+                  "offset": 1088,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.7299,6.2556,1.9684,6.2564,1.9685,6.4376,1.7301,6.4383)"
+              },
+              {
+                "content": "relievers",
+                "span": {
+                  "offset": 1093,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.0041,6.2563,2.4811,6.2563,2.4808,6.4383,2.0042,6.4376)"
+              },
+              {
+                "content": "like",
+                "span": {
+                  "offset": 1103,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5168,6.2564,2.7076,6.2565,2.7069,6.4381,2.5165,6.4383)"
+              },
+              {
+                "content": "ibuprofen",
+                "span": {
+                  "offset": 1108,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.7434,6.2563,3.3157,6.2566,3.3146,6.4383,2.7427,6.438)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1118,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.3574,6.2569,3.4863,6.2582,3.4863,6.4383,3.3563,6.4383)"
+              },
+              {
+                "content": "acetaminophen,",
+                "span": {
+                  "offset": 1121,
+                  "length": 14
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2855,6.4608,2.217,6.454,2.2178,6.637,1.2867,6.6325)"
+              },
+              {
+                "content": "allergy",
+                "span": {
+                  "offset": 1136,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.2551,6.4537,2.6096,6.4527,2.61,6.6352,2.2558,6.6371)"
+              },
+              {
+                "content": "medicine",
+                "span": {
+                  "offset": 1144,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6447,6.4524,3.1603,6.4528,3.1604,6.6283,2.6451,6.6352)"
+              },
+              {
+                "content": "like",
+                "span": {
+                  "offset": 1153,
+                  "length": 4
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.1954,6.4528,3.4255,6.4522,3.4255,6.6261,3.1955,6.6276)"
+              },
+              {
+                "content": "antihistamines,",
+                "span": {
+                  "offset": 1158,
+                  "length": 15
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.2859,6.6472,2.1573,6.6478,2.1574,6.8259,1.2864,6.8215)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1174,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.1948,6.6476,2.3939,6.6473,2.394,6.8259,2.1949,6.8259)"
+              },
+              {
+                "content": "any",
+                "span": {
+                  "offset": 1178,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.4371,6.6475,2.6132,6.6485,2.6132,6.8259,2.4373,6.8259)"
+              },
+              {
+                "content": "personal",
+                "span": {
+                  "offset": 1182,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.6478,6.6484,3.1325,6.6478,3.1324,6.8243,2.6478,6.8259)"
+              },
+              {
+                "content": "medications",
+                "span": {
+                  "offset": 1191,
+                  "length": 11
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.1671,6.648,3.8942,6.6475,3.8938,6.8209,3.167,6.8237)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1203,
+                  "length": 4
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.2785,6.856,1.5357,6.8535,1.5382,7.0321,1.2825,7.0361)"
+              },
+              {
+                "content": "family",
+                "span": {
+                  "offset": 1208,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.5708,6.8533,1.9215,6.8509,1.9229,7.0298,1.5731,7.0316)"
+              },
+              {
+                "content": "may",
+                "span": {
+                  "offset": 1215,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.9566,6.8504,2.2022,6.8496,2.2029,7.0278,1.9578,7.0295)"
+              },
+              {
+                "content": "need.",
+                "span": {
+                  "offset": 1219,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.2372,6.8495,2.5843,6.8495,2.5843,7.0245,2.2379,7.0276)"
+              },
+              {
+                "content": "Check",
+                "span": {
+                  "offset": 1226,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.8918,6.0538,5.2775,6.0545,5.2777,6.2391,4.892,6.238)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1232,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.3136,6.0543,5.5908,6.0556,5.591,6.2391,5.3139,6.2389)"
+              },
+              {
+                "content": "kit",
+                "span": {
+                  "offset": 1237,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,5.627,6.0557,5.7957,6.0554,5.7958,6.2381,5.6271,6.2388)"
+              },
+              {
+                "content": "often",
+                "span": {
+                  "offset": 1241,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.8319,6.0554,6.1924,6.0552,6.1924,6.2391,5.8319,6.238)"
+              },
+              {
+                "content": "Replace",
+                "span": {
+                  "offset": 1248,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.8929,6.2571,5.3621,6.2574,5.3624,6.4414,4.8929,6.4399)"
+              },
+              {
+                "content": "anything",
+                "span": {
+                  "offset": 1256,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,5.3979,6.2571,5.873,6.258,5.8733,6.4424,5.3982,6.4415)"
+              },
+              {
+                "content": "that's",
+                "span": {
+                  "offset": 1265,
+                  "length": 6
+                },
+                "confidence": 0.989,
+                "source": "D(1,5.9089,6.2578,6.2316,6.2561,6.2318,6.4431,5.9092,6.4422)"
+              },
+              {
+                "content": "expired,",
+                "span": {
+                  "offset": 1272,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,6.2674,6.2562,6.7395,6.2561,6.7396,6.4421,6.2676,6.4431)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1281,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.7754,6.2561,6.9606,6.2572,6.9607,6.4405,6.7755,6.4422)"
+              },
+              {
+                "content": "make",
+                "span": {
+                  "offset": 1285,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.9965,6.2575,7.3072,6.2601,7.3068,6.4355,6.9965,6.44)"
+              },
+              {
+                "content": "sure",
+                "span": {
+                  "offset": 1290,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,7.3431,6.2599,7.6146,6.2604,7.6146,6.4344,7.3426,6.4353)"
+              },
+              {
+                "content": "everything",
+                "span": {
+                  "offset": 1295,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.89,6.4578,5.4904,6.4556,5.4921,6.6376,4.8913,6.6376)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1306,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.5257,6.4558,5.6316,6.4565,5.6326,6.6376,5.5272,6.6376)"
+              },
+              {
+                "content": "clean",
+                "span": {
+                  "offset": 1309,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.667,6.4563,5.9613,6.4548,5.9619,6.6359,5.6679,6.6376)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1315,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.0025,6.4551,6.185,6.4553,6.1856,6.6358,6.003,6.636)"
+              },
+              {
+                "content": "ready",
+                "span": {
+                  "offset": 1319,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.2203,6.4552,6.5381,6.457,6.5386,6.6366,6.221,6.6357)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1325,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.5735,6.457,6.7147,6.4576,6.715,6.6356,6.5739,6.6365)"
+              },
+              {
+                "content": "use.",
+                "span": {
+                  "offset": 1328,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.7559,6.4582,6.9837,6.462,6.9837,6.6325,6.7561,6.6352)"
+              },
+              {
+                "content": "One",
+                "span": {
+                  "offset": 1356,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.3975,7.7245,2.7356,7.7252,2.7362,7.9109,2.3978,7.9094)"
+              },
+              {
+                "content": "first",
+                "span": {
+                  "offset": 1360,
+                  "length": 5
+                },
+                "confidence": 0.975,
+                "source": "D(1,2.7813,7.7258,3.0797,7.7253,3.0803,7.9109,2.7819,7.9109)"
+              },
+              {
+                "content": "aid",
+                "span": {
+                  "offset": 1366,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.1284,7.7262,3.3233,7.7262,3.3238,7.9109,3.1289,7.9109)"
+              },
+              {
+                "content": "kit",
+                "span": {
+                  "offset": 1370,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3599,7.7262,3.6025,7.7259,3.6025,7.9109,3.3603,7.9109)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1374,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.3985,7.9318,2.5278,7.9294,2.5286,8.149,2.3991,8.149)"
+              },
+              {
+                "content": "good,",
+                "span": {
+                  "offset": 1377,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.5698,7.9286,2.9752,7.9342,2.9768,8.1471,2.5705,8.149)"
+              },
+              {
+                "content": "but",
+                "span": {
+                  "offset": 1383,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,3.0276,7.9344,3.2513,7.9324,3.2527,8.1437,3.0289,8.146)"
+              },
+              {
+                "content": "two",
+                "span": {
+                  "offset": 1387,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.2932,7.9323,3.597,7.9367,3.597,8.1365,3.2947,8.144)"
+              },
+              {
+                "content": "are",
+                "span": {
+                  "offset": 1391,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.7938,8.1593,3.0304,8.1571,3.0324,8.325,2.7969,8.3246)"
+              },
+              {
+                "content": "better!",
+                "span": {
+                  "offset": 1395,
+                  "length": 7
+                },
+                "confidence": 0.977,
+                "source": "D(1,3.0827,8.1572,3.597,8.1522,3.597,8.3222,3.0847,8.325)"
+              },
+              {
+                "content": "A",
+                "span": {
+                  "offset": 1404,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.8183,7.7479,3.9009,7.7477,3.9011,7.9209,3.8185,7.9205)"
+              },
+              {
+                "content": "well-stocked",
+                "span": {
+                  "offset": 1406,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.9363,7.7476,4.6674,7.7484,4.6673,7.9233,3.9365,7.9211)"
+              },
+              {
+                "content": "first",
+                "span": {
+                  "offset": 1419,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.7028,7.7483,4.9387,7.7479,4.9387,7.9263,4.7027,7.9237)"
+              },
+              {
+                "content": "aid",
+                "span": {
+                  "offset": 1425,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.9741,7.7479,5.1274,7.7479,5.1274,7.9274,4.9741,7.9265)"
+              },
+              {
+                "content": "kit",
+                "span": {
+                  "offset": 1429,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,5.1627,7.748,5.3367,7.7483,5.3367,7.9282,5.1628,7.9276)"
+              },
+              {
+                "content": "can",
+                "span": {
+                  "offset": 1433,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.3721,7.7484,5.5519,7.7484,5.5519,7.9292,5.372,7.9284)"
+              },
+              {
+                "content": "help",
+                "span": {
+                  "offset": 1437,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.5873,7.7483,5.8232,7.7475,5.8232,7.9315,5.5873,7.9293)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 1442,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.8585,7.7474,6.0708,7.7472,6.0707,7.9331,5.8586,7.932)"
+              },
+              {
+                "content": "take",
+                "span": {
+                  "offset": 1446,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.1062,7.7472,6.3774,7.7491,6.3773,7.9331,6.1061,7.9331)"
+              },
+              {
+                "content": "quick",
+                "span": {
+                  "offset": 1451,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,6.4128,7.7491,6.7292,7.7501,6.7292,7.9331,6.4127,7.9331)"
+              },
+              {
+                "content": "action.",
+                "span": {
+                  "offset": 1457,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.8229,7.9489,4.2162,7.9471,4.2166,8.1251,3.8243,8.1222)"
+              },
+              {
+                "content": "To",
+                "span": {
+                  "offset": 1465,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.2509,7.9472,4.3666,7.9479,4.3669,8.125,4.2513,8.1251)"
+              },
+              {
+                "content": "be",
+                "span": {
+                  "offset": 1468,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.4013,7.9481,4.5401,7.9483,4.5404,8.126,4.4016,8.125)"
+              },
+              {
+                "content": "prepared",
+                "span": {
+                  "offset": 1471,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.5748,7.9483,5.0837,7.9494,5.0842,8.1263,4.5752,8.1262)"
+              },
+              {
+                "content": "no",
+                "span": {
+                  "offset": 1480,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.1184,7.9497,5.2832,7.9509,5.2837,8.1268,5.1189,8.1263)"
+              },
+              {
+                "content": "matter",
+                "span": {
+                  "offset": 1483,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.3237,7.951,5.6968,7.9521,5.6972,8.1299,5.3241,8.1271)"
+              },
+              {
+                "content": "where",
+                "span": {
+                  "offset": 1490,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.7315,7.9526,6.0785,7.9546,6.0785,8.1302,5.7318,8.1301)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 1496,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,6.1132,7.9548,6.3358,7.9563,6.3357,8.1311,6.1132,8.1303)"
+              },
+              {
+                "content": "are,",
+                "span": {
+                  "offset": 1500,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,6.3792,7.9566,6.6019,7.9585,6.6019,8.1324,6.3791,8.1314)"
+              },
+              {
+                "content": "keep",
+                "span": {
+                  "offset": 1505,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.8232,8.1423,4.1043,8.1417,4.1046,8.3226,3.8233,8.3203)"
+              },
+              {
+                "content": "one",
+                "span": {
+                  "offset": 1510,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.142,8.1421,4.3216,8.1415,4.3221,8.3219,4.1423,8.3221)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 1514,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.3564,8.1412,4.4868,8.1412,4.4873,8.3215,4.3569,8.3221)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1517,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.5216,8.1415,4.7622,8.1419,4.7625,8.3202,4.5221,8.3211)"
+              },
+              {
+                "content": "home",
+                "span": {
+                  "offset": 1522,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.7969,8.1419,5.1476,8.1438,5.1479,8.3207,4.7972,8.3202)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1527,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,5.1853,8.144,5.3853,8.1448,5.3853,8.3205,5.1856,8.3207)"
+              },
+              {
+                "content": "another",
+                "span": {
+                  "offset": 1531,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.4259,8.1449,5.8403,8.1445,5.8404,8.3221,5.4259,8.3206)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 1539,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.8751,8.1445,6.0084,8.1453,6.0086,8.322,5.8752,8.3222)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1542,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,6.0432,8.1457,6.2924,8.1482,6.2923,8.3208,6.0433,8.3218)"
+              },
+              {
+                "content": "car.",
+                "span": {
+                  "offset": 1547,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,6.3272,8.1485,6.5576,8.151,6.5576,8.3198,6.327,8.3207)"
+              },
+              {
+                "content": "We're",
+                "span": {
+                  "offset": 1557,
+                  "length": 5
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.6534,8.6435,4.0046,8.6464,4.0047,8.8294,3.6538,8.8269)"
+              },
+              {
+                "content": "here",
+                "span": {
+                  "offset": 1563,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.0409,8.6469,4.3466,8.6503,4.3465,8.8347,4.0411,8.83)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1568,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.386,8.6508,4.4889,8.6514,4.4886,8.8362,4.3858,8.8355)"
+              },
+              {
+                "content": "help",
+                "span": {
+                  "offset": 1571,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,4.5252,8.6515,4.8366,8.6544,4.8366,8.841,4.5249,8.8372)"
+              },
+              {
+                "content": "Reach",
+                "span": {
+                  "offset": 1576,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.9853,8.8534,3.3476,8.8551,3.3477,9.0257,2.9853,9.0229)"
+              },
+              {
+                "content": "out",
+                "span": {
+                  "offset": 1582,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.3897,8.8552,3.5582,8.8551,3.5583,9.0275,3.3898,9.0261)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1586,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.5919,8.8551,3.7351,8.8548,3.7353,9.0288,3.592,9.0277)"
+              },
+              {
+                "content": "us",
+                "span": {
+                  "offset": 1589,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.7773,8.8546,3.8727,8.8543,3.873,9.0292,3.7775,9.029)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 1592,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.9064,8.8543,4.0862,8.8547,4.0866,9.0292,3.9067,9.0292)"
+              },
+              {
+                "content": "guidance",
+                "span": {
+                  "offset": 1596,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,4.1199,8.8548,4.6423,8.8564,4.6426,9.0292,4.1203,9.0292)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1605,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.6788,8.8567,4.881,8.8585,4.881,9.0292,4.6791,9.0292)"
+              },
+              {
+                "content": "resources.",
+                "span": {
+                  "offset": 1609,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.9259,8.8589,5.5062,8.8624,5.5062,9.0274,4.9259,9.0292)"
+              },
+              {
+                "content": "866-799-2731",
+                "span": {
+                  "offset": 1621,
+                  "length": 12
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.3221,9.1581,2.6009,9.1579,2.6009,9.3424,1.3223,9.3415)"
+              },
+              {
+                "content": "answers@HealthAdvocate.com",
+                "span": {
+                  "offset": 1634,
+                  "length": 26
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.3381,9.4307,3.3032,9.4251,3.3037,9.5699,1.3385,9.5717)"
+              },
+              {
+                "content": "www.HealthAdvocate.com/waterfieldtech",
+                "span": {
+                  "offset": 1662,
+                  "length": 37
+                },
+                "confidence": 0.978,
+                "source": "D(1,1.3218,9.6565,3.9715,9.6431,3.9725,9.7977,1.323,9.8013)"
+              },
+              {
+                "content": "Registration",
+                "span": {
+                  "offset": 1701,
+                  "length": 12
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.5365,9.899,1.2839,9.8969,1.2842,10.0495,0.5369,10.0524)"
+              },
+              {
+                "content": "code:",
+                "span": {
+                  "offset": 1714,
+                  "length": 5
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.3312,9.8969,1.66,9.8953,1.6604,10.0478,1.3315,10.0494)"
+              },
+              {
+                "content": "SNASDX8",
+                "span": {
+                  "offset": 1720,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.7073,9.8952,2.2903,9.8946,2.2907,10.0436,1.7077,10.0472)"
+              },
+              {
+                "content": "Call",
+                "span": {
+                  "offset": 1729,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.534,10.1609,0.765,10.164,0.7653,10.3326,0.5346,10.3312)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1734,
+                  "length": 1
+                },
+                "confidence": 0.95,
+                "source": "D(1,0.8372,10.1633,0.8834,10.1628,0.8837,10.3326,0.8375,10.3326)"
+              },
+              {
+                "content": "Email",
+                "span": {
+                  "offset": 1736,
+                  "length": 5
+                },
+                "confidence": 0.985,
+                "source": "D(1,0.9584,10.1612,1.2731,10.1612,1.2735,10.3373,0.9588,10.3322)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1742,
+                  "length": 1
+                },
+                "confidence": 0.954,
+                "source": "D(1,1.3453,10.161,1.3943,10.1609,1.3947,10.3402,1.3456,10.339)"
+              },
+              {
+                "content": "Message",
+                "span": {
+                  "offset": 1744,
+                  "length": 7
+                },
+                "confidence": 0.983,
+                "source": "D(1,1.4636,10.1613,1.9545,10.1594,1.9549,10.3431,1.4639,10.3415)"
+              },
+              {
+                "content": ".",
+                "span": {
+                  "offset": 1752,
+                  "length": 1
+                },
+                "confidence": 0.961,
+                "source": "D(1,2.018,10.1578,2.0642,10.1572,2.0646,10.3382,2.0184,10.34)"
+              },
+              {
+                "content": "Live",
+                "span": {
+                  "offset": 1754,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.1392,10.1573,2.3587,10.1571,2.3592,10.3319,2.1397,10.3364)"
+              },
+              {
+                "content": "Chat",
+                "span": {
+                  "offset": 1759,
+                  "length": 4
+                },
+                "confidence": 0.971,
+                "source": "D(1,2.3933,10.157,2.7022,10.1531,2.7031,10.3268,2.3938,10.3313)"
+              },
+              {
+                "content": "We're",
+                "span": {
+                  "offset": 1765,
+                  "length": 5
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.5262,10.4187,0.6968,10.4182,0.6972,10.531,0.5267,10.5299)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1771,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.7191,10.4181,0.8304,10.418,0.8307,10.5314,0.7195,10.5311)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 1775,
+                  "length": 2
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.8526,10.418,0.9194,10.418,0.9197,10.5314,0.853,10.5314)"
+              },
+              {
+                "content": "insurance",
+                "span": {
+                  "offset": 1778,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.9416,10.418,1.2457,10.4177,1.2461,10.5323,0.9419,10.5314)"
+              },
+              {
+                "content": "company.",
+                "span": {
+                  "offset": 1788,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.268,10.4177,1.5721,10.4181,1.5725,10.5322,1.2683,10.5323)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1797,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,1.5944,10.4181,1.8095,10.4179,1.8098,10.5318,1.5948,10.5322)"
+              },
+              {
+                "content": "Advocate",
+                "span": {
+                  "offset": 1804,
+                  "length": 8
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8318,10.4178,2.121,10.4187,2.1213,10.5316,1.8321,10.5317)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1813,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.1433,10.4188,2.1878,10.4191,2.188,10.5317,2.1435,10.5316)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1816,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.21,10.4191,2.3139,10.4189,2.3142,10.5315,2.2103,10.5317)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1820,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.3362,10.4189,2.3732,10.4189,2.3735,10.5314,2.3364,10.5315)"
+              },
+              {
+                "content": "direct",
+                "span": {
+                  "offset": 1822,
+                  "length": 6
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.3955,10.4188,2.5661,10.4187,2.5664,10.5309,2.3958,10.5314)"
+              },
+              {
+                "content": "healthcare",
+                "span": {
+                  "offset": 1829,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.5884,10.4187,2.9147,10.4182,2.9151,10.5313,2.5887,10.5309)"
+              },
+              {
+                "content": "provider,",
+                "span": {
+                  "offset": 1840,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.937,10.4181,3.2114,10.4167,3.2119,10.5302,2.9373,10.5312)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1850,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.2337,10.4165,3.3375,10.4158,3.3381,10.5295,3.2342,10.5301)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1854,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.3598,10.4156,3.4043,10.4155,3.4048,10.5289,3.3603,10.5293)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1857,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.4265,10.4154,3.5304,10.4151,3.5309,10.5278,3.4271,10.5287)"
+              },
+              {
+                "content": "affiliated",
+                "span": {
+                  "offset": 1861,
+                  "length": 10
+                },
+                "confidence": 0.985,
+                "source": "D(1,3.5527,10.415,3.846,10.412,3.846,10.5259,3.5531,10.5276)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 1872,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.525,10.5341,0.6582,10.5341,0.6585,10.6481,0.5253,10.6464)"
+              },
+              {
+                "content": "any",
+                "span": {
+                  "offset": 1877,
+                  "length": 3
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6804,10.5341,0.7766,10.5341,0.7769,10.6493,0.6807,10.6484)"
+              },
+              {
+                "content": "insurance",
+                "span": {
+                  "offset": 1881,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.7988,10.5341,1.1022,10.5336,1.1025,10.6489,0.7991,10.6493)"
+              },
+              {
+                "content": "company",
+                "span": {
+                  "offset": 1891,
+                  "length": 7
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1244,10.5335,1.413,10.5315,1.4132,10.6486,1.1246,10.6489)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1899,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.4352,10.5313,1.4944,10.5309,1.4946,10.6485,1.4354,10.6486)"
+              },
+              {
+                "content": "third",
+                "span": {
+                  "offset": 1902,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5166,10.5309,1.6646,10.5308,1.6648,10.6482,1.5168,10.6484)"
+              },
+              {
+                "content": "party",
+                "span": {
+                  "offset": 1908,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6868,10.5308,1.8497,10.5305,1.8499,10.6473,1.687,10.6482)"
+              },
+              {
+                "content": "provider.",
+                "span": {
+                  "offset": 1914,
+                  "length": 9
+                },
+                "confidence": 0.988,
+                "source": "D(1,1.8719,10.5305,2.1549,10.5309,2.1551,10.6452,1.8721,10.6471)"
+              },
+              {
+                "content": "@2025",
+                "span": {
+                  "offset": 1924,
+                  "length": 5
+                },
+                "confidence": 0.815,
+                "source": "D(1,2.2104,10.5308,2.4417,10.53,2.442,10.6426,2.2106,10.6448)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1930,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.4639,10.5299,2.6785,10.5296,2.6788,10.6408,2.4642,10.6425)"
+              },
+              {
+                "content": "Advocate",
+                "span": {
+                  "offset": 1937,
+                  "length": 8
+                },
+                "confidence": 0.983,
+                "source": "D(1,2.7007,10.5296,3.0134,10.5285,3.0137,10.6383,2.701,10.6406)"
+              },
+              {
+                "content": "HA-M-2401066-1FLY",
+                "span": {
+                  "offset": 1946,
+                  "length": 17
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.0874,10.5281,3.8404,10.5257,3.8405,10.6343,3.0877,10.6377)"
+              },
+              {
+                "content": "HealthAdvocate\"",
+                "span": {
+                  "offset": 1976,
+                  "length": 15
+                },
+                "confidence": 0.679,
+                "source": "D(1,5.7482,10.1682,7.9909,10.1714,7.9909,10.4409,5.7469,10.4389)"
+              },
+              {
+                "content": "SM",
+                "span": {
+                  "offset": 1992,
+                  "length": 2
+                },
+                "confidence": 0.993,
+                "source": "D(1,7.9225,10.1966,8.0075,10.1983,8.0075,10.2582,7.9224,10.2582)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "Be ready for anything",
+                "source": "D(1,0.6857,0.7031,4.3415,0.7342,4.3367,1.2439,0.6809,1.2091)",
+                "span": {
+                  "offset": 2,
+                  "length": 21
+                }
+              },
+              {
+                "content": "with a first aid kit",
+                "source": "D(1,0.6647,1.1968,3.6092,1.1958,3.6096,1.5854,0.6651,1.5881)",
+                "span": {
+                  "offset": 24,
+                  "length": 20
+                }
+              },
+              {
+                "content": "Summer is a great time to get outside, travel, and try new adventures. But with all the fun, there's also a chance of scrapes,",
+                "source": "D(1,0.6645,2.3044,7.6981,2.3094,7.698,2.5032,0.6643,2.4983)",
+                "span": {
+                  "offset": 68,
+                  "length": 126
+                }
+              },
+              {
+                "content": "bug bites, sunburns, and other minor injuries. That's why it's smart to have a first aid kit ready whether you're heading to the",
+                "source": "D(1,0.6629,2.5133,7.7687,2.5177,7.7686,2.7123,0.6628,2.7077)",
+                "span": {
+                  "offset": 195,
+                  "length": 128
+                }
+              },
+              {
+                "content": "beach, going on a hike, or just spending time in the backyard.",
+                "source": "D(1,0.6634,2.7258,4.1685,2.7193,4.1689,2.9176,0.6638,2.923)",
+                "span": {
+                  "offset": 324,
+                  "length": 62
+                }
+              },
+              {
+                "content": "How to build your first aid kit",
+                "source": "D(1,3.1028,3.4465,5.3127,3.4461,5.3128,3.6683,3.1028,3.6686)",
+                "span": {
+                  "offset": 392,
+                  "length": 31
+                }
+              },
+              {
+                "content": "Start with the basics",
+                "source": "D(1,1.2835,3.9291,2.5496,3.9289,2.5496,4.0978,1.2835,4.098)",
+                "span": {
+                  "offset": 430,
+                  "length": 21
+                }
+              },
+              {
+                "content": "Include bandages in different sizes, gauze pads,",
+                "source": "D(1,1.2878,4.1252,3.9708,4.1358,3.97,4.3181,1.2871,4.3095)",
+                "span": {
+                  "offset": 453,
+                  "length": 48
+                }
+              },
+              {
+                "content": "adhesive tape, antiseptic wipes, and antibiotic",
+                "source": "D(1,1.2884,4.3304,3.8976,4.3266,3.8978,4.5026,1.2886,4.5063)",
+                "span": {
+                  "offset": 502,
+                  "length": 47
+                }
+              },
+              {
+                "content": "ointment to treat cuts and scrapes.",
+                "source": "D(1,1.2902,4.5265,3.3075,4.532,3.3071,4.6954,1.2898,4.69)",
+                "span": {
+                  "offset": 550,
+                  "length": 35
+                }
+              },
+              {
+                "content": "Be ready for stings and allergies",
+                "source": "D(1,4.8947,3.9242,6.8412,3.9302,6.8406,4.1268,4.8941,4.1208)",
+                "span": {
+                  "offset": 587,
+                  "length": 33
+                }
+              },
+              {
+                "content": "If someone has a known allergy, make sure you",
+                "source": "D(1,4.8934,4.1243,7.5811,4.1403,7.5798,4.3211,4.8921,4.3021)",
+                "span": {
+                  "offset": 621,
+                  "length": 45
+                }
+              },
+              {
+                "content": "have their epinephrine auto-injector (like an",
+                "source": "D(1,4.8933,4.3217,7.4364,4.3262,7.4361,4.5063,4.893,4.5034)",
+                "span": {
+                  "offset": 667,
+                  "length": 45
+                }
+              },
+              {
+                "content": "EpiPen) and know how to use it.",
+                "source": "D(1,4.8939,4.5154,6.7413,4.5118,6.7421,4.6913,4.8947,4.6993)",
+                "span": {
+                  "offset": 713,
+                  "length": 31
+                }
+              },
+              {
+                "content": "+",
+                "source": "D(1,0.8942,5.1869,1.0212,5.186,1.0221,5.3146,0.8951,5.3154)",
+                "span": {
+                  "offset": 746,
+                  "length": 2
+                }
+              },
+              {
+                "content": "Add items for common summer needs",
+                "source": "D(1,1.2822,5.0043,3.6687,5.0057,3.6686,5.1761,1.2821,5.1755)",
+                "span": {
+                  "offset": 755,
+                  "length": 33
+                }
+              },
+              {
+                "content": "Pack tweezers for splinters or ticks, aloe vera for",
+                "source": "D(1,1.2864,5.2027,4.0656,5.2015,4.0657,5.379,1.2865,5.3803)",
+                "span": {
+                  "offset": 790,
+                  "length": 51
+                }
+              },
+              {
+                "content": "sunburn, hydrocortisone cream for itchy bites,",
+                "source": "D(1,1.286,5.3982,3.966,5.4006,3.9659,5.5815,1.2858,5.579)",
+                "span": {
+                  "offset": 842,
+                  "length": 46
+                }
+              },
+              {
+                "content": "and an ice pack to reduce swelling.",
+                "source": "D(1,1.2866,5.5931,3.2699,5.5994,3.2693,5.7795,1.286,5.7732)",
+                "span": {
+                  "offset": 889,
+                  "length": 35
+                }
+              },
+              {
+                "content": "Include a thermometer and gloves",
+                "source": "D(1,4.888,4.999,7.0036,5.0031,7.0032,5.1988,4.8876,5.1944)",
+                "span": {
+                  "offset": 931,
+                  "length": 32
+                }
+              },
+              {
+                "content": "These tools help with checking temperatures",
+                "source": "D(1,4.8879,5.1983,7.4691,5.2113,7.468,5.392,4.8869,5.379)",
+                "span": {
+                  "offset": 965,
+                  "length": 43
+                }
+              },
+              {
+                "content": "and protecting yourself when giving care.",
+                "source": "D(1,4.8903,5.3998,7.2621,5.4039,7.2618,5.5907,4.89,5.5866)",
+                "span": {
+                  "offset": 1009,
+                  "length": 41
+                }
+              },
+              {
+                "content": "(",
+                "source": "D(1,0.8763,6.2205,0.9277,6.2195,0.9297,6.3252,0.8783,6.3262)",
+                "span": {
+                  "offset": 1052,
+                  "length": 1
+                }
+              },
+              {
+                "content": "Don't forget medications",
+                "source": "D(1,1.2929,6.0537,2.8419,6.0588,2.8412,6.2446,1.2923,6.2401)",
+                "span": {
+                  "offset": 1055,
+                  "length": 24
+                }
+              },
+              {
+                "content": "Include pain relievers like ibuprofen or",
+                "source": "D(1,1.2888,6.2539,3.4855,6.2559,3.4854,6.4369,1.2886,6.4349)",
+                "span": {
+                  "offset": 1080,
+                  "length": 40
+                }
+              },
+              {
+                "content": "acetaminophen, allergy medicine like",
+                "source": "D(1,1.2855,6.4577,3.4252,6.4494,3.4255,6.6293,1.2863,6.6376)",
+                "span": {
+                  "offset": 1121,
+                  "length": 36
+                }
+              },
+              {
+                "content": "antihistamines, and any personal medications",
+                "source": "D(1,1.2859,6.6472,3.8906,6.6453,3.8908,6.8243,1.286,6.8259)",
+                "span": {
+                  "offset": 1158,
+                  "length": 44
+                }
+              },
+              {
+                "content": "your family may need.",
+                "source": "D(1,1.2785,6.8549,2.5834,6.848,2.5843,7.0226,1.2799,7.0331)",
+                "span": {
+                  "offset": 1203,
+                  "length": 21
+                }
+              },
+              {
+                "content": "Check your kit often",
+                "source": "D(1,4.8918,6.0538,6.1886,6.0544,6.1885,6.2373,4.8917,6.2366)",
+                "span": {
+                  "offset": 1226,
+                  "length": 20
+                }
+              },
+              {
+                "content": "Replace anything that's expired, and make sure",
+                "source": "D(1,4.8929,6.2558,7.6102,6.2561,7.6102,6.4403,4.8929,6.44)",
+                "span": {
+                  "offset": 1248,
+                  "length": 46
+                }
+              },
+              {
+                "content": "everything is clean and ready to use.",
+                "source": "D(1,4.89,6.4563,6.9817,6.4523,6.982,6.6328,4.8903,6.6368)",
+                "span": {
+                  "offset": 1295,
+                  "length": 37
+                }
+              },
+              {
+                "content": "One first aid kit",
+                "source": "D(1,2.3975,7.7242,3.5998,7.7255,3.5996,7.9104,2.3973,7.9091)",
+                "span": {
+                  "offset": 1356,
+                  "length": 17
+                }
+              },
+              {
+                "content": "is good, but two",
+                "source": "D(1,2.3985,7.9286,3.5952,7.9287,3.5952,8.147,2.3985,8.1469)",
+                "span": {
+                  "offset": 1374,
+                  "length": 16
+                }
+              },
+              {
+                "content": "are better!",
+                "source": "D(1,2.7938,8.1558,3.5932,8.1508,3.5943,8.3193,2.7948,8.3244)",
+                "span": {
+                  "offset": 1391,
+                  "length": 11
+                }
+              },
+              {
+                "content": "A well-stocked first aid kit can help you take quick",
+                "source": "D(1,3.8183,7.7448,6.7286,7.7479,6.7284,7.9319,3.8181,7.9282)",
+                "span": {
+                  "offset": 1404,
+                  "length": 52
+                }
+              },
+              {
+                "content": "action. To be prepared no matter where you are,",
+                "source": "D(1,3.823,7.9441,6.5997,7.954,6.5991,8.1309,3.8223,8.1208)",
+                "span": {
+                  "offset": 1457,
+                  "length": 47
+                }
+              },
+              {
+                "content": "keep one in your home and another in your car.",
+                "source": "D(1,3.8232,8.1409,6.5534,8.1395,6.5535,8.3193,3.8233,8.3208)",
+                "span": {
+                  "offset": 1505,
+                  "length": 46
+                }
+              },
+              {
+                "content": "We're here to help",
+                "source": "D(1,3.6534,8.6419,4.8356,8.6544,4.8337,8.8399,3.6523,8.8275)",
+                "span": {
+                  "offset": 1557,
+                  "length": 18
+                }
+              },
+              {
+                "content": "Reach out to us for guidance and resources.",
+                "source": "D(1,2.9853,8.852,5.5041,8.858,5.5037,9.0292,2.9849,9.0253)",
+                "span": {
+                  "offset": 1576,
+                  "length": 43
+                }
+              },
+              {
+                "content": "866-799-2731",
+                "source": "D(1,1.3221,9.1565,2.5974,9.1576,2.5972,9.3397,1.3219,9.3384)",
+                "span": {
+                  "offset": 1621,
+                  "length": 12
+                }
+              },
+              {
+                "content": "answers@HealthAdvocate.com",
+                "source": "D(1,1.3381,9.4248,3.299,9.4222,3.2992,9.5685,1.3382,9.5711)",
+                "span": {
+                  "offset": 1634,
+                  "length": 26
+                }
+              },
+              {
+                "content": "www.HealthAdvocate.com/waterfieldtech",
+                "source": "D(1,1.3218,9.6467,3.9685,9.6421,3.9688,9.7972,1.3221,9.8018)",
+                "span": {
+                  "offset": 1662,
+                  "length": 37
+                }
+              },
+              {
+                "content": "Registration code: SNASDX8",
+                "source": "D(1,0.5364,9.899,2.2854,9.8933,2.2859,10.0456,0.5369,10.0513)",
+                "span": {
+                  "offset": 1701,
+                  "length": 26
+                }
+              },
+              {
+                "content": "Call . Email . Message . Live Chat",
+                "source": "D(1,0.5339,10.1605,2.9332,10.151,2.934,10.3386,0.5346,10.3468)",
+                "span": {
+                  "offset": 1729,
+                  "length": 34
+                }
+              },
+              {
+                "content": "We're not an insurance company. Health Advocate is not a direct healthcare provider, and is not affiliated",
+                "source": "D(1,0.5262,10.4185,3.8428,10.4121,3.843,10.5276,0.5265,10.534)",
+                "span": {
+                  "offset": 1765,
+                  "length": 106
+                }
+              },
+              {
+                "content": "with any insurance company or third party provider. @2025 Health Advocate HA-M-2401066-1FLY",
+                "source": "D(1,0.525,10.533,3.8374,10.5257,3.8377,10.6415,0.5252,10.6488)",
+                "span": {
+                  "offset": 1872,
+                  "length": 91
+                }
+              },
+              {
+                "content": "HealthAdvocate\"",
+                "source": "D(1,5.747,10.1665,7.9866,10.1675,7.9864,10.4371,5.7469,10.436)",
+                "span": {
+                  "offset": 1976,
+                  "length": 15
+                }
+              },
+              {
+                "content": "SM",
+                "source": "D(1,7.9225,10.1966,8.0069,10.1976,8.0062,10.2582,7.9218,10.2572)",
+                "span": {
+                  "offset": 1992,
+                  "length": 2
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "role": "title",
+            "content": "Be ready for anything with a first aid kit",
+            "source": "D(1,0.6689,0.7029,4.3415,0.7342,4.334,1.6193,0.6614,1.5881)",
+            "span": {
+              "offset": 0,
+              "length": 44
+            }
+          },
+          {
+            "content": "Summer is a great time to get outside, travel, and try new adventures. But with all the fun, there's also a chance of scrapes, bug bites, sunburns, and other minor injuries. That's why it's smart to have a first aid kit ready whether you're heading to the beach, going on a hike, or just spending time in the backyard.",
+            "source": "D(1,0.6631,2.3044,7.7688,2.3091,7.7684,2.9277,0.6627,2.923)",
+            "span": {
+              "offset": 68,
+              "length": 318
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "How to build your first aid kit",
+            "source": "D(1,3.1028,3.4465,5.3127,3.4461,5.3128,3.6683,3.1028,3.6686)",
+            "span": {
+              "offset": 389,
+              "length": 34
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Start with the basics",
+            "source": "D(1,1.2835,3.9291,2.5496,3.9289,2.5496,4.0978,1.2835,4.098)",
+            "span": {
+              "offset": 426,
+              "length": 25
+            }
+          },
+          {
+            "content": "Include bandages in different sizes, gauze pads, adhesive tape, antiseptic wipes, and antibiotic ointment to treat cuts and scrapes.",
+            "source": "D(1,1.2878,4.1252,3.9708,4.1358,3.9686,4.7006,1.2856,4.69)",
+            "span": {
+              "offset": 453,
+              "length": 132
+            }
+          },
+          {
+            "content": "Be ready for stings and allergies If someone has a known allergy, make sure you have their epinephrine auto-injector (like an EpiPen) and know how to use it.",
+            "source": "D(1,4.8933,3.9242,7.5818,3.9325,7.5794,4.7076,4.8909,4.6993)",
+            "span": {
+              "offset": 587,
+              "length": 157
+            }
+          },
+          {
+            "content": "+",
+            "source": "D(1,0.8942,5.1869,1.0212,5.186,1.0221,5.3146,0.8951,5.3154)",
+            "span": {
+              "offset": 746,
+              "length": 2
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Add items for common summer needs",
+            "source": "D(1,1.2822,5.0043,3.6687,5.0057,3.6686,5.1769,1.2821,5.1755)",
+            "span": {
+              "offset": 751,
+              "length": 37
+            }
+          },
+          {
+            "content": "Pack tweezers for splinters or ticks, aloe vera for sunburn, hydrocortisone cream for itchy bites, and an ice pack to reduce swelling.",
+            "source": "D(1,1.2856,5.2027,4.0656,5.2015,4.0659,5.7792,1.2859,5.7804)",
+            "span": {
+              "offset": 790,
+              "length": 134
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "Include a thermometer and gloves",
+            "source": "D(1,4.888,4.9987,7.0036,5.0031,7.0032,5.1988,4.8876,5.1944)",
+            "span": {
+              "offset": 927,
+              "length": 36
+            }
+          },
+          {
+            "content": "These tools help with checking temperatures and protecting yourself when giving care.",
+            "source": "D(1,4.8878,5.1983,7.4691,5.2113,7.4671,5.5996,4.8859,5.5866)",
+            "span": {
+              "offset": 965,
+              "length": 85
+            }
+          },
+          {
+            "content": "(",
+            "source": "D(1,0.8763,6.2205,0.9277,6.2195,0.9297,6.3252,0.8783,6.3262)",
+            "span": {
+              "offset": 1052,
+              "length": 1
+            }
+          },
+          {
+            "content": "Don't forget medications Include pain relievers like ibuprofen or acetaminophen, allergy medicine like antihistamines, and any personal medications your family may need.",
+            "source": "D(1,1.2811,6.0537,3.8933,6.0623,3.8901,7.0417,1.2779,7.0331)",
+            "span": {
+              "offset": 1055,
+              "length": 169
+            }
+          },
+          {
+            "content": "Check your kit often",
+            "source": "D(1,4.8918,6.0538,6.1886,6.0544,6.1885,6.2373,4.8917,6.2366)",
+            "span": {
+              "offset": 1226,
+              "length": 20
+            }
+          },
+          {
+            "content": "Replace anything that's expired, and make sure everything is clean and ready to use.",
+            "source": "D(1,4.89,6.2558,7.6102,6.2561,7.6102,6.6371,4.89,6.6368)",
+            "span": {
+              "offset": 1248,
+              "length": 84
+            }
+          },
+          {
+            "content": "One first aid kit is good, but two are better!",
+            "source": "D(1,2.3975,7.7242,3.5998,7.7255,3.5991,8.3252,2.3969,8.3239)",
+            "span": {
+              "offset": 1356,
+              "length": 46
+            }
+          },
+          {
+            "content": "A well-stocked first aid kit can help you take quick action. To be prepared no matter where you are, keep one in your home and another in your car.",
+            "source": "D(1,3.8183,7.7448,6.7286,7.7479,6.728,8.3239,3.8177,8.3208)",
+            "span": {
+              "offset": 1404,
+              "length": 147
+            }
+          },
+          {
+            "role": "sectionHeading",
+            "content": "We're here to help Reach out to us for guidance and resources.",
+            "source": "D(1,2.9855,8.6409,5.5044,8.6448,5.5038,9.0292,2.9849,9.0253)",
+            "span": {
+              "offset": 1554,
+              "length": 65
+            }
+          },
+          {
+            "content": "866-799-2731 answers@HealthAdvocate.com",
+            "source": "D(1,1.3217,9.1565,3.2986,9.1538,3.2992,9.5685,1.3223,9.5712)",
+            "span": {
+              "offset": 1621,
+              "length": 39
+            }
+          },
+          {
+            "content": "www.HealthAdvocate.com/waterfieldtech",
+            "source": "D(1,1.3218,9.6467,3.9685,9.6421,3.9688,9.7972,1.3221,9.8018)",
+            "span": {
+              "offset": 1662,
+              "length": 37
+            }
+          },
+          {
+            "content": "Registration code: SNASDX8",
+            "source": "D(1,0.5364,9.899,2.2854,9.8933,2.2859,10.0456,0.5369,10.0513)",
+            "span": {
+              "offset": 1701,
+              "length": 26
+            }
+          },
+          {
+            "content": "Call . Email . Message . Live Chat",
+            "source": "D(1,0.5339,10.1605,2.9332,10.151,2.934,10.3386,0.5346,10.3481)",
+            "span": {
+              "offset": 1729,
+              "length": 34
+            }
+          },
+          {
+            "content": "We're not an insurance company. Health Advocate is not a direct healthcare provider, and is not affiliated with any insurance company or third party provider. @2025 Health Advocate HA-M-2401066-1FLY",
+            "source": "D(1,0.5248,10.4185,3.8428,10.4121,3.8433,10.6424,0.5252,10.6488)",
+            "span": {
+              "offset": 1765,
+              "length": 198
+            }
+          },
+          {
+            "content": "HealthAdvocate\" SM",
+            "source": "D(1,5.747,10.1665,8.007,10.1676,8.0068,10.4371,5.7469,10.436)",
+            "span": {
+              "offset": 1976,
+              "length": 18
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 2005
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/figures/0",
+              "/paragraphs/1",
+              "/sections/1",
+              "/sections/5"
+            ]
+          },
+          {
+            "span": {
+              "offset": 389,
+              "length": 1162
+            },
+            "elements": [
+              "/paragraphs/2",
+              "/sections/2",
+              "/sections/3",
+              "/sections/4"
+            ]
+          },
+          {
+            "span": {
+              "offset": 426,
+              "length": 322
+            },
+            "elements": [
+              "/paragraphs/3",
+              "/paragraphs/4",
+              "/paragraphs/5",
+              "/paragraphs/6"
+            ]
+          },
+          {
+            "span": {
+              "offset": 751,
+              "length": 173
+            },
+            "elements": [
+              "/paragraphs/7",
+              "/paragraphs/8"
+            ]
+          },
+          {
+            "span": {
+              "offset": 927,
+              "length": 624
+            },
+            "elements": [
+              "/paragraphs/9",
+              "/paragraphs/10",
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13",
+              "/paragraphs/14",
+              "/figures/1",
+              "/paragraphs/15",
+              "/paragraphs/16"
+            ]
+          },
+          {
+            "span": {
+              "offset": 1554,
+              "length": 451
+            },
+            "elements": [
+              "/paragraphs/17",
+              "/paragraphs/18",
+              "/paragraphs/19",
+              "/paragraphs/20",
+              "/paragraphs/21",
+              "/paragraphs/22",
+              "/figures/2"
+            ]
+          }
+        ],
+        "figures": [
+          {
+            "source": "D(1,4.5019,0.2546,8.2503,0.2595,8.2499,2.0215,4.501,2.0168)",
+            "span": {
+              "offset": 47,
+              "length": 18
+            },
+            "id": "1.1"
+          },
+          {
+            "source": "D(1,1.7331,7.7065,2.2788,7.7065,2.2789,8.1608,1.7331,8.1608)",
+            "span": {
+              "offset": 1335,
+              "length": 18
+            },
+            "id": "1.2"
+          },
+          {
+            "source": "D(1,5.4056,10.0906,8.0136,10.0907,8.0135,10.4384,5.4055,10.4383)",
+            "span": {
+              "offset": 1966,
+              "length": 39
+            },
+            "elements": [
+              "/paragraphs/23"
+            ],
+            "id": "1.3"
+          }
+        ]
+      }
+    ]
+  }
+}

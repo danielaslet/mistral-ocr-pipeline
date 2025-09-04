@@ -1,0 +1,18 @@
+blob_container_url: "https://a1bgeneralresearch.blob.core.windows.net/document-intel-batch"
+prefix: ""  # Root directory
+sas_token: "sv=2024-11-04&ss=b&srt=sco&sp=rwdlaciyx&se=2025-10-09T04:08:46Z&st=2025-09-03T19:53:46Z&spr=https&sig=lkosjuZer98dbpGYgerBQZGajWJmNTz16aKMJgtbTXE%3D"
+
+analyzer_id: "prebuilt-documentAnalyzer"
+
+# Individual output directories
+log_output_dir: ./sow/outputs/logs
+markdown_output_dir: ./sow/outputs/markdown
+html_output_dir: ./sow/outputs/html
+
+enable_visualization: true
+
+visualization_rules:
+  - condition: '(?m)<!--\\s*(.*?)\\s*-->'
+    treatment: '<p style="color:blue;">--- COMMENT: \\1 ---</p>'
+  - condition: '(?ms)<figure>([\\s\\S]*?)</figure>'
+    treatment: '<div style="color:blue;">[Figure]</div><figure>\\1</figure>'

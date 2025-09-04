@@ -1,0 +1,2857 @@
+{
+  "id": "464e11a2-a878-4068-a8d2-6551902f6079",
+  "status": "Succeeded",
+  "result": {
+    "analyzerId": "prebuilt-documentAnalyzer",
+    "apiVersion": "2025-05-01-preview",
+    "createdAt": "2025-07-14T17:15:20Z",
+    "warnings": [],
+    "contents": [
+      {
+        "markdown": "<figure>\n\nBlueCross BlueShield of Oklahoma\n\n\u00ae\n\n\u00ae\n\n</figure>\n\n\n# 24/7 Nurseline Nurses available anytime you need them.\n\nHealth happens - good or bad,\n24 hours a day, seven days a week.\nThat is why we have registered nurses\nwaiting to talk to you whenever you\ncall our 24/7 Nurseline.\n\nOur nurses can answer your health questions\nand try to help you decide whether you should\ngo to the emergency room or urgent care center\nor make an appointment with your doctor. You\ncan also call the 24/7 Nurseline whenever you or\nyour covered family members need answers to\nhealth questions about:\n\n\u00b7 Asthma\n\n\u00b7 Dizziness or severe headaches\n\n\u00b7 Cuts or burns\n\n\u00b7 Back pain\n\n\u00b7 High fever\n\n\u00b7 Sore throat\n\n\u00b7 Diabetes\n\n\u00b7 A baby's nonstop crying\n\n\u00b7 And much more\n\nPlus when you call, you can access an audio library\nof more than 1,000 health topics - from allergies\nto surgeries - with more than 500 topics available\nin Spanish.\n\nSo, put the 24/7 Nurseline phone number in your\ncontacts today, because health happens 24/7.\n\n\n<figure>\n</figure>\n\n\n<figure>\n\n\\-\n\n</figure>\n\n\nCall the 24/7 Nurseline number on the back of your member ID card.\nHours of Operation: Anytime\n\nFor medical emergencies, call 911. This program is not a substitute for a doctor's care. Talk to your doctor about any health questions or concerns.\n\nBlue Cross and Blue Shield of Oklahoma, a Division of Health Care Service Corporation,\na Mutual Legal Reserve Company, an Independent Licensee of the Blue Cross and Blue Shield Association\n\n<!-- PageFooter=\"9100078.0420\" -->\n",
+        "fields": {
+          "Summary": {
+            "type": "string",
+            "valueString": "The document provides information about the 24/7 Nurseline service offered by BlueCross BlueShield of Oklahoma, which allows members to speak with registered nurses at any time for health advice and guidance. The service can help determine whether to visit an emergency room, urgent care, or a doctor, and offers an audio library of health topics. It emphasizes the importance of having the Nurseline number handy for immediate access to health support."
+          }
+        },
+        "kind": "document",
+        "startPageNumber": 1,
+        "endPageNumber": 1,
+        "unit": "inch",
+        "pages": [
+          {
+            "pageNumber": 1,
+            "angle": 0.03172292,
+            "width": 8.5,
+            "height": 11,
+            "spans": [
+              {
+                "offset": 0,
+                "length": 1522
+              }
+            ],
+            "words": [
+              {
+                "content": "BlueCross",
+                "span": {
+                  "offset": 10,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3716,0.4982,2.3955,0.497,2.3949,0.708,1.3712,0.7071)"
+              },
+              {
+                "content": "BlueShield",
+                "span": {
+                  "offset": 20,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.4403,0.4968,3.5193,0.4983,3.5187,0.7086,2.4397,0.7082)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 31,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.5641,0.4986,3.7572,0.4991,3.7565,0.7086,3.5635,0.7086)"
+              },
+              {
+                "content": "Oklahoma",
+                "span": {
+                  "offset": 34,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.7985,0.4992,4.7914,0.5023,4.791,0.7086,3.7979,0.7086)"
+              },
+              {
+                "content": "\u00ae",
+                "span": {
+                  "offset": 44,
+                  "length": 1
+                },
+                "confidence": 0.321,
+                "source": "D(1,0.8084,0.7543,0.8518,0.7558,0.8518,0.8163,0.8085,0.8159)"
+              },
+              {
+                "content": "\u00ae",
+                "span": {
+                  "offset": 47,
+                  "length": 1
+                },
+                "confidence": 0.646,
+                "source": "D(1,1.1895,0.7619,1.234,0.7646,1.2308,0.8146,1.185,0.8116)"
+              },
+              {
+                "content": "24/7",
+                "span": {
+                  "offset": 64,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.4893,1.3979,1.2934,1.397,1.2922,1.7476,0.489,1.7477)"
+              },
+              {
+                "content": "Nurseline",
+                "span": {
+                  "offset": 69,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.4496,1.3982,3.1598,1.3936,3.1598,1.7494,1.4481,1.7483)"
+              },
+              {
+                "content": "Nurses",
+                "span": {
+                  "offset": 79,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.4965,1.8421,1.2227,1.8413,1.2226,2.0652,0.4965,2.0618)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 86,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.2931,1.8414,2.2194,1.8434,2.2188,2.0722,1.293,2.0657)"
+              },
+              {
+                "content": "anytime",
+                "span": {
+                  "offset": 96,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.2898,1.8433,3.1488,1.8455,3.1488,2.0755,2.2891,2.073)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 104,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,0.4807,2.117,0.8687,2.1118,0.8707,2.3265,0.4831,2.3362)"
+              },
+              {
+                "content": "need",
+                "span": {
+                  "offset": 108,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.9498,2.1105,1.44,2.1029,1.4412,2.3179,0.9515,2.3246)"
+              },
+              {
+                "content": "them.",
+                "span": {
+                  "offset": 113,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.5105,2.1026,2.125,2.0976,2.125,2.3121,1.5116,2.3171)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 120,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.4941,2.4074,1.0018,2.4077,1.002,2.6094,0.4951,2.6065)"
+              },
+              {
+                "content": "happens",
+                "span": {
+                  "offset": 127,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.0645,2.4073,1.7238,2.4094,1.7242,2.6114,1.0647,2.6096)"
+              },
+              {
+                "content": "-",
+                "span": {
+                  "offset": 135,
+                  "length": 1
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.7766,2.4103,1.8524,2.4115,1.8527,2.6089,1.7769,2.6104)"
+              },
+              {
+                "content": "good",
+                "span": {
+                  "offset": 137,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.9019,2.4112,2.281,2.4078,2.2812,2.6093,1.9021,2.6087)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 142,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.3436,2.4077,2.4854,2.4088,2.4855,2.6086,2.3438,2.6095)"
+              },
+              {
+                "content": "bad,",
+                "span": {
+                  "offset": 145,
+                  "length": 4
+                },
+                "confidence": 0.986,
+                "source": "D(1,2.525,2.4092,2.8942,2.4054,2.8942,2.6061,2.5251,2.6083)"
+              },
+              {
+                "content": "24",
+                "span": {
+                  "offset": 150,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4891,2.6333,0.6673,2.6327,0.6676,2.8226,0.4894,2.821)"
+              },
+              {
+                "content": "hours",
+                "span": {
+                  "offset": 153,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.7054,2.6327,1.1795,2.6326,1.1796,2.8274,0.7057,2.823)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 159,
+                  "length": 1
+                },
+                "confidence": 0.983,
+                "source": "D(1,1.2336,2.633,1.31,2.6333,1.3101,2.8285,1.2337,2.828)"
+              },
+              {
+                "content": "day,",
+                "span": {
+                  "offset": 161,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3704,2.6334,1.6759,2.6332,1.6761,2.8289,1.3706,2.8288)"
+              },
+              {
+                "content": "seven",
+                "span": {
+                  "offset": 166,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.7332,2.6331,2.1691,2.635,2.1692,2.8289,1.7334,2.8289)"
+              },
+              {
+                "content": "days",
+                "span": {
+                  "offset": 172,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.2295,2.6358,2.5763,2.6351,2.5762,2.8289,2.2296,2.8289)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 177,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6272,2.6351,2.7068,2.6349,2.7066,2.8289,2.6271,2.8289)"
+              },
+              {
+                "content": "week.",
+                "span": {
+                  "offset": 179,
+                  "length": 5
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.7609,2.6348,3.2152,2.634,3.2152,2.825,2.7607,2.8289)"
+              },
+              {
+                "content": "That",
+                "span": {
+                  "offset": 185,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.4861,2.8525,0.8259,2.8501,0.8262,3.0494,0.4865,3.0461)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 190,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.8651,2.8502,1.0056,2.8503,1.0058,3.0502,0.8654,3.0494)"
+              },
+              {
+                "content": "why",
+                "span": {
+                  "offset": 193,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.0546,2.8504,1.3486,2.85,1.3489,3.0503,1.0548,3.0503)"
+              },
+              {
+                "content": "we",
+                "span": {
+                  "offset": 197,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.3878,2.8498,1.6295,2.8493,1.6297,3.0503,1.3881,3.0503)"
+              },
+              {
+                "content": "have",
+                "span": {
+                  "offset": 200,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6916,2.8493,2.0281,2.8515,2.0279,3.0503,1.6916,3.0503)"
+              },
+              {
+                "content": "registered",
+                "span": {
+                  "offset": 205,
+                  "length": 10
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0673,2.8513,2.8644,2.8532,2.8635,3.0503,2.0671,3.0503)"
+              },
+              {
+                "content": "nurses",
+                "span": {
+                  "offset": 216,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.9036,2.8531,3.4642,2.8543,3.4642,3.0476,2.9026,3.0503)"
+              },
+              {
+                "content": "waiting",
+                "span": {
+                  "offset": 223,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.4857,3.082,1.0575,3.0812,1.0581,3.275,0.4863,3.2748)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 231,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.1022,3.0811,1.2556,3.0804,1.2559,3.277,1.1028,3.2752)"
+              },
+              {
+                "content": "talk",
+                "span": {
+                  "offset": 234,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3035,3.0803,1.5814,3.0801,1.5816,3.2773,1.3038,3.2773)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 239,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.6293,3.0801,1.7826,3.08,1.7828,3.277,1.6295,3.2773)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 242,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.8305,3.08,2.1084,3.0794,2.1086,3.2771,1.8307,3.2766)"
+              },
+              {
+                "content": "whenever",
+                "span": {
+                  "offset": 246,
+                  "length": 8
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.1627,3.0798,2.9293,3.0842,2.9282,3.2773,2.1628,3.2771)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 255,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.9709,3.0845,3.265,3.0862,3.265,3.2773,2.9697,3.2773)"
+              },
+              {
+                "content": "call",
+                "span": {
+                  "offset": 259,
+                  "length": 4
+                },
+                "confidence": 0.99,
+                "source": "D(1,0.4921,3.2988,0.7421,3.2996,0.7426,3.4791,0.493,3.4807)"
+              },
+              {
+                "content": "our",
+                "span": {
+                  "offset": 264,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.8046,3.2991,1.0694,3.2984,1.07,3.4805,0.805,3.4792)"
+              },
+              {
+                "content": "24/7",
+                "span": {
+                  "offset": 268,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.117,3.2982,1.4444,3.2984,1.4447,3.4802,1.1175,3.4808)"
+              },
+              {
+                "content": "Nurseline.",
+                "span": {
+                  "offset": 273,
+                  "length": 10
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.4801,3.2985,2.3013,3.299,2.3013,3.481,1.4804,3.48)"
+              },
+              {
+                "content": "Our",
+                "span": {
+                  "offset": 285,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4925,3.7301,0.7208,3.731,0.7211,3.8927,0.4928,3.891)"
+              },
+              {
+                "content": "nurses",
+                "span": {
+                  "offset": 289,
+                  "length": 6
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.7534,3.7308,1.1964,3.7305,1.1965,3.895,0.7537,3.8928)"
+              },
+              {
+                "content": "can",
+                "span": {
+                  "offset": 296,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.2426,3.7308,1.4492,3.7296,1.4493,3.8961,1.2427,3.8952)"
+              },
+              {
+                "content": "answer",
+                "span": {
+                  "offset": 300,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.4954,3.7291,1.9439,3.7296,1.944,3.8967,1.4955,3.8963)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 307,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.9792,3.7295,2.2429,3.7292,2.2429,3.8973,1.9793,3.8969)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 312,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.2755,3.7293,2.6832,3.7302,2.6829,3.8971,2.2755,3.8973)"
+              },
+              {
+                "content": "questions",
+                "span": {
+                  "offset": 319,
+                  "length": 9
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.7321,3.7303,3.348,3.733,3.348,3.8958,2.7318,3.8967)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 329,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.4909,3.9261,0.7276,3.9246,0.7281,4.095,0.4914,4.0928)"
+              },
+              {
+                "content": "try",
+                "span": {
+                  "offset": 333,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.7726,3.9245,0.9191,3.9242,0.9196,4.0964,0.7732,4.0954)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 337,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.9529,3.9239,1.0769,3.9228,1.0773,4.0957,0.9534,4.0963)"
+              },
+              {
+                "content": "help",
+                "span": {
+                  "offset": 340,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1107,3.9225,1.4065,3.9215,1.4069,4.0962,1.1111,4.0955)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 345,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.4431,3.9214,1.6656,3.9205,1.666,4.0959,1.4435,4.0964)"
+              },
+              {
+                "content": "decide",
+                "span": {
+                  "offset": 349,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.7135,3.9203,2.1023,3.9211,2.1024,4.0951,1.7139,4.0955)"
+              },
+              {
+                "content": "whether",
+                "span": {
+                  "offset": 356,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.1361,3.9212,2.6544,3.9204,2.6545,4.0931,2.1362,4.0953)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 364,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.6882,3.9204,2.9333,3.9213,2.9333,4.0921,2.6883,4.0929)"
+              },
+              {
+                "content": "should",
+                "span": {
+                  "offset": 368,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.9783,3.9215,3.4089,3.9202,3.4089,4.0875,2.9783,4.092)"
+              },
+              {
+                "content": "go",
+                "span": {
+                  "offset": 375,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.4876,4.1269,0.6469,4.1262,0.6474,4.2901,0.4883,4.2904)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 378,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,0.6901,4.1261,0.8115,4.1251,0.8119,4.2903,0.6906,4.2899)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 381,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.852,4.1247,1.0518,4.1243,1.0519,4.2904,0.8523,4.2904)"
+              },
+              {
+                "content": "emergency",
+                "span": {
+                  "offset": 385,
+                  "length": 9
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.0977,4.1243,1.7617,4.1243,1.7617,4.2901,1.0977,4.2903)"
+              },
+              {
+                "content": "room",
+                "span": {
+                  "offset": 395,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.7941,4.1245,2.1531,4.1231,2.1524,4.2891,1.7941,4.2902)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 400,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.1989,4.1231,2.3312,4.1234,2.3308,4.288,2.1983,4.2889)"
+              },
+              {
+                "content": "urgent",
+                "span": {
+                  "offset": 403,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.3771,4.1235,2.7793,4.1231,2.7786,4.2871,2.3767,4.2877)"
+              },
+              {
+                "content": "care",
+                "span": {
+                  "offset": 410,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.8198,4.1231,3.0816,4.1227,3.0805,4.2853,2.819,4.2869)"
+              },
+              {
+                "content": "center",
+                "span": {
+                  "offset": 415,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.1275,4.1225,3.5306,4.1223,3.5306,4.2843,3.1264,4.2852)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 422,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4925,4.3182,0.6128,4.318,0.6132,4.4797,0.4929,4.478)"
+              },
+              {
+                "content": "make",
+                "span": {
+                  "offset": 425,
+                  "length": 4
+                },
+                "confidence": 0.987,
+                "source": "D(1,0.6456,4.318,1.0064,4.3152,1.0068,4.4819,0.646,4.4801)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 430,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.0474,4.3149,1.195,4.3142,1.1955,4.4824,1.0478,4.482)"
+              },
+              {
+                "content": "appointment",
+                "span": {
+                  "offset": 433,
+                  "length": 11
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.2415,4.3142,2.0232,4.3119,2.0235,4.4821,1.2421,4.4824)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 445,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.056,4.312,2.3184,4.3126,2.3186,4.4809,2.0562,4.4821)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 450,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.3512,4.3126,2.6574,4.3117,2.6575,4.4798,2.3514,4.4806)"
+              },
+              {
+                "content": "doctor.",
+                "span": {
+                  "offset": 455,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6984,4.3118,3.133,4.313,3.1328,4.4779,2.6985,4.4797)"
+              },
+              {
+                "content": "You",
+                "span": {
+                  "offset": 463,
+                  "length": 3
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.174,4.313,3.4199,4.3129,3.4199,4.476,3.1738,4.4778)"
+              },
+              {
+                "content": "can",
+                "span": {
+                  "offset": 467,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.4914,4.5135,0.7131,4.5124,0.7135,4.6681,0.4917,4.6673)"
+              },
+              {
+                "content": "also",
+                "span": {
+                  "offset": 471,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.76,4.5121,1.0026,4.5107,1.0029,4.6679,0.7604,4.6681)"
+              },
+              {
+                "content": "call",
+                "span": {
+                  "offset": 476,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.0469,4.5105,1.2374,4.5091,1.2376,4.6679,1.0472,4.6679)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 481,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,1.2817,4.5086,1.4825,4.5077,1.4828,4.6686,1.2819,4.668)"
+              },
+              {
+                "content": "24/7",
+                "span": {
+                  "offset": 485,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,1.5269,4.5077,1.7955,4.5076,1.7955,4.6692,1.5271,4.6687)"
+              },
+              {
+                "content": "Nurseline",
+                "span": {
+                  "offset": 490,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.8268,4.5075,2.4372,4.5084,2.4372,4.6683,1.8268,4.6691)"
+              },
+              {
+                "content": "whenever",
+                "span": {
+                  "offset": 500,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4763,4.5087,3.0893,4.5118,3.0888,4.6717,2.4763,4.6685)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 509,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,3.1232,4.5118,3.3423,4.5114,3.3421,4.6724,3.1227,4.6719)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 513,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,3.3945,4.512,3.5361,4.5137,3.5361,4.6713,3.3943,4.6723)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 516,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.48,4.714,0.7796,4.7093,0.7811,4.8714,0.4808,4.8717)"
+              },
+              {
+                "content": "covered",
+                "span": {
+                  "offset": 521,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.8201,4.7088,1.3058,4.7045,1.3069,4.8711,0.8216,4.8713)"
+              },
+              {
+                "content": "family",
+                "span": {
+                  "offset": 529,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.3517,4.7041,1.6999,4.7015,1.7002,4.8699,1.3527,4.8709)"
+              },
+              {
+                "content": "members",
+                "span": {
+                  "offset": 536,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.7322,4.7014,2.3368,4.7008,2.337,4.8669,1.7326,4.8699)"
+              },
+              {
+                "content": "need",
+                "span": {
+                  "offset": 544,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.3692,4.7007,2.6957,4.7009,2.6958,4.8658,2.3694,4.8667)"
+              },
+              {
+                "content": "answers",
+                "span": {
+                  "offset": 549,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.7443,4.7009,3.2544,4.7005,3.2544,4.864,2.7444,4.8655)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 557,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,3.2922,4.7005,3.431,4.7007,3.431,4.8623,3.2922,4.8636)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 560,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,0.4907,4.8972,0.8805,4.8976,0.8808,5.0599,0.4909,5.0599)"
+              },
+              {
+                "content": "questions",
+                "span": {
+                  "offset": 567,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.9313,4.8978,1.5348,4.8984,1.5347,5.0595,0.9315,5.0599)"
+              },
+              {
+                "content": "about:",
+                "span": {
+                  "offset": 577,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.5775,4.8984,1.9811,4.8976,1.9811,5.059,1.5774,5.0593)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 585,
+                  "length": 1
+                },
+                "confidence": 0.582,
+                "source": "D(1,0.494,5.166,0.5485,5.1654,0.5491,5.3019,0.4947,5.3011)"
+              },
+              {
+                "content": "Asthma",
+                "span": {
+                  "offset": 587,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.6825,5.1644,1.1676,5.1643,1.1676,5.3035,0.683,5.3012)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 595,
+                  "length": 1
+                },
+                "confidence": 0.572,
+                "source": "D(1,0.4966,5.3892,0.5468,5.3895,0.5473,5.5307,0.4971,5.53)"
+              },
+              {
+                "content": "Dizziness",
+                "span": {
+                  "offset": 597,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6949,5.3901,1.2589,5.3874,1.2593,5.5329,0.6954,5.5316)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 607,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.3019,5.3877,1.4334,5.3882,1.4337,5.5333,1.3023,5.533)"
+              },
+              {
+                "content": "severe",
+                "span": {
+                  "offset": 610,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.474,5.388,1.8755,5.3856,1.8756,5.5333,1.4744,5.5334)"
+              },
+              {
+                "content": "headaches",
+                "span": {
+                  "offset": 617,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.928,5.385,2.6064,5.3851,2.6064,5.5329,1.9281,5.5334)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 628,
+                  "length": 1
+                },
+                "confidence": 0.548,
+                "source": "D(1,0.4953,5.6204,0.5482,5.6193,0.5487,5.7531,0.4959,5.7523)"
+              },
+              {
+                "content": "Cuts",
+                "span": {
+                  "offset": 630,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.6914,5.6191,0.9624,5.618,0.9628,5.7534,0.6918,5.7527)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 635,
+                  "length": 2
+                },
+                "confidence": 0.987,
+                "source": "D(1,1.0043,5.6186,1.1342,5.6188,1.1346,5.7541,1.0046,5.7537)"
+              },
+              {
+                "content": "burns",
+                "span": {
+                  "offset": 638,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.1805,5.6189,1.5495,5.6192,1.5495,5.7536,1.1808,5.754)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 645,
+                  "length": 1
+                },
+                "confidence": 0.698,
+                "source": "D(1,0.4954,5.8385,0.5482,5.838,0.5485,5.9871,0.496,5.9863)"
+              },
+              {
+                "content": "Back",
+                "span": {
+                  "offset": 647,
+                  "length": 4
+                },
+                "confidence": 0.984,
+                "source": "D(1,0.6965,5.8381,0.9805,5.8384,0.9806,5.9944,0.6966,5.9882)"
+              },
+              {
+                "content": "pain",
+                "span": {
+                  "offset": 652,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.0257,5.8388,1.2949,5.8403,1.2949,5.9955,1.0258,5.9948)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 658,
+                  "length": 1
+                },
+                "confidence": 0.572,
+                "source": "D(1,0.4955,6.0679,0.5485,6.0667,0.5488,6.2169,0.496,6.2166)"
+              },
+              {
+                "content": "High",
+                "span": {
+                  "offset": 660,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,0.695,6.0637,0.9626,6.0637,0.9627,6.2169,0.6952,6.2169)"
+              },
+              {
+                "content": "fever",
+                "span": {
+                  "offset": 665,
+                  "length": 5
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.0081,6.0633,1.3281,6.0649,1.3281,6.2169,1.0081,6.2169)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 672,
+                  "length": 1
+                },
+                "confidence": 0.224,
+                "source": "D(1,0.4951,6.2932,0.5486,6.2921,0.549,6.4317,0.4957,6.4306)"
+              },
+              {
+                "content": "Sore",
+                "span": {
+                  "offset": 674,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.688,6.2916,0.9692,6.2914,0.9695,6.4328,0.6883,6.432)"
+              },
+              {
+                "content": "throat",
+                "span": {
+                  "offset": 679,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.011,6.2919,1.4056,6.2904,1.4056,6.4328,1.0113,6.4328)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 687,
+                  "length": 1
+                },
+                "confidence": 0.575,
+                "source": "D(1,0.4944,6.5181,0.5469,6.5184,0.5475,6.6543,0.4952,6.6549)"
+              },
+              {
+                "content": "Diabetes",
+                "span": {
+                  "offset": 689,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6952,6.5169,1.2451,6.5187,1.2451,6.658,0.6957,6.6552)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 699,
+                  "length": 1
+                },
+                "confidence": 0.315,
+                "source": "D(1,0.496,6.7434,0.549,6.7433,0.5493,6.8981,0.4965,6.898)"
+              },
+              {
+                "content": "A",
+                "span": {
+                  "offset": 701,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6839,6.742,0.7713,6.7406,0.7714,6.8995,0.6841,6.8989)"
+              },
+              {
+                "content": "baby's",
+                "span": {
+                  "offset": 703,
+                  "length": 6
+                },
+                "confidence": 0.963,
+                "source": "D(1,0.8162,6.74,1.1894,6.7403,1.1894,6.9024,0.8163,6.8997)"
+              },
+              {
+                "content": "nonstop",
+                "span": {
+                  "offset": 710,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.237,6.7405,1.7451,6.7417,1.7448,6.9053,1.237,6.9028)"
+              },
+              {
+                "content": "crying",
+                "span": {
+                  "offset": 718,
+                  "length": 6
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.7901,6.7418,2.1693,6.7429,2.1693,6.9064,1.7897,6.9053)"
+              },
+              {
+                "content": "\u00b7",
+                "span": {
+                  "offset": 726,
+                  "length": 1
+                },
+                "confidence": 0.319,
+                "source": "D(1,0.4955,6.9676,0.5472,6.9672,0.5478,7.1075,0.4961,7.1072)"
+              },
+              {
+                "content": "And",
+                "span": {
+                  "offset": 728,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.6836,6.9669,0.9234,6.9657,0.9239,7.1098,0.684,7.1087)"
+              },
+              {
+                "content": "much",
+                "span": {
+                  "offset": 732,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.9775,6.9654,1.3138,6.9656,1.3142,7.1104,0.978,7.1098)"
+              },
+              {
+                "content": "more",
+                "span": {
+                  "offset": 737,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.3678,6.9655,1.7044,6.9667,1.7044,7.1099,1.3683,7.1105)"
+              },
+              {
+                "content": "Plus",
+                "span": {
+                  "offset": 743,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,0.4945,7.2121,0.7526,7.2131,0.7522,7.3837,0.494,7.383)"
+              },
+              {
+                "content": "when",
+                "span": {
+                  "offset": 748,
+                  "length": 4
+                },
+                "confidence": 0.991,
+                "source": "D(1,0.7947,7.2131,1.1117,7.2125,1.1113,7.3846,0.7943,7.384)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 753,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.1454,7.2124,1.3894,7.2134,1.3887,7.3871,1.145,7.3846)"
+              },
+              {
+                "content": "call,",
+                "span": {
+                  "offset": 757,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.4399,7.2133,1.6616,7.2133,1.6607,7.3867,1.4392,7.3872)"
+              },
+              {
+                "content": "you",
+                "span": {
+                  "offset": 763,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.7008,7.2136,1.9224,7.215,1.9215,7.3866,1.6999,7.3866)"
+              },
+              {
+                "content": "can",
+                "span": {
+                  "offset": 767,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,1.9729,7.2152,2.1805,7.2155,2.18,7.3864,1.9722,7.3868)"
+              },
+              {
+                "content": "access",
+                "span": {
+                  "offset": 771,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.2282,7.2156,2.6294,7.2166,2.6287,7.3855,2.2276,7.386)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 778,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,2.6743,7.2163,2.8173,7.2159,2.8163,7.3851,2.6735,7.3855)"
+              },
+              {
+                "content": "audio",
+                "span": {
+                  "offset": 781,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.865,7.216,3.2101,7.2154,3.2079,7.3864,2.8639,7.3848)"
+              },
+              {
+                "content": "library",
+                "span": {
+                  "offset": 787,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.2578,7.2152,3.6523,7.2183,3.6523,7.3903,3.2556,7.3868)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 795,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4922,7.4075,0.6036,7.4078,0.6039,7.5736,0.4924,7.5736)"
+              },
+              {
+                "content": "more",
+                "span": {
+                  "offset": 798,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.637,7.4079,0.9852,7.407,0.9855,7.5744,0.6373,7.5736)"
+              },
+              {
+                "content": "than",
+                "span": {
+                  "offset": 803,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.027,7.407,1.3056,7.4061,1.3058,7.5757,1.0273,7.5745)"
+              },
+              {
+                "content": "1,000",
+                "span": {
+                  "offset": 808,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.3586,7.4059,1.6734,7.4042,1.6733,7.577,1.3587,7.576)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 814,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.7068,7.4042,2.1135,7.406,2.1133,7.5772,1.7066,7.5769)"
+              },
+              {
+                "content": "topics",
+                "span": {
+                  "offset": 821,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.1581,7.4059,2.5286,7.4068,2.5285,7.5778,2.1579,7.5771)"
+              },
+              {
+                "content": "-",
+                "span": {
+                  "offset": 828,
+                  "length": 1
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.5704,7.4068,2.6345,7.4069,2.6343,7.5783,2.5702,7.578)"
+              },
+              {
+                "content": "from",
+                "span": {
+                  "offset": 830,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6735,7.407,2.966,7.4082,2.9651,7.5788,2.6732,7.5784)"
+              },
+              {
+                "content": "allergies",
+                "span": {
+                  "offset": 835,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.0133,7.4083,3.5306,7.4109,3.5306,7.5788,3.0125,7.5788)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 845,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.4865,7.6093,0.6199,7.6091,0.6202,7.7725,0.4867,7.7723)"
+              },
+              {
+                "content": "surgeries",
+                "span": {
+                  "offset": 848,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,0.6661,7.6091,1.235,7.6057,1.2356,7.7706,0.6665,7.7725)"
+              },
+              {
+                "content": "-",
+                "span": {
+                  "offset": 858,
+                  "length": 1
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.2759,7.6057,1.3249,7.6058,1.3254,7.7708,1.2764,7.7707)"
+              },
+              {
+                "content": "with",
+                "span": {
+                  "offset": 860,
+                  "length": 4
+                },
+                "confidence": 0.985,
+                "source": "D(1,1.3575,7.6058,1.6325,7.6044,1.6329,7.7705,1.358,7.7709)"
+              },
+              {
+                "content": "more",
+                "span": {
+                  "offset": 865,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.6842,7.6041,2.0054,7.6028,2.0057,7.7705,1.6846,7.7703)"
+              },
+              {
+                "content": "than",
+                "span": {
+                  "offset": 870,
+                  "length": 4
+                },
+                "confidence": 0.984,
+                "source": "D(1,2.0462,7.6027,2.3239,7.6028,2.3242,7.7709,2.0465,7.7706)"
+              },
+              {
+                "content": "500",
+                "span": {
+                  "offset": 875,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.3729,7.603,2.6015,7.6026,2.6018,7.771,2.3732,7.7708)"
+              },
+              {
+                "content": "topics",
+                "span": {
+                  "offset": 879,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.6424,7.6023,3.0099,7.6014,3.0099,7.7686,2.6426,7.7711)"
+              },
+              {
+                "content": "available",
+                "span": {
+                  "offset": 886,
+                  "length": 9
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.0534,7.6014,3.5915,7.6028,3.5915,7.7672,3.0535,7.7687)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 896,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.4892,7.805,0.6032,7.8044,0.6037,7.9634,0.4898,7.9634)"
+              },
+              {
+                "content": "Spanish.",
+                "span": {
+                  "offset": 899,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.6498,7.804,1.1787,7.8047,1.1787,7.9625,0.6502,7.9626)"
+              },
+              {
+                "content": "So,",
+                "span": {
+                  "offset": 909,
+                  "length": 3
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.4902,8.0554,0.6676,8.0556,0.6679,8.2248,0.4901,8.2238)"
+              },
+              {
+                "content": "put",
+                "span": {
+                  "offset": 913,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,0.7009,8.0556,0.9115,8.055,0.9117,8.2245,0.7013,8.2249)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 917,
+                  "length": 3
+                },
+                "confidence": 0.999,
+                "source": "D(1,0.9448,8.0549,1.1693,8.0549,1.1693,8.2244,0.945,8.2244)"
+              },
+              {
+                "content": "24/7",
+                "span": {
+                  "offset": 921,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.2136,8.0551,1.4769,8.0548,1.4768,8.2248,1.2136,8.2246)"
+              },
+              {
+                "content": "Nurseline",
+                "span": {
+                  "offset": 926,
+                  "length": 9
+                },
+                "confidence": 0.995,
+                "source": "D(1,1.5102,8.0545,2.1255,8.0553,2.1253,8.2233,1.5101,8.2247)"
+              },
+              {
+                "content": "phone",
+                "span": {
+                  "offset": 936,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.1726,8.0552,2.5523,8.0552,2.5521,8.2248,2.1724,8.2233)"
+              },
+              {
+                "content": "number",
+                "span": {
+                  "offset": 942,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.5856,8.0552,3.0845,8.0559,3.0836,8.2253,2.5853,8.225)"
+              },
+              {
+                "content": "in",
+                "span": {
+                  "offset": 949,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.1177,8.0559,3.248,8.0559,3.247,8.2263,3.1168,8.2255)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 952,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.2896,8.0559,3.5804,8.0589,3.5804,8.2257,3.2886,8.2265)"
+              },
+              {
+                "content": "contacts",
+                "span": {
+                  "offset": 957,
+                  "length": 8
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4939,8.258,1.0224,8.2547,1.0228,8.4181,0.4945,8.4177)"
+              },
+              {
+                "content": "today,",
+                "span": {
+                  "offset": 966,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.0603,8.2544,1.4316,8.253,1.4322,8.4192,1.0607,8.4179)"
+              },
+              {
+                "content": "because",
+                "span": {
+                  "offset": 973,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.4858,8.2529,1.979,8.2514,1.9794,8.4177,1.4865,8.4192)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 981,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.0116,8.2513,2.4181,8.2501,2.4184,8.4172,2.0119,8.4178)"
+              },
+              {
+                "content": "happens",
+                "span": {
+                  "offset": 988,
+                  "length": 7
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.4696,8.2499,3.0007,8.2484,3.0008,8.4162,2.4698,8.4171)"
+              },
+              {
+                "content": "24/7.",
+                "span": {
+                  "offset": 996,
+                  "length": 5
+                },
+                "confidence": 0.981,
+                "source": "D(1,3.0468,8.2484,3.3646,8.2496,3.3646,8.4134,3.0469,8.4159)"
+              },
+              {
+                "content": "-",
+                "span": {
+                  "offset": 1035,
+                  "length": 2
+                },
+                "confidence": 0.653,
+                "source": "D(1,1.1908,9.553,1.2483,9.5526,1.247,9.5994,1.1896,9.5994)"
+              },
+              {
+                "content": "Call",
+                "span": {
+                  "offset": 1051,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.026,9.1856,2.281,9.1857,2.2811,9.3421,2.0262,9.3419)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1056,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.3231,9.1857,2.5518,9.1857,2.5519,9.3426,2.3232,9.3421)"
+              },
+              {
+                "content": "24/7",
+                "span": {
+                  "offset": 1060,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,2.5939,9.1857,2.8778,9.1854,2.8779,9.3434,2.5939,9.3427)"
+              },
+              {
+                "content": "Nurseline",
+                "span": {
+                  "offset": 1065,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.9094,9.1854,3.5982,9.1846,3.5984,9.3452,2.9095,9.3435)"
+              },
+              {
+                "content": "number",
+                "span": {
+                  "offset": 1075,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.6429,9.1844,4.1897,9.1853,4.1901,9.3462,3.6431,9.3454)"
+              },
+              {
+                "content": "on",
+                "span": {
+                  "offset": 1082,
+                  "length": 2
+                },
+                "confidence": 0.999,
+                "source": "D(1,4.2265,9.1853,4.3921,9.1854,4.3924,9.3463,4.2269,9.3462)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1085,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,4.4368,9.1854,4.6682,9.1857,4.6685,9.3479,4.4371,9.3465)"
+              },
+              {
+                "content": "back",
+                "span": {
+                  "offset": 1089,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.7155,9.1857,5.0362,9.1853,5.0364,9.3492,4.7158,9.3482)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1094,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.0757,9.1852,5.2124,9.1853,5.2125,9.3491,5.0758,9.3493)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1097,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.2439,9.1853,5.5673,9.1854,5.5674,9.3485,5.244,9.3491)"
+              },
+              {
+                "content": "member",
+                "span": {
+                  "offset": 1102,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,5.612,9.1854,6.193,9.1845,6.1933,9.3465,5.6122,9.3484)"
+              },
+              {
+                "content": "ID",
+                "span": {
+                  "offset": 1109,
+                  "length": 2
+                },
+                "confidence": 0.989,
+                "source": "D(1,6.2377,9.1845,6.3718,9.1846,6.372,9.3461,6.238,9.3464)"
+              },
+              {
+                "content": "card.",
+                "span": {
+                  "offset": 1112,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,6.4165,9.1846,6.7624,9.1859,6.7624,9.3455,6.4166,9.346)"
+              },
+              {
+                "content": "Hours",
+                "span": {
+                  "offset": 1118,
+                  "length": 5
+                },
+                "confidence": 0.997,
+                "source": "D(1,2.0238,9.3854,2.4422,9.3854,2.4426,9.5431,2.0244,9.5416)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1124,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.484,9.3853,2.6279,9.3849,2.6282,9.544,2.4844,9.5433)"
+              },
+              {
+                "content": "Operation:",
+                "span": {
+                  "offset": 1127,
+                  "length": 10
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.6645,9.3848,3.3992,9.3845,3.3995,9.544,2.6648,9.544)"
+              },
+              {
+                "content": "Anytime",
+                "span": {
+                  "offset": 1138,
+                  "length": 7
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.4384,9.3844,4.0342,9.3855,4.0342,9.544,3.4387,9.544)"
+              },
+              {
+                "content": "For",
+                "span": {
+                  "offset": 1147,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.4927,10.38,0.6118,10.3796,0.6118,10.4907,0.4926,10.4907)"
+              },
+              {
+                "content": "medical",
+                "span": {
+                  "offset": 1151,
+                  "length": 7
+                },
+                "confidence": 0.994,
+                "source": "D(1,0.6341,10.3796,0.9468,10.3788,0.9469,10.4907,0.6341,10.4907)"
+              },
+              {
+                "content": "emergencies,",
+                "span": {
+                  "offset": 1159,
+                  "length": 12
+                },
+                "confidence": 0.991,
+                "source": "D(1,0.9747,10.3787,1.4847,10.3776,1.4846,10.4907,0.9748,10.4907)"
+              },
+              {
+                "content": "call",
+                "span": {
+                  "offset": 1172,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.5126,10.3775,1.6336,10.3769,1.6335,10.4907,1.5125,10.4907)"
+              },
+              {
+                "content": "911.",
+                "span": {
+                  "offset": 1177,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6615,10.3767,1.8215,10.3766,1.8214,10.4907,1.6614,10.4907)"
+              },
+              {
+                "content": "This",
+                "span": {
+                  "offset": 1182,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.8457,10.3767,2.0039,10.3769,2.0038,10.4907,1.8456,10.4907)"
+              },
+              {
+                "content": "program",
+                "span": {
+                  "offset": 1187,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.0319,10.3769,2.3371,10.3776,2.337,10.4907,2.0317,10.4907)"
+              },
+              {
+                "content": "is",
+                "span": {
+                  "offset": 1195,
+                  "length": 2
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.3687,10.3776,2.4357,10.3778,2.4357,10.4907,2.3687,10.4907)"
+              },
+              {
+                "content": "not",
+                "span": {
+                  "offset": 1198,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.4581,10.3778,2.6014,10.3781,2.6015,10.4907,2.4581,10.4907)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1202,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,2.6237,10.3781,2.6665,10.3782,2.6666,10.4907,2.6238,10.4907)"
+              },
+              {
+                "content": "substitute",
+                "span": {
+                  "offset": 1204,
+                  "length": 10
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.6926,10.3782,3.076,10.3786,3.0761,10.4907,2.6927,10.4907)"
+              },
+              {
+                "content": "for",
+                "span": {
+                  "offset": 1215,
+                  "length": 3
+                },
+                "confidence": 0.996,
+                "source": "D(1,3.1002,10.3787,3.2025,10.3788,3.2026,10.4907,3.1003,10.4907)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1219,
+                  "length": 1
+                },
+                "confidence": 0.993,
+                "source": "D(1,3.2249,10.3788,3.277,10.3788,3.2771,10.4907,3.225,10.4907)"
+              },
+              {
+                "content": "doctor's",
+                "span": {
+                  "offset": 1221,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,3.3049,10.3789,3.612,10.3782,3.6121,10.4907,3.305,10.4907)"
+              },
+              {
+                "content": "care.",
+                "span": {
+                  "offset": 1230,
+                  "length": 5
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.6362,10.3782,3.8186,10.3778,3.8187,10.4907,3.6363,10.4907)"
+              },
+              {
+                "content": "Talk",
+                "span": {
+                  "offset": 1236,
+                  "length": 4
+                },
+                "confidence": 0.989,
+                "source": "D(1,3.8428,10.3778,3.9917,10.3776,3.9917,10.4907,3.8429,10.4907)"
+              },
+              {
+                "content": "to",
+                "span": {
+                  "offset": 1241,
+                  "length": 2
+                },
+                "confidence": 0.998,
+                "source": "D(1,4.014,10.3776,4.0884,10.3775,4.0885,10.4907,4.014,10.4907)"
+              },
+              {
+                "content": "your",
+                "span": {
+                  "offset": 1244,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,4.1108,10.3775,4.2969,10.3775,4.2968,10.4907,4.1108,10.4907)"
+              },
+              {
+                "content": "doctor",
+                "span": {
+                  "offset": 1249,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.3192,10.3776,4.5723,10.3776,4.5721,10.4907,4.3191,10.4907)"
+              },
+              {
+                "content": "about",
+                "span": {
+                  "offset": 1256,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.5947,10.3776,4.818,10.3768,4.8179,10.4907,4.5945,10.4907)"
+              },
+              {
+                "content": "any",
+                "span": {
+                  "offset": 1262,
+                  "length": 3
+                },
+                "confidence": 0.997,
+                "source": "D(1,4.8403,10.3768,4.9744,10.3764,4.9743,10.4907,4.8403,10.4907)"
+              },
+              {
+                "content": "health",
+                "span": {
+                  "offset": 1266,
+                  "length": 6
+                },
+                "confidence": 0.995,
+                "source": "D(1,4.9967,10.3764,5.2535,10.3764,5.2534,10.4907,4.9966,10.4907)"
+              },
+              {
+                "content": "questions",
+                "span": {
+                  "offset": 1273,
+                  "length": 9
+                },
+                "confidence": 0.994,
+                "source": "D(1,5.2814,10.3764,5.6593,10.3781,5.659,10.4907,5.2813,10.4907)"
+              },
+              {
+                "content": "or",
+                "span": {
+                  "offset": 1283,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,5.6835,10.3783,5.7672,10.3787,5.7669,10.4907,5.6831,10.4907)"
+              },
+              {
+                "content": "concerns.",
+                "span": {
+                  "offset": 1286,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,5.7895,10.3786,6.1702,10.3767,6.1702,10.4903,5.7892,10.4907)"
+              },
+              {
+                "content": "Blue",
+                "span": {
+                  "offset": 1297,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.4963,10.5673,0.6689,10.5672,0.6693,10.6715,0.4966,10.6712)"
+              },
+              {
+                "content": "Cross",
+                "span": {
+                  "offset": 1302,
+                  "length": 5
+                },
+                "confidence": 0.996,
+                "source": "D(1,0.6948,10.5671,0.9071,10.5665,0.9074,10.671,0.6952,10.6716)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1308,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,0.9313,10.5664,1.0745,10.566,1.0747,10.6705,0.9315,10.6709)"
+              },
+              {
+                "content": "Blue",
+                "span": {
+                  "offset": 1312,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.1073,10.5659,1.273,10.5652,1.2732,10.6704,1.1075,10.6705)"
+              },
+              {
+                "content": "Shield",
+                "span": {
+                  "offset": 1317,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,1.2972,10.5651,1.5268,10.5643,1.5269,10.6708,1.2974,10.6704)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1324,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.5561,10.5643,1.6286,10.5644,1.6288,10.6708,1.5563,10.6708)"
+              },
+              {
+                "content": "Oklahoma,",
+                "span": {
+                  "offset": 1327,
+                  "length": 9
+                },
+                "confidence": 0.992,
+                "source": "D(1,1.6493,10.5644,2.074,10.5649,2.0741,10.6713,1.6495,10.6708)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1337,
+                  "length": 1
+                },
+                "confidence": 0.995,
+                "source": "D(1,2.0999,10.565,2.1413,10.5653,2.1414,10.6717,2.1,10.6714)"
+              },
+              {
+                "content": "Division",
+                "span": {
+                  "offset": 1339,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.1706,10.5654,2.4675,10.5649,2.4676,10.6715,2.1707,10.6718)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1348,
+                  "length": 2
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.4969,10.565,2.5608,10.5653,2.5608,10.6716,2.4969,10.6715)"
+              },
+              {
+                "content": "Health",
+                "span": {
+                  "offset": 1351,
+                  "length": 6
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.5815,10.5654,2.849,10.5662,2.8491,10.6717,2.5815,10.6716)"
+              },
+              {
+                "content": "Care",
+                "span": {
+                  "offset": 1358,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,2.8749,10.5663,3.051,10.5669,3.0511,10.6716,2.875,10.6717)"
+              },
+              {
+                "content": "Service",
+                "span": {
+                  "offset": 1363,
+                  "length": 7
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.0752,10.5669,3.3479,10.5678,3.348,10.672,3.0753,10.6716)"
+              },
+              {
+                "content": "Corporation,",
+                "span": {
+                  "offset": 1371,
+                  "length": 12
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.3721,10.5678,3.8657,10.5678,3.866,10.6732,3.3722,10.672)"
+              },
+              {
+                "content": "a",
+                "span": {
+                  "offset": 1384,
+                  "length": 1
+                },
+                "confidence": 0.99,
+                "source": "D(1,0.4943,10.672,0.529,10.6719,0.5296,10.7771,0.4949,10.7771)"
+              },
+              {
+                "content": "Mutual",
+                "span": {
+                  "offset": 1386,
+                  "length": 6
+                },
+                "confidence": 0.992,
+                "source": "D(1,0.5498,10.6719,0.8274,10.6715,0.8277,10.7775,0.5504,10.7771)"
+              },
+              {
+                "content": "Legal",
+                "span": {
+                  "offset": 1393,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,0.8482,10.6714,1.0616,10.6712,1.0619,10.7776,0.8485,10.7775)"
+              },
+              {
+                "content": "Reserve",
+                "span": {
+                  "offset": 1399,
+                  "length": 7
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.0928,10.6711,1.3929,10.6695,1.3931,10.7772,1.0931,10.7776)"
+              },
+              {
+                "content": "Company,",
+                "span": {
+                  "offset": 1407,
+                  "length": 8
+                },
+                "confidence": 0.993,
+                "source": "D(1,1.419,10.6695,1.8041,10.6698,1.8043,10.7777,1.4191,10.7772)"
+              },
+              {
+                "content": "an",
+                "span": {
+                  "offset": 1416,
+                  "length": 2
+                },
+                "confidence": 0.997,
+                "source": "D(1,1.8284,10.6698,1.9099,10.6701,1.9101,10.7779,1.8285,10.7778)"
+              },
+              {
+                "content": "Independent",
+                "span": {
+                  "offset": 1419,
+                  "length": 11
+                },
+                "confidence": 0.989,
+                "source": "D(1,1.9308,10.6701,2.4373,10.6688,2.4375,10.7757,1.9309,10.7779)"
+              },
+              {
+                "content": "Licensee",
+                "span": {
+                  "offset": 1431,
+                  "length": 8
+                },
+                "confidence": 0.994,
+                "source": "D(1,2.4582,10.6687,2.8034,10.6682,2.8036,10.7739,2.4583,10.7756)"
+              },
+              {
+                "content": "of",
+                "span": {
+                  "offset": 1440,
+                  "length": 2
+                },
+                "confidence": 0.996,
+                "source": "D(1,2.8294,10.6682,2.8954,10.6683,2.8955,10.7737,2.8296,10.7738)"
+              },
+              {
+                "content": "the",
+                "span": {
+                  "offset": 1443,
+                  "length": 3
+                },
+                "confidence": 0.998,
+                "source": "D(1,2.9162,10.6683,3.0532,10.6686,3.0532,10.7733,2.9163,10.7736)"
+              },
+              {
+                "content": "Blue",
+                "span": {
+                  "offset": 1447,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.081,10.6687,3.2475,10.6682,3.2475,10.7725,3.0809,10.7733)"
+              },
+              {
+                "content": "Cross",
+                "span": {
+                  "offset": 1452,
+                  "length": 5
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.2718,10.6681,3.4852,10.6674,3.4853,10.7717,3.2718,10.7723)"
+              },
+              {
+                "content": "and",
+                "span": {
+                  "offset": 1458,
+                  "length": 3
+                },
+                "confidence": 0.995,
+                "source": "D(1,3.5095,10.6673,3.6518,10.6672,3.6519,10.7722,3.5096,10.7718)"
+              },
+              {
+                "content": "Blue",
+                "span": {
+                  "offset": 1462,
+                  "length": 4
+                },
+                "confidence": 0.992,
+                "source": "D(1,3.683,10.6672,3.8513,10.6672,3.8513,10.7724,3.6831,10.7723)"
+              },
+              {
+                "content": "Shield",
+                "span": {
+                  "offset": 1467,
+                  "length": 6
+                },
+                "confidence": 0.997,
+                "source": "D(1,3.8756,10.6672,4.1063,10.667,4.1063,10.7722,3.8756,10.7724)"
+              },
+              {
+                "content": "Association",
+                "span": {
+                  "offset": 1474,
+                  "length": 11
+                },
+                "confidence": 0.993,
+                "source": "D(1,4.1306,10.6669,4.5817,10.6666,4.5819,10.7701,4.1305,10.7722)"
+              },
+              {
+                "content": "9100078.0420",
+                "span": {
+                  "offset": 1504,
+                  "length": 12
+                },
+                "confidence": 0.995,
+                "source": "D(1,7.4462,10.6731,8.0074,10.6705,8.0075,10.7614,7.4463,10.762)"
+              }
+            ],
+            "lines": [
+              {
+                "content": "BlueCross BlueShield of Oklahoma",
+                "source": "D(1,1.3715,0.4942,4.7878,0.4982,4.7875,0.7082,1.3712,0.7041)",
+                "span": {
+                  "offset": 10,
+                  "length": 32
+                }
+              },
+              {
+                "content": "\u00ae",
+                "source": "D(1,0.8084,0.7543,0.8491,0.7543,0.8491,0.8158,0.8084,0.8158)",
+                "span": {
+                  "offset": 44,
+                  "length": 1
+                }
+              },
+              {
+                "content": "\u00ae",
+                "source": "D(1,1.1891,0.7612,1.2335,0.7648,1.2293,0.8158,1.185,0.8122)",
+                "span": {
+                  "offset": 47,
+                  "length": 1
+                }
+              },
+              {
+                "content": "24/7 Nurseline",
+                "source": "D(1,0.4886,1.3973,3.1566,1.3937,3.157,1.7478,0.4891,1.7494)",
+                "span": {
+                  "offset": 64,
+                  "length": 14
+                }
+              },
+              {
+                "content": "Nurses available anytime",
+                "source": "D(1,0.4965,1.8395,3.1481,1.8439,3.1477,2.0734,0.4961,2.069)",
+                "span": {
+                  "offset": 79,
+                  "length": 24
+                }
+              },
+              {
+                "content": "you need them.",
+                "source": "D(1,0.4796,2.117,2.1202,2.0926,2.1237,2.3087,0.4831,2.3351)",
+                "span": {
+                  "offset": 104,
+                  "length": 14
+                }
+              },
+              {
+                "content": "Health happens - good or bad,",
+                "source": "D(1,0.4941,2.4065,2.8889,2.4055,2.889,2.6082,0.4942,2.6092)",
+                "span": {
+                  "offset": 120,
+                  "length": 29
+                }
+              },
+              {
+                "content": "24 hours a day, seven days a week.",
+                "source": "D(1,0.4891,2.6311,3.2115,2.6342,3.2112,2.8289,0.4889,2.8269)",
+                "span": {
+                  "offset": 150,
+                  "length": 34
+                }
+              },
+              {
+                "content": "That is why we have registered nurses",
+                "source": "D(1,0.4861,2.8471,3.4609,2.8525,3.4605,3.0503,0.4858,3.048)",
+                "span": {
+                  "offset": 185,
+                  "length": 37
+                }
+              },
+              {
+                "content": "waiting to talk to you whenever you",
+                "source": "D(1,0.4857,3.079,3.2624,3.0791,3.2624,3.2747,0.4857,3.2746)",
+                "span": {
+                  "offset": 223,
+                  "length": 35
+                }
+              },
+              {
+                "content": "call our 24/7 Nurseline.",
+                "source": "D(1,0.4921,3.2967,2.2977,3.2978,2.2976,3.4789,0.492,3.4777)",
+                "span": {
+                  "offset": 259,
+                  "length": 24
+                }
+              },
+              {
+                "content": "Our nurses can answer your health questions",
+                "source": "D(1,0.4925,3.7281,3.3479,3.7298,3.3478,3.8961,0.4923,3.8943)",
+                "span": {
+                  "offset": 285,
+                  "length": 43
+                }
+              },
+              {
+                "content": "and try to help you decide whether you should",
+                "source": "D(1,0.4909,3.9229,3.4051,3.9195,3.4055,4.0898,0.4913,4.0963)",
+                "span": {
+                  "offset": 329,
+                  "length": 45
+                }
+              },
+              {
+                "content": "go to the emergency room or urgent care center",
+                "source": "D(1,0.4876,4.1248,3.5283,4.1194,3.5286,4.2846,0.4879,4.29)",
+                "span": {
+                  "offset": 375,
+                  "length": 46
+                }
+              },
+              {
+                "content": "or make an appointment with your doctor. You",
+                "source": "D(1,0.4925,4.3125,3.4187,4.3109,3.4188,4.4797,0.4926,4.4813)",
+                "span": {
+                  "offset": 422,
+                  "length": 44
+                }
+              },
+              {
+                "content": "can also call the 24/7 Nurseline whenever you or",
+                "source": "D(1,0.4914,4.5063,3.5312,4.5098,3.5309,4.6706,0.4911,4.6651)",
+                "span": {
+                  "offset": 467,
+                  "length": 48
+                }
+              },
+              {
+                "content": "your covered family members need answers to",
+                "source": "D(1,0.48,4.7052,3.4277,4.7001,3.4282,4.8619,0.4805,4.8711)",
+                "span": {
+                  "offset": 516,
+                  "length": 43
+                }
+              },
+              {
+                "content": "health questions about:",
+                "source": "D(1,0.4907,4.8972,1.9777,4.8966,1.9777,5.0594,0.4907,5.0599)",
+                "span": {
+                  "offset": 560,
+                  "length": 23
+                }
+              },
+              {
+                "content": "\u00b7 Asthma",
+                "source": "D(1,0.494,5.1616,1.1663,5.1635,1.1659,5.3027,0.4936,5.3008)",
+                "span": {
+                  "offset": 585,
+                  "length": 8
+                }
+              },
+              {
+                "content": "\u00b7 Dizziness or severe headaches",
+                "source": "D(1,0.4966,5.3874,2.6047,5.383,2.605,5.531,0.4969,5.5353)",
+                "span": {
+                  "offset": 595,
+                  "length": 31
+                }
+              },
+              {
+                "content": "\u00b7 Cuts or burns",
+                "source": "D(1,0.4953,5.6175,1.5455,5.6182,1.5454,5.7522,0.4952,5.7515)",
+                "span": {
+                  "offset": 628,
+                  "length": 15
+                }
+              },
+              {
+                "content": "\u00b7 Back pain",
+                "source": "D(1,0.4955,5.8349,1.2916,5.84,1.2905,5.9943,0.4944,5.9887)",
+                "span": {
+                  "offset": 645,
+                  "length": 11
+                }
+              },
+              {
+                "content": "\u00b7 High fever",
+                "source": "D(1,0.4955,6.0625,1.3272,6.0623,1.3272,6.2168,0.4955,6.2169)",
+                "span": {
+                  "offset": 658,
+                  "length": 12
+                }
+              },
+              {
+                "content": "\u00b7 Sore throat",
+                "source": "D(1,0.4951,6.2914,1.4048,6.2891,1.4052,6.431,0.4955,6.4328)",
+                "span": {
+                  "offset": 672,
+                  "length": 13
+                }
+              },
+              {
+                "content": "\u00b7 Diabetes",
+                "source": "D(1,0.4944,6.5159,1.2435,6.517,1.2432,6.6561,0.4942,6.6549)",
+                "span": {
+                  "offset": 687,
+                  "length": 10
+                }
+              },
+              {
+                "content": "\u00b7 A baby's nonstop crying",
+                "source": "D(1,0.4961,6.7373,2.1674,6.7417,2.1668,6.9049,0.4955,6.8986)",
+                "span": {
+                  "offset": 699,
+                  "length": 25
+                }
+              },
+              {
+                "content": "\u00b7 And much more",
+                "source": "D(1,0.4955,6.965,1.7003,6.9656,1.7003,7.109,0.4954,7.1083)",
+                "span": {
+                  "offset": 726,
+                  "length": 15
+                }
+              },
+              {
+                "content": "Plus when you call, you can access an audio library",
+                "source": "D(1,0.4942,7.2105,3.6496,7.2147,3.6493,7.3873,0.494,7.3831)",
+                "span": {
+                  "offset": 743,
+                  "length": 51
+                }
+              },
+              {
+                "content": "of more than 1,000 health topics - from allergies",
+                "source": "D(1,0.4922,7.4016,3.5287,7.4079,3.5284,7.5787,0.4918,7.5721)",
+                "span": {
+                  "offset": 795,
+                  "length": 49
+                }
+              },
+              {
+                "content": "to surgeries - with more than 500 topics available",
+                "source": "D(1,0.4865,7.6052,3.5914,7.6009,3.5915,7.7671,0.4867,7.772)",
+                "span": {
+                  "offset": 845,
+                  "length": 50
+                }
+              },
+              {
+                "content": "in Spanish.",
+                "source": "D(1,0.4892,7.8041,1.1755,7.8028,1.1758,7.96,0.4895,7.9613)",
+                "span": {
+                  "offset": 896,
+                  "length": 11
+                }
+              },
+              {
+                "content": "So, put the 24/7 Nurseline phone number in your",
+                "source": "D(1,0.4902,8.0529,3.5781,8.0551,3.578,8.2242,0.4901,8.222)",
+                "span": {
+                  "offset": 909,
+                  "length": 47
+                }
+              },
+              {
+                "content": "contacts today, because health happens 24/7.",
+                "source": "D(1,0.4939,8.2553,3.364,8.2473,3.3644,8.4126,0.4944,8.4202)",
+                "span": {
+                  "offset": 957,
+                  "length": 44
+                }
+              },
+              {
+                "content": "-",
+                "source": "D(1,1.1901,9.5523,1.2456,9.5529,1.2451,9.5994,1.1896,9.5988)",
+                "span": {
+                  "offset": 1035,
+                  "length": 2
+                }
+              },
+              {
+                "content": "Call the 24/7 Nurseline number on the back of your member ID card.",
+                "source": "D(1,2.026,9.1842,6.7594,9.1844,6.7594,9.3467,2.026,9.3464)",
+                "span": {
+                  "offset": 1051,
+                  "length": 66
+                }
+              },
+              {
+                "content": "Hours of Operation: Anytime",
+                "source": "D(1,2.0239,9.3835,4.0336,9.3851,4.0334,9.544,2.0236,9.5413)",
+                "span": {
+                  "offset": 1118,
+                  "length": 27
+                }
+              },
+              {
+                "content": "For medical emergencies, call 911. This program is not a substitute for a doctor's care. Talk to your doctor about any health questions or concerns.",
+                "source": "D(1,0.4926,10.3765,6.1684,10.3764,6.1684,10.4906,0.4926,10.4907)",
+                "span": {
+                  "offset": 1147,
+                  "length": 148
+                }
+              },
+              {
+                "content": "Blue Cross and Blue Shield of Oklahoma, a Division of Health Care Service Corporation,",
+                "source": "D(1,0.4963,10.5634,3.8637,10.5653,3.8636,10.6716,0.4962,10.6698)",
+                "span": {
+                  "offset": 1297,
+                  "length": 86
+                }
+              },
+              {
+                "content": "a Mutual Legal Reserve Company, an Independent Licensee of the Blue Cross and Blue Shield Association",
+                "source": "D(1,0.4943,10.6704,4.5788,10.6662,4.5789,10.7735,0.4944,10.7777)",
+                "span": {
+                  "offset": 1384,
+                  "length": 101
+                }
+              },
+              {
+                "content": "9100078.0420",
+                "source": "D(1,7.4461,10.6718,8.0043,10.6705,8.0045,10.7608,7.4463,10.762)",
+                "span": {
+                  "offset": 1504,
+                  "length": 12
+                }
+              }
+            ]
+          }
+        ],
+        "paragraphs": [
+          {
+            "content": "BlueCross BlueShield of Oklahoma",
+            "source": "D(1,1.3715,0.4942,4.7878,0.4982,4.7875,0.7082,1.3712,0.7041)",
+            "span": {
+              "offset": 10,
+              "length": 32
+            }
+          },
+          {
+            "content": "\u00ae",
+            "source": "D(1,0.8084,0.7543,0.8491,0.7543,0.8491,0.8158,0.8084,0.8158)",
+            "span": {
+              "offset": 44,
+              "length": 1
+            }
+          },
+          {
+            "content": "\u00ae",
+            "source": "D(1,1.1891,0.7612,1.2335,0.7648,1.2293,0.8158,1.185,0.8122)",
+            "span": {
+              "offset": 47,
+              "length": 1
+            }
+          },
+          {
+            "role": "title",
+            "content": "24/7 Nurseline Nurses available anytime you need them.",
+            "source": "D(1,0.4786,1.3973,3.1566,1.3937,3.1578,2.3315,0.4799,2.3351)",
+            "span": {
+              "offset": 62,
+              "length": 56
+            }
+          },
+          {
+            "content": "Health happens - good or bad, 24 hours a day, seven days a week. That is why we have registered nurses waiting to talk to you whenever you call our 24/7 Nurseline.",
+            "source": "D(1,0.4854,2.4065,3.4607,2.4053,3.4611,3.4784,0.4858,3.4797)",
+            "span": {
+              "offset": 120,
+              "length": 163
+            }
+          },
+          {
+            "content": "Our nurses can answer your health questions and try to help you decide whether you should go to the emergency room or urgent care center or make an appointment with your doctor. You can also call the 24/7 Nurseline whenever you or your covered family members need answers to health questions about:",
+            "source": "D(1,0.4806,3.7281,3.5317,3.73,3.5309,5.0618,0.4798,5.0599)",
+            "span": {
+              "offset": 285,
+              "length": 298
+            }
+          },
+          {
+            "content": "\u00b7 Asthma",
+            "source": "D(1,0.494,5.1616,1.1663,5.1635,1.1659,5.3027,0.4936,5.3008)",
+            "span": {
+              "offset": 585,
+              "length": 8
+            }
+          },
+          {
+            "content": "\u00b7 Dizziness or severe headaches",
+            "source": "D(1,0.4966,5.3874,2.6047,5.383,2.605,5.531,0.4969,5.5353)",
+            "span": {
+              "offset": 595,
+              "length": 31
+            }
+          },
+          {
+            "content": "\u00b7 Cuts or burns",
+            "source": "D(1,0.4953,5.6175,1.5455,5.6182,1.5454,5.7522,0.4952,5.7515)",
+            "span": {
+              "offset": 628,
+              "length": 15
+            }
+          },
+          {
+            "content": "\u00b7 Back pain",
+            "source": "D(1,0.4955,5.8344,1.2916,5.84,1.2905,5.9943,0.4944,5.9887)",
+            "span": {
+              "offset": 645,
+              "length": 11
+            }
+          },
+          {
+            "content": "\u00b7 High fever",
+            "source": "D(1,0.4955,6.0625,1.3272,6.0623,1.3272,6.2168,0.4955,6.217)",
+            "span": {
+              "offset": 658,
+              "length": 12
+            }
+          },
+          {
+            "content": "\u00b7 Sore throat",
+            "source": "D(1,0.4951,6.2914,1.4048,6.2891,1.4052,6.431,0.4955,6.4332)",
+            "span": {
+              "offset": 672,
+              "length": 13
+            }
+          },
+          {
+            "content": "\u00b7 Diabetes",
+            "source": "D(1,0.4944,6.5158,1.2435,6.517,1.2432,6.6561,0.4942,6.6549)",
+            "span": {
+              "offset": 687,
+              "length": 10
+            }
+          },
+          {
+            "content": "\u00b7 A baby's nonstop crying",
+            "source": "D(1,0.4961,6.7355,2.1674,6.7417,2.1668,6.9049,0.4955,6.8986)",
+            "span": {
+              "offset": 699,
+              "length": 25
+            }
+          },
+          {
+            "content": "\u00b7 And much more",
+            "source": "D(1,0.4955,6.965,1.7003,6.9657,1.7003,7.109,0.4954,7.1083)",
+            "span": {
+              "offset": 726,
+              "length": 15
+            }
+          },
+          {
+            "content": "Plus when you call, you can access an audio library of more than 1,000 health topics - from allergies to surgeries - with more than 500 topics available in Spanish.",
+            "source": "D(1,0.487,7.2105,3.6496,7.2147,3.6486,7.9656,0.486,7.9613)",
+            "span": {
+              "offset": 743,
+              "length": 164
+            }
+          },
+          {
+            "content": "So, put the 24/7 Nurseline phone number in your contacts today, because health happens 24/7.",
+            "source": "D(1,0.4902,8.0529,3.5781,8.0551,3.5779,8.4224,0.49,8.4202)",
+            "span": {
+              "offset": 909,
+              "length": 92
+            }
+          },
+          {
+            "content": "-",
+            "source": "D(1,1.1901,9.5523,1.2456,9.5529,1.2451,9.5994,1.1896,9.5988)",
+            "span": {
+              "offset": 1035,
+              "length": 2
+            }
+          },
+          {
+            "content": "Call the 24/7 Nurseline number on the back of your member ID card. Hours of Operation: Anytime",
+            "source": "D(1,2.0236,9.1842,6.7594,9.1844,6.7594,9.5442,2.0236,9.5439)",
+            "span": {
+              "offset": 1051,
+              "length": 94
+            }
+          },
+          {
+            "content": "For medical emergencies, call 911. This program is not a substitute for a doctor's care. Talk to your doctor about any health questions or concerns.",
+            "source": "D(1,0.4926,10.3765,6.1684,10.3764,6.1684,10.4906,0.4926,10.4907)",
+            "span": {
+              "offset": 1147,
+              "length": 148
+            }
+          },
+          {
+            "content": "Blue Cross and Blue Shield of Oklahoma, a Division of Health Care Service Corporation, a Mutual Legal Reserve Company, an Independent Licensee of the Blue Cross and Blue Shield Association",
+            "source": "D(1,0.4941,10.5634,4.5787,10.5592,4.5789,10.7735,0.4944,10.7777)",
+            "span": {
+              "offset": 1297,
+              "length": 188
+            }
+          },
+          {
+            "role": "pageFooter",
+            "content": "9100078.0420",
+            "source": "D(1,7.4461,10.6718,8.0043,10.6705,8.0045,10.7608,7.4463,10.762)",
+            "span": {
+              "offset": 1487,
+              "length": 34
+            }
+          }
+        ],
+        "sections": [
+          {
+            "span": {
+              "offset": 0,
+              "length": 1485
+            },
+            "elements": [
+              "/sections/1",
+              "/sections/2"
+            ]
+          },
+          {
+            "span": {
+              "offset": 0,
+              "length": 59
+            },
+            "elements": [
+              "/figures/0"
+            ]
+          },
+          {
+            "span": {
+              "offset": 62,
+              "length": 1423
+            },
+            "elements": [
+              "/paragraphs/3",
+              "/paragraphs/4",
+              "/paragraphs/5",
+              "/paragraphs/6",
+              "/paragraphs/7",
+              "/paragraphs/8",
+              "/paragraphs/9",
+              "/paragraphs/10",
+              "/paragraphs/11",
+              "/paragraphs/12",
+              "/paragraphs/13",
+              "/paragraphs/14",
+              "/paragraphs/15",
+              "/paragraphs/16",
+              "/figures/1",
+              "/figures/2",
+              "/paragraphs/18",
+              "/paragraphs/19",
+              "/paragraphs/20"
+            ]
+          }
+        ],
+        "figures": [
+          {
+            "source": "D(1,0.4849,0.3836,4.8365,0.3836,4.8351,0.8365,0.4835,0.8365)",
+            "span": {
+              "offset": 0,
+              "length": 59
+            },
+            "elements": [
+              "/paragraphs/0",
+              "/paragraphs/1",
+              "/paragraphs/2"
+            ],
+            "id": "1.1"
+          },
+          {
+            "source": "D(1,3.9897,1.4057,8.4353,1.4054,8.4346,7.8208,3.9892,7.821)",
+            "span": {
+              "offset": 1004,
+              "length": 18
+            },
+            "id": "1.2"
+          },
+          {
+            "source": "D(1,0.6802,8.8439,1.7277,8.8437,1.7277,9.8744,0.6801,9.8746)",
+            "span": {
+              "offset": 1025,
+              "length": 23
+            },
+            "elements": [
+              "/paragraphs/17"
+            ],
+            "id": "1.3"
+          }
+        ]
+      }
+    ]
+  }
+}
