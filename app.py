@@ -56,7 +56,8 @@ async def root():
             "process_blob": "/process-blob", 
             "upload_and_process": "/upload-and-process",
             "status": "/status/{job_id}",
-            "results": "/results/{job_id}"
+            "results": "/results/{job_id}",
+            "jobs": "/jobs"
         },
         "docs": "/docs"
     }
@@ -158,8 +159,11 @@ async def upload_and_process(
             files_processed=0
         )
         
+        # Read file content before background task
+        file_content = await file.read()
+        
         # Start upload and process in background
-        background_tasks.add_task(upload_and_process_background, job_id, file, blob_name)
+        background_tasks.add_task(upload_and_process_background, job_id, file_content, file.filename, blob_name)
         
         return {
             "message": "Upload and processing started",
@@ -176,13 +180,96 @@ async def upload_and_process(
 
 @app.get("/status/{job_id}")
 async def get_job_status(job_id: str):
-    """Get job status - To be implemented in Increment 3"""
-    raise HTTPException(status_code=501, detail="Not implemented yet - coming in Increment 3")
+    """Get job status and progress information"""
+    if job_id not in jobs:
+        raise HTTPException(status_code=404, detail=f"Job {job_id} not found")
+    
+    job = jobs[job_id]
+    response = {
+        "job_id": job.job_id,
+        "status": job.status,
+        "created_at": job.created_at,
+        "files_processed": job.files_processed
+    }
+    
+    if job.completed_at:
+        response["completed_at"] = job.completed_at
+        
+    if job.error_message:
+        response["error_message"] = job.error_message
+        
+    # Add processing summary for completed jobs
+    if job.status == "completed" and job.results:
+        response["summary"] = {
+            "total_files": job.results.get("files_processed", 0),
+            "timestamp": job.results.get("timestamp"),
+            "status": job.results.get("status")
+        }
+    
+    return response
 
 @app.get("/results/{job_id}")
 async def get_job_results(job_id: str):
-    """Get job results - To be implemented in Increment 3"""
-    raise HTTPException(status_code=501, detail="Not implemented yet - coming in Increment 3")
+    """Get complete job results and output file information"""
+    if job_id not in jobs:
+        raise HTTPException(status_code=404, detail=f"Job {job_id} not found")
+    
+    job = jobs[job_id]
+    
+    if job.status == "pending":
+        raise HTTPException(status_code=202, detail="Job is still pending. Check status later.")
+    
+    if job.status == "processing":
+        raise HTTPException(status_code=202, detail="Job is still processing. Check status later.")
+    
+    if job.status == "failed":
+        return {
+            "job_id": job.job_id,
+            "status": "failed",
+            "error_message": job.error_message,
+            "created_at": job.created_at,
+            "completed_at": job.completed_at
+        }
+    
+    if job.status == "completed":
+        if not job.results:
+            raise HTTPException(status_code=500, detail="Job completed but no results found")
+            
+        return {
+            "job_id": job.job_id,
+            "status": "completed",
+            "created_at": job.created_at,
+            "completed_at": job.completed_at,
+            "files_processed": job.files_processed,
+            "results": job.results
+        }
+    
+    raise HTTPException(status_code=500, detail=f"Unknown job status: {job.status}")
+
+@app.get("/jobs")
+async def list_jobs():
+    """List all jobs with their current status"""
+    job_list = []
+    for job_id, job in jobs.items():
+        job_summary = {
+            "job_id": job.job_id,
+            "status": job.status,
+            "created_at": job.created_at,
+            "files_processed": job.files_processed
+        }
+        
+        if job.completed_at:
+            job_summary["completed_at"] = job.completed_at
+            
+        if job.error_message:
+            job_summary["error_message"] = job.error_message
+            
+        job_list.append(job_summary)
+    
+    return {
+        "total_jobs": len(job_list),
+        "jobs": sorted(job_list, key=lambda x: x["created_at"], reverse=True)
+    }
 
 # Background task functions
 async def process_blob_background(job_id: str):
@@ -205,20 +292,19 @@ async def process_blob_background(job_id: str):
         jobs[job_id].completed_at = datetime.now(timezone.utc).isoformat()
         jobs[job_id].error_message = str(e)
 
-async def upload_and_process_background(job_id: str, file: UploadFile, blob_name: Optional[str]):
+async def upload_and_process_background(job_id: str, file_content: bytes, filename: str, blob_name: Optional[str]):
     """Background task to upload file and process"""
     temp_path = None
     try:
         jobs[job_id].status = "processing"
         
         # Create temporary file
-        temp_path = f"/tmp/{uuid.uuid4()}_{file.filename}"
-        content = await file.read()
+        temp_path = f"/tmp/{uuid.uuid4()}_{filename}"
         with open(temp_path, "wb") as temp_file:
-            temp_file.write(content)
+            temp_file.write(file_content)
         
         # Upload to blob
-        final_blob_name = blob_name or file.filename
+        final_blob_name = blob_name or filename
         upload_file_to_blob(temp_path, final_blob_name)
         
         # Process the uploaded file
