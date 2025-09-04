@@ -21,12 +21,12 @@ Deploy the existing OCR pipeline as a scalable REST API service on Azure Contain
 - [x] Create Azure Container Apps OCR service feature plan
 - [x] Push to remote repository with proper commit tracking
 
-### **Increment 1**: ❌ PENDING - Create FastAPI wrapper service
-- [ ] Create `app.py` with FastAPI app structure
-- [ ] Add basic health check endpoint (`GET /health`)
-- [ ] Wrap existing `upload_to_blob.py` logic in `POST /upload-only` endpoint
-- [ ] Test locally with existing blob storage
-- [ ] Archive test evidence: API response validation
+### **Increment 1**: ✅ COMPLETED (51354f0) - Create FastAPI wrapper service
+- [x] Create `app.py` with FastAPI app structure
+- [x] Add basic health check endpoint (`GET /health`)
+- [x] Wrap existing `upload_to_blob.py` logic in `POST /upload-only` endpoint
+- [x] Test locally with existing blob storage
+- [x] Archive test evidence: API response validation
 
 ### **Increment 2**: ❌ PENDING - Add document processing endpoints  
 - [ ] Wrap `analyze_content_understanding_blob_batch.py` in `POST /process-blob` endpoint
