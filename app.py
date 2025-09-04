@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 from azure.storage.blob import ContainerClient
 
 from upload_to_blob import upload_file_to_blob
-# Note: analyze_content_understanding_blob_batch will be refactored in Increment 2
+from blob_processor import BlobProcessor
 
 load_dotenv()
 
@@ -102,16 +102,77 @@ async def upload_only(
             os.unlink(temp_path)
         raise HTTPException(status_code=500, detail=f"Upload failed: {str(e)}")
 
-# Placeholder endpoints for future increments
 @app.post("/process-blob")
-async def process_blob():
-    """Process all PDFs in blob container - To be implemented in Increment 2"""
-    raise HTTPException(status_code=501, detail="Not implemented yet - coming in Increment 2")
+async def process_blob(background_tasks: BackgroundTasks):
+    """Process all PDFs in blob container"""
+    try:
+        # Create job ID for tracking
+        job_id = str(uuid.uuid4())
+        
+        # Initialize job status
+        jobs[job_id] = JobStatus(
+            job_id=job_id,
+            status="pending",
+            created_at=datetime.now(timezone.utc).isoformat(),
+            files_processed=0
+        )
+        
+        # Start processing in background
+        background_tasks.add_task(process_blob_background, job_id)
+        
+        return {
+            "message": "Processing started",
+            "job_id": job_id,
+            "status": "pending",
+            "created_at": jobs[job_id].created_at,
+            "status_url": f"/status/{job_id}",
+            "results_url": f"/results/{job_id}"
+        }
+        
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to start processing: {str(e)}")
 
 @app.post("/upload-and-process")
-async def upload_and_process():
-    """Upload file and process immediately - To be implemented in Increment 2"""
-    raise HTTPException(status_code=501, detail="Not implemented yet - coming in Increment 2")
+async def upload_and_process(
+    background_tasks: BackgroundTasks,
+    file: UploadFile = File(...),
+    blob_name: Optional[str] = None
+):
+    """Upload file and process immediately"""
+    if not file.filename:
+        raise HTTPException(status_code=400, detail="No file provided")
+    
+    # Validate file type
+    if not file.filename.lower().endswith('.pdf'):
+        raise HTTPException(status_code=400, detail="Only PDF files are supported")
+    
+    try:
+        # Create job ID for tracking
+        job_id = str(uuid.uuid4())
+        
+        # Initialize job status
+        jobs[job_id] = JobStatus(
+            job_id=job_id,
+            status="pending",
+            created_at=datetime.now(timezone.utc).isoformat(),
+            files_processed=0
+        )
+        
+        # Start upload and process in background
+        background_tasks.add_task(upload_and_process_background, job_id, file, blob_name)
+        
+        return {
+            "message": "Upload and processing started",
+            "job_id": job_id,
+            "status": "pending",
+            "original_filename": file.filename,
+            "created_at": jobs[job_id].created_at,
+            "status_url": f"/status/{job_id}",
+            "results_url": f"/results/{job_id}"
+        }
+        
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to start upload and processing: {str(e)}")
 
 @app.get("/status/{job_id}")
 async def get_job_status(job_id: str):
@@ -122,6 +183,67 @@ async def get_job_status(job_id: str):
 async def get_job_results(job_id: str):
     """Get job results - To be implemented in Increment 3"""
     raise HTTPException(status_code=501, detail="Not implemented yet - coming in Increment 3")
+
+# Background task functions
+async def process_blob_background(job_id: str):
+    """Background task to process all blobs"""
+    try:
+        jobs[job_id].status = "processing"
+        
+        # Process blobs
+        processor = BlobProcessor()
+        result = processor.process_all_blobs()
+        
+        # Update job status
+        jobs[job_id].status = "completed"
+        jobs[job_id].completed_at = datetime.now(timezone.utc).isoformat()
+        jobs[job_id].files_processed = result["files_processed"]
+        jobs[job_id].results = result
+        
+    except Exception as e:
+        jobs[job_id].status = "failed"
+        jobs[job_id].completed_at = datetime.now(timezone.utc).isoformat()
+        jobs[job_id].error_message = str(e)
+
+async def upload_and_process_background(job_id: str, file: UploadFile, blob_name: Optional[str]):
+    """Background task to upload file and process"""
+    temp_path = None
+    try:
+        jobs[job_id].status = "processing"
+        
+        # Create temporary file
+        temp_path = f"/tmp/{uuid.uuid4()}_{file.filename}"
+        content = await file.read()
+        with open(temp_path, "wb") as temp_file:
+            temp_file.write(content)
+        
+        # Upload to blob
+        final_blob_name = blob_name or file.filename
+        upload_file_to_blob(temp_path, final_blob_name)
+        
+        # Process the uploaded file
+        processor = BlobProcessor()
+        result = processor.process_single_blob(final_blob_name)
+        
+        # Update job status
+        jobs[job_id].status = "completed"
+        jobs[job_id].completed_at = datetime.now(timezone.utc).isoformat()
+        jobs[job_id].files_processed = 1
+        jobs[job_id].results = {
+            "status": "completed",
+            "files_processed": 1,
+            "results": [result],
+            "timestamp": datetime.now(timezone.utc).isoformat()
+        }
+        
+    except Exception as e:
+        jobs[job_id].status = "failed"
+        jobs[job_id].completed_at = datetime.now(timezone.utc).isoformat()
+        jobs[job_id].error_message = str(e)
+    finally:
+        # Clean up temp file
+        if temp_path and os.path.exists(temp_path):
+            os.unlink(temp_path)
 
 if __name__ == "__main__":
     import uvicorn
