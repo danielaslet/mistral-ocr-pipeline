@@ -35,12 +35,12 @@ Deploy the existing OCR pipeline as a scalable REST API service on Azure Contain
 - [x] Test complete upload → process workflow
 - [x] Archive test evidence: End-to-end processing validation
 
-### **Increment 3**: ❌ PENDING - Add results retrieval endpoints
-- [ ] Implement `GET /status/{job_id}` for job status
-- [ ] Implement `GET /results/{job_id}` for downloading outputs
-- [ ] Add job persistence (in-memory for MVP)
-- [ ] Test complete API workflow
-- [ ] Archive test evidence: Full API lifecycle test
+### **Increment 3**: ✅ COMPLETED (ad9d4f8) - Add results retrieval endpoints
+- [x] Implement `GET /status/{job_id}` for job status
+- [x] Implement `GET /results/{job_id}` for downloading outputs
+- [x] Add job persistence (in-memory for MVP)
+- [x] Test complete API workflow
+- [x] Archive test evidence: Full API lifecycle test
 
 ### **Increment 4**: ❌ PENDING - Containerize application
 - [ ] Create `Dockerfile` with Python 3.13 base
