@@ -28,12 +28,12 @@ Deploy the existing OCR pipeline as a scalable REST API service on Azure Contain
 - [x] Test locally with existing blob storage
 - [x] Archive test evidence: API response validation
 
-### **Increment 2**: ❌ PENDING - Add document processing endpoints  
-- [ ] Wrap `analyze_content_understanding_blob_batch.py` in `POST /process-blob` endpoint
-- [ ] Add combined `POST /upload-and-process` endpoint
-- [ ] Add async job tracking with unique job IDs
-- [ ] Test complete upload → process workflow
-- [ ] Archive test evidence: End-to-end processing validation
+### **Increment 2**: ✅ COMPLETED (f1291d4) - Add document processing endpoints  
+- [x] Wrap `analyze_content_understanding_blob_batch.py` in `POST /process-blob` endpoint
+- [x] Add combined `POST /upload-and-process` endpoint
+- [x] Add async job tracking with unique job IDs
+- [x] Test complete upload → process workflow
+- [x] Archive test evidence: End-to-end processing validation
 
 ### **Increment 3**: ❌ PENDING - Add results retrieval endpoints
 - [ ] Implement `GET /status/{job_id}` for job status
